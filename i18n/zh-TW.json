@@ -442,5 +442,7 @@
   "contact.result.success": "您的諮詢已送出",
   "contact.result.error.turnstile": "安全驗證失敗。請重新整理頁面後再試",
   "contact.result.error.email": "傳送郵件失敗。請稍後再試",
-  "contact.result.error.general": "送出失敗。請稍後再試"
+  "contact.result.error.general": "送出失敗。請稍後再試",
+  "album.link.spotify": "在 Spotify 上收聽",
+  "album.link.appleMusic": "在 Apple Music 上收聽"
 }

@@ -442,5 +442,7 @@
   "contact.result.success": "Ваш запрос отправлен",
   "contact.result.error.turnstile": "Проверка безопасности не пройдена. Перезагрузите страницу и попробуйте снова",
   "contact.result.error.email": "Не удалось отправить письмо. Попробуйте позже",
-  "contact.result.error.general": "Отправка не удалась. Попробуйте позже"
+  "contact.result.error.general": "Отправка не удалась. Попробуйте позже",
+  "album.link.spotify": "Слушать на Spotify",
+  "album.link.appleMusic": "Слушать на Apple Music"
 }

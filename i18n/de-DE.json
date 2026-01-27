@@ -442,5 +442,7 @@
   "contact.result.success": "Ihre Anfrage wurde gesendet",
   "contact.result.error.turnstile": "Sicherheitsüberprüfung fehlgeschlagen. Bitte Seite neu laden und erneut versuchen",
   "contact.result.error.email": "E-Mail-Versand fehlgeschlagen. Bitte später erneut versuchen",
-  "contact.result.error.general": "Senden fehlgeschlagen. Bitte später erneut versuchen"
+  "contact.result.error.general": "Senden fehlgeschlagen. Bitte später erneut versuchen",
+  "album.link.spotify": "Auf Spotify anhören",
+  "album.link.appleMusic": "Auf Apple Music anhören"
 }

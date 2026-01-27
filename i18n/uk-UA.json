@@ -442,5 +442,7 @@
   "contact.result.success": "Ваш запит надіслано",
   "contact.result.error.turnstile": "Перевірка безпеки не пройдена. Перезавантажте сторінку та спробуйте знову",
   "contact.result.error.email": "Не вдалося надіслати листа. Спробуйте пізніше",
-  "contact.result.error.general": "Надсилання не вдалося. Спробуйте пізніше"
+  "contact.result.error.general": "Надсилання не вдалося. Спробуйте пізніше",
+  "album.link.spotify": "Слухати на Spotify",
+  "album.link.appleMusic": "Слухати на Apple Music"
 }

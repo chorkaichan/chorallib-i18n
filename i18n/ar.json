@@ -443,5 +443,7 @@
   "contact.result.success": "تم إرسال استفسارك",
   "contact.result.error.turnstile": "فشل التحقق الأمني. يرجى إعادة تحميل الصفحة والمحاولة مرة أخرى",
   "contact.result.error.email": "فشل إرسال البريد الإلكتروني. يرجى المحاولة مرة أخرى لاحقاً",
-  "contact.result.error.general": "فشل الإرسال. يرجى المحاولة مرة أخرى لاحقاً"
+  "contact.result.error.general": "فشل الإرسال. يرجى المحاولة مرة أخرى لاحقاً",
+  "album.link.spotify": "الاستماع على Spotify",
+  "album.link.appleMusic": "الاستماع على Apple Music"
 }

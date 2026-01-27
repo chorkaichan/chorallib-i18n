@@ -442,5 +442,7 @@
   "contact.result.success": "Your inquiry has been submitted",
   "contact.result.error.turnstile": "Security verification failed. Please reload the page and try again",
   "contact.result.error.email": "Failed to send email. Please try again later",
-  "contact.result.error.general": "Submission failed. Please try again later"
+  "contact.result.error.general": "Submission failed. Please try again later",
+  "album.link.spotify": "Listen on Spotify",
+  "album.link.appleMusic": "Listen on Apple Music"
 }

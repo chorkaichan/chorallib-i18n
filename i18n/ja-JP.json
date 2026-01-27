@@ -442,5 +442,7 @@
   "contact.result.success": "お問い合わせを送信しました",
   "contact.result.error.turnstile": "セキュリティ検証に失敗しました。ページを再読み込みしてお試しください",
   "contact.result.error.email": "メール送信に失敗しました。しばらく経ってからお試しください",
-  "contact.result.error.general": "送信に失敗しました。しばらく経ってからお試しください"
+  "contact.result.error.general": "送信に失敗しました。しばらく経ってからお試しください",
+  "album.link.spotify": "Spotifyで聴く",
+  "album.link.appleMusic": "Apple Musicで聴く"
 }

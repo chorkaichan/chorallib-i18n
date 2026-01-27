@@ -442,5 +442,7 @@
   "contact.result.success": "Tu consulta ha sido enviada",
   "contact.result.error.turnstile": "La verificación de seguridad falló. Recarga la página e inténtalo de nuevo",
   "contact.result.error.email": "Error al enviar el correo. Por favor, inténtalo más tarde",
-  "contact.result.error.general": "Error en el envío. Por favor, inténtalo más tarde"
+  "contact.result.error.general": "Error en el envío. Por favor, inténtalo más tarde",
+  "album.link.spotify": "Escuchar en Spotify",
+  "album.link.appleMusic": "Escuchar en Apple Music"
 }

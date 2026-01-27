@@ -442,5 +442,7 @@
   "contact.result.success": "La tua richiesta è stata inviata",
   "contact.result.error.turnstile": "Verifica di sicurezza fallita. Ricarica la pagina e riprova",
   "contact.result.error.email": "Invio email fallito. Riprova più tardi",
-  "contact.result.error.general": "Invio fallito. Riprova più tardi"
+  "contact.result.error.general": "Invio fallito. Riprova più tardi",
+  "album.link.spotify": "Ascolta su Spotify",
+  "album.link.appleMusic": "Ascolta su Apple Music"
 }
