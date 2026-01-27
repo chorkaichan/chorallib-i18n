@@ -24,6 +24,7 @@
   "common.confirm.back": "تجاهل التغييرات؟",
   "common.viewMore": "عرض المزيد",
   "common.skipToContent": "انتقل إلى المحتوى الرئيسي",
+  "common.menu": "القائمة",
   "header.login": "تسجيل الدخول",
   "header.login.description": "ChoralLib هي منصة لمشاركة معلومات الموسيقى الكورالية. سجّل دخولك لإضافة أو تعديل معلومات الموسيقى وحفظ مقطوعاتك المفضلة.",
   "header.login.google": "تسجيل الدخول بـ Google",

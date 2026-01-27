@@ -24,6 +24,7 @@
   "common.confirm.back": "Отменить изменения?",
   "common.viewMore": "Показать ещё",
   "common.skipToContent": "Перейти к основному содержанию",
+  "common.menu": "Меню",
   "header.login": "Войти",
   "header.login.description": "ChoralLib — платформа для обмена информацией о хоровой музыке. Войдите, чтобы добавлять или редактировать музыкальную информацию и сохранять избранные произведения.",
   "header.login.google": "Войти через Google",
