@@ -445,5 +445,6 @@
   "contact.result.error.email": "Failed to send email. Please try again later",
   "contact.result.error.general": "Submission failed. Please try again later",
   "album.link.spotify": "Listen on Spotify",
-  "album.link.appleMusic": "Listen on Apple Music"
+  "album.link.appleMusic": "Listen on Apple Music",
+  "video.link.youtube": "Watch on YouTube"
 }

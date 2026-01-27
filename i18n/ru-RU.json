@@ -445,5 +445,6 @@
   "contact.result.error.email": "Не удалось отправить письмо. Попробуйте позже",
   "contact.result.error.general": "Отправка не удалась. Попробуйте позже",
   "album.link.spotify": "Слушать на Spotify",
-  "album.link.appleMusic": "Слушать на Apple Music"
+  "album.link.appleMusic": "Слушать на Apple Music",
+  "video.link.youtube": "Смотреть на YouTube"
 }

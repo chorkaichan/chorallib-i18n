@@ -445,5 +445,6 @@
   "contact.result.error.email": "傳送郵件失敗。請稍後再試",
   "contact.result.error.general": "送出失敗。請稍後再試",
   "album.link.spotify": "在 Spotify 上收聽",
-  "album.link.appleMusic": "在 Apple Music 上收聽"
+  "album.link.appleMusic": "在 Apple Music 上收聽",
+  "video.link.youtube": "在 YouTube 上觀看"
 }

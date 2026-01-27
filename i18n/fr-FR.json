@@ -445,5 +445,6 @@
   "contact.result.error.email": "Échec de l'envoi de l'e-mail. Veuillez réessayer plus tard",
   "contact.result.error.general": "Échec de l'envoi. Veuillez réessayer plus tard",
   "album.link.spotify": "Écouter sur Spotify",
-  "album.link.appleMusic": "Écouter sur Apple Music"
+  "album.link.appleMusic": "Écouter sur Apple Music",
+  "video.link.youtube": "Regarder sur YouTube"
 }

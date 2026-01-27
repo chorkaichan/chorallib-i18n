@@ -445,5 +445,6 @@
   "contact.result.error.email": "E-Mail-Versand fehlgeschlagen. Bitte später erneut versuchen",
   "contact.result.error.general": "Senden fehlgeschlagen. Bitte später erneut versuchen",
   "album.link.spotify": "Auf Spotify anhören",
-  "album.link.appleMusic": "Auf Apple Music anhören"
+  "album.link.appleMusic": "Auf Apple Music anhören",
+  "video.link.youtube": "Auf YouTube ansehen"
 }

@@ -446,5 +446,6 @@
   "contact.result.error.email": "فشل إرسال البريد الإلكتروني. يرجى المحاولة مرة أخرى لاحقاً",
   "contact.result.error.general": "فشل الإرسال. يرجى المحاولة مرة أخرى لاحقاً",
   "album.link.spotify": "الاستماع على Spotify",
-  "album.link.appleMusic": "الاستماع على Apple Music"
+  "album.link.appleMusic": "الاستماع على Apple Music",
+  "video.link.youtube": "مشاهدة على YouTube"
 }

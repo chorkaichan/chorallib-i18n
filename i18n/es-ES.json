@@ -445,5 +445,6 @@
   "contact.result.error.email": "Error al enviar el correo. Por favor, inténtalo más tarde",
   "contact.result.error.general": "Error en el envío. Por favor, inténtalo más tarde",
   "album.link.spotify": "Escuchar en Spotify",
-  "album.link.appleMusic": "Escuchar en Apple Music"
+  "album.link.appleMusic": "Escuchar en Apple Music",
+  "video.link.youtube": "Ver en YouTube"
 }

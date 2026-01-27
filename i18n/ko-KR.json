@@ -445,5 +445,6 @@
   "contact.result.error.email": "이메일 전송에 실패했습니다. 나중에 다시 시도하세요",
   "contact.result.error.general": "제출에 실패했습니다. 나중에 다시 시도하세요",
   "album.link.spotify": "Spotify에서 듣기",
-  "album.link.appleMusic": "Apple Music에서 듣기"
+  "album.link.appleMusic": "Apple Music에서 듣기",
+  "video.link.youtube": "YouTube에서 보기"
 }
