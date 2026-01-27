@@ -23,6 +23,7 @@
   "common.edit.others": "他の項目を編集しますか？",
   "common.confirm.back": "編集を中断しますか？",
   "common.viewMore": "もっと見る",
+  "common.skipToContent": "メインコンテンツへスキップ",
   "header.login": "ログイン",
   "header.login.description": "ChoralLibは合唱を伴う楽曲情報を共有できるプラットフォームです。ログインすると楽曲情報を追加・編集したり、お気に入りの楽曲を保存したりすることができます。",
   "header.login.google": "Googleでログイン",

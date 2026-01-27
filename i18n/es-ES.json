@@ -23,6 +23,7 @@
   "common.edit.others": "¿Deseas editar otros elementos?",
   "common.confirm.back": "¿Descartar los cambios?",
   "common.viewMore": "Ver más",
+  "common.skipToContent": "Saltar al contenido principal",
   "header.login": "Iniciar sesión",
   "header.login.description": "ChoralLib es una plataforma para compartir información sobre música coral. Inicia sesión para añadir o editar información musical y guardar tus piezas favoritas.",
   "header.login.google": "Iniciar sesión con Google",

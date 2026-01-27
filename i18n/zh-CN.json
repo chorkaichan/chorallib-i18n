@@ -23,6 +23,7 @@
   "common.edit.others": "是否编辑其他项目？",
   "common.confirm.back": "放弃更改？",
   "common.viewMore": "查看更多",
+  "common.skipToContent": "跳转到主要内容",
   "header.login": "登录",
   "header.login.description": "ChoralLib是一个分享合唱音乐信息的平台。登录后可以添加或编辑音乐信息，并保存您喜爱的作品。",
   "header.login.google": "使用Google登录",
