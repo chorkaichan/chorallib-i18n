@@ -114,6 +114,8 @@
   "search.sort.singers": "Количество певцов",
   "search.sort.difficulty": "По сложности",
   "search.sort.popularity": "По популярности",
+  "search.sort.asc": "По возрастанию",
+  "search.sort.desc": "По убыванию",
   "search.advancedSearch": "Расширенный поиск",
   "search.resetFilters": "Сбросить",
   "search.searchTarget": "Цель поиска",

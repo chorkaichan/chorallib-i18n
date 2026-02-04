@@ -114,6 +114,8 @@
   "search.sort.singers": "Кількість співаків",
   "search.sort.difficulty": "За складністю",
   "search.sort.popularity": "За популярністю",
+  "search.sort.asc": "За зростанням",
+  "search.sort.desc": "За спаданням",
   "search.advancedSearch": "Розширений пошук",
   "search.resetFilters": "Скинути",
   "search.searchTarget": "Ціль пошуку",

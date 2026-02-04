@@ -114,6 +114,8 @@
   "search.sort.singers": "演唱人數",
   "search.sort.difficulty": "按難度排序",
   "search.sort.popularity": "按知名度排序",
+  "search.sort.asc": "升序",
+  "search.sort.desc": "降序",
   "search.advancedSearch": "進階搜尋",
   "search.resetFilters": "重設",
   "search.searchTarget": "搜尋範圍",

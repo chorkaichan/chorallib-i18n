@@ -115,6 +115,8 @@
   "search.sort.singers": "عدد المغنين",
   "search.sort.difficulty": "ترتيب حسب الصعوبة",
   "search.sort.popularity": "ترتيب حسب الشهرة",
+  "search.sort.asc": "تصاعدي",
+  "search.sort.desc": "تنازلي",
   "search.advancedSearch": "بحث متقدم",
   "search.resetFilters": "إعادة تعيين",
   "search.searchTarget": "هدف البحث",

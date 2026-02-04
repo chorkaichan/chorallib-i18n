@@ -114,6 +114,8 @@
   "search.sort.singers": "가수 수",
   "search.sort.difficulty": "난이도순",
   "search.sort.popularity": "인기순",
+  "search.sort.asc": "오름차순",
+  "search.sort.desc": "내림차순",
   "search.advancedSearch": "상세 검색",
   "search.resetFilters": "초기화",
   "search.searchTarget": "검색 대상",

@@ -114,6 +114,8 @@
   "search.sort.singers": "演奏人数順",
   "search.sort.difficulty": "難易度順",
   "search.sort.popularity": "知名度順",
+  "search.sort.asc": "昇順",
+  "search.sort.desc": "降順",
   "search.advancedSearch": "詳細検索",
   "search.resetFilters": "リセット",
   "search.searchTarget": "検索対象",

@@ -114,6 +114,8 @@
   "search.sort.singers": "Anzahl der Sänger",
   "search.sort.difficulty": "Nach Schwierigkeit",
   "search.sort.popularity": "Nach Beliebtheit",
+  "search.sort.asc": "Aufsteigend",
+  "search.sort.desc": "Absteigend",
   "search.advancedSearch": "Erweiterte Suche",
   "search.resetFilters": "Zurücksetzen",
   "search.searchTarget": "Suchziel",
