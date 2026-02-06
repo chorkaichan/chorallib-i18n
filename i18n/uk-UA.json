@@ -514,6 +514,7 @@
   "timeline.moreScores": "ще",
   "timeline.toast.copied": "Посилання скопійовано в буфер обміну",
   "timeline.form.scoreList.from": "з:",
+  "timeline.form.scoreList.addButton": "Додати твори",
   "timeline.settings.isPublic": "Публічний",
   "timeline.settings.publicEnabled": "Хронологія тепер публічна",
   "timeline.settings.publicDisabled": "Хронологія тепер приватна"

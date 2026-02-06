@@ -514,6 +514,7 @@
   "timeline.moreScores": "곡",
   "timeline.toast.copied": "링크가 클립보드에 복사되었습니다",
   "timeline.form.scoreList.from": "수록:",
+  "timeline.form.scoreList.addButton": "곡 추가",
   "timeline.settings.isPublic": "공개",
   "timeline.settings.publicEnabled": "연표가 공개되었습니다",
   "timeline.settings.publicDisabled": "연표가 비공개되었습니다"

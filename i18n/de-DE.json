@@ -514,6 +514,7 @@
   "timeline.moreScores": "weitere",
   "timeline.toast.copied": "Link in Zwischenablage kopiert",
   "timeline.form.scoreList.from": "aus:",
+  "timeline.form.scoreList.addButton": "Stücke hinzufügen",
   "timeline.settings.isPublic": "Öffentlich",
   "timeline.settings.publicEnabled": "Zeitleiste ist jetzt öffentlich",
   "timeline.settings.publicDisabled": "Zeitleiste ist jetzt privat"

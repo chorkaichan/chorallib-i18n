@@ -514,6 +514,7 @@
   "timeline.moreScores": "autres",
   "timeline.toast.copied": "Lien copié dans le presse-papiers",
   "timeline.form.scoreList.from": "extrait de :",
+  "timeline.form.scoreList.addButton": "Ajouter des pièces",
   "timeline.settings.isPublic": "Public",
   "timeline.settings.publicEnabled": "La chronologie est maintenant publique",
   "timeline.settings.publicDisabled": "La chronologie est maintenant privée"

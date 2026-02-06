@@ -514,6 +514,7 @@
   "timeline.moreScores": "más",
   "timeline.toast.copied": "Enlace copiado al portapapeles",
   "timeline.form.scoreList.from": "de:",
+  "timeline.form.scoreList.addButton": "Añadir obras",
   "timeline.settings.isPublic": "Público",
   "timeline.settings.publicEnabled": "La cronología es ahora pública",
   "timeline.settings.publicDisabled": "La cronología es ahora privada"

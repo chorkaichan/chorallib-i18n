@@ -515,6 +515,7 @@
   "timeline.moreScores": "المزيد",
   "timeline.toast.copied": "تم نسخ الرابط إلى الحافظة",
   "timeline.form.scoreList.from": "من:",
+  "timeline.form.scoreList.addButton": "إضافة قطع",
   "timeline.settings.isPublic": "عام",
   "timeline.settings.publicEnabled": "الجدول الزمني الآن عام",
   "timeline.settings.publicDisabled": "الجدول الزمني الآن خاص"

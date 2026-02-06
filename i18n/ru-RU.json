@@ -514,6 +514,7 @@
   "timeline.moreScores": "ещё",
   "timeline.toast.copied": "Ссылка скопирована в буфер обмена",
   "timeline.form.scoreList.from": "из:",
+  "timeline.form.scoreList.addButton": "Добавить произведения",
   "timeline.settings.isPublic": "Публичный",
   "timeline.settings.publicEnabled": "Хронология теперь публичная",
   "timeline.settings.publicDisabled": "Хронология теперь приватная"

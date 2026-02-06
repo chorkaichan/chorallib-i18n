@@ -514,6 +514,7 @@
   "timeline.moreScores": "首",
   "timeline.toast.copied": "链接已复制到剪贴板",
   "timeline.form.scoreList.from": "收录于:",
+  "timeline.form.scoreList.addButton": "添加曲目",
   "timeline.settings.isPublic": "公开",
   "timeline.settings.publicEnabled": "年表已公开",
   "timeline.settings.publicDisabled": "年表已设为私密"
