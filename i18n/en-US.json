@@ -530,7 +530,7 @@
   "timeline.form.scoreList.searchPlaceholder": "Search by title or composer...",
   "timeline.form.scoreList.noResults": "No results found",
   "timeline.form.scoreList.noFavorites": "No saved lists",
-  "timeline.form.scoreList.empty": "Add pieces you performed",
+  "timeline.form.scoreList.addButton": "Add pieces",
   "timeline.form.scoreList.songs": "movements",
   "timeline.form.scoreList.addWhole": "Add entire work",
   "timeline.form.scoreList.addWholeScore": "Add entire work",

@@ -530,7 +530,7 @@
   "timeline.form.scoreList.searchPlaceholder": "曲名、作曲者名で検索...",
   "timeline.form.scoreList.noResults": "該当する曲が見つかりませんでした",
   "timeline.form.scoreList.noFavorites": "保存済みのリストがありません",
-  "timeline.form.scoreList.empty": "曲を追加してください",
+  "timeline.form.scoreList.addButton": "曲を追加",
   "timeline.form.scoreList.songs": "曲",
   "timeline.form.scoreList.addWhole": "曲集全体を追加",
   "timeline.form.scoreList.addWholeScore": "曲集全体を追加",
