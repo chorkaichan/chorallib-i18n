@@ -1,6 +1,9 @@
 {
   "title": "ChoralLib",
   "description": "ChoralLib هي منصة لمشاركة معلومات الموسيقى الكورالية.",
+  "meta.title": "ChoralLib - مكتبة الموسيقى الكورالية",
+  "meta.title.suffix": "ChoralLib",
+  "meta.og.siteName": "ChoralLib",
   "common.required": "مطلوب",
   "common.required.parenthesis": "(مطلوب)",
   "common.save": "حفظ",

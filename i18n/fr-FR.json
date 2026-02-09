@@ -1,6 +1,9 @@
 {
   "title": "ChoralLib",
   "description": "ChoralLib est une plateforme de partage d'informations sur la musique chorale.",
+  "meta.title": "ChoralLib - Bibliothèque de Musique Chorale",
+  "meta.title.suffix": "ChoralLib",
+  "meta.og.siteName": "ChoralLib",
   "common.required": "Obligatoire",
   "common.required.parenthesis": "(Obligatoire)",
   "common.save": "Enregistrer",

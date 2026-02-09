@@ -1,6 +1,9 @@
 {
   "title": "ChoralLib",
   "description": "ChoralLib is a platform for sharing information about choral music.",
+  "meta.title": "ChoralLib - Choral Music Library",
+  "meta.title.suffix": "ChoralLib",
+  "meta.og.siteName": "ChoralLib",
   "common.required": "Required",
   "common.required.parenthesis": "(Required)",
   "common.save": "Save",

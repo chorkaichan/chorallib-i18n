@@ -1,6 +1,9 @@
 {
   "title": "ChoralLib",
   "description": "ChoralLib — платформа для обмена информацией о хоровой музыке.",
+  "meta.title": "ChoralLib - Библиотека хоровой музыки",
+  "meta.title.suffix": "ChoralLib",
+  "meta.og.siteName": "ChoralLib",
   "common.required": "Обязательно",
   "common.required.parenthesis": "(Обязательно)",
   "common.save": "Сохранить",

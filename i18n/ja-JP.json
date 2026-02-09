@@ -1,6 +1,9 @@
 {
   "title": "ChoralLib",
   "description": "ChoralLib（こらりぶ）は合唱を伴う楽曲情報を共有できるプラットフォームです。",
+  "meta.title": "ChoralLib（こらりぶ）- 合唱音楽ライブラリ",
+  "meta.title.suffix": "ChoralLib（こらりぶ）",
+  "meta.og.siteName": "ChoralLib（こらりぶ）",
   "common.required": "必須",
   "common.required.parenthesis": "（必須）",
   "common.save": "保存",

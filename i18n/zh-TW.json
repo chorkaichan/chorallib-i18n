@@ -1,6 +1,9 @@
 {
   "title": "ChoralLib",
   "description": "ChoralLib是一個分享合唱音樂資訊的平台。",
+  "meta.title": "ChoralLib - 合唱音樂庫",
+  "meta.title.suffix": "ChoralLib",
+  "meta.og.siteName": "ChoralLib",
   "common.required": "必填",
   "common.required.parenthesis": "（必填）",
   "common.save": "儲存",

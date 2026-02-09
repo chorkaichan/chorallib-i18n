@@ -1,6 +1,9 @@
 {
   "title": "ChoralLib",
   "description": "ChoralLib은 합창 음악 정보를 공유할 수 있는 플랫폼입니다.",
+  "meta.title": "ChoralLib - 합창 음악 라이브러리",
+  "meta.title.suffix": "ChoralLib",
+  "meta.og.siteName": "ChoralLib",
   "common.required": "필수",
   "common.required.parenthesis": "(필수)",
   "common.save": "저장",
