@@ -61,7 +61,7 @@
   "footer.terms": "شروط الخدمة",
   "footer.privacy": "سياسة الخصوصية",
   "footer.organization": "من نحن",
-  "footer.stats": "{scores} مقطوعة، {composers} مؤلف، {choirs} جوقة، {albums} ألبوم، {videos} فيديو",
+  "footer.stats": "{scores} مقطوعة، {composers} مؤلف، {choirs} جوقة، {artists} فنان، {albums} ألبوم، {videos} فيديو",
   "consent.title": "لحماية خصوصيتك",
   "consent.description": "تجمع هذه الخدمة البيانات التالية لتحسين تجربة المستخدم. يمكنك إلغاء الاشتراك في جمع البيانات غير الضرورية. يرجى الاطلاع على <a href='/privacy' target='_blank' rel='noreferrer noopener' class='text-primary underline'>سياسة الخصوصية</a> للحصول على تفاصيل حول جمع البيانات ومعالجتها.",
   "consent.system": "المعلومات المطلوبة لتشغيل الخدمة",
