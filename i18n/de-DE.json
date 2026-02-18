@@ -578,8 +578,11 @@
   "page.external.request.promo.feature1": "Blog- & Nachrichtenbeiträge",
   "page.external.request.promo.feature2": "Kontaktformular",
   "page.external.request.promo.feature3": "Und weitere nützliche Funktionen",
-  "page.external.request.alreadyExists": "Ein Antrag existiert bereits für diese Seite",
+  "page.external.request.alreadyExists": "Ein anderer Benutzer hat bereits die Verwaltung dieser Seite beantragt",
   "page.external.request.error": "Antrag konnte nicht eingereicht werden",
+  "page.external.request.alreadyManaged.title": "Diese Seite wird bereits verwaltet",
+  "page.external.request.alreadyManaged.description": "Diese Seite wird bereits von einem anderen Benutzer verwaltet. Derzeit ist nur ein Verwalter pro Seite erlaubt.",
+  "page.external.request.alreadyManaged.paidPlan": "Ein zukünftiger kostenpflichtiger Plan wird es ermöglichen, eine Seite gemeinsam mit mehreren Benutzern zu verwalten.",
   "page.external.edit.title": "Offizielle Seite bearbeiten",
   "page.external.edit.saved": "Änderungen gespeichert",
   "page.external.edit.error": "Speichern fehlgeschlagen",
@@ -610,5 +613,11 @@
   "page.personal.edit.namePlaceholder": "Anzeigename auf Ihrer Seite",
   "page.personal.edit.timeline": "Chor-Zeitleiste",
   "page.personal.edit.timelineScores": "Stücke",
-  "page.personal.edit.eventDeleted": "Ereignis gelöscht"
+  "page.personal.edit.eventDeleted": "Ereignis gelöscht",
+  "page.personal.edit.fallbackLocale": "Standardsprache",
+  "page.personal.edit.fallbackLocale.description": "Die Sprache, die angezeigt wird, wenn kein Inhalt in der Sprache des Besuchers verfügbar ist. Wenn Sie z. B. Inhalte auf Japanisch und Englisch haben und die Standardsprache auf Englisch setzen, sehen japanische Besucher Japanisch, während alle anderen Besucher Englisch sehen",
+  "page.personal.edit.fallbackLocale.placeholder": "Bitte auswählen",
+  "page.personal.edit.addLocale": "Sprache hinzufügen",
+  "page.personal.edit.addLocalePrompt": "Fügen Sie eine Sprache hinzu, um mit der Bearbeitung zu beginnen",
+  "page.personal.edit.removeLocale": "Diese Sprache entfernen"
 }

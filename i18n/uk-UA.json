@@ -578,8 +578,11 @@
   "page.external.request.promo.feature1": "Блог та публікація новин",
   "page.external.request.promo.feature2": "Контактна форма",
   "page.external.request.promo.feature3": "Та інші корисні функції",
-  "page.external.request.alreadyExists": "Запит для цієї сторінки вже існує",
+  "page.external.request.alreadyExists": "Інший користувач вже подав заявку на керування цією сторінкою",
   "page.external.request.error": "Не вдалося надіслати запит",
+  "page.external.request.alreadyManaged.title": "Ця сторінка вже керується",
+  "page.external.request.alreadyManaged.description": "Ця сторінка вже керується іншим користувачем. Наразі для кожної сторінки дозволено лише одного керівника.",
+  "page.external.request.alreadyManaged.paidPlan": "У майбутньому платному плані кілька користувачів зможуть спільно керувати сторінкою.",
   "page.external.edit.title": "Редагувати офіційну сторінку",
   "page.external.edit.saved": "Зміни збережено",
   "page.external.edit.error": "Не вдалося зберегти зміни",
@@ -610,5 +613,11 @@
   "page.personal.edit.namePlaceholder": "Ім'я, що відображається на вашій сторінці",
   "page.personal.edit.timeline": "Хорова хронологія",
   "page.personal.edit.timelineScores": "творів",
-  "page.personal.edit.eventDeleted": "Подію видалено"
+  "page.personal.edit.eventDeleted": "Подію видалено",
+  "page.personal.edit.fallbackLocale": "Мова за замовчуванням",
+  "page.personal.edit.fallbackLocale.description": "Мова, яка відображається, коли вміст недоступний мовою відвідувача. Наприклад, якщо у вас є вміст японською та англійською мовами і ви встановите мову за замовчуванням на англійську, японські відвідувачі бачитимуть японську, а всі інші — англійську",
+  "page.personal.edit.fallbackLocale.placeholder": "Оберіть",
+  "page.personal.edit.addLocale": "Додати мову",
+  "page.personal.edit.addLocalePrompt": "Додайте мову, щоб почати редагування",
+  "page.personal.edit.removeLocale": "Видалити цю мову"
 }

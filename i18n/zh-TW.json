@@ -578,8 +578,11 @@
   "page.external.request.promo.feature1": "部落格與消息發佈",
   "page.external.request.promo.feature2": "聯絡表單",
   "page.external.request.promo.feature3": "以及更多實用功能",
-  "page.external.request.alreadyExists": "此頁面已有申請",
+  "page.external.request.alreadyExists": "其他使用者已申請管理此頁面",
   "page.external.request.error": "提交申請失敗",
+  "page.external.request.alreadyManaged.title": "該頁面已被管理",
+  "page.external.request.alreadyManaged.description": "該頁面已由其他使用者管理。目前每個頁面僅允許一名管理員。",
+  "page.external.request.alreadyManaged.paidPlan": "未來的付費方案將支援多人共同管理頁面。",
   "page.external.edit.title": "編輯官方頁面",
   "page.external.edit.saved": "變更已儲存",
   "page.external.edit.error": "儲存失敗",
@@ -610,5 +613,11 @@
   "page.personal.edit.namePlaceholder": "頁面上顯示的名稱",
   "page.personal.edit.timeline": "合唱年表",
   "page.personal.edit.timelineScores": "首曲目",
-  "page.personal.edit.eventDeleted": "已刪除事件"
+  "page.personal.edit.eventDeleted": "已刪除事件",
+  "page.personal.edit.fallbackLocale": "預設語言",
+  "page.personal.edit.fallbackLocale.description": "當訪客的語言沒有相應內容時顯示的語言。例如，如果您有日語和英語的內容，並將預設語言設為英語，則日語用戶將看到日語，其他語言的用戶將看到英語",
+  "page.personal.edit.fallbackLocale.placeholder": "請選擇",
+  "page.personal.edit.addLocale": "新增語言",
+  "page.personal.edit.addLocalePrompt": "新增語言以開始編輯",
+  "page.personal.edit.removeLocale": "刪除此語言"
 }

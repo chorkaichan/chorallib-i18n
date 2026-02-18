@@ -607,8 +607,11 @@
   "page.external.request.promo.feature1": "Blog & news posting",
   "page.external.request.promo.feature2": "Contact form",
   "page.external.request.promo.feature3": "And more useful features",
-  "page.external.request.alreadyExists": "A request already exists for this page",
+  "page.external.request.alreadyExists": "Another user has already requested to manage this page",
   "page.external.request.error": "Failed to submit request",
+  "page.external.request.alreadyManaged.title": "This page is already managed",
+  "page.external.request.alreadyManaged.description": "This page is already managed by another user. Currently, only one manager is allowed per page.",
+  "page.external.request.alreadyManaged.paidPlan": "A future paid plan will allow multiple users to manage a page together.",
   "page.external.edit.title": "Edit Official Page",
   "page.external.edit.saved": "Changes saved",
   "page.external.edit.error": "Failed to save changes",
@@ -639,5 +642,11 @@
   "page.personal.edit.namePlaceholder": "Display name on your page",
   "page.personal.edit.timeline": "Choral Timeline",
   "page.personal.edit.timelineScores": "scores",
-  "page.personal.edit.eventDeleted": "Event deleted"
+  "page.personal.edit.eventDeleted": "Event deleted",
+  "page.personal.edit.fallbackLocale": "Default language",
+  "page.personal.edit.fallbackLocale.description": "The language shown when content is not available in the viewer's language. For example, if you have content in Japanese and English and set the default to English, Japanese viewers will see Japanese, while all other viewers will see English.",
+  "page.personal.edit.fallbackLocale.placeholder": "Select a language",
+  "page.personal.edit.addLocale": "Add language",
+  "page.personal.edit.addLocalePrompt": "Add a language to start editing",
+  "page.personal.edit.removeLocale": "Remove this language"
 }

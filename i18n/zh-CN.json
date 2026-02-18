@@ -578,8 +578,11 @@
   "page.external.request.promo.feature1": "博客与新闻发布",
   "page.external.request.promo.feature2": "联系表单",
   "page.external.request.promo.feature3": "以及更多实用功能",
-  "page.external.request.alreadyExists": "此页面已有申请",
+  "page.external.request.alreadyExists": "其他用户已申请管理此页面",
   "page.external.request.error": "提交申请失败",
+  "page.external.request.alreadyManaged.title": "该页面已被管理",
+  "page.external.request.alreadyManaged.description": "该页面已由其他用户管理。目前每个页面仅允许一名管理员。",
+  "page.external.request.alreadyManaged.paidPlan": "未来的付费计划将支持多人共同管理页面。",
   "page.external.edit.title": "编辑官方页面",
   "page.external.edit.saved": "更改已保存",
   "page.external.edit.error": "保存失败",
@@ -610,5 +613,11 @@
   "page.personal.edit.namePlaceholder": "页面上显示的名称",
   "page.personal.edit.timeline": "合唱年表",
   "page.personal.edit.timelineScores": "首曲目",
-  "page.personal.edit.eventDeleted": "已删除事件"
+  "page.personal.edit.eventDeleted": "已删除事件",
+  "page.personal.edit.fallbackLocale": "默认语言",
+  "page.personal.edit.fallbackLocale.description": "当访问者的语言没有相应内容时显示的语言。例如，如果您有日语和英语的内容，并将默认语言设为英语，则日语用户将看到日语，其他语言的用户将看到英语",
+  "page.personal.edit.fallbackLocale.placeholder": "请选择",
+  "page.personal.edit.addLocale": "添加语言",
+  "page.personal.edit.addLocalePrompt": "添加语言以开始编辑",
+  "page.personal.edit.removeLocale": "删除此语言"
 }

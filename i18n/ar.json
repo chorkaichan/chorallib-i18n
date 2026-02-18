@@ -579,8 +579,11 @@
   "page.external.request.promo.feature1": "مدونة ونشر الأخبار",
   "page.external.request.promo.feature2": "نموذج الاتصال",
   "page.external.request.promo.feature3": "والمزيد من الميزات المفيدة",
-  "page.external.request.alreadyExists": "يوجد طلب بالفعل لهذه الصفحة",
+  "page.external.request.alreadyExists": "مستخدم آخر قد تقدم بالفعل بطلب لإدارة هذه الصفحة",
   "page.external.request.error": "فشل إرسال الطلب",
+  "page.external.request.alreadyManaged.title": "هذه الصفحة مُدارة بالفعل",
+  "page.external.request.alreadyManaged.description": "هذه الصفحة مُدارة بالفعل من قبل مستخدم آخر. حالياً، يُسمح بمدير واحد فقط لكل صفحة.",
+  "page.external.request.alreadyManaged.paidPlan": "ستتيح خطة مدفوعة مستقبلية لعدة مستخدمين إدارة الصفحة معاً.",
   "page.external.edit.title": "تعديل الصفحة الرسمية",
   "page.external.edit.saved": "تم حفظ التغييرات",
   "page.external.edit.error": "فشل حفظ التغييرات",
@@ -611,5 +614,11 @@
   "page.personal.edit.namePlaceholder": "الاسم المعروض على صفحتك",
   "page.personal.edit.timeline": "الجدول الزمني للكورال",
   "page.personal.edit.timelineScores": "مقطوعات",
-  "page.personal.edit.eventDeleted": "تم حذف الحدث"
+  "page.personal.edit.eventDeleted": "تم حذف الحدث",
+  "page.personal.edit.fallbackLocale": "اللغة الافتراضية",
+  "page.personal.edit.fallbackLocale.description": "اللغة التي تُعرض عندما لا يتوفر المحتوى بلغة الزائر. على سبيل المثال، إذا كان لديك محتوى باليابانية والإنجليزية وتم تعيين اللغة الافتراضية إلى الإنجليزية، فسيرى الزوار اليابانيون اليابانية، بينما يرى جميع الزوار الآخرين الإنجليزية",
+  "page.personal.edit.fallbackLocale.placeholder": "يرجى الاختيار",
+  "page.personal.edit.addLocale": "إضافة لغة",
+  "page.personal.edit.addLocalePrompt": "أضف لغة للبدء في التحرير",
+  "page.personal.edit.removeLocale": "إزالة هذه اللغة"
 }

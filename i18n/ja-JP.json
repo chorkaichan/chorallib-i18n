@@ -607,8 +607,11 @@
   "page.external.request.promo.feature1": "ブログ・お知らせ投稿機能",
   "page.external.request.promo.feature2": "お問い合わせフォーム",
   "page.external.request.promo.feature3": "その他お役立ち機能",
-  "page.external.request.alreadyExists": "既に申請済みです",
+  "page.external.request.alreadyExists": "他のユーザーが既にこのページの管理を申請しています",
   "page.external.request.error": "申請の送信に失敗しました",
+  "page.external.request.alreadyManaged.title": "このページは管理されています",
+  "page.external.request.alreadyManaged.description": "このページは既に他のユーザーによって管理されています。現在、1つのページにつき管理者は1名のみとなっています。",
+  "page.external.request.alreadyManaged.paidPlan": "今後実装予定の有料プランでは、複数人でのページ管理が可能になる予定です。",
   "page.external.edit.title": "公式ページの編集",
   "page.external.edit.saved": "変更を保存しました",
   "page.external.edit.error": "保存に失敗しました",
@@ -639,5 +642,11 @@
   "page.personal.edit.namePlaceholder": "ページに表示される名前",
   "page.personal.edit.timeline": "合唱年表",
   "page.personal.edit.timelineScores": "曲",
-  "page.personal.edit.eventDeleted": "イベントを削除しました"
+  "page.personal.edit.eventDeleted": "イベントを削除しました",
+  "page.personal.edit.fallbackLocale": "デフォルト言語",
+  "page.personal.edit.fallbackLocale.description": "閲覧者の言語のコンテンツがない場合に表示される言語です。例えば、日本語と英語のコンテンツがある場合にデフォルト言語を英語に設定すると、日本語で閲覧するユーザーには日本語、それ以外の言語で閲覧するユーザーには英語が表示されます",
+  "page.personal.edit.fallbackLocale.placeholder": "選択してください",
+  "page.personal.edit.addLocale": "言語を追加",
+  "page.personal.edit.addLocalePrompt": "言語を追加して編集を始めましょう",
+  "page.personal.edit.removeLocale": "この言語を削除"
 }

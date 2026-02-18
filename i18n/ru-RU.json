@@ -578,8 +578,11 @@
   "page.external.request.promo.feature1": "Блог и публикация новостей",
   "page.external.request.promo.feature2": "Контактная форма",
   "page.external.request.promo.feature3": "И другие полезные функции",
-  "page.external.request.alreadyExists": "Запрос для этой страницы уже существует",
+  "page.external.request.alreadyExists": "Другой пользователь уже подал заявку на управление этой страницей",
   "page.external.request.error": "Не удалось отправить запрос",
+  "page.external.request.alreadyManaged.title": "Эта страница уже управляется",
+  "page.external.request.alreadyManaged.description": "Эта страница уже управляется другим пользователем. В настоящее время для каждой страницы допускается только один управляющий.",
+  "page.external.request.alreadyManaged.paidPlan": "В будущем платном плане несколько пользователей смогут совместно управлять страницей.",
   "page.external.edit.title": "Редактировать официальную страницу",
   "page.external.edit.saved": "Изменения сохранены",
   "page.external.edit.error": "Не удалось сохранить изменения",
@@ -610,5 +613,11 @@
   "page.personal.edit.namePlaceholder": "Отображаемое имя на вашей странице",
   "page.personal.edit.timeline": "Хоровая хронология",
   "page.personal.edit.timelineScores": "произведений",
-  "page.personal.edit.eventDeleted": "Событие удалено"
+  "page.personal.edit.eventDeleted": "Событие удалено",
+  "page.personal.edit.fallbackLocale": "Язык по умолчанию",
+  "page.personal.edit.fallbackLocale.description": "Язык, отображаемый, когда контент недоступен на языке посетителя. Например, если у вас есть контент на японском и английском языках и вы установите язык по умолчанию на английский, японские посетители увидят японский, а все остальные — английский",
+  "page.personal.edit.fallbackLocale.placeholder": "Выберите",
+  "page.personal.edit.addLocale": "Добавить язык",
+  "page.personal.edit.addLocalePrompt": "Добавьте язык, чтобы начать редактирование",
+  "page.personal.edit.removeLocale": "Удалить этот язык"
 }

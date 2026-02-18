@@ -578,8 +578,11 @@
   "page.external.request.promo.feature1": "Blog e pubblicazione di notizie",
   "page.external.request.promo.feature2": "Modulo di contatto",
   "page.external.request.promo.feature3": "E altre funzionalità utili",
-  "page.external.request.alreadyExists": "Esiste già una richiesta per questa pagina",
+  "page.external.request.alreadyExists": "Un altro utente ha già richiesto di gestire questa pagina",
   "page.external.request.error": "Impossibile inviare la richiesta",
+  "page.external.request.alreadyManaged.title": "Questa pagina è già gestita",
+  "page.external.request.alreadyManaged.description": "Questa pagina è già gestita da un altro utente. Attualmente è consentito un solo gestore per pagina.",
+  "page.external.request.alreadyManaged.paidPlan": "Un futuro piano a pagamento consentirà a più utenti di gestire una pagina insieme.",
   "page.external.edit.title": "Modifica pagina ufficiale",
   "page.external.edit.saved": "Modifiche salvate",
   "page.external.edit.error": "Salvataggio non riuscito",
@@ -610,5 +613,11 @@
   "page.personal.edit.namePlaceholder": "Nome visualizzato sulla tua pagina",
   "page.personal.edit.timeline": "Timeline corale",
   "page.personal.edit.timelineScores": "brani",
-  "page.personal.edit.eventDeleted": "Evento eliminato"
+  "page.personal.edit.eventDeleted": "Evento eliminato",
+  "page.personal.edit.fallbackLocale": "Lingua predefinita",
+  "page.personal.edit.fallbackLocale.description": "La lingua mostrata quando il contenuto non è disponibile nella lingua del visitatore. Ad esempio, se hai contenuti in giapponese e inglese e imposti la lingua predefinita sull'inglese, i visitatori giapponesi vedranno il giapponese, mentre tutti gli altri vedranno l'inglese",
+  "page.personal.edit.fallbackLocale.placeholder": "Seleziona",
+  "page.personal.edit.addLocale": "Aggiungi lingua",
+  "page.personal.edit.addLocalePrompt": "Aggiungi una lingua per iniziare a modificare",
+  "page.personal.edit.removeLocale": "Rimuovi questa lingua"
 }

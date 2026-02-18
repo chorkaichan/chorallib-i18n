@@ -578,8 +578,11 @@
   "page.external.request.promo.feature1": "블로그 및 뉴스 게시",
   "page.external.request.promo.feature2": "문의 양식",
   "page.external.request.promo.feature3": "기타 유용한 기능",
-  "page.external.request.alreadyExists": "이 페이지에 대한 요청이 이미 존재합니다",
+  "page.external.request.alreadyExists": "다른 사용자가 이미 이 페이지의 관리를 신청했습니다",
   "page.external.request.error": "요청 제출에 실패했습니다",
+  "page.external.request.alreadyManaged.title": "이 페이지는 이미 관리되고 있습니다",
+  "page.external.request.alreadyManaged.description": "이 페이지는 이미 다른 사용자에 의해 관리되고 있습니다. 현재 페이지당 한 명의 관리자만 허용됩니다.",
+  "page.external.request.alreadyManaged.paidPlan": "향후 유료 플랜에서는 여러 명이 함께 페이지를 관리할 수 있게 될 예정입니다.",
   "page.external.edit.title": "공식 페이지 편집",
   "page.external.edit.saved": "변경사항이 저장되었습니다",
   "page.external.edit.error": "저장에 실패했습니다",
@@ -610,5 +613,11 @@
   "page.personal.edit.namePlaceholder": "페이지에 표시될 이름",
   "page.personal.edit.timeline": "합창 타임라인",
   "page.personal.edit.timelineScores": "곡",
-  "page.personal.edit.eventDeleted": "이벤트가 삭제되었습니다"
+  "page.personal.edit.eventDeleted": "이벤트가 삭제되었습니다",
+  "page.personal.edit.fallbackLocale": "기본 언어",
+  "page.personal.edit.fallbackLocale.description": "방문자의 언어로 콘텐츠를 사용할 수 없을 때 표시되는 언어입니다. 예를 들어, 일본어와 영어 콘텐츠가 있고 기본 언어를 영어로 설정하면 일본어 사용자에게는 일본어가, 그 외 사용자에게는 영어가 표시됩니다",
+  "page.personal.edit.fallbackLocale.placeholder": "선택해 주세요",
+  "page.personal.edit.addLocale": "언어 추가",
+  "page.personal.edit.addLocalePrompt": "언어를 추가하여 편집을 시작하세요",
+  "page.personal.edit.removeLocale": "이 언어 삭제"
 }
