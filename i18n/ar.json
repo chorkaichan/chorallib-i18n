@@ -73,6 +73,8 @@
   "top.lead": "إيش تغني اليوم؟",
   "top.search.input.placeholder": "العنوان، المؤلف، كاتب الكلمات، الجوقة، الفنان...",
   "top.scoreList.title": "المقطوعات المضافة حديثاً",
+  "top.composerList.title": "مؤلفون أُضيفوا مؤخرًا",
+  "top.lyricistList.title": "شعراء أُضيفوا مؤخرًا",
   "top.albumList.title": "الألبومات المضافة حديثاً",
   "top.videoList.title": "الفيديوهات المضافة حديثاً",
   "top.choirList.title": "الفرق الكورالية المضافة حديثاً",

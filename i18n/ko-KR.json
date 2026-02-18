@@ -72,6 +72,8 @@
   "top.lead": "오늘은 뭘 부를까?",
   "top.search.input.placeholder": "곡명, 작곡가, 작사가, 합창단, 아티스트...",
   "top.scoreList.title": "최근 추가된 악보",
+  "top.composerList.title": "최근 추가된 작곡가",
+  "top.lyricistList.title": "최근 추가된 작사가",
   "top.albumList.title": "최근 추가된 앨범",
   "top.videoList.title": "최근 추가된 영상",
   "top.choirList.title": "최근 추가된 합창단",

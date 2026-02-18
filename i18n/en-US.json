@@ -72,6 +72,8 @@
   "top.lead": "What's your song today?",
   "top.search.input.placeholder": "Title, composer, lyricist, choir, artist...",
   "top.scoreList.title": "Recently Added Scores",
+  "top.composerList.title": "Recently Added Composers",
+  "top.lyricistList.title": "Recently Added Lyricists",
   "top.albumList.title": "Recently Added Albums",
   "top.videoList.title": "Recently Added Videos",
   "top.choirList.title": "Recently Added Choirs",

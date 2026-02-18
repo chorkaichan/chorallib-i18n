@@ -72,6 +72,8 @@
   "top.lead": "今天想唱点什么？",
   "top.search.input.placeholder": "曲名、作曲家、作词者、合唱团、艺术家...",
   "top.scoreList.title": "最新乐谱",
+  "top.composerList.title": "最近添加的作曲家",
+  "top.lyricistList.title": "最近添加的作词家",
   "top.albumList.title": "最新音乐专辑",
   "top.videoList.title": "最新演出视频",
   "top.choirList.title": "最新合唱团",

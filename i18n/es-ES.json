@@ -72,6 +72,8 @@
   "top.lead": "¿Qué cantamos hoy?",
   "top.search.input.placeholder": "Título, compositor, letrista, coro, artista...",
   "top.scoreList.title": "Partituras añadidas recientemente",
+  "top.composerList.title": "Compositores añadidos recientemente",
+  "top.lyricistList.title": "Letristas añadidos recientemente",
   "top.albumList.title": "Álbumes añadidos recientemente",
   "top.videoList.title": "Vídeos añadidos recientemente",
   "top.choirList.title": "Coros añadidos recientemente",
