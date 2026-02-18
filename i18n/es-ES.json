@@ -37,6 +37,7 @@
   "header.login": "Iniciar sesión",
   "header.login.description": "ChoralLib es una plataforma para compartir información sobre música coral. Inicia sesión para añadir o editar información musical y guardar tus piezas favoritas.",
   "header.login.google": "Iniciar sesión con Google",
+  "header.login.inAppWarning": "No se puede iniciar sesión en el navegador integrado de la aplicación. Por favor, abra esta página en un navegador como Safari o Chrome.",
   "header.nav.score": "Añadir partitura",
   "header.nav.composer": "Añadir compositor",
   "header.nav.lyricist": "Añadir letrista",

@@ -37,6 +37,7 @@
   "header.login": "Accedi",
   "header.login.description": "ChoralLib è una piattaforma per condividere informazioni sulla musica corale. Accedi per aggiungere o modificare informazioni musicali e salvare i tuoi brani preferiti.",
   "header.login.google": "Accedi con Google",
+  "header.login.inAppWarning": "L'accesso non è disponibile nel browser in-app. Si prega di aprire questa pagina in un browser come Safari o Chrome.",
   "header.nav.score": "Aggiungi partitura",
   "header.nav.composer": "Aggiungi compositore",
   "header.nav.lyricist": "Aggiungi autore testi",

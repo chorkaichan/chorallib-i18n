@@ -37,6 +37,7 @@
   "header.login": "تسجيل الدخول",
   "header.login.description": "ChoralLib هي منصة لمشاركة معلومات الموسيقى الكورالية. سجّل دخولك لإضافة أو تعديل معلومات الموسيقى وحفظ مقطوعاتك المفضلة.",
   "header.login.google": "تسجيل الدخول بـ Google",
+  "header.login.inAppWarning": "تسجيل الدخول غير متاح في المتصفح داخل التطبيق. يرجى فتح هذه الصفحة في متصفح مثل Safari أو Chrome.",
   "header.nav.score": "إضافة مقطوعة",
   "header.nav.composer": "إضافة مؤلف",
   "header.nav.lyricist": "إضافة كاتب كلمات",

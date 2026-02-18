@@ -37,6 +37,7 @@
   "header.login": "ログイン",
   "header.login.description": "ChoralLibは合唱を伴う楽曲情報を共有できるプラットフォームです。ログインすると楽曲情報を追加・編集したり、お気に入りの楽曲を保存したりすることができます。",
   "header.login.google": "Googleでログイン",
+  "header.login.inAppWarning": "アプリ内ブラウザではログインできません。SafariやChromeなどのブラウザでこのページを開いてください。",
   "header.nav.score": "楽曲を追加",
   "header.nav.composer": "作曲者を追加",
   "header.nav.lyricist": "作詞者を追加",

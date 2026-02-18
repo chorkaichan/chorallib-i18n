@@ -37,6 +37,7 @@
   "header.login": "로그인",
   "header.login.description": "ChoralLib은 합창 음악 정보를 공유할 수 있는 플랫폼입니다. 로그인하여 음악 정보를 추가·편집하거나 좋아하는 곡을 저장할 수 있습니다.",
   "header.login.google": "Google로 로그인",
+  "header.login.inAppWarning": "인앱 브라우저에서는 로그인할 수 없습니다. Safari나 Chrome 등의 브라우저에서 이 페이지를 열어주세요.",
   "header.nav.score": "악보 추가",
   "header.nav.composer": "작곡가 추가",
   "header.nav.lyricist": "작사가 추가",

@@ -37,6 +37,7 @@
   "header.login": "Log in",
   "header.login.description": "ChoralLib is a platform for sharing information about choral music. Log in to add or edit music information, and save your favorite pieces.",
   "header.login.google": "Log in with Google",
+  "header.login.inAppWarning": "Login is not available in the in-app browser. Please open this page in a browser such as Safari or Chrome.",
   "header.nav.score": "Add Score",
   "header.nav.composer": "Add Composer",
   "header.nav.lyricist": "Add Lyricist",

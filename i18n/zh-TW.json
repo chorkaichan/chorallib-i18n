@@ -37,6 +37,7 @@
   "header.login": "登入",
   "header.login.description": "ChoralLib是一個分享合唱音樂資訊的平台。登入後可以新增或編輯音樂資訊，並儲存您喜愛的作品。",
   "header.login.google": "使用Google登入",
+  "header.login.inAppWarning": "應用程式內建瀏覽器無法登入。請在Safari或Chrome等瀏覽器中開啟此頁面。",
   "header.nav.score": "新增樂譜",
   "header.nav.composer": "新增作曲家",
   "header.nav.lyricist": "新增作詞者",
