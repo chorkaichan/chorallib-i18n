@@ -74,6 +74,8 @@
   "top.scoreList.title": "Neueste Partituren",
   "top.albumList.title": "Neueste Alben",
   "top.videoList.title": "Neueste Videos",
+  "top.choirList.title": "Neueste Chöre",
+  "top.artistList.title": "Neueste Künstler",
   "search.input.placeholder": "Titel, Komponist, Texter",
   "search.input.expand": "Erweiterte Suche",
   "search.tabs.score": "Partituren",

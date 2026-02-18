@@ -74,6 +74,8 @@
   "top.scoreList.title": "Нещодавно додані партитури",
   "top.albumList.title": "Нещодавно додані альбоми",
   "top.videoList.title": "Нещодавно додані відео",
+  "top.choirList.title": "Нещодавно додані хори",
+  "top.artistList.title": "Нещодавно додані артисти",
   "search.input.placeholder": "Назва, композитор, автор тексту",
   "search.input.expand": "Розширений пошук",
   "search.tabs.score": "Партитури",

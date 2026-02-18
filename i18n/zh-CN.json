@@ -74,6 +74,8 @@
   "top.scoreList.title": "最新乐谱",
   "top.albumList.title": "最新音乐专辑",
   "top.videoList.title": "最新演出视频",
+  "top.choirList.title": "最新合唱团",
+  "top.artistList.title": "最新艺术家",
   "search.input.placeholder": "曲名、作曲家、作词者",
   "search.input.expand": "打开高级搜索",
   "search.tabs.score": "乐谱",

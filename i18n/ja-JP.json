@@ -74,6 +74,8 @@
   "top.scoreList.title": "新着の楽曲",
   "top.albumList.title": "新着の音楽アルバム",
   "top.videoList.title": "新着の演奏動画",
+  "top.choirList.title": "新着の合唱団",
+  "top.artistList.title": "新着のアーティスト",
   "search.input.placeholder": "曲名、作曲者名、作詞者名",
   "search.input.expand": "詳細検索を開く",
   "search.tabs.score": "楽曲",

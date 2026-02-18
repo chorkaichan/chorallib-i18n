@@ -74,6 +74,8 @@
   "top.scoreList.title": "Partitions récentes",
   "top.albumList.title": "Albums récents",
   "top.videoList.title": "Vidéos récentes",
+  "top.choirList.title": "Chœurs récents",
+  "top.artistList.title": "Artistes récents",
   "search.input.placeholder": "Titre, compositeur, parolier",
   "search.input.expand": "Recherche avancée",
   "search.tabs.score": "Partitions",

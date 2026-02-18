@@ -74,6 +74,8 @@
   "top.scoreList.title": "Recently Added Scores",
   "top.albumList.title": "Recently Added Albums",
   "top.videoList.title": "Recently Added Videos",
+  "top.choirList.title": "Recently Added Choirs",
+  "top.artistList.title": "Recently Added Artists",
   "search.input.placeholder": "Title, composer, lyricist",
   "search.input.expand": "Open advanced search",
   "search.tabs.score": "Scores",

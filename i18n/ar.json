@@ -75,6 +75,8 @@
   "top.scoreList.title": "المقطوعات المضافة حديثاً",
   "top.albumList.title": "الألبومات المضافة حديثاً",
   "top.videoList.title": "الفيديوهات المضافة حديثاً",
+  "top.choirList.title": "الفرق الكورالية المضافة حديثاً",
+  "top.artistList.title": "الفنانون المضافون حديثاً",
   "search.input.placeholder": "العنوان، المؤلف، كاتب الكلمات",
   "search.input.expand": "فتح البحث المتقدم",
   "search.tabs.score": "المقطوعات",

@@ -74,6 +74,8 @@
   "top.scoreList.title": "Partiture aggiunte di recente",
   "top.albumList.title": "Album aggiunti di recente",
   "top.videoList.title": "Video aggiunti di recente",
+  "top.choirList.title": "Cori aggiunti di recente",
+  "top.artistList.title": "Artisti aggiunti di recente",
   "search.input.placeholder": "Titolo, compositore, autore testi",
   "search.input.expand": "Ricerca avanzata",
   "search.tabs.score": "Partiture",

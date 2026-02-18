@@ -74,6 +74,8 @@
   "top.scoreList.title": "최근 추가된 악보",
   "top.albumList.title": "최근 추가된 앨범",
   "top.videoList.title": "최근 추가된 영상",
+  "top.choirList.title": "최근 추가된 합창단",
+  "top.artistList.title": "최근 추가된 아티스트",
   "search.input.placeholder": "곡명, 작곡가, 작사가",
   "search.input.expand": "상세 검색 열기",
   "search.tabs.score": "악보",
