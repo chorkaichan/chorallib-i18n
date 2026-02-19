@@ -648,7 +648,7 @@
   "subscription.section.official.feature4.note": "напр., профили дирижёра и педагога по вокалу для ансамблей",
   "subscription.section.official.feature5": "Добавление списка произведений",
   "subscription.section.official.feature6": "Публикация блога и новостей",
-  "subscription.section.official.feature7": "Размещение информации о мероприятиях и концертах в общем календаре сайта",
+  "subscription.section.official.feature7": "Создание календаря мероприятий",
   "subscription.section.official.feature8": "Контактная форма",
   "subscription.section.official.feature9": "Функция подписки",
   "subscription.section.official.feature9.note": "Зарегистрированные пользователи могут подписаться на вашу страницу и получать автоматические уведомления по электронной почте при публикации обновлений",
@@ -670,6 +670,14 @@
   "subscription.section.steps.step6.title": "Раскройте весь потенциал",
   "subscription.section.steps.step6.description": "Используйте все возможности официальной страницы для презентации вашего ансамбля или профиля.",
   "subscription.section.pricing.title": "Тарифы",
+  "subscription.section.pricing.subtitle": "Стоимость платных тарифов для официальных страниц. Базовые функции официальной страницы доступны бесплатно.",
   "subscription.section.pricing.comingSoon": "Скоро",
-  "subscription.section.pricing.comingSoonDescription": "Детали ценообразования платных планов в настоящее время уточняются. Мы объявим их на этой странице, как только они будут готовы."
+  "subscription.section.pricing.monthly": "Ежемесячно",
+  "subscription.section.pricing.monthly.price": "JPY 500",
+  "subscription.section.pricing.annual": "Ежегодно",
+  "subscription.section.pricing.annual.price": "JPY 5 000",
+  "subscription.section.pricing.perMonth": "/мес.",
+  "subscription.section.pricing.perYear": "/год",
+  "subscription.section.pricing.taxIncluded": "Цены включают налоги",
+  "subscription.section.pricing.annual.savings": "2 месяца бесплатно"
 }

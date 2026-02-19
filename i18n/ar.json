@@ -649,7 +649,7 @@
   "subscription.section.official.feature4.note": "مثال: ملفات تعريف قائد الفرقة والمدرّب للفرق الكورالية",
   "subscription.section.official.feature5": "إضافة قائمة الأعمال",
   "subscription.section.official.feature6": "نشر المدوّنات والأخبار",
-  "subscription.section.official.feature7": "إدراج معلومات الفعاليات والحفلات في تقويم الفعاليات على مستوى الموقع",
+  "subscription.section.official.feature7": "إنشاء تقويم فعاليات",
   "subscription.section.official.feature8": "نموذج الاتصال",
   "subscription.section.official.feature9": "ميزة المتابعة",
   "subscription.section.official.feature9.note": "يمكن للمستخدمين المسجلين متابعة صفحتك وتلقي إشعارات تلقائية عبر البريد الإلكتروني عند نشر تحديثات",
@@ -671,6 +671,14 @@
   "subscription.section.steps.step6.title": "أطلق العنان لكامل الإمكانات",
   "subscription.section.steps.step6.description": "استفد من جميع ميزات الصفحة الرسمية لعرض فرقتك الكورالية أو ملفك الشخصي.",
   "subscription.section.pricing.title": "الأسعار",
+  "subscription.section.pricing.subtitle": "أسعار الخطط المدفوعة للصفحات الرسمية. الميزات الأساسية للصفحة الرسمية متاحة مجانًا.",
   "subscription.section.pricing.comingSoon": "قريبًا",
-  "subscription.section.pricing.comingSoonDescription": "تفاصيل أسعار الخطط المدفوعة قيد الإعداد حاليًا. سنعلن عنها في هذه الصفحة بمجرد أن تصبح جاهزة."
+  "subscription.section.pricing.monthly": "شهري",
+  "subscription.section.pricing.monthly.price": "JPY 500",
+  "subscription.section.pricing.annual": "سنوي",
+  "subscription.section.pricing.annual.price": "JPY 5,000",
+  "subscription.section.pricing.perMonth": "/شهر",
+  "subscription.section.pricing.perYear": "/سنة",
+  "subscription.section.pricing.taxIncluded": "الأسعار شاملة الضريبة",
+  "subscription.section.pricing.annual.savings": "شهران مجانًا"
 }

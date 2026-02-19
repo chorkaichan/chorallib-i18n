@@ -648,7 +648,7 @@
   "subscription.section.official.feature4.note": "напр., профілі диригента та педагога з вокалу для ансамблів",
   "subscription.section.official.feature5": "Додавання списку творів",
   "subscription.section.official.feature6": "Публікація блогу та новин",
-  "subscription.section.official.feature7": "Розміщення інформації про заходи та концерти в загальному календарі сайту",
+  "subscription.section.official.feature7": "Створення календаря подій",
   "subscription.section.official.feature8": "Контактна форма",
   "subscription.section.official.feature9": "Функція підписки",
   "subscription.section.official.feature9.note": "Зареєстровані користувачі можуть підписатися на вашу сторінку та отримувати автоматичні сповіщення електронною поштою при публікації оновлень",
@@ -670,6 +670,14 @@
   "subscription.section.steps.step6.title": "Розкрийте весь потенціал",
   "subscription.section.steps.step6.description": "Використовуйте всі можливості офіційної сторінки для презентації вашого ансамблю або профілю.",
   "subscription.section.pricing.title": "Тарифи",
+  "subscription.section.pricing.subtitle": "Вартість платних тарифів для офіційних сторінок. Базові функції офіційної сторінки доступні безкоштовно.",
   "subscription.section.pricing.comingSoon": "Незабаром",
-  "subscription.section.pricing.comingSoonDescription": "Деталі ціноутворення платних планів наразі уточнюються. Ми оголосимо їх на цій сторінці, щойно вони будуть готові."
+  "subscription.section.pricing.monthly": "Щомісяця",
+  "subscription.section.pricing.monthly.price": "JPY 500",
+  "subscription.section.pricing.annual": "Щорічно",
+  "subscription.section.pricing.annual.price": "JPY 5 000",
+  "subscription.section.pricing.perMonth": "/міс.",
+  "subscription.section.pricing.perYear": "/рік",
+  "subscription.section.pricing.taxIncluded": "Ціни включають податки",
+  "subscription.section.pricing.annual.savings": "2 місяці безкоштовно"
 }

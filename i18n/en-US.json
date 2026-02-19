@@ -677,7 +677,7 @@
   "subscription.section.official.feature4.note": "e.g. conductor and instructor profiles for ensembles",
   "subscription.section.official.feature5": "Add works list",
   "subscription.section.official.feature6": "Blog & news posting",
-  "subscription.section.official.feature7": "List event and concert info on the site-wide event calendar",
+  "subscription.section.official.feature7": "Create an event calendar",
   "subscription.section.official.feature8": "Contact form",
   "subscription.section.official.feature9": "Follow feature",
   "subscription.section.official.feature9.note": "Logged-in users can follow your page and receive automatic email notifications when you post updates",
@@ -699,6 +699,14 @@
   "subscription.section.steps.step6.title": "Unlock full potential",
   "subscription.section.steps.step6.description": "Leverage all official page features to showcase your ensemble or profile.",
   "subscription.section.pricing.title": "Pricing",
+  "subscription.section.pricing.subtitle": "Pricing for official page paid plans. Basic official page features are available for free.",
   "subscription.section.pricing.comingSoon": "Coming Soon",
-  "subscription.section.pricing.comingSoonDescription": "Pricing details for paid plans are currently being finalized. We'll announce them on this page as soon as they're ready."
+  "subscription.section.pricing.monthly": "Monthly",
+  "subscription.section.pricing.monthly.price": "JPY 500",
+  "subscription.section.pricing.annual": "Annual",
+  "subscription.section.pricing.annual.price": "JPY 5,000",
+  "subscription.section.pricing.perMonth": "/month",
+  "subscription.section.pricing.perYear": "/year",
+  "subscription.section.pricing.taxIncluded": "Tax included",
+  "subscription.section.pricing.annual.savings": "2 months free"
 }

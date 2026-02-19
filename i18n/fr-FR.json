@@ -648,7 +648,7 @@
   "subscription.section.official.feature4.note": "ex. : profils du chef de chœur et du formateur vocal pour les ensembles",
   "subscription.section.official.feature5": "Ajouter une liste d'œuvres",
   "subscription.section.official.feature6": "Publication de blog et d'actualités",
-  "subscription.section.official.feature7": "Afficher les événements et concerts dans le calendrier du site",
+  "subscription.section.official.feature7": "Créer un calendrier d'événements",
   "subscription.section.official.feature8": "Formulaire de contact",
   "subscription.section.official.feature9": "Fonction de suivi",
   "subscription.section.official.feature9.note": "Les utilisateurs connectés peuvent suivre votre page et recevoir des notifications automatiques par e-mail lorsque vous publiez des mises à jour",
@@ -670,6 +670,14 @@
   "subscription.section.steps.step6.title": "Exploitez tout le potentiel",
   "subscription.section.steps.step6.description": "Tirez parti de toutes les fonctionnalités de la page officielle pour mettre en valeur votre ensemble ou votre profil.",
   "subscription.section.pricing.title": "Tarifs",
+  "subscription.section.pricing.subtitle": "Tarifs des formules payantes pour les pages officielles. Les fonctionnalités de base de la page officielle sont disponibles gratuitement.",
   "subscription.section.pricing.comingSoon": "Bientôt disponible",
-  "subscription.section.pricing.comingSoonDescription": "Les détails tarifaires des formules payantes sont en cours de finalisation. Nous les annoncerons sur cette page dès qu'ils seront prêts."
+  "subscription.section.pricing.monthly": "Mensuel",
+  "subscription.section.pricing.monthly.price": "JPY 500",
+  "subscription.section.pricing.annual": "Annuel",
+  "subscription.section.pricing.annual.price": "JPY 5 000",
+  "subscription.section.pricing.perMonth": "/mois",
+  "subscription.section.pricing.perYear": "/an",
+  "subscription.section.pricing.taxIncluded": "TTC",
+  "subscription.section.pricing.annual.savings": "2 mois offerts"
 }

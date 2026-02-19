@@ -648,7 +648,7 @@
   "subscription.section.official.feature4.note": "p. ej., perfiles del director y del instructor para agrupaciones",
   "subscription.section.official.feature5": "Añadir lista de obras",
   "subscription.section.official.feature6": "Publicación de blog y noticias",
-  "subscription.section.official.feature7": "Incluir información de eventos y conciertos en el calendario de eventos del sitio",
+  "subscription.section.official.feature7": "Crear un calendario de eventos",
   "subscription.section.official.feature8": "Formulario de contacto",
   "subscription.section.official.feature9": "Función de seguimiento",
   "subscription.section.official.feature9.note": "Los usuarios registrados pueden seguir tu página y recibir notificaciones automáticas por correo electrónico cuando publiques actualizaciones",
@@ -670,6 +670,14 @@
   "subscription.section.steps.step6.title": "Desbloquea todo el potencial",
   "subscription.section.steps.step6.description": "Aprovecha todas las funciones de la página oficial para mostrar tu agrupación o perfil.",
   "subscription.section.pricing.title": "Precios",
+  "subscription.section.pricing.subtitle": "Precios de los planes de pago para páginas oficiales. Las funciones básicas de la página oficial están disponibles de forma gratuita.",
   "subscription.section.pricing.comingSoon": "Próximamente",
-  "subscription.section.pricing.comingSoonDescription": "Los detalles de precios de los planes de pago se están finalizando actualmente. Los anunciaremos en esta página en cuanto estén listos."
+  "subscription.section.pricing.monthly": "Mensual",
+  "subscription.section.pricing.monthly.price": "JPY 500",
+  "subscription.section.pricing.annual": "Anual",
+  "subscription.section.pricing.annual.price": "JPY 5.000",
+  "subscription.section.pricing.perMonth": "/mes",
+  "subscription.section.pricing.perYear": "/año",
+  "subscription.section.pricing.taxIncluded": "Impuestos incluidos",
+  "subscription.section.pricing.annual.savings": "2 meses gratis"
 }

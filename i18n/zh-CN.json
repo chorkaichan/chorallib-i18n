@@ -648,7 +648,7 @@
   "subscription.section.official.feature4.note": "例如：合唱团的指挥和声乐指导资料",
   "subscription.section.official.feature5": "添加作品列表",
   "subscription.section.official.feature6": "发布博客和新闻",
-  "subscription.section.official.feature7": "在站点活动日历中发布演出和音乐会信息",
+  "subscription.section.official.feature7": "创建活动日历",
   "subscription.section.official.feature8": "联系表单",
   "subscription.section.official.feature9": "关注功能",
   "subscription.section.official.feature9.note": "已登录用户可以关注您的页面，并在您发布更新时自动收到电子邮件通知",
@@ -670,6 +670,14 @@
   "subscription.section.steps.step6.title": "释放全部潜力",
   "subscription.section.steps.step6.description": "利用官方页面的所有功能来展示您的合唱团或个人资料。",
   "subscription.section.pricing.title": "定价",
+  "subscription.section.pricing.subtitle": "官方页面付费方案的价格。官方页面的基本功能可免费使用。",
   "subscription.section.pricing.comingSoon": "即将推出",
-  "subscription.section.pricing.comingSoonDescription": "付费方案的定价详情正在最终确定中。一旦准备就绪，我们将在此页面公布。"
+  "subscription.section.pricing.monthly": "月付",
+  "subscription.section.pricing.monthly.price": "JPY 500",
+  "subscription.section.pricing.annual": "年付",
+  "subscription.section.pricing.annual.price": "JPY 5,000",
+  "subscription.section.pricing.perMonth": "/月",
+  "subscription.section.pricing.perYear": "/年",
+  "subscription.section.pricing.taxIncluded": "含税价格",
+  "subscription.section.pricing.annual.savings": "省2个月费用"
 }

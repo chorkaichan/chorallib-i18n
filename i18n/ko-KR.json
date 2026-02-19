@@ -648,7 +648,7 @@
   "subscription.section.official.feature4.note": "예: 합창단의 지휘자 및 보이스 트레이너 프로필",
   "subscription.section.official.feature5": "작품 목록 추가",
   "subscription.section.official.feature6": "블로그 및 뉴스 게시",
-  "subscription.section.official.feature7": "사이트 전체 이벤트 캘린더에 행사 및 공연 정보 등록",
+  "subscription.section.official.feature7": "이벤트 캘린더 만들기",
   "subscription.section.official.feature8": "문의 양식",
   "subscription.section.official.feature9": "팔로우 기능",
   "subscription.section.official.feature9.note": "로그인한 사용자가 페이지를 팔로우하면 업데이트 시 자동으로 이메일 알림을 받을 수 있습니다",
@@ -670,6 +670,14 @@
   "subscription.section.steps.step6.title": "모든 가능성 활용",
   "subscription.section.steps.step6.description": "공식 페이지의 모든 기능을 활용하여 합창단이나 프로필을 소개하세요.",
   "subscription.section.pricing.title": "요금",
+  "subscription.section.pricing.subtitle": "공식 페이지 유료 플랜 요금입니다. 공식 페이지의 기본 기능은 무료로 이용할 수 있습니다.",
   "subscription.section.pricing.comingSoon": "준비 중",
-  "subscription.section.pricing.comingSoonDescription": "유료 플랜의 가격 세부 사항은 현재 확정 중입니다. 준비가 완료되는 대로 이 페이지에서 안내드리겠습니다."
+  "subscription.section.pricing.monthly": "월간",
+  "subscription.section.pricing.monthly.price": "JPY 500",
+  "subscription.section.pricing.annual": "연간",
+  "subscription.section.pricing.annual.price": "JPY 5,000",
+  "subscription.section.pricing.perMonth": "/월",
+  "subscription.section.pricing.perYear": "/년",
+  "subscription.section.pricing.taxIncluded": "세금 포함 가격입니다",
+  "subscription.section.pricing.annual.savings": "2개월 무료"
 }

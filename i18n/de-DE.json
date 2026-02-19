@@ -648,7 +648,7 @@
   "subscription.section.official.feature4.note": "z. B. Dirigenten- und Stimmbildnerprofile für Ensembles",
   "subscription.section.official.feature5": "Werkliste hinzufügen",
   "subscription.section.official.feature6": "Blog- und Nachrichtenbeiträge",
-  "subscription.section.official.feature7": "Veranstaltungs- und Konzertinfos im seitenweiten Veranstaltungskalender eintragen",
+  "subscription.section.official.feature7": "Veranstaltungskalender erstellen",
   "subscription.section.official.feature8": "Kontaktformular",
   "subscription.section.official.feature9": "Folgen-Funktion",
   "subscription.section.official.feature9.note": "Angemeldete Nutzer können Ihrer Seite folgen und automatische E-Mail-Benachrichtigungen erhalten, wenn Sie Neuigkeiten veröffentlichen",
@@ -670,6 +670,14 @@
   "subscription.section.steps.step6.title": "Volles Potenzial entfalten",
   "subscription.section.steps.step6.description": "Nutzen Sie alle Funktionen der offiziellen Seite, um Ihr Ensemble oder Profil zu präsentieren.",
   "subscription.section.pricing.title": "Preise",
+  "subscription.section.pricing.subtitle": "Preise für kostenpflichtige Pläne der offiziellen Seite. Die Grundfunktionen der offiziellen Seite sind kostenlos verfügbar.",
   "subscription.section.pricing.comingSoon": "Demnächst verfügbar",
-  "subscription.section.pricing.comingSoonDescription": "Die Preisdetails für kostenpflichtige Pläne werden derzeit finalisiert. Wir werden sie auf dieser Seite bekanntgeben, sobald sie feststehen."
+  "subscription.section.pricing.monthly": "Monatlich",
+  "subscription.section.pricing.monthly.price": "JPY 500",
+  "subscription.section.pricing.annual": "Jährlich",
+  "subscription.section.pricing.annual.price": "JPY 5.000",
+  "subscription.section.pricing.perMonth": "/Monat",
+  "subscription.section.pricing.perYear": "/Jahr",
+  "subscription.section.pricing.taxIncluded": "Inkl. MwSt.",
+  "subscription.section.pricing.annual.savings": "2 Monate gratis"
 }

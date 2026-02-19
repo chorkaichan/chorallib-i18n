@@ -648,7 +648,7 @@
   "subscription.section.official.feature4.note": "es. profili del direttore e dell'istruttore vocale per gli ensemble",
   "subscription.section.official.feature5": "Aggiungere l'elenco delle opere",
   "subscription.section.official.feature6": "Pubblicazione di blog e notizie",
-  "subscription.section.official.feature7": "Inserire informazioni su eventi e concerti nel calendario eventi del sito",
+  "subscription.section.official.feature7": "Creare un calendario eventi",
   "subscription.section.official.feature8": "Modulo di contatto",
   "subscription.section.official.feature9": "Funzione di seguimento",
   "subscription.section.official.feature9.note": "Gli utenti registrati possono seguire la tua pagina e ricevere notifiche automatiche via e-mail quando pubblichi aggiornamenti",
@@ -670,6 +670,14 @@
   "subscription.section.steps.step6.title": "Sfrutta tutto il potenziale",
   "subscription.section.steps.step6.description": "Sfrutta tutte le funzionalità della pagina ufficiale per presentare il tuo ensemble o profilo.",
   "subscription.section.pricing.title": "Prezzi",
+  "subscription.section.pricing.subtitle": "Prezzi dei piani a pagamento per le pagine ufficiali. Le funzionalità base della pagina ufficiale sono disponibili gratuitamente.",
   "subscription.section.pricing.comingSoon": "Prossimamente",
-  "subscription.section.pricing.comingSoonDescription": "I dettagli sui prezzi dei piani a pagamento sono attualmente in fase di definizione. Li annunceremo su questa pagina non appena saranno pronti."
+  "subscription.section.pricing.monthly": "Mensile",
+  "subscription.section.pricing.monthly.price": "JPY 500",
+  "subscription.section.pricing.annual": "Annuale",
+  "subscription.section.pricing.annual.price": "JPY 5.000",
+  "subscription.section.pricing.perMonth": "/mese",
+  "subscription.section.pricing.perYear": "/anno",
+  "subscription.section.pricing.taxIncluded": "IVA inclusa",
+  "subscription.section.pricing.annual.savings": "2 mesi gratis"
 }
