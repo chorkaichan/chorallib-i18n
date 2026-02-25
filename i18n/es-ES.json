@@ -978,6 +978,7 @@
   "auth.login.error.email": "Por favor, introduce tu dirección de correo electrónico.",
   "auth.login.error.password": "Por favor, introduce tu contraseña.",
   "auth.login.success": "Sesión iniciada correctamente.",
+  "auth.logout.success": "Se cerró la sesión correctamente.",
   "auth.login.error.verifyHint": "Si no has verificado tu correo electrónico, ",
   "auth.login.error.verifyLink": "verifique aquí",
   "auth.login.registered": "Correo verificado correctamente. Inicie sesión.",

@@ -978,6 +978,7 @@
   "auth.login.error.email": "이메일 주소를 입력해 주세요.",
   "auth.login.error.password": "비밀번호를 입력해 주세요.",
   "auth.login.success": "로그인되었습니다.",
+  "auth.logout.success": "로그아웃했습니다.",
   "auth.login.error.verifyHint": "이메일 인증을 아직 하지 않으셨다면, ",
   "auth.login.error.verifyLink": "여기서 인증",
   "auth.login.registered": "이메일 인증이 완료되었습니다. 로그인해 주세요.",

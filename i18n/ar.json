@@ -978,6 +978,7 @@
   "auth.login.error.email": "يرجى إدخال عنوان بريدك الإلكتروني.",
   "auth.login.error.password": "يرجى إدخال كلمة المرور.",
   "auth.login.success": "تم تسجيل الدخول بنجاح.",
+  "auth.logout.success": "تم تسجيل الخروج بنجاح.",
   "auth.login.error.verifyHint": "إذا لم تقم بالتحقق من بريدك الإلكتروني، ",
   "auth.login.error.verifyLink": "تحقق هنا",
   "auth.login.registered": "تم التحقق من البريد الإلكتروني بنجاح. يرجى تسجيل الدخول.",

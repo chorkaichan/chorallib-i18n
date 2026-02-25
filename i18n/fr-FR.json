@@ -978,6 +978,7 @@
   "auth.login.error.email": "Veuillez saisir votre adresse e-mail.",
   "auth.login.error.password": "Veuillez saisir votre mot de passe.",
   "auth.login.success": "Connexion réussie.",
+  "auth.logout.success": "Déconnexion réussie.",
   "auth.login.error.verifyHint": "Si vous n'avez pas vérifié votre e-mail, ",
   "auth.login.error.verifyLink": "vérifiez ici",
   "auth.login.registered": "E-mail vérifié avec succès. Veuillez vous connecter.",

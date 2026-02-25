@@ -978,6 +978,7 @@
   "auth.login.error.email": "Bitte geben Sie Ihre E-Mail-Adresse ein.",
   "auth.login.error.password": "Bitte geben Sie Ihr Passwort ein.",
   "auth.login.success": "Erfolgreich angemeldet.",
+  "auth.logout.success": "Erfolgreich abgemeldet.",
   "auth.login.error.verifyHint": "Falls Sie Ihre E-Mail noch nicht bestätigt haben, ",
   "auth.login.error.verifyLink": "hier bestätigen",
   "auth.login.registered": "E-Mail erfolgreich bestätigt. Bitte melden Sie sich an.",

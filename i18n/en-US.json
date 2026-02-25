@@ -979,6 +979,7 @@
   "auth.login.error.email": "Please enter your email address.",
   "auth.login.error.password": "Please enter your password.",
   "auth.login.success": "Successfully logged in.",
+  "auth.logout.success": "Successfully logged out.",
   "auth.login.error.verifyHint": "If you haven't verified your email, ",
   "auth.login.error.verifyLink": "verify here",
   "auth.login.registered": "Email verified successfully. Please log in.",

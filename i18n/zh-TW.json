@@ -978,6 +978,7 @@
   "auth.login.error.email": "請輸入電子郵件地址。",
   "auth.login.error.password": "請輸入密碼。",
   "auth.login.success": "登入成功。",
+  "auth.logout.success": "已成功登出。",
   "auth.login.error.verifyHint": "如果您尚未驗證信箱，",
   "auth.login.error.verifyLink": "點此驗證",
   "auth.login.registered": "信箱驗證成功，請登入。",

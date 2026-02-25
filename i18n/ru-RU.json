@@ -978,6 +978,7 @@
   "auth.login.error.email": "Введите адрес электронной почты.",
   "auth.login.error.password": "Введите пароль.",
   "auth.login.success": "Вход выполнен успешно.",
+  "auth.logout.success": "Вы успешно вышли из системы.",
   "auth.login.error.verifyHint": "Если вы ещё не подтвердили свою почту, ",
   "auth.login.error.verifyLink": "подтвердите здесь",
   "auth.login.registered": "Почта успешно подтверждена. Пожалуйста, войдите.",

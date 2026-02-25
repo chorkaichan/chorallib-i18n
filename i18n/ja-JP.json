@@ -979,6 +979,7 @@
   "auth.login.error.email": "メールアドレスを入力してください。",
   "auth.login.error.password": "パスワードを入力してください。",
   "auth.login.success": "ログインしました。",
+  "auth.logout.success": "ログアウトしました。",
   "auth.login.error.verifyHint": "メール確認がお済みでない場合は、",
   "auth.login.error.verifyLink": "こちらから確認",
   "auth.login.registered": "メール確認が完了しました。ログインしてください。",
