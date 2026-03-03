@@ -961,7 +961,7 @@
   "subscription.cta.subscribe": "Abbonati",
   "subscription.cta.subscribe.monthly": "Abbonati al piano mensile",
   "subscription.cta.subscribe.annual": "Abbonati al piano annuale",
-  "subscription.trial.info": "Include 7 giorni di prova gratuita",
+  "subscription.trial.info": "Include 90 giorni di prova gratuita (offerta limitata fino al 30 aprile)",
   "subscription.success.title": "Pagamento completato",
   "subscription.success.description": "Grazie per aver sottoscritto il piano a pagamento!",
   "subscription.alreadySubscribed": "Questa pagina ha già un abbonamento attivo.",

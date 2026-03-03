@@ -961,7 +961,7 @@
   "subscription.cta.subscribe": "اشتراك",
   "subscription.cta.subscribe.monthly": "الاشتراك في الخطة الشهرية",
   "subscription.cta.subscribe.annual": "الاشتراك في الخطة السنوية",
-  "subscription.trial.info": "يتضمن فترة تجريبية مجانية لمدة 7 أيام",
+  "subscription.trial.info": "يتضمن فترة تجريبية مجانية لمدة 90 يومًا (عرض محدود حتى 30 أبريل)",
   "subscription.success.title": "اكتملت عملية الدفع",
   "subscription.success.description": "شكرًا لاشتراكك في الخطة المدفوعة!",
   "subscription.alreadySubscribed": "هذه الصفحة لديها اشتراك نشط بالفعل.",

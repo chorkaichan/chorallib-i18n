@@ -961,7 +961,7 @@
   "subscription.cta.subscribe": "Subscribe",
   "subscription.cta.subscribe.monthly": "Subscribe to monthly plan",
   "subscription.cta.subscribe.annual": "Subscribe to annual plan",
-  "subscription.trial.info": "Includes a 7-day free trial",
+  "subscription.trial.info": "Includes a 90-day free trial (limited offer until April 30)",
   "subscription.success.title": "Payment Complete",
   "subscription.success.description": "Thank you for subscribing to the paid plan!",
   "subscription.alreadySubscribed": "This page already has an active subscription.",

@@ -961,7 +961,7 @@
   "subscription.cta.subscribe": "S'abonner",
   "subscription.cta.subscribe.monthly": "S'abonner au plan mensuel",
   "subscription.cta.subscribe.annual": "S'abonner au plan annuel",
-  "subscription.trial.info": "Inclut un essai gratuit de 7 jours",
+  "subscription.trial.info": "Inclut un essai gratuit de 90 jours (offre limitée jusqu'au 30 avril)",
   "subscription.success.title": "Paiement effectué",
   "subscription.success.description": "Merci d'avoir souscrit au plan payant !",
   "subscription.alreadySubscribed": "Cette page a déjà un abonnement actif.",

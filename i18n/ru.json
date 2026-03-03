@@ -961,7 +961,7 @@
   "subscription.cta.subscribe": "Подписаться",
   "subscription.cta.subscribe.monthly": "Подписаться на месячный план",
   "subscription.cta.subscribe.annual": "Подписаться на годовой план",
-  "subscription.trial.info": "Включает 7-дневный бесплатный пробный период",
+  "subscription.trial.info": "Включает 90-дневный бесплатный пробный период (ограниченное предложение до 30 апреля)",
   "subscription.success.title": "Оплата завершена",
   "subscription.success.description": "Спасибо за подписку на платный план!",
   "subscription.alreadySubscribed": "Эта страница уже имеет активную подписку.",
