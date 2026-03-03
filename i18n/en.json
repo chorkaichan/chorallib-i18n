@@ -938,7 +938,7 @@
   "subscription.section.steps.step1.title": "Create an account",
   "subscription.section.steps.step1.description": "Sign in easily with your Google account.",
   "subscription.section.steps.step2.title": "Request an official page",
-  "subscription.section.steps.step2.description": "Apply to manage a page from the choir, artist, composer, or lyricist screen.",
+  "subscription.section.steps.step2.description": "Apply to manage a page from the choir, artist, composer, or lyricist screen. If the page doesn't exist yet, you'll need to create it first.",
   "subscription.section.steps.step3.title": "Review & approval",
   "subscription.section.steps.step3.description": "Our team will review your request and grant editing access upon approval.",
   "subscription.section.steps.step4.title": "Start editing with free features",
@@ -975,7 +975,6 @@
   "subscription.cancelPlan.confirm.action": "Cancel subscription",
   "subscription.continuePlan": "Continue subscription",
   "subscription.cancelDate": "Subscription will be cancelled on {date}",
-
   "auth.login.title": "Log in",
   "auth.login.email": "Email",
   "auth.login.password": "Password",
@@ -989,7 +988,6 @@
   "auth.login.error.verifyLink": "verify here",
   "auth.login.registered": "Email verified successfully. Please log in.",
   "auth.login.noAccount": "Don't have an account?",
-
   "auth.register.title": "Create Account",
   "auth.register.email": "Email",
   "auth.register.password": "Password",
@@ -1001,7 +999,6 @@
   "auth.register.error.password": "At least 8 characters, including a letter and a number.",
   "auth.register.error.passwordConfirm": "Passwords do not match.",
   "auth.register.hasAccount": "Already have an account?",
-
   "auth.verify.title": "Verify Email",
   "auth.verify.description": "A verification code has been sent to {email}.",
   "auth.verify.code": "Verification Code",
@@ -1013,10 +1010,8 @@
   "auth.verify.error.codeExpired": "Verification code has expired. Please resend.",
   "auth.verify.error.tooManyAttempts": "Too many attempts. Please resend the code.",
   "auth.verify.error.cooldown": "Please wait {seconds} seconds before resending.",
-
   "auth.login.forgotPassword": "Forgot password?",
   "auth.login.passwordReset": "Password has been reset. Please log in.",
-
   "auth.forgot.title": "Reset Password",
   "auth.forgot.description": "Enter your email address and we'll send you a code to reset your password.",
   "auth.forgot.submit": "Send Reset Code",
@@ -1024,7 +1019,6 @@
   "auth.forgot.sent": "If an account exists with that email, a reset code has been sent.",
   "auth.forgot.error.email": "Please enter a valid email address.",
   "auth.forgot.error.cooldown": "Please wait {seconds} seconds before resending.",
-
   "auth.reset.title": "Set New Password",
   "auth.reset.description": "A reset code has been sent to {email}.",
   "auth.reset.code": "Reset Code",
@@ -1040,7 +1034,6 @@
   "auth.reset.error.cooldown": "Please wait {seconds} seconds before resending.",
   "auth.steps.register": "Register",
   "auth.steps.verify": "Verify",
-
   "common.showMore": "Show more",
   "common.showLess": "Show less",
   "page.external.display.events.viewAll": "All events",

@@ -938,7 +938,7 @@
   "subscription.section.steps.step1.title": "Crear una cuenta",
   "subscription.section.steps.step1.description": "Inicia sesión fácilmente con tu cuenta de Google.",
   "subscription.section.steps.step2.title": "Solicitar una página oficial",
-  "subscription.section.steps.step2.description": "Solicita gestionar una página desde la pantalla de coro, artista, compositor o letrista.",
+  "subscription.section.steps.step2.description": "Solicita gestionar una página desde la pantalla de coro, artista, compositor o letrista. Si la página aún no existe, primero deberás crearla.",
   "subscription.section.steps.step3.title": "Revisión y aprobación",
   "subscription.section.steps.step3.description": "Nuestro equipo revisará tu solicitud y te otorgará acceso de edición tras la aprobación.",
   "subscription.section.steps.step4.title": "Empieza a editar con las funciones gratuitas",

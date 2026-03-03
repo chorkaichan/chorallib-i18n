@@ -938,7 +938,7 @@
   "subscription.section.steps.step1.title": "アカウント作成",
   "subscription.section.steps.step1.description": "Googleアカウントで簡単にログインできます。",
   "subscription.section.steps.step2.title": "公式ページを申請",
-  "subscription.section.steps.step2.description": "合唱団・アーティスト・作曲家・作詞家の各画面からページ管理を申請します。",
+  "subscription.section.steps.step2.description": "合唱団・アーティスト・作曲家・作詞家の各画面からページ管理を申請します。該当する画面がまだ作成されていない場合は、先に新規作成してください。",
   "subscription.section.steps.step3.title": "審査・承認",
   "subscription.section.steps.step3.description": "運営チームが申請内容を確認し、承認後に編集可能になります。",
   "subscription.section.steps.step4.title": "無料機能で編集開始",
@@ -975,7 +975,6 @@
   "subscription.cancelPlan.confirm.action": "解約する",
   "subscription.continuePlan": "有料プランを継続",
   "subscription.cancelDate": "有料プランは{date}にキャンセルされます",
-
   "auth.login.title": "ログイン",
   "auth.login.email": "メールアドレス",
   "auth.login.password": "パスワード",
@@ -989,7 +988,6 @@
   "auth.login.error.verifyLink": "こちらから確認",
   "auth.login.registered": "メール確認が完了しました。ログインしてください。",
   "auth.login.noAccount": "アカウントをお持ちでないですか？",
-
   "auth.register.title": "アカウント作成",
   "auth.register.email": "メールアドレス",
   "auth.register.password": "パスワード",
@@ -1001,7 +999,6 @@
   "auth.register.error.password": "8文字以上で英字と数字を含めてください。",
   "auth.register.error.passwordConfirm": "パスワードが一致しません。",
   "auth.register.hasAccount": "すでにアカウントをお持ちですか？",
-
   "auth.verify.title": "メール確認",
   "auth.verify.description": "{email} に確認コードを送信しました。",
   "auth.verify.code": "確認コード",
@@ -1013,10 +1010,8 @@
   "auth.verify.error.codeExpired": "確認コードの有効期限が切れました。再送信してください。",
   "auth.verify.error.tooManyAttempts": "試行回数の上限に達しました。コードを再送信してください。",
   "auth.verify.error.cooldown": "再送信は{seconds}秒後に可能です。",
-
   "auth.login.forgotPassword": "パスワードを忘れた方",
   "auth.login.passwordReset": "パスワードが再設定されました。ログインしてください。",
-
   "auth.forgot.title": "パスワード再設定",
   "auth.forgot.description": "メールアドレスを入力してください。パスワード再設定用のコードを送信します。",
   "auth.forgot.submit": "再設定コードを送信",
@@ -1024,7 +1019,6 @@
   "auth.forgot.sent": "アカウントが存在する場合、再設定コードを送信しました。",
   "auth.forgot.error.email": "有効なメールアドレスを入力してください。",
   "auth.forgot.error.cooldown": "再送信は{seconds}秒後に可能です。",
-
   "auth.reset.title": "新しいパスワード設定",
   "auth.reset.description": "{email} に再設定コードを送信しました。",
   "auth.reset.code": "再設定コード",
@@ -1040,7 +1034,6 @@
   "auth.reset.error.cooldown": "再送信は{seconds}秒後に可能です。",
   "auth.steps.register": "登録",
   "auth.steps.verify": "確認",
-
   "common.showMore": "続きを読む",
   "common.showLess": "閉じる",
   "page.external.display.events.viewAll": "すべてのイベント",

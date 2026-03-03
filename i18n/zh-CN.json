@@ -938,7 +938,7 @@
   "subscription.section.steps.step1.title": "创建账号",
   "subscription.section.steps.step1.description": "使用 Google 账号轻松登录。",
   "subscription.section.steps.step2.title": "申请官方页面",
-  "subscription.section.steps.step2.description": "从合唱团、艺术家、作曲家或词作者页面提交管理申请。",
+  "subscription.section.steps.step2.description": "从合唱团、艺术家、作曲家或词作者页面提交管理申请。如果该页面尚未创建，请先创建。",
   "subscription.section.steps.step3.title": "审核与批准",
   "subscription.section.steps.step3.description": "我们的团队将审核您的申请，并在批准后授予编辑权限。",
   "subscription.section.steps.step4.title": "使用免费功能开始编辑",

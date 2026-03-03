@@ -938,7 +938,7 @@
   "subscription.section.steps.step1.title": "إنشاء حساب",
   "subscription.section.steps.step1.description": "سجّل الدخول بسهولة باستخدام حساب Google الخاص بك.",
   "subscription.section.steps.step2.title": "طلب صفحة رسمية",
-  "subscription.section.steps.step2.description": "تقدّم بطلب لإدارة صفحة من شاشة الفرقة الكورالية أو الفنان أو المؤلف أو كاتب الأغاني.",
+  "subscription.section.steps.step2.description": "تقدّم بطلب لإدارة صفحة من شاشة الفرقة الكورالية أو الفنان أو المؤلف أو كاتب الأغاني. إذا لم تكن الصفحة موجودة بعد، يجب إنشاؤها أولاً.",
   "subscription.section.steps.step3.title": "المراجعة والموافقة",
   "subscription.section.steps.step3.description": "سيراجع فريقنا طلبك ويمنحك صلاحية التعديل عند الموافقة.",
   "subscription.section.steps.step4.title": "ابدأ التعديل بالميزات المجانية",
