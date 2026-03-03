@@ -962,6 +962,7 @@
   "subscription.cta.subscribe.monthly": "Langgan pelan bulanan",
   "subscription.cta.subscribe.annual": "Langgan pelan tahunan",
   "subscription.trial.info": "Termasuk percubaan percuma 90 hari (tawaran terhad sehingga 30 April)",
+  "subscription.trial.info.default": "Termasuk percubaan percuma 7 hari",
   "subscription.success.title": "Pembayaran Selesai",
   "subscription.success.description": "Terima kasih kerana melanggan pelan berbayar!",
   "subscription.alreadySubscribed": "Halaman ini sudah mempunyai langganan aktif.",

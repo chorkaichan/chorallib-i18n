@@ -962,6 +962,7 @@
   "subscription.cta.subscribe.monthly": "訂閱月付方案",
   "subscription.cta.subscribe.annual": "訂閱年付方案",
   "subscription.trial.info": "包含90天免費試用（限時優惠，截至4月30日）",
+  "subscription.trial.info.default": "包含7天免費試用",
   "subscription.success.title": "付款已完成",
   "subscription.success.description": "感謝您訂閱付費方案！",
   "subscription.alreadySubscribed": "此頁面已有有效訂閱。",

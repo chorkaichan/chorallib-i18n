@@ -962,6 +962,7 @@
   "subscription.cta.subscribe.monthly": "월간 플랜 구독",
   "subscription.cta.subscribe.annual": "연간 플랜 구독",
   "subscription.trial.info": "90일 무료 체험 포함 (4월 30일까지 한정 혜택)",
+  "subscription.trial.info.default": "7일 무료 체험 포함",
   "subscription.success.title": "결제가 완료되었습니다",
   "subscription.success.description": "유료 플랜에 가입해 주셔서 감사합니다!",
   "subscription.alreadySubscribed": "이 페이지는 이미 유료 플랜을 구독하고 있습니다.",

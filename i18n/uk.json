@@ -962,6 +962,7 @@
   "subscription.cta.subscribe.monthly": "Підписатися на місячний план",
   "subscription.cta.subscribe.annual": "Підписатися на річний план",
   "subscription.trial.info": "Включає 90-денний безкоштовний пробний період (обмежена пропозиція до 30 квітня)",
+  "subscription.trial.info.default": "Включає 7-денний безкоштовний пробний період",
   "subscription.success.title": "Оплату завершено",
   "subscription.success.description": "Дякуємо за підписку на платний план!",
   "subscription.alreadySubscribed": "Ця сторінка вже має активну підписку.",

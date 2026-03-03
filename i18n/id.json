@@ -962,6 +962,7 @@
   "subscription.cta.subscribe.monthly": "Berlangganan paket bulanan",
   "subscription.cta.subscribe.annual": "Berlangganan paket tahunan",
   "subscription.trial.info": "Termasuk uji coba gratis 90 hari (penawaran terbatas hingga 30 April)",
+  "subscription.trial.info.default": "Termasuk uji coba gratis 7 hari",
   "subscription.success.title": "Pembayaran Selesai",
   "subscription.success.description": "Terima kasih telah berlangganan paket berbayar!",
   "subscription.alreadySubscribed": "Halaman ini sudah memiliki langganan aktif.",

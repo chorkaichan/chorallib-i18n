@@ -962,6 +962,7 @@
   "subscription.cta.subscribe.monthly": "月額プランに申し込む",
   "subscription.cta.subscribe.annual": "年額プランに申し込む",
   "subscription.trial.info": "90日間の無料トライアル付き（4/30までの期間限定）",
+  "subscription.trial.info.default": "7日間の無料トライアル付き",
   "subscription.success.title": "決済が完了しました",
   "subscription.success.description": "有料プランへのお申し込みありがとうございます！",
   "subscription.alreadySubscribed": "このページは既に有料プランを契約しています。",
