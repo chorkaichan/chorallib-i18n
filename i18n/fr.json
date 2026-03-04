@@ -136,7 +136,7 @@
   "search.resetFilters": "Réinitialiser",
   "search.searchTarget": "Cible de recherche",
   "search.searchTargetScoreOnly": "Partitions uniquement",
-  "search.searchTargetIncludeSongs": "Inclure les mouvements",
+  "search.searchTargetIncludeSongs": "Partitions et mouvements",
   "search.ensembleType": "Type d'ensemble",
   "search.selectEnsembleType": "Sélectionner le type d'ensemble",
   "search.allEnsembleTypes": "Tous",

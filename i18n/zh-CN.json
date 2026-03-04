@@ -136,7 +136,7 @@
   "search.resetFilters": "重置",
   "search.searchTarget": "搜索范围",
   "search.searchTargetScoreOnly": "仅乐谱",
-  "search.searchTargetIncludeSongs": "包含乐章",
+  "search.searchTargetIncludeSongs": "乐谱和乐章",
   "search.ensembleType": "合唱类型",
   "search.selectEnsembleType": "选择合唱类型",
   "search.allEnsembleTypes": "全部",

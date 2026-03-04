@@ -136,7 +136,7 @@
   "search.resetFilters": "Restablecer",
   "search.searchTarget": "Objetivo de búsqueda",
   "search.searchTargetScoreOnly": "Solo partituras",
-  "search.searchTargetIncludeSongs": "Incluir movimientos",
+  "search.searchTargetIncludeSongs": "Partituras y movimientos",
   "search.ensembleType": "Tipo de conjunto",
   "search.selectEnsembleType": "Seleccionar tipo de conjunto",
   "search.allEnsembleTypes": "Todos",

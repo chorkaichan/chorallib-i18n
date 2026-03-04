@@ -136,7 +136,7 @@
   "search.resetFilters": "إعادة تعيين",
   "search.searchTarget": "هدف البحث",
   "search.searchTargetScoreOnly": "المقطوعات فقط",
-  "search.searchTargetIncludeSongs": "تضمين الحركات",
+  "search.searchTargetIncludeSongs": "المقطوعات والحركات",
   "search.ensembleType": "نوع الفرقة",
   "search.selectEnsembleType": "اختر نوع الفرقة",
   "search.allEnsembleTypes": "الكل",

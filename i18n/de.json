@@ -136,7 +136,7 @@
   "search.resetFilters": "Zurücksetzen",
   "search.searchTarget": "Suchziel",
   "search.searchTargetScoreOnly": "Nur Partituren",
-  "search.searchTargetIncludeSongs": "Sätze einschließen",
+  "search.searchTargetIncludeSongs": "Partituren und Sätze",
   "search.ensembleType": "Ensembletyp",
   "search.selectEnsembleType": "Ensembletyp auswählen",
   "search.allEnsembleTypes": "Alle",

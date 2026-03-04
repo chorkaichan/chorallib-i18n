@@ -136,7 +136,7 @@
   "search.resetFilters": "重設",
   "search.searchTarget": "搜尋範圍",
   "search.searchTargetScoreOnly": "僅樂譜",
-  "search.searchTargetIncludeSongs": "包含樂章",
+  "search.searchTargetIncludeSongs": "樂譜和樂章",
   "search.ensembleType": "合唱類型",
   "search.selectEnsembleType": "選擇合唱類型",
   "search.allEnsembleTypes": "全部",

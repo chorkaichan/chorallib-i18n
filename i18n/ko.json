@@ -136,7 +136,7 @@
   "search.resetFilters": "초기화",
   "search.searchTarget": "검색 대상",
   "search.searchTargetScoreOnly": "악보만",
-  "search.searchTargetIncludeSongs": "악장 포함",
+  "search.searchTargetIncludeSongs": "악보와 악장",
   "search.ensembleType": "앙상블 유형",
   "search.selectEnsembleType": "앙상블 유형 선택",
   "search.allEnsembleTypes": "전체",

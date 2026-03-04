@@ -136,7 +136,7 @@
   "search.resetFilters": "Сбросить",
   "search.searchTarget": "Цель поиска",
   "search.searchTargetScoreOnly": "Только партитуры",
-  "search.searchTargetIncludeSongs": "Включить части",
+  "search.searchTargetIncludeSongs": "Партитуры и части",
   "search.ensembleType": "Тип ансамбля",
   "search.selectEnsembleType": "Выберите тип ансамбля",
   "search.allEnsembleTypes": "Все",

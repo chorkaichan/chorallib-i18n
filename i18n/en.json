@@ -136,7 +136,7 @@
   "search.resetFilters": "Reset",
   "search.searchTarget": "Search Target",
   "search.searchTargetScoreOnly": "Scores Only",
-  "search.searchTargetIncludeSongs": "Include Movements",
+  "search.searchTargetIncludeSongs": "Scores and Movements",
   "search.ensembleType": "Ensemble Type",
   "search.selectEnsembleType": "Select ensemble type",
   "search.allEnsembleTypes": "All",
