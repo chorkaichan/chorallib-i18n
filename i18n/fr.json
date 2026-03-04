@@ -628,7 +628,7 @@
   "pages.external.empty": "Aucune page officielle pour le moment. Vous pouvez demander une page officielle depuis les pages de détails des chœurs, artistes, compositeurs ou paroliers.",
   "pages.external.viewPublic": "Voir la page publique",
   "pages.external.view": "Voir",
-  "page.external.previewBanner": "Le profil et les liens sont définis comme privés. Seuls les administrateurs de la page peuvent voir cet aperçu.",
+  "page.external.previewBanner": "Seuls les administrateurs de la page peuvent voir cet aperçu.",
   "page.external.preview.unpublished": "Cette page n'est pas publiée",
   "pages.entityType.choir": "Chœur",
   "pages.entityType.artist": "Artiste",

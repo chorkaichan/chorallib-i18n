@@ -628,7 +628,7 @@
   "pages.external.empty": "Noch keine offiziellen Seiten. Sie können eine offizielle Seite über die Detail-Seiten von Chören, Künstlern, Komponisten oder Textern beantragen.",
   "pages.external.viewPublic": "Öffentliche Seite anzeigen",
   "pages.external.view": "Anzeigen",
-  "page.external.previewBanner": "Profil und Links sind auf privat gesetzt. Nur Seitenadministratoren können diese Vorschau sehen.",
+  "page.external.previewBanner": "Nur Seitenadministratoren können diese Vorschau sehen.",
   "page.external.preview.unpublished": "Diese Seite ist nicht veröffentlicht",
   "pages.entityType.choir": "Chor",
   "pages.entityType.artist": "Künstler",

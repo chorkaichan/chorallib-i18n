@@ -628,7 +628,7 @@
   "pages.external.empty": "No official pages yet. You can request an official page from the choir, artist, composer, or lyricist detail pages.",
   "pages.external.viewPublic": "View public page",
   "pages.external.view": "View",
-  "page.external.previewBanner": "Profile and links are set to private. Only page administrators can see this preview.",
+  "page.external.previewBanner": "Only page administrators can see this preview.",
   "page.external.preview.unpublished": "This page is not published",
   "pages.entityType.choir": "Choir",
   "pages.entityType.artist": "Artist",

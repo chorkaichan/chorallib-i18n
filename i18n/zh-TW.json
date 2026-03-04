@@ -628,7 +628,7 @@
   "pages.external.empty": "暫無官方頁面。您可以從合唱團、藝術家、作曲家或作詞家的詳情頁面申請官方頁面。",
   "pages.external.viewPublic": "查看公開頁面",
   "pages.external.view": "查看",
-  "page.external.previewBanner": "個人資料和連結已設為非公開。僅頁面管理員可查看此預覽。",
+  "page.external.previewBanner": "僅頁面管理員可查看此預覽。",
   "page.external.preview.unpublished": "此頁面未發佈",
   "pages.entityType.choir": "合唱團",
   "pages.entityType.artist": "藝術家",

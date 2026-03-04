@@ -628,7 +628,7 @@
   "pages.external.empty": "Aún no hay páginas oficiales. Puede solicitar una página oficial desde las páginas de detalle de coros, artistas, compositores o letristas.",
   "pages.external.viewPublic": "Ver página pública",
   "pages.external.view": "Ver",
-  "page.external.previewBanner": "El perfil y los enlaces están configurados como privados. Solo los administradores de la página pueden ver esta vista previa.",
+  "page.external.previewBanner": "Solo los administradores de la página pueden ver esta vista previa.",
   "page.external.preview.unpublished": "Esta página no está publicada",
   "pages.entityType.choir": "Coro",
   "pages.entityType.artist": "Artista",

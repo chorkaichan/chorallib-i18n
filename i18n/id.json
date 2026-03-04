@@ -628,7 +628,7 @@
   "pages.external.empty": "Belum ada halaman resmi. Anda dapat mengajukan halaman resmi dari halaman detail paduan suara, artis, komposer, atau penulis lirik.",
   "pages.external.viewPublic": "Lihat halaman publik",
   "pages.external.view": "Lihat",
-  "page.external.previewBanner": "Profil dan tautan diatur sebagai privat. Hanya administrator halaman yang dapat melihat pratinjau ini.",
+  "page.external.previewBanner": "Hanya administrator halaman yang dapat melihat pratinjau ini.",
   "page.external.preview.unpublished": "Halaman ini belum dipublikasikan",
   "pages.entityType.choir": "Paduan Suara",
   "pages.entityType.artist": "Artis",

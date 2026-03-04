@@ -628,7 +628,7 @@
   "pages.external.empty": "لا توجد صفحات رسمية بعد. يمكنك طلب صفحة رسمية من صفحات تفاصيل الجوقة أو الفنان أو الملحن أو كاتب الكلمات.",
   "pages.external.viewPublic": "عرض الصفحة العامة",
   "pages.external.view": "عرض",
-  "page.external.previewBanner": "الملف الشخصي والروابط مخفية. يمكن لمسؤولي الصفحة فقط رؤية هذه المعاينة.",
+  "page.external.previewBanner": "يمكن لمسؤولي الصفحة فقط رؤية هذه المعاينة.",
   "page.external.preview.unpublished": "هذه الصفحة غير منشورة",
   "pages.entityType.choir": "جوقة",
   "pages.entityType.artist": "فنان",

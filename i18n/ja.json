@@ -628,7 +628,7 @@
   "pages.external.empty": "公式ページはまだありません。公式ページは合唱団、アーティスト、作曲者、作詞者の各画面から申請を行うことで作成することができます。",
   "pages.external.viewPublic": "公開ページを見る",
   "pages.external.view": "表示",
-  "page.external.previewBanner": "プロフィール・SNSリンクは非公開に設定されています。このプレビューはページ管理者のみ閲覧できます。",
+  "page.external.previewBanner": "このプレビューはページ管理者のみ閲覧できます。",
   "page.external.preview.unpublished": "このページは非公開です",
   "pages.entityType.choir": "合唱団",
   "pages.entityType.artist": "アーティスト",
