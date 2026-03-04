@@ -874,6 +874,7 @@
   "page.external.display.events.moreInfo": "更多資訊",
   "page.external.display.posts": "部落格",
   "page.external.display.contact.title": "聯絡我們",
+  "page.external.display.contact.notice": "此訊息將直接傳送給頁面管理員，而非 ChoralLib 團隊。",
   "page.external.display.contact.name": "姓名",
   "page.external.display.contact.email": "電子信箱",
   "page.external.display.contact.subject": "主旨",

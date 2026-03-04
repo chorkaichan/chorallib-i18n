@@ -874,6 +874,7 @@
   "page.external.display.events.moreInfo": "更多信息",
   "page.external.display.posts": "博客",
   "page.external.display.contact.title": "联系我们",
+  "page.external.display.contact.notice": "此消息将直接发送给页面管理员，而非 ChoralLib 团队。",
   "page.external.display.contact.name": "姓名",
   "page.external.display.contact.email": "邮箱",
   "page.external.display.contact.subject": "主题",

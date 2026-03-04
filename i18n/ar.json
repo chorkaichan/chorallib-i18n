@@ -874,6 +874,7 @@
   "page.external.display.events.moreInfo": "مزيد من المعلومات",
   "page.external.display.posts": "المدونة",
   "page.external.display.contact.title": "تواصل معنا",
+  "page.external.display.contact.notice": "سيتم إرسال هذه الرسالة مباشرة إلى مسؤول الصفحة، وليس إلى فريق ChoralLib.",
   "page.external.display.contact.name": "الاسم",
   "page.external.display.contact.email": "البريد الإلكتروني",
   "page.external.display.contact.subject": "الموضوع",

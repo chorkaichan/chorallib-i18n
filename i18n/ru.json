@@ -874,6 +874,7 @@
   "page.external.display.events.moreInfo": "Подробнее",
   "page.external.display.posts": "Блог",
   "page.external.display.contact.title": "Контакты",
+  "page.external.display.contact.notice": "Это сообщение будет отправлено напрямую администратору страницы, а не команде ChoralLib.",
   "page.external.display.contact.name": "Имя",
   "page.external.display.contact.email": "Электронная почта",
   "page.external.display.contact.subject": "Тема",

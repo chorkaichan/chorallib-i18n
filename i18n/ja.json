@@ -874,6 +874,7 @@
   "page.external.display.events.moreInfo": "詳細",
   "page.external.display.posts": "ブログ",
   "page.external.display.contact.title": "お問い合わせ",
+  "page.external.display.contact.notice": "このお問い合わせはページ管理者に直接送信されます。ChoralLib運営チームへは送信されません。",
   "page.external.display.contact.name": "お名前",
   "page.external.display.contact.email": "メールアドレス",
   "page.external.display.contact.subject": "件名",

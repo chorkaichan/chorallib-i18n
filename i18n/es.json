@@ -874,6 +874,7 @@
   "page.external.display.events.moreInfo": "Más información",
   "page.external.display.posts": "Blog",
   "page.external.display.contact.title": "Contacto",
+  "page.external.display.contact.notice": "Este mensaje se enviará directamente al administrador de la página, no al equipo de ChoralLib.",
   "page.external.display.contact.name": "Nombre",
   "page.external.display.contact.email": "Correo electrónico",
   "page.external.display.contact.subject": "Asunto",

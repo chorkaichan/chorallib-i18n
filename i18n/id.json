@@ -874,6 +874,7 @@
   "page.external.display.events.moreInfo": "Info selengkapnya",
   "page.external.display.posts": "Blog",
   "page.external.display.contact.title": "Kontak",
+  "page.external.display.contact.notice": "Pesan ini akan dikirim langsung ke administrator halaman, bukan ke tim ChoralLib.",
   "page.external.display.contact.name": "Nama",
   "page.external.display.contact.email": "Email",
   "page.external.display.contact.subject": "Subjek",
