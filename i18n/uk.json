@@ -686,6 +686,7 @@
   "page.external.edit.section.admin": "Адміністрування",
   "page.external.edit.saved": "Зміни збережено",
   "page.external.edit.error": "Не вдалося зберегти зміни",
+  "page.external.edit.customIdConflict": "Цей користувацький ID вже використовується. Будь ласка, виберіть інший.",
   "page.external.edit.statusUpdated": "Статус оновлено",
   "page.external.edit.adminSection": "Дії адміністратора",
   "page.external.edit.verificationMessage": "Повідомлення для верифікації",

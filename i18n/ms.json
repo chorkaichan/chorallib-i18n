@@ -686,6 +686,7 @@
   "page.external.edit.section.admin": "Pentadbir",
   "page.external.edit.saved": "Perubahan disimpan",
   "page.external.edit.error": "Gagal menyimpan perubahan",
+  "page.external.edit.customIdConflict": "ID tersuai ini sudah digunakan. Sila pilih yang lain.",
   "page.external.edit.statusUpdated": "Status dikemas kini",
   "page.external.edit.adminSection": "Tindakan Pentadbir",
   "page.external.edit.verificationMessage": "Mesej Pengesahan",

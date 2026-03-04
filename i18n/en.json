@@ -686,6 +686,7 @@
   "page.external.edit.section.admin": "Admin",
   "page.external.edit.saved": "Changes saved",
   "page.external.edit.error": "Failed to save changes",
+  "page.external.edit.customIdConflict": "This custom ID is already in use. Please choose a different one.",
   "page.external.edit.statusUpdated": "Status updated",
   "page.external.edit.adminSection": "Admin Actions",
   "page.external.edit.verificationMessage": "Verification Message",

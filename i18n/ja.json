@@ -686,6 +686,7 @@
   "page.external.edit.section.admin": "管理",
   "page.external.edit.saved": "変更を保存しました",
   "page.external.edit.error": "保存に失敗しました",
+  "page.external.edit.customIdConflict": "このカスタムIDは既に使用されています。別のIDを指定してください。",
   "page.external.edit.statusUpdated": "ステータスを更新しました",
   "page.external.edit.adminSection": "管理者アクション",
   "page.external.edit.verificationMessage": "確認メッセージ",

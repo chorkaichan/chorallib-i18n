@@ -686,6 +686,7 @@
   "page.external.edit.section.admin": "관리",
   "page.external.edit.saved": "변경사항이 저장되었습니다",
   "page.external.edit.error": "저장에 실패했습니다",
+  "page.external.edit.customIdConflict": "이 사용자 정의 ID는 이미 사용 중입니다. 다른 ID를 선택해 주세요.",
   "page.external.edit.statusUpdated": "상태가 업데이트되었습니다",
   "page.external.edit.adminSection": "관리자 작업",
   "page.external.edit.verificationMessage": "인증 메시지",

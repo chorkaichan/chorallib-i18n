@@ -686,6 +686,7 @@
   "page.external.edit.section.admin": "Amministrazione",
   "page.external.edit.saved": "Modifiche salvate",
   "page.external.edit.error": "Salvataggio non riuscito",
+  "page.external.edit.customIdConflict": "Questo ID personalizzato è già in uso. Scegline un altro.",
   "page.external.edit.statusUpdated": "Stato aggiornato",
   "page.external.edit.adminSection": "Azioni amministratore",
   "page.external.edit.verificationMessage": "Messaggio di verifica",

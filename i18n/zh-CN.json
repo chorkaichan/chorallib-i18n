@@ -686,6 +686,7 @@
   "page.external.edit.section.admin": "管理",
   "page.external.edit.saved": "更改已保存",
   "page.external.edit.error": "保存失败",
+  "page.external.edit.customIdConflict": "此自定义 ID 已被使用，请选择其他 ID。",
   "page.external.edit.statusUpdated": "状态已更新",
   "page.external.edit.adminSection": "管理员操作",
   "page.external.edit.verificationMessage": "验证信息",

@@ -686,6 +686,7 @@
   "page.external.edit.section.admin": "الإدارة",
   "page.external.edit.saved": "تم حفظ التغييرات",
   "page.external.edit.error": "فشل حفظ التغييرات",
+  "page.external.edit.customIdConflict": "هذا المعرّف المخصص مستخدم بالفعل. يرجى اختيار معرّف آخر.",
   "page.external.edit.statusUpdated": "تم تحديث الحالة",
   "page.external.edit.adminSection": "إجراءات المسؤول",
   "page.external.edit.verificationMessage": "رسالة التحقق",

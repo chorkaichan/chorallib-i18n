@@ -686,6 +686,7 @@
   "page.external.edit.section.admin": "Administration",
   "page.external.edit.saved": "Änderungen gespeichert",
   "page.external.edit.error": "Speichern fehlgeschlagen",
+  "page.external.edit.customIdConflict": "Diese benutzerdefinierte ID wird bereits verwendet. Bitte wählen Sie eine andere.",
   "page.external.edit.statusUpdated": "Status aktualisiert",
   "page.external.edit.adminSection": "Admin-Aktionen",
   "page.external.edit.verificationMessage": "Verifizierungsnachricht",

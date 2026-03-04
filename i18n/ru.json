@@ -686,6 +686,7 @@
   "page.external.edit.section.admin": "Администрирование",
   "page.external.edit.saved": "Изменения сохранены",
   "page.external.edit.error": "Не удалось сохранить изменения",
+  "page.external.edit.customIdConflict": "Этот пользовательский ID уже используется. Пожалуйста, выберите другой.",
   "page.external.edit.statusUpdated": "Статус обновлён",
   "page.external.edit.adminSection": "Действия администратора",
   "page.external.edit.verificationMessage": "Сообщение для верификации",
