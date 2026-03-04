@@ -666,11 +666,6 @@
   "page.external.request.success": "تم إرسال الطلب بنجاح",
   "page.external.request.successTitle": "تم استلام الطلب",
   "page.external.request.successDescription": "سنبلغك عبر البريد الإلكتروني عند اكتمال المراجعة.",
-  "page.external.request.promo.badge": "قريبًا",
-  "page.external.request.promo.description": "نخطط لميزات مدفوعة للصفحات الرسمية:",
-  "page.external.request.promo.feature1": "مدونة ونشر الأخبار",
-  "page.external.request.promo.feature2": "نموذج الاتصال",
-  "page.external.request.promo.feature3": "والمزيد من الميزات المفيدة",
   "page.external.request.alreadyExists": "مستخدم آخر قد تقدم بالفعل بطلب لإدارة هذه الصفحة",
   "page.external.request.error": "فشل إرسال الطلب",
   "page.external.request.alreadyManaged.title": "هذه الصفحة مُدارة بالفعل",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "سجّل لإدارة الصفحة",
   "invite.error.notFound": "لم يتم العثور على الدعوة أو تمت معالجتها بالفعل",
   "invite.error.expired": "انتهت صلاحية هذه الدعوة",
-  "invite.error.unknown": "حدث خطأ. يرجى المحاولة مرة أخرى."
+  "invite.error.unknown": "حدث خطأ. يرجى المحاولة مرة أخرى.",
+  "page.external.request.step1": "تم استلام الطلب",
+  "page.external.request.step2": "سيقوم فريقنا بمراجعة طلبك",
+  "page.external.request.step3": "بعد الموافقة، يمكنك تعديل الصفحة"
 }

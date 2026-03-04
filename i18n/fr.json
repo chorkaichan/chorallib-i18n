@@ -666,11 +666,6 @@
   "page.external.request.success": "Demande soumise avec succès",
   "page.external.request.successTitle": "Demande reçue",
   "page.external.request.successDescription": "Nous vous notifierons par e-mail une fois l'examen terminé.",
-  "page.external.request.promo.badge": "Bientôt disponible",
-  "page.external.request.promo.description": "Nous prévoyons des fonctionnalités premium pour les pages officielles :",
-  "page.external.request.promo.feature1": "Blog et publication d'actualités",
-  "page.external.request.promo.feature2": "Formulaire de contact",
-  "page.external.request.promo.feature3": "Et d'autres fonctionnalités utiles",
   "page.external.request.alreadyExists": "Un autre utilisateur a déjà demandé à gérer cette page",
   "page.external.request.error": "Échec de la soumission de la demande",
   "page.external.request.alreadyManaged.title": "Cette page est déjà gérée",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "Inscrivez-vous pour gérer la page",
   "invite.error.notFound": "Invitation non trouvée ou déjà traitée",
   "invite.error.expired": "Cette invitation a expiré",
-  "invite.error.unknown": "Une erreur est survenue. Veuillez réessayer."
+  "invite.error.unknown": "Une erreur est survenue. Veuillez réessayer.",
+  "page.external.request.step1": "Demande reçue",
+  "page.external.request.step2": "Notre équipe examinera votre demande",
+  "page.external.request.step3": "Une fois approuvée, vous pourrez modifier la page"
 }

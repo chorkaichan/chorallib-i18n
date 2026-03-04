@@ -666,11 +666,6 @@
   "page.external.request.success": "Запрос успешно отправлен",
   "page.external.request.successTitle": "Запрос получен",
   "page.external.request.successDescription": "Мы уведомим вас по электронной почте после завершения проверки.",
-  "page.external.request.promo.badge": "Скоро",
-  "page.external.request.promo.description": "Мы планируем премиум-функции для официальных страниц:",
-  "page.external.request.promo.feature1": "Блог и публикация новостей",
-  "page.external.request.promo.feature2": "Контактная форма",
-  "page.external.request.promo.feature3": "И другие полезные функции",
   "page.external.request.alreadyExists": "Другой пользователь уже подал заявку на управление этой страницей",
   "page.external.request.error": "Не удалось отправить запрос",
   "page.external.request.alreadyManaged.title": "Эта страница уже управляется",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "Зарегистрируйтесь для управления страницей",
   "invite.error.notFound": "Приглашение не найдено или уже обработано",
   "invite.error.expired": "Это приглашение истекло",
-  "invite.error.unknown": "Произошла ошибка. Попробуйте ещё раз."
+  "invite.error.unknown": "Произошла ошибка. Попробуйте ещё раз.",
+  "page.external.request.step1": "Заявка принята",
+  "page.external.request.step2": "Наша команда рассмотрит вашу заявку",
+  "page.external.request.step3": "После одобрения вы сможете редактировать страницу"
 }

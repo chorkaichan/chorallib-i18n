@@ -666,11 +666,6 @@
   "page.external.request.success": "Richiesta inviata con successo",
   "page.external.request.successTitle": "Richiesta ricevuta",
   "page.external.request.successDescription": "Ti informeremo via email al termine della revisione.",
-  "page.external.request.promo.badge": "Prossimamente",
-  "page.external.request.promo.description": "Stiamo pianificando funzionalità premium per le pagine ufficiali:",
-  "page.external.request.promo.feature1": "Blog e pubblicazione di notizie",
-  "page.external.request.promo.feature2": "Modulo di contatto",
-  "page.external.request.promo.feature3": "E altre funzionalità utili",
   "page.external.request.alreadyExists": "Un altro utente ha già richiesto di gestire questa pagina",
   "page.external.request.error": "Impossibile inviare la richiesta",
   "page.external.request.alreadyManaged.title": "Questa pagina è già gestita",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "Registrati per gestire la pagina",
   "invite.error.notFound": "Invito non trovato o già elaborato",
   "invite.error.expired": "Questo invito è scaduto",
-  "invite.error.unknown": "Si è verificato un errore. Riprova."
+  "invite.error.unknown": "Si è verificato un errore. Riprova.",
+  "page.external.request.step1": "Richiesta ricevuta",
+  "page.external.request.step2": "Il nostro team esaminerà la tua richiesta",
+  "page.external.request.step3": "Una volta approvata, potrai modificare la pagina"
 }

@@ -666,11 +666,6 @@
   "page.external.request.success": "Request submitted successfully",
   "page.external.request.successTitle": "Request Received",
   "page.external.request.successDescription": "We'll notify you by email once the review is complete.",
-  "page.external.request.promo.badge": "Coming Soon",
-  "page.external.request.promo.description": "We're planning premium features for official pages:",
-  "page.external.request.promo.feature1": "Blog posting",
-  "page.external.request.promo.feature2": "Contact form",
-  "page.external.request.promo.feature3": "And more useful features",
   "page.external.request.alreadyExists": "Another user has already requested to manage this page",
   "page.external.request.error": "Failed to submit request",
   "page.external.request.alreadyManaged.title": "This page is already managed",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "Register to manage page",
   "invite.error.notFound": "Invitation not found or already processed",
   "invite.error.expired": "This invitation has expired",
-  "invite.error.unknown": "An error occurred. Please try again."
+  "invite.error.unknown": "An error occurred. Please try again.",
+  "page.external.request.step1": "Request received",
+  "page.external.request.step2": "Our team will review your request",
+  "page.external.request.step3": "Once approved, you can edit the page"
 }

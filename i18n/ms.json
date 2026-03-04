@@ -666,11 +666,6 @@
   "page.external.request.success": "Permohonan berjaya dihantar",
   "page.external.request.successTitle": "Permohonan Diterima",
   "page.external.request.successDescription": "Kami akan memberitahu anda melalui e-mel setelah semakan selesai.",
-  "page.external.request.promo.badge": "Akan Datang",
-  "page.external.request.promo.description": "Kami merancang ciri premium untuk halaman rasmi:",
-  "page.external.request.promo.feature1": "Penerbitan blog",
-  "page.external.request.promo.feature2": "Borang hubungan",
-  "page.external.request.promo.feature3": "Dan lebih banyak ciri berguna",
   "page.external.request.alreadyExists": "Pengguna lain sudah memohon untuk mengurus halaman ini",
   "page.external.request.error": "Gagal menghantar permohonan",
   "page.external.request.alreadyManaged.title": "Halaman ini sudah diuruskan",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "Daftar untuk mengurus halaman",
   "invite.error.notFound": "Jemputan tidak ditemui atau sudah diproses",
   "invite.error.expired": "Jemputan ini telah tamat tempoh",
-  "invite.error.unknown": "Ralat berlaku. Sila cuba lagi."
+  "invite.error.unknown": "Ralat berlaku. Sila cuba lagi.",
+  "page.external.request.step1": "Permohonan diterima",
+  "page.external.request.step2": "Pasukan kami akan menyemak permohonan anda",
+  "page.external.request.step3": "Setelah diluluskan, anda boleh mengedit halaman"
 }

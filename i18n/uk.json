@@ -666,11 +666,6 @@
   "page.external.request.success": "Запит успішно надіслано",
   "page.external.request.successTitle": "Запит отримано",
   "page.external.request.successDescription": "Ми повідомимо вас електронною поштою після завершення перевірки.",
-  "page.external.request.promo.badge": "Незабаром",
-  "page.external.request.promo.description": "Ми плануємо преміум-функції для офіційних сторінок:",
-  "page.external.request.promo.feature1": "Блог та публікація новин",
-  "page.external.request.promo.feature2": "Контактна форма",
-  "page.external.request.promo.feature3": "Та інші корисні функції",
   "page.external.request.alreadyExists": "Інший користувач вже подав заявку на керування цією сторінкою",
   "page.external.request.error": "Не вдалося надіслати запит",
   "page.external.request.alreadyManaged.title": "Ця сторінка вже керується",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "Зареєструйтесь для керування сторінкою",
   "invite.error.notFound": "Запрошення не знайдено або вже оброблено",
   "invite.error.expired": "Це запрошення минуло",
-  "invite.error.unknown": "Сталася помилка. Спробуйте ще раз."
+  "invite.error.unknown": "Сталася помилка. Спробуйте ще раз.",
+  "page.external.request.step1": "Заявку прийнято",
+  "page.external.request.step2": "Наша команда розгляне вашу заявку",
+  "page.external.request.step3": "Після схвалення ви зможете редагувати сторінку"
 }

@@ -666,11 +666,6 @@
   "page.external.request.success": "Pengajuan berhasil dikirim",
   "page.external.request.successTitle": "Pengajuan Diterima",
   "page.external.request.successDescription": "Kami akan memberitahu Anda melalui email setelah peninjauan selesai.",
-  "page.external.request.promo.badge": "Segera Hadir",
-  "page.external.request.promo.description": "Kami merencanakan fitur premium untuk halaman resmi:",
-  "page.external.request.promo.feature1": "Posting blog",
-  "page.external.request.promo.feature2": "Formulir kontak",
-  "page.external.request.promo.feature3": "Dan fitur bermanfaat lainnya",
   "page.external.request.alreadyExists": "Pengguna lain sudah mengajukan pengelolaan halaman ini",
   "page.external.request.error": "Gagal mengirim pengajuan",
   "page.external.request.alreadyManaged.title": "Halaman ini sudah dikelola",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "Daftar untuk mengelola halaman",
   "invite.error.notFound": "Undangan tidak ditemukan atau sudah diproses",
   "invite.error.expired": "Undangan ini telah kedaluwarsa",
-  "invite.error.unknown": "Terjadi kesalahan. Silakan coba lagi."
+  "invite.error.unknown": "Terjadi kesalahan. Silakan coba lagi.",
+  "page.external.request.step1": "Permintaan diterima",
+  "page.external.request.step2": "Tim kami akan meninjau permintaan Anda",
+  "page.external.request.step3": "Setelah disetujui, Anda dapat mengedit halaman"
 }

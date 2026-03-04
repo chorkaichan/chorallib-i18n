@@ -666,11 +666,6 @@
   "page.external.request.success": "申請已成功提交",
   "page.external.request.successTitle": "申請已收到",
   "page.external.request.successDescription": "審核完成後，我們將透過電子郵件通知您。",
-  "page.external.request.promo.badge": "即將推出",
-  "page.external.request.promo.description": "我們正在為官方頁面規劃付費功能：",
-  "page.external.request.promo.feature1": "部落格與消息發佈",
-  "page.external.request.promo.feature2": "聯絡表單",
-  "page.external.request.promo.feature3": "以及更多實用功能",
   "page.external.request.alreadyExists": "其他使用者已申請管理此頁面",
   "page.external.request.error": "提交申請失敗",
   "page.external.request.alreadyManaged.title": "該頁面已被管理",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "註冊以管理頁面",
   "invite.error.notFound": "找不到邀請或已處理",
   "invite.error.expired": "此邀請已過期",
-  "invite.error.unknown": "發生錯誤，請重試。"
+  "invite.error.unknown": "發生錯誤，請重試。",
+  "page.external.request.step1": "申請已受理",
+  "page.external.request.step2": "營運團隊將進行審核",
+  "page.external.request.step3": "審核通過後，您可以編輯頁面"
 }

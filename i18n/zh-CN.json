@@ -666,11 +666,6 @@
   "page.external.request.success": "申请已成功提交",
   "page.external.request.successTitle": "申请已收到",
   "page.external.request.successDescription": "审核完成后，我们将通过邮件通知您。",
-  "page.external.request.promo.badge": "即将推出",
-  "page.external.request.promo.description": "我们正在为官方页面规划付费功能：",
-  "page.external.request.promo.feature1": "博客与新闻发布",
-  "page.external.request.promo.feature2": "联系表单",
-  "page.external.request.promo.feature3": "以及更多实用功能",
   "page.external.request.alreadyExists": "其他用户已申请管理此页面",
   "page.external.request.error": "提交申请失败",
   "page.external.request.alreadyManaged.title": "该页面已被管理",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "注册以管理页面",
   "invite.error.notFound": "未找到邀请或已处理",
   "invite.error.expired": "此邀请已过期",
-  "invite.error.unknown": "发生错误，请重试。"
+  "invite.error.unknown": "发生错误，请重试。",
+  "page.external.request.step1": "申请已受理",
+  "page.external.request.step2": "运营团队将进行审核",
+  "page.external.request.step3": "审核通过后，您可以编辑页面"
 }

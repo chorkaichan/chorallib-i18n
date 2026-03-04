@@ -666,11 +666,6 @@
   "page.external.request.success": "Antrag erfolgreich eingereicht",
   "page.external.request.successTitle": "Antrag eingegangen",
   "page.external.request.successDescription": "Wir benachrichtigen Sie per E-Mail, sobald die Prüfung abgeschlossen ist.",
-  "page.external.request.promo.badge": "Demnächst verfügbar",
-  "page.external.request.promo.description": "Wir planen Premium-Funktionen für offizielle Seiten:",
-  "page.external.request.promo.feature1": "Blog- & Nachrichtenbeiträge",
-  "page.external.request.promo.feature2": "Kontaktformular",
-  "page.external.request.promo.feature3": "Und weitere nützliche Funktionen",
   "page.external.request.alreadyExists": "Ein anderer Benutzer hat bereits die Verwaltung dieser Seite beantragt",
   "page.external.request.error": "Antrag konnte nicht eingereicht werden",
   "page.external.request.alreadyManaged.title": "Diese Seite wird bereits verwaltet",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "Registrieren, um die Seite zu verwalten",
   "invite.error.notFound": "Einladung nicht gefunden oder bereits verarbeitet",
   "invite.error.expired": "Diese Einladung ist abgelaufen",
-  "invite.error.unknown": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+  "invite.error.unknown": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+  "page.external.request.step1": "Antrag eingegangen",
+  "page.external.request.step2": "Unser Team wird Ihren Antrag prüfen",
+  "page.external.request.step3": "Nach Genehmigung können Sie die Seite bearbeiten"
 }

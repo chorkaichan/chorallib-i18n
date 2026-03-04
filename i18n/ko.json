@@ -666,11 +666,6 @@
   "page.external.request.success": "요청이 성공적으로 제출되었습니다",
   "page.external.request.successTitle": "요청이 접수되었습니다",
   "page.external.request.successDescription": "검토가 완료되면 이메일로 알려드리겠습니다.",
-  "page.external.request.promo.badge": "출시 예정",
-  "page.external.request.promo.description": "공식 페이지 프리미엄 기능을 계획하고 있습니다:",
-  "page.external.request.promo.feature1": "블로그 및 뉴스 게시",
-  "page.external.request.promo.feature2": "문의 양식",
-  "page.external.request.promo.feature3": "기타 유용한 기능",
   "page.external.request.alreadyExists": "다른 사용자가 이미 이 페이지의 관리를 신청했습니다",
   "page.external.request.error": "요청 제출에 실패했습니다",
   "page.external.request.alreadyManaged.title": "이 페이지는 이미 관리되고 있습니다",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "가입하여 페이지 관리",
   "invite.error.notFound": "초대를 찾을 수 없거나 이미 처리되었습니다",
   "invite.error.expired": "이 초대는 만료되었습니다",
-  "invite.error.unknown": "오류가 발생했습니다. 다시 시도해 주세요."
+  "invite.error.unknown": "오류가 발생했습니다. 다시 시도해 주세요.",
+  "page.external.request.step1": "신청이 접수되었습니다",
+  "page.external.request.step2": "운영팀이 심사합니다",
+  "page.external.request.step3": "승인 후 페이지를 편집할 수 있습니다"
 }

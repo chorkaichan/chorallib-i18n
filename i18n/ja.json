@@ -666,11 +666,6 @@
   "page.external.request.success": "申請を送信しました",
   "page.external.request.successTitle": "申請を受け付けました",
   "page.external.request.successDescription": "審査完了後、メールでお知らせいたします。",
-  "page.external.request.promo.badge": "今後の予定",
-  "page.external.request.promo.description": "公式ページの有料プランとして、以下の機能を提供予定です。",
-  "page.external.request.promo.feature1": "ブログ投稿機能",
-  "page.external.request.promo.feature2": "お問い合わせフォーム",
-  "page.external.request.promo.feature3": "その他お役立ち機能",
   "page.external.request.alreadyExists": "他のユーザーが既にこのページの管理を申請しています",
   "page.external.request.error": "申請の送信に失敗しました",
   "page.external.request.alreadyManaged.title": "このページは管理されています",
@@ -1069,5 +1064,8 @@
   "invite.registerToManage": "登録してページを管理",
   "invite.error.notFound": "招待が見つからないか、既に処理されています",
   "invite.error.expired": "この招待は期限切れです",
-  "invite.error.unknown": "エラーが発生しました。もう一度お試しください。"
+  "invite.error.unknown": "エラーが発生しました。もう一度お試しください。",
+  "page.external.request.step1": "申請を受け付けました",
+  "page.external.request.step2": "運営チームが審査します",
+  "page.external.request.step3": "承認後、ページの編集が可能になります"
 }
