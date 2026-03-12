@@ -1079,7 +1079,7 @@
   "page.external.request.step2": "운영팀이 심사합니다",
   "page.external.request.step3": "승인 후 페이지를 편집할 수 있습니다",
   "composer.memorialYear.title": "작곡가 기념의 해",
-  "composer.memorialYear.description": "올해 기념의 해를 맞이하는 작곡가 목록",
+  "composer.memorialYear.description": "기념의 해를 맞이하는 작곡가 목록",
   "composer.memorialYear.birth": "탄생 기념",
   "composer.memorialYear.death": "서거 기념",
   "composer.memorialYear.birthYear": "탄생 {n}주년 ({year}년 출생)",

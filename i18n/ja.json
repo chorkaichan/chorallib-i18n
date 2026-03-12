@@ -1079,7 +1079,7 @@
   "page.external.request.step2": "運営チームが審査します",
   "page.external.request.step3": "承認後、ページの編集が可能になります",
   "composer.memorialYear.title": "メモリアルイヤー",
-  "composer.memorialYear.description": "今年メモリアルイヤーを迎える作曲家の一覧",
+  "composer.memorialYear.description": "メモリアルイヤーを迎える作曲家の一覧",
   "composer.memorialYear.birth": "生誕メモリアルイヤー",
   "composer.memorialYear.death": "没後メモリアルイヤー",
   "composer.memorialYear.birthYear": "生誕{n}年 ({year}年生まれ)",

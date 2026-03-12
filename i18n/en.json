@@ -1079,7 +1079,7 @@
   "page.external.request.step2": "Our team will review your request",
   "page.external.request.step3": "Once approved, you can edit the page",
   "composer.memorialYear.title": "Composer Memorial Years",
-  "composer.memorialYear.description": "Composers celebrating milestone memorial years",
+  "composer.memorialYear.description": "Composers with milestone memorial years",
   "composer.memorialYear.birth": "Birth Memorial Years",
   "composer.memorialYear.death": "Death Memorial Years",
   "composer.memorialYear.birthYear": "{n}th Birth Anniversary (born {year})",
