@@ -1076,5 +1076,13 @@
   "invite.error.unknown": "エラーが発生しました。もう一度お試しください。",
   "page.external.request.step1": "申請を受け付けました",
   "page.external.request.step2": "運営チームが審査します",
-  "page.external.request.step3": "承認後、ページの編集が可能になります"
+  "page.external.request.step3": "承認後、ページの編集が可能になります",
+  "composer.anniversary.title": "作曲家アニバーサリー",
+  "composer.anniversary.description": "今年周年を迎える作曲家の一覧",
+  "composer.anniversary.birth": "生誕アニバーサリー",
+  "composer.anniversary.death": "没後アニバーサリー",
+  "composer.anniversary.birthYear": "生誕{n}年 ({year}年生まれ)",
+  "composer.anniversary.deathYear": "没後{n}年 ({year}年没)",
+  "composer.anniversary.yearSuffix": "年",
+  "composer.anniversary.empty": "{year}年にアニバーサリーを迎える作曲家はいません"
 }

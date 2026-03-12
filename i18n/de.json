@@ -1076,5 +1076,13 @@
   "invite.error.unknown": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
   "page.external.request.step1": "Antrag eingegangen",
   "page.external.request.step2": "Unser Team wird Ihren Antrag prüfen",
-  "page.external.request.step3": "Nach Genehmigung können Sie die Seite bearbeiten"
+  "page.external.request.step3": "Nach Genehmigung können Sie die Seite bearbeiten",
+  "composer.anniversary.title": "Composer Anniversaries",
+  "composer.anniversary.description": "Composers celebrating milestone anniversaries this year",
+  "composer.anniversary.birth": "Birth Anniversaries",
+  "composer.anniversary.death": "Death Anniversaries",
+  "composer.anniversary.birthYear": "{n}th Birth Anniversary (born {year})",
+  "composer.anniversary.deathYear": "{n}th Death Anniversary (died {year})",
+  "composer.anniversary.yearSuffix": " Years",
+  "composer.anniversary.empty": "No composer anniversaries found for {year}"
 }

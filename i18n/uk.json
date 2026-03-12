@@ -1076,5 +1076,13 @@
   "invite.error.unknown": "Сталася помилка. Спробуйте ще раз.",
   "page.external.request.step1": "Заявку прийнято",
   "page.external.request.step2": "Наша команда розгляне вашу заявку",
-  "page.external.request.step3": "Після схвалення ви зможете редагувати сторінку"
+  "page.external.request.step3": "Після схвалення ви зможете редагувати сторінку",
+  "composer.anniversary.title": "Composer Anniversaries",
+  "composer.anniversary.description": "Composers celebrating milestone anniversaries this year",
+  "composer.anniversary.birth": "Birth Anniversaries",
+  "composer.anniversary.death": "Death Anniversaries",
+  "composer.anniversary.birthYear": "{n}th Birth Anniversary (born {year})",
+  "composer.anniversary.deathYear": "{n}th Death Anniversary (died {year})",
+  "composer.anniversary.yearSuffix": " Years",
+  "composer.anniversary.empty": "No composer anniversaries found for {year}"
 }

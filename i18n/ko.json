@@ -1076,5 +1076,13 @@
   "invite.error.unknown": "오류가 발생했습니다. 다시 시도해 주세요.",
   "page.external.request.step1": "신청이 접수되었습니다",
   "page.external.request.step2": "운영팀이 심사합니다",
-  "page.external.request.step3": "승인 후 페이지를 편집할 수 있습니다"
+  "page.external.request.step3": "승인 후 페이지를 편집할 수 있습니다",
+  "composer.anniversary.title": "Composer Anniversaries",
+  "composer.anniversary.description": "Composers celebrating milestone anniversaries this year",
+  "composer.anniversary.birth": "Birth Anniversaries",
+  "composer.anniversary.death": "Death Anniversaries",
+  "composer.anniversary.birthYear": "{n}th Birth Anniversary (born {year})",
+  "composer.anniversary.deathYear": "{n}th Death Anniversary (died {year})",
+  "composer.anniversary.yearSuffix": " Years",
+  "composer.anniversary.empty": "No composer anniversaries found for {year}"
 }

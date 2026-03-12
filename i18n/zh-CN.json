@@ -1076,5 +1076,13 @@
   "invite.error.unknown": "发生错误，请重试。",
   "page.external.request.step1": "申请已受理",
   "page.external.request.step2": "运营团队将进行审核",
-  "page.external.request.step3": "审核通过后，您可以编辑页面"
+  "page.external.request.step3": "审核通过后，您可以编辑页面",
+  "composer.anniversary.title": "Composer Anniversaries",
+  "composer.anniversary.description": "Composers celebrating milestone anniversaries this year",
+  "composer.anniversary.birth": "Birth Anniversaries",
+  "composer.anniversary.death": "Death Anniversaries",
+  "composer.anniversary.birthYear": "{n}th Birth Anniversary (born {year})",
+  "composer.anniversary.deathYear": "{n}th Death Anniversary (died {year})",
+  "composer.anniversary.yearSuffix": " Years",
+  "composer.anniversary.empty": "No composer anniversaries found for {year}"
 }

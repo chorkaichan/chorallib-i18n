@@ -1076,5 +1076,13 @@
   "invite.error.unknown": "Ralat berlaku. Sila cuba lagi.",
   "page.external.request.step1": "Permohonan diterima",
   "page.external.request.step2": "Pasukan kami akan menyemak permohonan anda",
-  "page.external.request.step3": "Setelah diluluskan, anda boleh mengedit halaman"
+  "page.external.request.step3": "Setelah diluluskan, anda boleh mengedit halaman",
+  "composer.anniversary.title": "Composer Anniversaries",
+  "composer.anniversary.description": "Composers celebrating milestone anniversaries this year",
+  "composer.anniversary.birth": "Birth Anniversaries",
+  "composer.anniversary.death": "Death Anniversaries",
+  "composer.anniversary.birthYear": "{n}th Birth Anniversary (born {year})",
+  "composer.anniversary.deathYear": "{n}th Death Anniversary (died {year})",
+  "composer.anniversary.yearSuffix": " Years",
+  "composer.anniversary.empty": "No composer anniversaries found for {year}"
 }
