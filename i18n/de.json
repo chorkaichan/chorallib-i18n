@@ -914,6 +914,7 @@
   "footer.browse.search": "Suche",
   "footer.browse.scores": "Partituren",
   "footer.browse.composers": "Komponisten",
+  "footer.browse.composerMemorialYear": "Gedenkjahre",
   "footer.browse.lyricists": "Textdichter",
   "footer.browse.choirs": "Chöre",
   "footer.browse.artists": "Künstler",
@@ -1077,12 +1078,12 @@
   "page.external.request.step1": "Antrag eingegangen",
   "page.external.request.step2": "Unser Team wird Ihren Antrag prüfen",
   "page.external.request.step3": "Nach Genehmigung können Sie die Seite bearbeiten",
-  "composer.anniversary.title": "Composer Anniversaries",
-  "composer.anniversary.description": "Composers celebrating milestone anniversaries this year",
-  "composer.anniversary.birth": "Birth Anniversaries",
-  "composer.anniversary.death": "Death Anniversaries",
-  "composer.anniversary.birthYear": "{n}th Birth Anniversary (born {year})",
-  "composer.anniversary.deathYear": "{n}th Death Anniversary (died {year})",
-  "composer.anniversary.yearSuffix": " Years",
-  "composer.anniversary.empty": "No composer anniversaries found for {year}"
+  "composer.memorialYear.title": "Komponisten-Gedenkjahre",
+  "composer.memorialYear.description": "Komponisten mit bedeutenden Gedenkjahren",
+  "composer.memorialYear.birth": "Geburtsjubiläen",
+  "composer.memorialYear.death": "Todestage",
+  "composer.memorialYear.birthYear": "{n}. Geburtstag (geboren {year})",
+  "composer.memorialYear.deathYear": "{n}. Todestag (gestorben {year})",
+  "composer.memorialYear.yearSuffix": " Jahre",
+  "composer.memorialYear.empty": "Keine Komponisten-Gedenkjahre für {year} gefunden"
 }

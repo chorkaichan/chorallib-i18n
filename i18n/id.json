@@ -914,6 +914,7 @@
   "footer.browse.search": "Cari",
   "footer.browse.scores": "Partitur",
   "footer.browse.composers": "Komposer",
+  "footer.browse.composerMemorialYear": "Tahun Peringatan",
   "footer.browse.lyricists": "Penulis Lirik",
   "footer.browse.choirs": "Paduan Suara",
   "footer.browse.artists": "Artis",
@@ -1077,12 +1078,12 @@
   "page.external.request.step1": "Permintaan diterima",
   "page.external.request.step2": "Tim kami akan meninjau permintaan Anda",
   "page.external.request.step3": "Setelah disetujui, Anda dapat mengedit halaman",
-  "composer.anniversary.title": "Composer Anniversaries",
-  "composer.anniversary.description": "Composers celebrating milestone anniversaries this year",
-  "composer.anniversary.birth": "Birth Anniversaries",
-  "composer.anniversary.death": "Death Anniversaries",
-  "composer.anniversary.birthYear": "{n}th Birth Anniversary (born {year})",
-  "composer.anniversary.deathYear": "{n}th Death Anniversary (died {year})",
-  "composer.anniversary.yearSuffix": " Years",
-  "composer.anniversary.empty": "No composer anniversaries found for {year}"
+  "composer.memorialYear.title": "Tahun Peringatan Komposer",
+  "composer.memorialYear.description": "Komposer yang merayakan tahun peringatan penting",
+  "composer.memorialYear.birth": "Peringatan Kelahiran",
+  "composer.memorialYear.death": "Peringatan Kematian",
+  "composer.memorialYear.birthYear": "Peringatan Kelahiran ke-{n} (lahir {year})",
+  "composer.memorialYear.deathYear": "Peringatan Kematian ke-{n} (wafat {year})",
+  "composer.memorialYear.yearSuffix": " Tahun",
+  "composer.memorialYear.empty": "Tidak ditemukan tahun peringatan komposer untuk {year}"
 }

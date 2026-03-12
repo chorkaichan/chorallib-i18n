@@ -914,6 +914,7 @@
   "footer.browse.search": "搜索",
   "footer.browse.scores": "乐谱",
   "footer.browse.composers": "作曲家",
+  "footer.browse.composerMemorialYear": "纪念年",
   "footer.browse.lyricists": "作词家",
   "footer.browse.choirs": "合唱团",
   "footer.browse.artists": "艺术家",
@@ -1077,12 +1078,12 @@
   "page.external.request.step1": "申请已受理",
   "page.external.request.step2": "运营团队将进行审核",
   "page.external.request.step3": "审核通过后，您可以编辑页面",
-  "composer.anniversary.title": "Composer Anniversaries",
-  "composer.anniversary.description": "Composers celebrating milestone anniversaries this year",
-  "composer.anniversary.birth": "Birth Anniversaries",
-  "composer.anniversary.death": "Death Anniversaries",
-  "composer.anniversary.birthYear": "{n}th Birth Anniversary (born {year})",
-  "composer.anniversary.deathYear": "{n}th Death Anniversary (died {year})",
-  "composer.anniversary.yearSuffix": " Years",
-  "composer.anniversary.empty": "No composer anniversaries found for {year}"
+  "composer.memorialYear.title": "作曲家纪念年",
+  "composer.memorialYear.description": "今年迎来纪念年的作曲家一览",
+  "composer.memorialYear.birth": "诞辰纪念",
+  "composer.memorialYear.death": "逝世纪念",
+  "composer.memorialYear.birthYear": "诞辰{n}周年（{year}年出生）",
+  "composer.memorialYear.deathYear": "逝世{n}周年（{year}年逝世）",
+  "composer.memorialYear.yearSuffix": "年",
+  "composer.memorialYear.empty": "未找到{year}年的作曲家纪念年"
 }

@@ -914,6 +914,7 @@
   "footer.browse.search": "Поиск",
   "footer.browse.scores": "Партитуры",
   "footer.browse.composers": "Композиторы",
+  "footer.browse.composerMemorialYear": "Памятные годы",
   "footer.browse.lyricists": "Поэты",
   "footer.browse.choirs": "Хоры",
   "footer.browse.artists": "Исполнители",
@@ -1077,12 +1078,12 @@
   "page.external.request.step1": "Заявка принята",
   "page.external.request.step2": "Наша команда рассмотрит вашу заявку",
   "page.external.request.step3": "После одобрения вы сможете редактировать страницу",
-  "composer.anniversary.title": "Composer Anniversaries",
-  "composer.anniversary.description": "Composers celebrating milestone anniversaries this year",
-  "composer.anniversary.birth": "Birth Anniversaries",
-  "composer.anniversary.death": "Death Anniversaries",
-  "composer.anniversary.birthYear": "{n}th Birth Anniversary (born {year})",
-  "composer.anniversary.deathYear": "{n}th Death Anniversary (died {year})",
-  "composer.anniversary.yearSuffix": " Years",
-  "composer.anniversary.empty": "No composer anniversaries found for {year}"
+  "composer.memorialYear.title": "Памятные годы композиторов",
+  "composer.memorialYear.description": "Композиторы, отмечающие важные памятные даты",
+  "composer.memorialYear.birth": "Юбилеи рождения",
+  "composer.memorialYear.death": "Годовщины смерти",
+  "composer.memorialYear.birthYear": "{n}-летие со дня рождения (родился в {year})",
+  "composer.memorialYear.deathYear": "{n}-летие со дня смерти (умер в {year})",
+  "composer.memorialYear.yearSuffix": " лет",
+  "composer.memorialYear.empty": "Памятные годы композиторов не найдены для {year}"
 }

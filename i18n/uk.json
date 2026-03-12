@@ -914,6 +914,7 @@
   "footer.browse.search": "Пошук",
   "footer.browse.scores": "Партитури",
   "footer.browse.composers": "Композитори",
+  "footer.browse.composerMemorialYear": "Пам'ятні роки",
   "footer.browse.lyricists": "Поети",
   "footer.browse.choirs": "Хори",
   "footer.browse.artists": "Виконавці",
@@ -1077,12 +1078,12 @@
   "page.external.request.step1": "Заявку прийнято",
   "page.external.request.step2": "Наша команда розгляне вашу заявку",
   "page.external.request.step3": "Після схвалення ви зможете редагувати сторінку",
-  "composer.anniversary.title": "Composer Anniversaries",
-  "composer.anniversary.description": "Composers celebrating milestone anniversaries this year",
-  "composer.anniversary.birth": "Birth Anniversaries",
-  "composer.anniversary.death": "Death Anniversaries",
-  "composer.anniversary.birthYear": "{n}th Birth Anniversary (born {year})",
-  "composer.anniversary.deathYear": "{n}th Death Anniversary (died {year})",
-  "composer.anniversary.yearSuffix": " Years",
-  "composer.anniversary.empty": "No composer anniversaries found for {year}"
+  "composer.memorialYear.title": "Пам'ятні роки композиторів",
+  "composer.memorialYear.description": "Композитори, які відзначають важливі пам'ятні дати",
+  "composer.memorialYear.birth": "Ювілеї народження",
+  "composer.memorialYear.death": "Річниці смерті",
+  "composer.memorialYear.birthYear": "{n}-річчя з дня народження (народився у {year})",
+  "composer.memorialYear.deathYear": "{n}-річчя з дня смерті (помер у {year})",
+  "composer.memorialYear.yearSuffix": " років",
+  "composer.memorialYear.empty": "Пам'ятні роки композиторів не знайдено для {year}"
 }

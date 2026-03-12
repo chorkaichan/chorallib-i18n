@@ -914,6 +914,7 @@
   "footer.browse.search": "検索",
   "footer.browse.scores": "楽譜",
   "footer.browse.composers": "作曲家",
+  "footer.browse.composerMemorialYear": "メモリアルイヤー",
   "footer.browse.lyricists": "作詞家",
   "footer.browse.choirs": "合唱団",
   "footer.browse.artists": "アーティスト",
@@ -1077,12 +1078,12 @@
   "page.external.request.step1": "申請を受け付けました",
   "page.external.request.step2": "運営チームが審査します",
   "page.external.request.step3": "承認後、ページの編集が可能になります",
-  "composer.anniversary.title": "作曲家アニバーサリー",
-  "composer.anniversary.description": "今年周年を迎える作曲家の一覧",
-  "composer.anniversary.birth": "生誕アニバーサリー",
-  "composer.anniversary.death": "没後アニバーサリー",
-  "composer.anniversary.birthYear": "生誕{n}年 ({year}年生まれ)",
-  "composer.anniversary.deathYear": "没後{n}年 ({year}年没)",
-  "composer.anniversary.yearSuffix": "年",
-  "composer.anniversary.empty": "{year}年にアニバーサリーを迎える作曲家はいません"
+  "composer.memorialYear.title": "メモリアルイヤー",
+  "composer.memorialYear.description": "今年メモリアルイヤーを迎える作曲家の一覧",
+  "composer.memorialYear.birth": "生誕メモリアルイヤー",
+  "composer.memorialYear.death": "没後メモリアルイヤー",
+  "composer.memorialYear.birthYear": "生誕{n}年 ({year}年生まれ)",
+  "composer.memorialYear.deathYear": "没後{n}年 ({year}年没)",
+  "composer.memorialYear.yearSuffix": "年",
+  "composer.memorialYear.empty": "{year}年にメモリアルイヤーを迎える作曲家はいません"
 }
