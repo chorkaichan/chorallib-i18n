@@ -1005,6 +1005,7 @@
   "auth.register.error.emailExists": "This email address is already registered.",
   "auth.register.error.email": "Please enter a valid email address.",
   "auth.register.error.password": "At least 8 characters, including a letter and a number.",
+  "auth.register.error.invalidCharacters": "Invalid characters are included.",
   "auth.register.error.passwordConfirm": "Passwords do not match.",
   "auth.register.hasAccount": "Already have an account?",
   "auth.verify.title": "Verify Email",

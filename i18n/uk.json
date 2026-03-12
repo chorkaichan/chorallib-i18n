@@ -1005,6 +1005,7 @@
   "auth.register.error.emailExists": "Ця електронна адреса вже зареєстрована.",
   "auth.register.error.email": "Введіть дійсну адресу електронної пошти.",
   "auth.register.error.password": "Не менше 8 символів, включаючи літеру та цифру.",
+  "auth.register.error.invalidCharacters": "Містяться неприпустимі символи.",
   "auth.register.error.passwordConfirm": "Паролі не збігаються.",
   "auth.register.hasAccount": "Вже маєте обліковий запис?",
   "auth.verify.title": "Підтвердження пошти",

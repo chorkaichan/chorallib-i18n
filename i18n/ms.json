@@ -1005,6 +1005,7 @@
   "auth.register.error.emailExists": "Alamat e-mel ini sudah didaftarkan.",
   "auth.register.error.email": "Sila masukkan alamat e-mel yang sah.",
   "auth.register.error.password": "Sekurang-kurangnya 8 aksara, termasuk huruf dan nombor.",
+  "auth.register.error.invalidCharacters": "Mengandungi aksara yang tidak sah.",
   "auth.register.error.passwordConfirm": "Kata laluan tidak sepadan.",
   "auth.register.hasAccount": "Sudah mempunyai akaun?",
   "auth.verify.title": "Sahkan E-mel",

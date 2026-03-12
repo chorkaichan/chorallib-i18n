@@ -1005,6 +1005,7 @@
   "auth.register.error.emailExists": "Alamat email ini sudah terdaftar.",
   "auth.register.error.email": "Silakan masukkan alamat email yang valid.",
   "auth.register.error.password": "Minimal 8 karakter, termasuk huruf dan angka.",
+  "auth.register.error.invalidCharacters": "Mengandung karakter yang tidak valid.",
   "auth.register.error.passwordConfirm": "Kata sandi tidak cocok.",
   "auth.register.hasAccount": "Sudah punya akun?",
   "auth.verify.title": "Verifikasi Email",

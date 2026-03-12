@@ -1005,6 +1005,7 @@
   "auth.register.error.emailExists": "该邮箱地址已注册。",
   "auth.register.error.email": "请输入有效的电子邮件地址。",
   "auth.register.error.password": "至少8个字符，包含字母和数字。",
+  "auth.register.error.invalidCharacters": "包含无效字符。",
   "auth.register.error.passwordConfirm": "密码不一致。",
   "auth.register.hasAccount": "已有账号？",
   "auth.verify.title": "验证邮箱",

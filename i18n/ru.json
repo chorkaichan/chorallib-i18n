@@ -1005,6 +1005,7 @@
   "auth.register.error.emailExists": "Этот адрес электронной почты уже зарегистрирован.",
   "auth.register.error.email": "Введите действительный адрес электронной почты.",
   "auth.register.error.password": "Не менее 8 символов, включая букву и цифру.",
+  "auth.register.error.invalidCharacters": "Содержатся недопустимые символы.",
   "auth.register.error.passwordConfirm": "Пароли не совпадают.",
   "auth.register.hasAccount": "Уже есть аккаунт?",
   "auth.verify.title": "Подтверждение почты",

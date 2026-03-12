@@ -1005,6 +1005,7 @@
   "auth.register.error.emailExists": "此電子信箱已註冊。",
   "auth.register.error.email": "請輸入有效的電子郵件地址。",
   "auth.register.error.password": "至少8個字元，包含字母和數字。",
+  "auth.register.error.invalidCharacters": "包含無效字符。",
   "auth.register.error.passwordConfirm": "密碼不一致。",
   "auth.register.hasAccount": "已有帳號？",
   "auth.verify.title": "驗證信箱",

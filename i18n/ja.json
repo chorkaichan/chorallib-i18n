@@ -1005,6 +1005,7 @@
   "auth.register.error.emailExists": "このメールアドレスは既に登録されています。",
   "auth.register.error.email": "有効なメールアドレスを入力してください。",
   "auth.register.error.password": "8文字以上で英字と数字を含めてください。",
+  "auth.register.error.invalidCharacters": "使用できない文字が含まれています。",
   "auth.register.error.passwordConfirm": "パスワードが一致しません。",
   "auth.register.hasAccount": "すでにアカウントをお持ちですか？",
   "auth.verify.title": "メール確認",

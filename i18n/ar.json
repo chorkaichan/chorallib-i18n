@@ -1005,6 +1005,7 @@
   "auth.register.error.emailExists": "عنوان البريد الإلكتروني هذا مسجل بالفعل.",
   "auth.register.error.email": "يرجى إدخال عنوان بريد إلكتروني صالح.",
   "auth.register.error.password": "8 أحرف على الأقل، تتضمن حرفًا ورقمًا.",
+  "auth.register.error.invalidCharacters": "يتضمن أحرفاً غير صحيحة.",
   "auth.register.error.passwordConfirm": "كلمتا المرور غير متطابقتين.",
   "auth.register.hasAccount": "لديك حساب بالفعل؟",
   "auth.verify.title": "التحقق من البريد الإلكتروني",
