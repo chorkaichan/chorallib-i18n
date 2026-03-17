@@ -206,6 +206,8 @@
   "score.detail.report": "신고",
   "score.detail.report.duplicate": "중복 신고",
   "score.detail.report.inappropriate": "부적절한 내용 신고",
+  "score.detail.delete": "이 악보 삭제",
+  "score.detail.delete.confirm": "이 악보를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
   "score.detail.saved.add": "목록 추가",
   "score.detail.saved.title": "저장 위치 설정",
   "score.detail.saved.unknown": "제목 없음",

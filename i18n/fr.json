@@ -206,6 +206,8 @@
   "score.detail.report": "Signaler",
   "score.detail.report.duplicate": "Signaler un doublon",
   "score.detail.report.inappropriate": "Signaler un contenu inapproprié",
+  "score.detail.delete": "Supprimer cette partition",
+  "score.detail.delete.confirm": "Êtes-vous sûr de vouloir supprimer cette partition ? Cette action est irréversible.",
   "score.detail.saved.add": "Ajouter une liste",
   "score.detail.saved.title": "Définir la destination",
   "score.detail.saved.unknown": "Sans titre",

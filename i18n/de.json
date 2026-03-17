@@ -206,6 +206,8 @@
   "score.detail.report": "Melden",
   "score.detail.report.duplicate": "Duplikat melden",
   "score.detail.report.inappropriate": "Unangemessenen Inhalt melden",
+  "score.detail.delete": "Dieses Werk löschen",
+  "score.detail.delete.confirm": "Möchten Sie dieses Werk wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
   "score.detail.saved.add": "Liste hinzufügen",
   "score.detail.saved.title": "Speicherort festlegen",
   "score.detail.saved.unknown": "Ohne Titel",

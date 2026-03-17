@@ -206,6 +206,8 @@
   "score.detail.report": "Laporkan",
   "score.detail.report.duplicate": "Laporkan pendua",
   "score.detail.report.inappropriate": "Laporkan kandungan tidak sesuai",
+  "score.detail.delete": "Padam skor ini",
+  "score.detail.delete.confirm": "Adakah anda pasti mahu memadam skor ini? Tindakan ini tidak boleh dibuat asal.",
   "score.detail.saved.add": "Tambah senarai",
   "score.detail.saved.title": "Tetapkan destinasi simpanan",
   "score.detail.saved.unknown": "Tanpa Tajuk",

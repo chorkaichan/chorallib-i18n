@@ -206,6 +206,8 @@
   "score.detail.report": "Reportar",
   "score.detail.report.duplicate": "Reportar duplicado",
   "score.detail.report.inappropriate": "Reportar contenido inapropiado",
+  "score.detail.delete": "Eliminar esta partitura",
+  "score.detail.delete.confirm": "¿Está seguro de que desea eliminar esta partitura? Esta acción no se puede deshacer.",
   "score.detail.saved.add": "Añadir una lista",
   "score.detail.saved.title": "Establecer destino",
   "score.detail.saved.unknown": "Sin título",

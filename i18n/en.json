@@ -206,6 +206,8 @@
   "score.detail.report": "Report",
   "score.detail.report.duplicate": "Report duplicate",
   "score.detail.report.inappropriate": "Report inappropriate content",
+  "score.detail.delete": "Delete this score",
+  "score.detail.delete.confirm": "Are you sure you want to delete this score? This action cannot be undone.",
   "score.detail.saved.add": "Add a list",
   "score.detail.saved.title": "Set save destination",
   "score.detail.saved.unknown": "Untitled",

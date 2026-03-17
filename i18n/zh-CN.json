@@ -206,6 +206,8 @@
   "score.detail.report": "举报",
   "score.detail.report.duplicate": "举报重复",
   "score.detail.report.inappropriate": "举报不当内容",
+  "score.detail.delete": "删除此乐谱",
+  "score.detail.delete.confirm": "确定要删除此乐谱吗？此操作无法撤销。",
   "score.detail.saved.add": "添加列表",
   "score.detail.saved.title": "设置保存位置",
   "score.detail.saved.unknown": "未命名",

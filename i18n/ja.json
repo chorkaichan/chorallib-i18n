@@ -206,6 +206,8 @@
   "score.detail.report": "通報",
   "score.detail.report.duplicate": "重複登録の報告",
   "score.detail.report.inappropriate": "不適切な登録内容の報告",
+  "score.detail.delete": "この楽曲を削除",
+  "score.detail.delete.confirm": "この楽曲を削除しますか？この操作は元に戻せません。",
   "score.detail.saved.add": "リストを追加する",
   "score.detail.saved.title": "保存先を設定",
   "score.detail.saved.unknown": "タイトル未設定",

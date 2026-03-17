@@ -206,6 +206,8 @@
   "score.detail.report": "Laporkan",
   "score.detail.report.duplicate": "Laporkan duplikat",
   "score.detail.report.inappropriate": "Laporkan konten tidak pantas",
+  "score.detail.delete": "Hapus skor ini",
+  "score.detail.delete.confirm": "Apakah Anda yakin ingin menghapus skor ini? Tindakan ini tidak dapat dibatalkan.",
   "score.detail.saved.add": "Tambah daftar",
   "score.detail.saved.title": "Atur tujuan penyimpanan",
   "score.detail.saved.unknown": "Tanpa judul",

@@ -206,6 +206,8 @@
   "score.detail.report": "檢舉",
   "score.detail.report.duplicate": "檢舉重複",
   "score.detail.report.inappropriate": "檢舉不當內容",
+  "score.detail.delete": "刪除此樂譜",
+  "score.detail.delete.confirm": "確定要刪除此樂譜嗎？此操作無法撤銷。",
   "score.detail.saved.add": "新增清單",
   "score.detail.saved.title": "設定儲存位置",
   "score.detail.saved.unknown": "未命名",

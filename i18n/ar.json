@@ -206,6 +206,8 @@
   "score.detail.report": "إبلاغ",
   "score.detail.report.duplicate": "الإبلاغ عن تكرار",
   "score.detail.report.inappropriate": "الإبلاغ عن محتوى غير لائق",
+  "score.detail.delete": "حذف هذا العمل",
+  "score.detail.delete.confirm": "هل أنت متأكد من رغبتك في حذف هذا العمل؟ لا يمكن التراجع عن هذا الإجراء.",
   "score.detail.saved.add": "إضافة قائمة",
   "score.detail.saved.title": "تعيين وجهة الحفظ",
   "score.detail.saved.unknown": "بدون عنوان",

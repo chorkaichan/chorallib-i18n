@@ -206,6 +206,8 @@
   "score.detail.report": "Пожаловаться",
   "score.detail.report.duplicate": "Сообщить о дубликате",
   "score.detail.report.inappropriate": "Сообщить о неприемлемом контенте",
+  "score.detail.delete": "Удалить это произведение",
+  "score.detail.delete.confirm": "Вы уверены, что хотите удалить это произведение? Это действие нельзя отменить.",
   "score.detail.saved.add": "Добавить список",
   "score.detail.saved.title": "Выбрать место сохранения",
   "score.detail.saved.unknown": "Без названия",

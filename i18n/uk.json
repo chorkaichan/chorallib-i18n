@@ -206,6 +206,8 @@
   "score.detail.report": "Поскаржитися",
   "score.detail.report.duplicate": "Повідомити про дублікат",
   "score.detail.report.inappropriate": "Повідомити про неприйнятний вміст",
+  "score.detail.delete": "Видалити цей твір",
+  "score.detail.delete.confirm": "Ви впевнені, що хочете видалити цей твір? Цю дію неможливо скасувати.",
   "score.detail.saved.add": "Додати список",
   "score.detail.saved.title": "Вибрати місце збереження",
   "score.detail.saved.unknown": "Без назви",
