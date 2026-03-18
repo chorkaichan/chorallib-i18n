@@ -311,6 +311,8 @@
   "composer.detail.report": "Segnala",
   "composer.detail.report.duplicate": "Segnala duplicato",
   "composer.detail.report.inappropriate": "Segnala contenuto inappropriato",
+  "composer.detail.delete": "Elimina questo compositore",
+  "composer.detail.delete.confirm": "Sei sicuro di voler eliminare questo compositore? Questa azione non può essere annullata.",
   "lyricist.detail.scoreList": "Opere",
   "lyricist.detail.birthAndDeath": "Date di vita",
   "lyricist.detail.new.title": "Aggiungi autore testi",

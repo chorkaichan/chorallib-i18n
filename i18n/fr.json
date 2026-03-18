@@ -311,6 +311,8 @@
   "composer.detail.report": "Signaler",
   "composer.detail.report.duplicate": "Signaler un doublon",
   "composer.detail.report.inappropriate": "Signaler un contenu inapproprié",
+  "composer.detail.delete": "Supprimer ce compositeur",
+  "composer.detail.delete.confirm": "Êtes-vous sûr de vouloir supprimer ce compositeur ? Cette action est irréversible.",
   "lyricist.detail.scoreList": "Œuvres",
   "lyricist.detail.birthAndDeath": "Dates",
   "lyricist.detail.new.title": "Ajouter un parolier",

@@ -311,6 +311,8 @@
   "composer.detail.report": "إبلاغ",
   "composer.detail.report.duplicate": "الإبلاغ عن تكرار",
   "composer.detail.report.inappropriate": "الإبلاغ عن محتوى غير لائق",
+  "composer.detail.delete": "حذف هذا المؤلف",
+  "composer.detail.delete.confirm": "هل أنت متأكد من رغبتك في حذف هذا المؤلف؟ لا يمكن التراجع عن هذا الإجراء.",
   "lyricist.detail.scoreList": "الأعمال",
   "lyricist.detail.birthAndDeath": "سنوات الحياة",
   "lyricist.detail.new.title": "إضافة كاتب كلمات",

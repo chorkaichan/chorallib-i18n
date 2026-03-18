@@ -311,6 +311,8 @@
   "composer.detail.report": "Поскаржитися",
   "composer.detail.report.duplicate": "Повідомити про дублікат",
   "composer.detail.report.inappropriate": "Повідомити про неприйнятний вміст",
+  "composer.detail.delete": "Видалити цього композитора",
+  "composer.detail.delete.confirm": "Ви впевнені, що хочете видалити цього композитора? Цю дію неможливо скасувати.",
   "lyricist.detail.scoreList": "Твори",
   "lyricist.detail.birthAndDeath": "Роки життя",
   "lyricist.detail.new.title": "Додати автора тексту",

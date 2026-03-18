@@ -311,6 +311,8 @@
   "composer.detail.report": "Reportar",
   "composer.detail.report.duplicate": "Reportar duplicado",
   "composer.detail.report.inappropriate": "Reportar contenido inapropiado",
+  "composer.detail.delete": "Eliminar este compositor",
+  "composer.detail.delete.confirm": "¿Está seguro de que desea eliminar este compositor? Esta acción no se puede deshacer.",
   "lyricist.detail.scoreList": "Obras",
   "lyricist.detail.birthAndDeath": "Fechas de vida",
   "lyricist.detail.new.title": "Añadir letrista",

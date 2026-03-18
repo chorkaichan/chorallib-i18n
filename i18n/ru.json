@@ -311,6 +311,8 @@
   "composer.detail.report": "Пожаловаться",
   "composer.detail.report.duplicate": "Сообщить о дубликате",
   "composer.detail.report.inappropriate": "Сообщить о неприемлемом контенте",
+  "composer.detail.delete": "Удалить этого композитора",
+  "composer.detail.delete.confirm": "Вы уверены, что хотите удалить этого композитора? Это действие нельзя отменить.",
   "lyricist.detail.scoreList": "Произведения",
   "lyricist.detail.birthAndDeath": "Годы жизни",
   "lyricist.detail.new.title": "Добавить автора текста",

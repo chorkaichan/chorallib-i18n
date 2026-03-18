@@ -311,6 +311,8 @@
   "composer.detail.report": "通報",
   "composer.detail.report.duplicate": "重複登録の報告",
   "composer.detail.report.inappropriate": "不適切な登録内容の報告",
+  "composer.detail.delete": "この作曲家を削除",
+  "composer.detail.delete.confirm": "この作曲家を削除しますか？この操作は元に戻せません。",
   "lyricist.detail.scoreList": "作品リスト",
   "lyricist.detail.birthAndDeath": "生没年",
   "lyricist.detail.new.title": "作詞者を追加する",

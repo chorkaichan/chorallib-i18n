@@ -311,6 +311,8 @@
   "composer.detail.report": "Laporkan",
   "composer.detail.report.duplicate": "Laporkan duplikat",
   "composer.detail.report.inappropriate": "Laporkan konten tidak pantas",
+  "composer.detail.delete": "Hapus komposer ini",
+  "composer.detail.delete.confirm": "Apakah Anda yakin ingin menghapus komposer ini? Tindakan ini tidak dapat dibatalkan.",
   "lyricist.detail.scoreList": "Karya",
   "lyricist.detail.birthAndDeath": "Masa Hidup",
   "lyricist.detail.new.title": "Tambah Penulis Lirik",
