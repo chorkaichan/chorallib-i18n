@@ -313,6 +313,8 @@
   "composer.detail.report.inappropriate": "الإبلاغ عن محتوى غير لائق",
   "composer.detail.delete": "حذف هذا المؤلف",
   "composer.detail.delete.confirm": "هل أنت متأكد من رغبتك في حذف هذا المؤلف؟ لا يمكن التراجع عن هذا الإجراء.",
+  "composer.detail.delete.hasScores": "لا يمكن حذف هذا المؤلف لأن هناك أعمالاً مرتبطة به. يرجى حذف الأعمال التالية أولاً.",
+  "composer.detail.delete.affectedScores": "ستتأثر الأعمال التالية ({count}):",
   "lyricist.detail.scoreList": "الأعمال",
   "lyricist.detail.birthAndDeath": "سنوات الحياة",
   "lyricist.detail.new.title": "إضافة كاتب كلمات",

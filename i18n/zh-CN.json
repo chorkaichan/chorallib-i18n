@@ -313,6 +313,8 @@
   "composer.detail.report.inappropriate": "举报不当内容",
   "composer.detail.delete": "删除此作曲家",
   "composer.detail.delete.confirm": "确定要删除此作曲家吗？此操作无法撤销。",
+  "composer.detail.delete.hasScores": "由于存在关联的乐谱，无法删除此作曲家。请先删除以下乐谱。",
+  "composer.detail.delete.affectedScores": "以下 {count} 首乐谱将受到影响:",
   "lyricist.detail.scoreList": "作品列表",
   "lyricist.detail.birthAndDeath": "生卒年",
   "lyricist.detail.new.title": "添加作词者",

@@ -313,6 +313,8 @@
   "composer.detail.report.inappropriate": "Report inappropriate content",
   "composer.detail.delete": "Delete this composer",
   "composer.detail.delete.confirm": "Are you sure you want to delete this composer? This action cannot be undone.",
+  "composer.detail.delete.hasScores": "This composer cannot be deleted because there are linked scores. Please delete the following scores first.",
+  "composer.detail.delete.affectedScores": "The following {count} score(s) will be affected:",
   "lyricist.detail.scoreList": "Works",
   "lyricist.detail.birthAndDeath": "Lifespan",
   "lyricist.detail.new.title": "Add a Lyricist",

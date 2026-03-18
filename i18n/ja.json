@@ -313,6 +313,8 @@
   "composer.detail.report.inappropriate": "不適切な登録内容の報告",
   "composer.detail.delete": "この作曲家を削除",
   "composer.detail.delete.confirm": "この作曲家を削除しますか？この操作は元に戻せません。",
+  "composer.detail.delete.hasScores": "この作曲家に紐づく楽曲があるため削除できません。先に以下の楽曲を削除してください。",
+  "composer.detail.delete.affectedScores": "以下の {count} 件の楽曲・楽章が影響を受けます:",
   "lyricist.detail.scoreList": "作品リスト",
   "lyricist.detail.birthAndDeath": "生没年",
   "lyricist.detail.new.title": "作詞者を追加する",

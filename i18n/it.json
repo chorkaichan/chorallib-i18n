@@ -313,6 +313,8 @@
   "composer.detail.report.inappropriate": "Segnala contenuto inappropriato",
   "composer.detail.delete": "Elimina questo compositore",
   "composer.detail.delete.confirm": "Sei sicuro di voler eliminare questo compositore? Questa azione non può essere annullata.",
+  "composer.detail.delete.hasScores": "Questo compositore non può essere eliminato perché ha partiture collegate. Eliminare prima le seguenti partiture.",
+  "composer.detail.delete.affectedScores": "Le seguenti {count} partitura/e saranno interessate:",
   "lyricist.detail.scoreList": "Opere",
   "lyricist.detail.birthAndDeath": "Date di vita",
   "lyricist.detail.new.title": "Aggiungi autore testi",

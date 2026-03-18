@@ -313,6 +313,8 @@
   "composer.detail.report.inappropriate": "Laporkan konten tidak pantas",
   "composer.detail.delete": "Hapus komposer ini",
   "composer.detail.delete.confirm": "Apakah Anda yakin ingin menghapus komposer ini? Tindakan ini tidak dapat dibatalkan.",
+  "composer.detail.delete.hasScores": "Komposer ini tidak dapat dihapus karena ada skor yang terkait. Hapus skor berikut terlebih dahulu.",
+  "composer.detail.delete.affectedScores": "{count} skor berikut akan terpengaruh:",
   "lyricist.detail.scoreList": "Karya",
   "lyricist.detail.birthAndDeath": "Masa Hidup",
   "lyricist.detail.new.title": "Tambah Penulis Lirik",

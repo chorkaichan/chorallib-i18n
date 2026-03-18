@@ -313,6 +313,8 @@
   "composer.detail.report.inappropriate": "Laporkan kandungan tidak sesuai",
   "composer.detail.delete": "Padam komposer ini",
   "composer.detail.delete.confirm": "Adakah anda pasti mahu memadam komposer ini? Tindakan ini tidak boleh dibuat asal.",
+  "composer.detail.delete.hasScores": "Komposer ini tidak boleh dipadam kerana terdapat skor yang berkaitan. Sila padam skor berikut terlebih dahulu.",
+  "composer.detail.delete.affectedScores": "{count} skor berikut akan terjejas:",
   "lyricist.detail.scoreList": "Karya",
   "lyricist.detail.birthAndDeath": "Jangka Hayat",
   "lyricist.detail.new.title": "Tambah Penulis Lirik",
