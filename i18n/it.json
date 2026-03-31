@@ -1164,7 +1164,7 @@
   "composer.memorialYear.deathYear": "{n}° anniversario di morte (morto nel {year})",
   "composer.memorialYear.yearSuffix": " anni",
   "composer.memorialYear.empty": "Nessun anno commemorativo di compositori trovato per {year}",
-  "score.detail.edit.form.lyricist.hint": "Se il paroliere è sconosciuto, impostare una voce appropriata come \"Anonymous\", \"Bible\", \"Traditional\", \"Liturgical\" o \"Vocalise\" (per opere senza testo).\n\nQuesto campo è obbligatorio per tutti gli spartiti.",
+  "score.detail.edit.form.lyricist.hint": "Se il paroliere è sconosciuto, impostare una voce appropriata come \"Anonymous\", \"Bible\", \"Traditional\", \"Liturgical\", \"Vocalise\" (per opere senza testo) o \"Instrumental\" (per opere solo strumentali).\n\nQuesto campo è obbligatorio per tutti gli spartiti.",
   "score.sheet.pd.unavailable": "Gli spartiti non possono essere caricati perché uno o più compositori, parolieri o arrangiatori (compresi quelli nei movimenti) non sono di pubblico dominio. Lo stato di pubblico dominio è determinato in base a 70 anni dopo la morte dell'autore. Se ritieni che sia un errore, contattaci.",
   "score.text.pd.unavailable": "I testi non possono essere caricati perché uno o più parolieri (compresi quelli nei movimenti) non sono di pubblico dominio. Lo stato di pubblico dominio è determinato in base a 70 anni dopo la morte dell'autore. Se ritieni che sia un errore, contattaci.",
   "score.license.detail.cc0": "Quest'opera è rilasciata sotto CC0 (Pubblico dominio). Puoi usarla, modificarla e distribuirla liberamente senza attribuzione.",
