@@ -1164,7 +1164,7 @@
   "composer.memorialYear.deathYear": "没後{n}年 ({year}年没)",
   "composer.memorialYear.yearSuffix": "年",
   "composer.memorialYear.empty": "{year}年にメモリアルイヤーを迎える作曲家はいません",
-  "score.detail.edit.form.lyricist.hint": "作詞者が不詳の場合は、\"Bible\"（聖書）、\"Traditional\"（伝承）、\"Liturgical\"（典礼文）、\"Vocalise\"（歌詞なしの作品）など適切なエントリを設定してください。\n\nこのフィールドはすべての楽曲で必須です。",
+  "score.detail.edit.form.lyricist.hint": "作詞者が不詳の場合は、\"Anonymous\"（作者不詳）、\"Unknown\"（不明）、\"Bible\"（聖書）、\"Traditional\"（伝承）、\"Liturgical\"（典礼文）、\"Vocalise\"（歌詞なしの作品）など適切なエントリを設定してください。\n\nこのフィールドはすべての楽曲で必須です。",
   "score.sheet.pd.unavailable": "作曲家・作詞家・編曲家（楽章を含む）のいずれかがパブリックドメインではないため、楽譜を投稿できません。パブリックドメインの判定は著作者の死後70年を基準としています。判定に誤りがある場合は、お問い合わせください。",
   "score.text.pd.unavailable": "作詞家（楽章を含む）のいずれかがパブリックドメインではないため、テキストを投稿できません。パブリックドメインの判定は著作者の死後70年を基準としています。判定に誤りがある場合は、お問い合わせください。",
   "score.license.detail.cc0": "この作品はCC0（パブリックドメイン）で公開されています。帰属表示なしに、いかなる目的でも自由に使用、改変、配布できます。",

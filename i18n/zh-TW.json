@@ -1164,7 +1164,7 @@
   "composer.memorialYear.deathYear": "逝世{n}週年（{year}年逝世）",
   "composer.memorialYear.yearSuffix": "年",
   "composer.memorialYear.empty": "未找到{year}年的作曲家紀念年",
-  "score.detail.edit.form.lyricist.hint": "如果作詞者不詳，請設置適當的條目，如\"Bible\"（聖經）、\"Traditional\"（傳統）、\"Liturgical\"（禮儀文）或\"Vocalise\"（無歌詞作品）。\n\n此欄位對所有樂譜均為必填。",
+  "score.detail.edit.form.lyricist.hint": "如果作詞者不詳，請設置適當的條目，如\"Anonymous\"（佚名）、\"Unknown\"（不明）、\"Bible\"（聖經）、\"Traditional\"（傳統）、\"Liturgical\"（禮儀文）或\"Vocalise\"（無歌詞作品）。\n\n此欄位對所有樂譜均為必填。",
   "score.sheet.pd.unavailable": "由於一位或多位作曲家、作詞者或編曲者（包括樂章中的）尚未進入公眾領域，因此無法上傳樂譜。公眾領域的判定以作者去世後70年為基準。如果您認為判定有誤，請聯繫我們。",
   "score.text.pd.unavailable": "由於一位或多位作詞者（包括樂章中的）尚未進入公眾領域，因此無法上傳文本。公眾領域的判定以作者去世後70年為基準。如果您認為判定有誤，請聯繫我們。",
   "score.license.detail.cc0": "本作品以CC0（公眾領域）發布。您可以自由使用、修改和散布，無需標示姓名。",

@@ -1164,7 +1164,7 @@
   "composer.memorialYear.deathYear": "{n}. Todestag (gestorben {year})",
   "composer.memorialYear.yearSuffix": " Jahre",
   "composer.memorialYear.empty": "Keine Komponisten-Gedenkjahre für {year} gefunden",
-  "score.detail.edit.form.lyricist.hint": "Wenn der Textdichter unbekannt ist, setzen Sie bitte einen passenden Eintrag wie \"Bible\", \"Traditional\", \"Liturgical\" oder \"Vocalise\" (für Werke ohne Text).\n\nDieses Feld ist für alle Partituren erforderlich.",
+  "score.detail.edit.form.lyricist.hint": "Wenn der Textdichter unbekannt ist, setzen Sie bitte einen passenden Eintrag wie \"Anonymous\", \"Unknown\", \"Bible\", \"Traditional\", \"Liturgical\" oder \"Vocalise\" (für Werke ohne Text).\n\nDieses Feld ist für alle Partituren erforderlich.",
   "score.sheet.pd.unavailable": "Notenblätter können nicht hochgeladen werden, da ein oder mehrere Komponisten, Textdichter oder Arrangeure (einschließlich in Sätzen) nicht gemeinfrei sind. Der Gemeinfreiheitsstatus wird auf Grundlage von 70 Jahren nach dem Tod des Urhebers bestimmt. Wenn Sie glauben, dass dies fehlerhaft ist, kontaktieren Sie uns bitte.",
   "score.text.pd.unavailable": "Texte können nicht hochgeladen werden, da ein oder mehrere Textdichter (einschließlich in Sätzen) nicht gemeinfrei sind. Der Gemeinfreiheitsstatus wird auf Grundlage von 70 Jahren nach dem Tod des Urhebers bestimmt. Wenn Sie glauben, dass dies fehlerhaft ist, kontaktieren Sie uns bitte.",
   "score.license.detail.cc0": "Dieses Werk ist unter CC0 (Public Domain) freigegeben. Sie dürfen es ohne Namensnennung frei verwenden, bearbeiten und verbreiten.",

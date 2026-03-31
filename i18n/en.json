@@ -1164,7 +1164,7 @@
   "composer.memorialYear.deathYear": "{n}th Death Anniversary (died {year})",
   "composer.memorialYear.yearSuffix": " Years",
   "composer.memorialYear.empty": "No composer memorial years found for {year}",
-  "score.detail.edit.form.lyricist.hint": "If the lyricist is unknown, please set an appropriate entry such as \"Bible\", \"Traditional\", \"Liturgical\", or \"Vocalise\" (for works without text).\n\nThis field is required for all scores.",
+  "score.detail.edit.form.lyricist.hint": "If the lyricist is unknown, please set an appropriate entry such as \"Anonymous\", \"Unknown\", \"Bible\", \"Traditional\", \"Liturgical\", or \"Vocalise\" (for works without text).\n\nThis field is required for all scores.",
   "score.sheet.pd.unavailable": "Score sheets cannot be uploaded because one or more composers, lyricists, or arrangers (including those in movements) are not in the public domain. Public domain status is determined based on 70 years after the author's death. If you believe this is incorrect, please contact us.",
   "score.text.pd.unavailable": "Texts cannot be uploaded because one or more lyricists (including those in movements) are not in the public domain. Public domain status is determined based on 70 years after the author's death. If you believe this is incorrect, please contact us.",
   "score.license.detail.cc0": "This work is released under CC0 (Public Domain). You are free to use, modify, and distribute it for any purpose without requiring attribution.",
