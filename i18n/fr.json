@@ -1164,7 +1164,7 @@
   "composer.memorialYear.deathYear": "{n}e anniversaire de décès (décédé en {year})",
   "composer.memorialYear.yearSuffix": " ans",
   "composer.memorialYear.empty": "Aucune année commémorative de compositeur trouvée pour {year}",
-  "score.detail.edit.form.lyricist.hint": "Si le parolier est inconnu, veuillez définir une entrée appropriée telle que \"Anonymous\", \"Unknown\", \"Bible\", \"Traditional\", \"Liturgical\" ou \"Vocalise\" (pour les œuvres sans texte).\n\nCe champ est obligatoire pour toutes les partitions.",
+  "score.detail.edit.form.lyricist.hint": "Si le parolier est inconnu, veuillez définir une entrée appropriée telle que \"Anonymous\", \"Bible\", \"Traditional\", \"Liturgical\" ou \"Vocalise\" (pour les œuvres sans texte).\n\nCe champ est obligatoire pour toutes les partitions.",
   "score.sheet.pd.unavailable": "Les partitions ne peuvent pas être téléchargées car un ou plusieurs compositeurs, paroliers ou arrangeurs (y compris dans les mouvements) ne sont pas dans le domaine public. Le statut de domaine public est déterminé sur la base de 70 ans après la mort de l'auteur. Si vous pensez qu'il s'agit d'une erreur, veuillez nous contacter.",
   "score.text.pd.unavailable": "Les textes ne peuvent pas être téléchargés car un ou plusieurs paroliers (y compris dans les mouvements) ne sont pas dans le domaine public. Le statut de domaine public est déterminé sur la base de 70 ans après la mort de l'auteur. Si vous pensez qu'il s'agit d'une erreur, veuillez nous contacter.",
   "score.license.detail.cc0": "Cette œuvre est publiée sous CC0 (Domaine public). Vous pouvez l'utiliser, la modifier et la distribuer librement sans attribution.",

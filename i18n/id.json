@@ -1164,7 +1164,7 @@
   "composer.memorialYear.deathYear": "Peringatan Kematian ke-{n} (wafat {year})",
   "composer.memorialYear.yearSuffix": " Tahun",
   "composer.memorialYear.empty": "Tidak ditemukan tahun peringatan komposer untuk {year}",
-  "score.detail.edit.form.lyricist.hint": "Jika penulis lirik tidak diketahui, silakan atur entri yang sesuai seperti \"Anonymous\", \"Unknown\", \"Bible\", \"Traditional\", \"Liturgical\", atau \"Vocalise\" (untuk karya tanpa teks).\n\nBidang ini wajib diisi untuk semua partitur.",
+  "score.detail.edit.form.lyricist.hint": "Jika penulis lirik tidak diketahui, silakan atur entri yang sesuai seperti \"Anonymous\", \"Bible\", \"Traditional\", \"Liturgical\", atau \"Vocalise\" (untuk karya tanpa teks).\n\nBidang ini wajib diisi untuk semua partitur.",
   "score.sheet.pd.unavailable": "Partitur tidak dapat diunggah karena satu atau lebih komposer, penulis lirik, atau pengaransemen (termasuk dalam gerakan) belum menjadi domain publik. Status domain publik ditentukan berdasarkan 70 tahun setelah kematian penulis. Jika Anda yakin ini salah, silakan hubungi kami.",
   "score.text.pd.unavailable": "Teks tidak dapat diunggah karena satu atau lebih penulis lirik (termasuk dalam gerakan) belum menjadi domain publik. Status domain publik ditentukan berdasarkan 70 tahun setelah kematian penulis. Jika Anda yakin ini salah, silakan hubungi kami.",
   "score.license.detail.cc0": "Karya ini dirilis di bawah CC0 (Domain Publik). Anda bebas menggunakan, memodifikasi, dan mendistribusikannya tanpa atribusi.",

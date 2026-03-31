@@ -1164,7 +1164,7 @@
   "composer.memorialYear.deathYear": "{n}º aniversario de fallecimiento (fallecido en {year})",
   "composer.memorialYear.yearSuffix": " años",
   "composer.memorialYear.empty": "No se encontraron años conmemorativos de compositores para {year}",
-  "score.detail.edit.form.lyricist.hint": "Si el letrista es desconocido, establezca una entrada apropiada como \"Anonymous\", \"Unknown\", \"Bible\", \"Traditional\", \"Liturgical\" o \"Vocalise\" (para obras sin texto).\n\nEste campo es obligatorio para todas las partituras.",
+  "score.detail.edit.form.lyricist.hint": "Si el letrista es desconocido, establezca una entrada apropiada como \"Anonymous\", \"Bible\", \"Traditional\", \"Liturgical\" o \"Vocalise\" (para obras sin texto).\n\nEste campo es obligatorio para todas las partituras.",
   "score.sheet.pd.unavailable": "No se pueden subir partituras porque uno o más compositores, letristas o arreglistas (incluyendo los de los movimientos) no están en el dominio público. El estado de dominio público se determina en base a 70 años después de la muerte del autor. Si cree que esto es incorrecto, contáctenos.",
   "score.text.pd.unavailable": "No se pueden subir textos porque uno o más letristas (incluyendo los de los movimientos) no están en el dominio público. El estado de dominio público se determina en base a 70 años después de la muerte del autor. Si cree que esto es incorrecto, contáctenos.",
   "score.license.detail.cc0": "Esta obra está publicada bajo CC0 (Dominio público). Puede usarla, modificarla y distribuirla libremente sin atribución.",
