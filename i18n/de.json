@@ -322,6 +322,7 @@
   "score.license.hint": "Wählen Sie eine Creative-Commons-Lizenz aus.\n\n■ Namensnennung (BY)\nErfordert die Nennung des Urhebers.\nWird automatisch aktiviert, wenn eine andere Bedingung gewählt wird.\n\n■ Weitergabe unter gleichen Bedingungen (SA)\nAbgeleitete Werke müssen unter derselben Lizenz veröffentlicht werden.\n\n■ Nicht kommerziell (NC)\nKommerzielle Nutzung ist untersagt.\n\n■ Keine Bearbeitung (ND)\nVeränderungen am Werk sind untersagt.\n\n※ SA und ND können nicht gleichzeitig gewählt werden.\n※ Ohne Auswahl gilt CC0 (Public Domain).",
   "score.license.hint.sheet": "Wählen Sie eine Creative-Commons-Lizenz für dieses Notenblatt.",
   "score.license.hint.text": "Wählen Sie eine Creative-Commons-Lizenz für diesen Text.",
+  "score.license.hint.text.original": "Originaltexte stehen unter CC0 (Public Domain). Jeder kann sie frei nutzen und bearbeiten.",
   "score.notes": "Anmerkungen",
   "score.notes.hint": "Please write notes in English so that users worldwide can understand.\n\ne.g. Source, edition, or any special remarks.",
   "score.notes.placeholder.sheet": "e.g. Transposed up a semitone, source, etc.",

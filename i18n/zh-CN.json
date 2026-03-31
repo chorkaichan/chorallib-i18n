@@ -322,6 +322,7 @@
   "score.license.hint": "选择要应用的Creative Commons许可证。\n\n■ 署名 (BY)\n要求标注原作者。\n选择其他条件时自动启用。\n\n■ 相同方式共享 (SA)\n衍生作品必须以相同许可证共享。\n\n■ 非商业性 (NC)\n禁止商业使用。\n\n■ 禁止演绎 (ND)\n禁止修改作品。\n\n※ SA和ND不能同时选择。\n※ 如果不选择任何选项，则视为CC0（公有领域）。",
   "score.license.hint.sheet": "选择要应用于此乐谱的Creative Commons许可证。",
   "score.license.hint.text": "选择要应用于此文本的Creative Commons许可证。",
+  "score.license.hint.text.original": "原文采用CC0（公有领域）许可证。任何人都可以自由使用和编辑。",
   "score.notes": "备注",
   "score.notes.hint": "Please write notes in English so that users worldwide can understand.\n\ne.g. Source, edition, or any special remarks.",
   "score.notes.placeholder.sheet": "e.g. Transposed up a semitone, source, etc.",

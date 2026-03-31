@@ -322,6 +322,7 @@
   "score.license.hint": "Pilih lisensi Creative Commons.\n\n■ Atribusi (BY)\nMengharuskan pencantuman kredit penulis asli.\nDiaktifkan secara otomatis saat kondisi lain dipilih.\n\n■ Berbagi Serupa (SA)\nKarya turunan harus dibagikan dengan lisensi yang sama.\n\n■ NonKomersial (NC)\nMelarang penggunaan komersial.\n\n■ TanpaTurunan (ND)\nMelarang modifikasi karya.\n\n※ SA dan ND tidak dapat dipilih bersamaan.\n※ Tanpa pilihan, karya dianggap CC0 (Domain Publik).",
   "score.license.hint.sheet": "Pilih lisensi Creative Commons untuk partitur ini.",
   "score.license.hint.text": "Pilih lisensi Creative Commons untuk teks ini.",
+  "score.license.hint.text.original": "Teks asli dilisensikan di bawah CC0 (Domain Publik). Siapa pun dapat menggunakan dan mengeditnya secara bebas.",
   "score.notes": "Catatan",
   "score.notes.hint": "Please write notes in English so that users worldwide can understand.\n\ne.g. Source, edition, or any special remarks.",
   "score.notes.placeholder.sheet": "e.g. Transposed up a semitone, source, etc.",

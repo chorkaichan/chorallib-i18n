@@ -322,6 +322,7 @@
   "score.license.hint": "適用するCreative Commonsライセンスを選択してください。\n\n■ 表示 (BY)\n原作者のクレジットを表示することを求めます。\n他の条件を選択すると自動的に有効になります。\n\n■ 継承 (SA)\n改変した場合、同じライセンスで公開することを求めます。\n\n■ 非営利 (NC)\n営利目的での利用を禁止します。\n\n■ 改変禁止 (ND)\n作品の改変を禁止します。\n\n※ 継承(SA)と改変禁止(ND)は同時に選択できません。\n※ 何も選択しない場合はCC0（パブリックドメイン）として扱われます。",
   "score.license.hint.sheet": "この楽譜に適用するCreative Commonsライセンスを選択してください。",
   "score.license.hint.text": "このテキストに適用するCreative Commonsライセンスを選択してください。",
+  "score.license.hint.text.original": "オリジナルテキストのライセンスはCC0（パブリックドメイン）に固定されています。誰でも自由に利用・編集できます。",
   "score.notes": "備考",
   "score.notes.hint": "Please write notes in English so that users worldwide can understand.\n\ne.g. Source, edition, or any special remarks.",
   "score.notes.placeholder.sheet": "e.g. Transposed up a semitone, source, etc.",

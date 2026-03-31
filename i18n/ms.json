@@ -322,6 +322,7 @@
   "score.license.hint": "Pilih lesen Creative Commons.\n\n■ Atribusi (BY)\nMemerlukan kredit kepada pengarang asal.\nDiaktifkan secara automatik apabila syarat lain dipilih.\n\n■ Perkongsian Serupa (SA)\nKarya terbitan mesti dikongsi dengan lesen yang sama.\n\n■ BukanKomersial (NC)\nMelarang penggunaan komersial.\n\n■ TiadaTerbitan (ND)\nMelarang pengubahsuaian karya.\n\n※ SA dan ND tidak boleh dipilih serentak.\n※ Tanpa pilihan, karya dianggap CC0 (Domain Awam).",
   "score.license.hint.sheet": "Pilih lesen Creative Commons untuk skor ini.",
   "score.license.hint.text": "Pilih lesen Creative Commons untuk teks ini.",
+  "score.license.hint.text.original": "Teks asal dilesenkan di bawah CC0 (Domain Awam). Sesiapa sahaja boleh menggunakan dan mengeditnya secara bebas.",
   "score.notes": "Nota",
   "score.notes.hint": "Please write notes in English so that users worldwide can understand.\n\ne.g. Source, edition, or any special remarks.",
   "score.notes.placeholder.sheet": "e.g. Transposed up a semitone, source, etc.",

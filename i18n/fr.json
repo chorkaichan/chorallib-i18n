@@ -322,6 +322,7 @@
   "score.license.hint": "Sélectionnez une licence Creative Commons.\n\n■ Attribution (BY)\nExige de créditer l'auteur original.\nActivé automatiquement lorsqu'une autre condition est sélectionnée.\n\n■ Partage dans les mêmes conditions (SA)\nLes œuvres dérivées doivent être partagées sous la même licence.\n\n■ Pas d'utilisation commerciale (NC)\nInterdit l'utilisation commerciale.\n\n■ Pas de modification (ND)\nInterdit la modification de l'œuvre.\n\n※ SA et ND ne peuvent pas être sélectionnés simultanément.\n※ Sans sélection, l'œuvre est traitée comme CC0 (Domaine public).",
   "score.license.hint.sheet": "Sélectionnez une licence Creative Commons pour cette partition.",
   "score.license.hint.text": "Sélectionnez une licence Creative Commons pour ce texte.",
+  "score.license.hint.text.original": "Les textes originaux sont sous licence CC0 (Domaine Public). Tout le monde peut les utiliser et les modifier librement.",
   "score.notes": "Notes",
   "score.notes.hint": "Please write notes in English so that users worldwide can understand.\n\ne.g. Source, edition, or any special remarks.",
   "score.notes.placeholder.sheet": "e.g. Transposed up a semitone, source, etc.",

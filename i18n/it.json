@@ -322,6 +322,7 @@
   "score.license.hint": "Seleziona una licenza Creative Commons.\n\n■ Attribuzione (BY)\nRichiede di accreditare l'autore originale.\nAbilitato automaticamente quando viene selezionata un'altra condizione.\n\n■ Condividi allo stesso modo (SA)\nLe opere derivate devono essere condivise con la stessa licenza.\n\n■ Non commerciale (NC)\nVieta l'uso commerciale.\n\n■ Non opere derivate (ND)\nVieta la modifica dell'opera.\n\n※ SA e ND non possono essere selezionati contemporaneamente.\n※ Senza selezione, l'opera è trattata come CC0 (Pubblico dominio).",
   "score.license.hint.sheet": "Seleziona una licenza Creative Commons per questo spartito.",
   "score.license.hint.text": "Seleziona una licenza Creative Commons per questo testo.",
+  "score.license.hint.text.original": "I testi originali sono sotto licenza CC0 (Pubblico Dominio). Chiunque può usarli e modificarli liberamente.",
   "score.notes": "Note",
   "score.notes.hint": "Please write notes in English so that users worldwide can understand.\n\ne.g. Source, edition, or any special remarks.",
   "score.notes.placeholder.sheet": "e.g. Transposed up a semitone, source, etc.",

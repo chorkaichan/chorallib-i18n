@@ -322,6 +322,7 @@
   "score.license.hint": "اختر رخصة المشاع الإبداعي.\n\n■ النسب (BY)\nيتطلب ذكر المؤلف الأصلي.\nيتم تفعيله تلقائيًا عند اختيار أي شرط آخر.\n\n■ الترخيص بالمثل (SA)\nيجب مشاركة الأعمال المشتقة بنفس الرخصة.\n\n■ غير تجاري (NC)\nيحظر الاستخدام التجاري.\n\n■ بدون اشتقاق (ND)\nيحظر تعديل العمل.\n\n※ لا يمكن اختيار SA وND في نفس الوقت.\n※ إذا لم يتم اختيار أي شيء، يُعامل العمل كـ CC0 (ملك عام).",
   "score.license.hint.sheet": "اختر رخصة المشاع الإبداعي لهذه النوتة الموسيقية.",
   "score.license.hint.text": "اختر رخصة المشاع الإبداعي لهذا النص.",
+  "score.license.hint.text.original": "النصوص الأصلية مرخصة بموجب CC0 (الملكية العامة). يمكن لأي شخص استخدامها وتعديلها بحرية.",
   "score.notes": "ملاحظات",
   "score.notes.hint": "Please write notes in English so that users worldwide can understand.\n\ne.g. Source, edition, or any special remarks.",
   "score.notes.placeholder.sheet": "e.g. Transposed up a semitone, source, etc.",

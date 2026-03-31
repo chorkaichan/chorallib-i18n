@@ -322,6 +322,7 @@
   "score.license.hint": "Select a Creative Commons license to apply.\n\n■ Attribution (BY)\nRequires credit to the original author.\nAutomatically enabled when any other condition is selected.\n\n■ ShareAlike (SA)\nDerivative works must be shared under the same license.\n\n■ NonCommercial (NC)\nProhibits commercial use.\n\n■ NoDerivatives (ND)\nProhibits modification of the work.\n\n※ ShareAlike (SA) and NoDerivatives (ND) cannot be selected simultaneously.\n※ If nothing is selected, the work is treated as CC0 (Public Domain).",
   "score.license.hint.sheet": "Select a Creative Commons license to apply to this score sheet.",
   "score.license.hint.text": "Select a Creative Commons license to apply to this text.",
+  "score.license.hint.text.original": "Original texts are licensed under CC0 (Public Domain). Anyone can freely use and edit them.",
   "score.notes": "Notes",
   "score.notes.hint": "Please write notes in English so that users worldwide can understand.\n\ne.g. Source, edition, or any special remarks.",
   "score.notes.placeholder.sheet": "e.g. Transposed up a semitone, source, etc.",

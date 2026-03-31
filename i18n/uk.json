@@ -322,6 +322,7 @@
   "score.license.hint": "Виберіть ліцензію Creative Commons.\n\n■ Зазначення авторства (BY)\nВимагається вказівка автора.\nАвтоматично вмикається при виборі будь-якої іншої умови.\n\n■ Поширення на тих самих умовах (SA)\nПохідні твори мають поширюватися на тих самих умовах.\n\n■ Некомерційне (NC)\nКомерційне використання заборонено.\n\n■ Без похідних творів (ND)\nЗміна твору заборонена.\n\n※ SA та ND не можна обрати одночасно.\n※ Без вибору твір вважається CC0 (суспільне надбання).",
   "score.license.hint.sheet": "Виберіть ліцензію Creative Commons для цих нот.",
   "score.license.hint.text": "Виберіть ліцензію Creative Commons для цього тексту.",
+  "score.license.hint.text.original": "Оригінальні тексти ліцензовані під CC0 (суспільне надбання). Будь-хто може вільно використовувати та редагувати їх.",
   "score.notes": "Примітки",
   "score.notes.hint": "Please write notes in English so that users worldwide can understand.\n\ne.g. Source, edition, or any special remarks.",
   "score.notes.placeholder.sheet": "e.g. Transposed up a semitone, source, etc.",
