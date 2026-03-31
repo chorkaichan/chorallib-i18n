@@ -1176,5 +1176,9 @@
   "score.license.detail.terms": "以下の条件が適用されます:",
   "score.license.detail.more": "ライセンスの詳細は creativecommons.org をご覧ください。",
   "score.sheet.saveFirst": "楽譜データを投稿するには、まずこの楽曲を保存してください。また、作曲家・作詞家・編曲家（楽章を含む）がすべてパブリックドメインである必要があります。",
-  "score.text.saveFirst": "テキストを投稿するには、まずこの楽曲を保存してください。また、作詞家（楽章を含む）がすべてパブリックドメインである必要があります。"
+  "score.text.saveFirst": "テキストを投稿するには、まずこの楽曲を保存してください。また、作詞家（楽章を含む）がすべてパブリックドメインである必要があります。",
+  "score.sheet.copyright.title": "著作権に関する確認",
+  "score.sheet.copyright.description1": "著作権に抵触しないPDFファイルをアップロードしてください。",
+  "score.sheet.copyright.description2": "作曲家・作詞家・編曲者がパブリックドメインであっても、出版社が校訂・編集著作権や版面権を有している場合があり、権利侵害となる可能性があります。ご注意ください。",
+  "score.sheet.copyright.confirm": "確認しました"
 }

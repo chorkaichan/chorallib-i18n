@@ -1176,5 +1176,9 @@
   "score.license.detail.terms": "Es gelten folgende Bedingungen:",
   "score.license.detail.more": "Vollständige Lizenzdetails finden Sie auf creativecommons.org.",
   "score.sheet.saveFirst": "Um Notenblätter hochzuladen, speichern Sie bitte zuerst diese Partitur. Alle Komponisten, Textdichter und Arrangeure (einschließlich in Sätzen) müssen gemeinfrei sein.",
-  "score.text.saveFirst": "Um Texte hochzuladen, speichern Sie bitte zuerst diese Partitur. Alle Textdichter (einschließlich in Sätzen) müssen gemeinfrei sein."
+  "score.text.saveFirst": "Um Texte hochzuladen, speichern Sie bitte zuerst diese Partitur. Alle Textdichter (einschließlich in Sätzen) müssen gemeinfrei sein.",
+  "score.sheet.copyright.title": "Urheberrechtsbestätigung",
+  "score.sheet.copyright.description1": "Bitte laden Sie nur PDF-Dateien hoch, die nicht gegen das Urheberrecht verstoßen.",
+  "score.sheet.copyright.description2": "Auch wenn Komponisten, Textdichter und Arrangeure bereits gemeinfrei sind, können Verlage redaktionelle Urheberrechte oder Satzrechte besitzen, was eine Rechtsverletzung darstellen könnte. Bitte seien Sie vorsichtig.",
+  "score.sheet.copyright.confirm": "Verstanden"
 }

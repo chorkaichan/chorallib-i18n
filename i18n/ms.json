@@ -1176,5 +1176,9 @@
   "score.license.detail.terms": "Syarat-syarat berikut terpakai:",
   "score.license.detail.more": "Untuk butiran lesen penuh, layari creativecommons.org.",
   "score.sheet.saveFirst": "Untuk memuat naik skor, sila simpan skor ini terlebih dahulu. Semua komposer, penulis lirik, dan penggubah (termasuk dalam pergerakan) mesti berada dalam domain awam.",
-  "score.text.saveFirst": "Untuk memuat naik teks, sila simpan skor ini terlebih dahulu. Semua penulis lirik (termasuk dalam pergerakan) mesti berada dalam domain awam."
+  "score.text.saveFirst": "Untuk memuat naik teks, sila simpan skor ini terlebih dahulu. Semua penulis lirik (termasuk dalam pergerakan) mesti berada dalam domain awam.",
+  "score.sheet.copyright.title": "Pengesahan Hak Cipta",
+  "score.sheet.copyright.description1": "Sila muat naik hanya fail PDF yang tidak melanggar hak cipta.",
+  "score.sheet.copyright.description2": "Walaupun komposer, penulis lirik, dan penggubah sudah berada dalam domain awam, penerbit mungkin memiliki hak cipta editorial atau hak susun atur, yang boleh menjadi pelanggaran hak. Sila berhati-hati.",
+  "score.sheet.copyright.confirm": "Saya Faham"
 }

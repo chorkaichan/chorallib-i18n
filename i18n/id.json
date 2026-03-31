@@ -1176,5 +1176,9 @@
   "score.license.detail.terms": "Ketentuan berikut berlaku:",
   "score.license.detail.more": "Untuk detail lisensi lengkap, kunjungi creativecommons.org.",
   "score.sheet.saveFirst": "Untuk mengunggah partitur, silakan simpan skor ini terlebih dahulu. Semua komposer, penulis lirik, dan pengaransemen (termasuk dalam gerakan) harus berada dalam domain publik.",
-  "score.text.saveFirst": "Untuk mengunggah teks, silakan simpan skor ini terlebih dahulu. Semua penulis lirik (termasuk dalam gerakan) harus berada dalam domain publik."
+  "score.text.saveFirst": "Untuk mengunggah teks, silakan simpan skor ini terlebih dahulu. Semua penulis lirik (termasuk dalam gerakan) harus berada dalam domain publik.",
+  "score.sheet.copyright.title": "Konfirmasi Hak Cipta",
+  "score.sheet.copyright.description1": "Harap unggah hanya file PDF yang tidak melanggar hak cipta.",
+  "score.sheet.copyright.description2": "Meskipun komposer, penulis lirik, dan pengaransemen sudah berada dalam domain publik, penerbit mungkin memiliki hak cipta editorial atau hak tata letak, yang dapat merupakan pelanggaran hak. Harap berhati-hati.",
+  "score.sheet.copyright.confirm": "Saya Mengerti"
 }

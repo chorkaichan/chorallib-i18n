@@ -1176,5 +1176,9 @@
   "score.license.detail.terms": "Les conditions suivantes s'appliquent :",
   "score.license.detail.more": "Pour les détails complets, visitez creativecommons.org.",
   "score.sheet.saveFirst": "Pour télécharger des partitions, veuillez d'abord enregistrer cette partition. Tous les compositeurs, paroliers et arrangeurs (y compris dans les mouvements) doivent être dans le domaine public.",
-  "score.text.saveFirst": "Pour télécharger des textes, veuillez d'abord enregistrer cette partition. Tous les paroliers (y compris dans les mouvements) doivent être dans le domaine public."
+  "score.text.saveFirst": "Pour télécharger des textes, veuillez d'abord enregistrer cette partition. Tous les paroliers (y compris dans les mouvements) doivent être dans le domaine public.",
+  "score.sheet.copyright.title": "Confirmation des droits d'auteur",
+  "score.sheet.copyright.description1": "Veuillez télécharger uniquement des fichiers PDF qui ne portent pas atteinte aux droits d'auteur.",
+  "score.sheet.copyright.description2": "Même si les compositeurs, paroliers et arrangeurs sont déjà dans le domaine public, les éditeurs peuvent détenir des droits d'auteur éditoriaux ou des droits de mise en page, ce qui pourrait constituer une violation des droits. Veuillez faire preuve de prudence.",
+  "score.sheet.copyright.confirm": "J'ai compris"
 }

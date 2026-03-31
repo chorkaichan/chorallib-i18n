@@ -1176,5 +1176,9 @@
   "score.license.detail.terms": "適用以下條款：",
   "score.license.detail.more": "完整授權詳情請訪問 creativecommons.org。",
   "score.sheet.saveFirst": "要上傳樂譜，請先儲存此樂曲。所有作曲家、作詞者和編曲者（包括樂章中的）必須處於公眾領域。",
-  "score.text.saveFirst": "要上傳文本，請先儲存此樂曲。所有作詞者（包括樂章中的）必須處於公眾領域。"
+  "score.text.saveFirst": "要上傳文本，請先儲存此樂曲。所有作詞者（包括樂章中的）必須處於公眾領域。",
+  "score.sheet.copyright.title": "版權確認",
+  "score.sheet.copyright.description1": "請僅上傳不侵犯版權的PDF檔案。",
+  "score.sheet.copyright.description2": "即使作曲家、作詞者和編曲者已進入公眾領域，出版社仍可能擁有校訂·編輯著作權或版面權，這可能構成侵權。請注意。",
+  "score.sheet.copyright.confirm": "我已了解"
 }

@@ -1176,5 +1176,9 @@
   "score.license.detail.terms": "Si applicano le seguenti condizioni:",
   "score.license.detail.more": "Per i dettagli completi, visita creativecommons.org.",
   "score.sheet.saveFirst": "Per caricare spartiti, salva prima questo spartito. Tutti i compositori, parolieri e arrangiatori (compresi quelli nei movimenti) devono essere di pubblico dominio.",
-  "score.text.saveFirst": "Per caricare testi, salva prima questo spartito. Tutti i parolieri (compresi quelli nei movimenti) devono essere di pubblico dominio."
+  "score.text.saveFirst": "Per caricare testi, salva prima questo spartito. Tutti i parolieri (compresi quelli nei movimenti) devono essere di pubblico dominio.",
+  "score.sheet.copyright.title": "Conferma sul diritto d'autore",
+  "score.sheet.copyright.description1": "Carica solo file PDF che non violino il diritto d'autore.",
+  "score.sheet.copyright.description2": "Anche se i compositori, parolieri e arrangiatori sono già di pubblico dominio, gli editori potrebbero detenere diritti d'autore editoriali o diritti di impaginazione, il che potrebbe costituire una violazione dei diritti. Si prega di prestare attenzione.",
+  "score.sheet.copyright.confirm": "Ho capito"
 }

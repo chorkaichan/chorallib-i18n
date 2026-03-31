@@ -1176,5 +1176,9 @@
   "score.license.detail.terms": "适用以下条款：",
   "score.license.detail.more": "完整许可详情请访问 creativecommons.org。",
   "score.sheet.saveFirst": "要上传乐谱，请先保存此乐曲。所有作曲家、作词者和编曲者（包括乐章中的）必须处于公有领域。",
-  "score.text.saveFirst": "要上传文本，请先保存此乐曲。所有作词者（包括乐章中的）必须处于公有领域。"
+  "score.text.saveFirst": "要上传文本，请先保存此乐曲。所有作词者（包括乐章中的）必须处于公有领域。",
+  "score.sheet.copyright.title": "版权确认",
+  "score.sheet.copyright.description1": "请仅上传不侵犯版权的PDF文件。",
+  "score.sheet.copyright.description2": "即使作曲家、作词者和编曲者已进入公有领域，出版社仍可能拥有校订·编辑著作权或版面权，这可能构成侵权。请注意。",
+  "score.sheet.copyright.confirm": "我已了解"
 }

@@ -1176,5 +1176,9 @@
   "score.license.detail.terms": "The following terms apply:",
   "score.license.detail.more": "For full license details, visit creativecommons.org.",
   "score.sheet.saveFirst": "To upload score sheets, please save this score first. All composers, lyricists, and arrangers (including those in movements) must be in the public domain.",
-  "score.text.saveFirst": "To upload texts, please save this score first. All lyricists (including those in movements) must be in the public domain."
+  "score.text.saveFirst": "To upload texts, please save this score first. All lyricists (including those in movements) must be in the public domain.",
+  "score.sheet.copyright.title": "Copyright Confirmation",
+  "score.sheet.copyright.description1": "Please upload only PDF files that do not infringe on copyright.",
+  "score.sheet.copyright.description2": "Even if the composers, lyricists, and arrangers are already in the public domain, publishers may hold editorial copyright or typesetting rights, which could constitute a rights infringement. Please exercise caution.",
+  "score.sheet.copyright.confirm": "I Understand"
 }

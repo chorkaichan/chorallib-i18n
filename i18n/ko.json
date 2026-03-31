@@ -1176,5 +1176,9 @@
   "score.license.detail.terms": "다음 조건이 적용됩니다:",
   "score.license.detail.more": "전체 라이선스 세부사항은 creativecommons.org를 참조하세요.",
   "score.sheet.saveFirst": "악보를 업로드하려면 먼저 이 악보를 저장하세요. 모든 작곡가, 작사자, 편곡자(악장 포함)가 퍼블릭 도메인이어야 합니다.",
-  "score.text.saveFirst": "텍스트를 업로드하려면 먼저 이 악보를 저장하세요. 모든 작사자(악장 포함)가 퍼블릭 도메인이어야 합니다."
+  "score.text.saveFirst": "텍스트를 업로드하려면 먼저 이 악보를 저장하세요. 모든 작사자(악장 포함)가 퍼블릭 도메인이어야 합니다.",
+  "score.sheet.copyright.title": "저작권 확인",
+  "score.sheet.copyright.description1": "저작권을 침해하지 않는 PDF 파일만 업로드해 주세요.",
+  "score.sheet.copyright.description2": "작곡가, 작사자, 편곡자가 이미 퍼블릭 도메인이더라도 출판사가 교정·편집 저작권이나 판면권을 보유하고 있을 수 있어 권리 침해가 될 수 있습니다. 주의해 주세요.",
+  "score.sheet.copyright.confirm": "확인했습니다"
 }

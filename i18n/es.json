@@ -1176,5 +1176,9 @@
   "score.license.detail.terms": "Se aplican las siguientes condiciones:",
   "score.license.detail.more": "Para más detalles, visite creativecommons.org.",
   "score.sheet.saveFirst": "Para subir partituras, primero guarde esta partitura. Todos los compositores, letristas y arreglistas (incluidos los de los movimientos) deben estar en el dominio público.",
-  "score.text.saveFirst": "Para subir textos, primero guarde esta partitura. Todos los letristas (incluidos los de los movimientos) deben estar en el dominio público."
+  "score.text.saveFirst": "Para subir textos, primero guarde esta partitura. Todos los letristas (incluidos los de los movimientos) deben estar en el dominio público.",
+  "score.sheet.copyright.title": "Confirmación de derechos de autor",
+  "score.sheet.copyright.description1": "Suba únicamente archivos PDF que no infrinjan los derechos de autor.",
+  "score.sheet.copyright.description2": "Aunque los compositores, letristas y arreglistas ya estén en el dominio público, los editores pueden poseer derechos de autor editoriales o derechos de composición tipográfica, lo que podría constituir una infracción de derechos. Tenga precaución.",
+  "score.sheet.copyright.confirm": "Entendido"
 }
