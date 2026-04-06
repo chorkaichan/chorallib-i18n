@@ -1182,6 +1182,7 @@
   "composer.memorialYear.deathYear": "逝世{n}周年（{year}年逝世）",
   "composer.memorialYear.yearSuffix": "年",
   "composer.memorialYear.empty": "未找到{year}年的作曲家纪念年",
+  "score.detail.edit.form.composer.hint": "如果作曲者不详，请设置适当的条目，如\"Anonymous\"（佚名）或\"Traditional\"（传统曲）等。",
   "score.detail.edit.form.lyricist.hint": "如果作词者不详，请设置适当的条目，如\"Anonymous\"（佚名）、\"Bible\"（圣经）、\"Traditional\"（传统）、\"Liturgical\"（礼仪文）、\"Vocalise\"（无歌词作品）或\"Instrumental\"（纯器乐作品）。\n\n此字段对所有乐谱均为必填。",
   "score.sheet.pd.unavailable": "由于一位或多位作曲家、作词者或编曲者（包括乐章中的）尚未进入公有领域，因此无法上传乐谱。公有领域的判定以作者去世后70年为基准。如果您认为判定有误，请联系我们。",
   "score.text.pd.unavailable": "由于一位或多位作词者（包括乐章中的）尚未进入公有领域，因此无法上传文本。公有领域的判定以作者去世后70年为基准。如果您认为判定有误，请联系我们。",
