@@ -180,6 +180,7 @@
   "search.popularity.4": "다소 유명",
   "search.popularity.5": "유명",
   "edit.modal.submit.title": "이 항목을 저장하시겠습니까?",
+  "edit.draft.restored": "저장하지 않은 초안을 복원했습니다",
   "edit.modal.reset.title": "변경 사항을 취소하시겠습니까?",
   "edit.modal.reset.description": "저장하지 않은 변경 사항을 취소하고 처음 불러온 내용으로 되돌립니다. 이 작업은 되돌릴 수 없습니다.",
   "edit.modal.conflict.title": "중복된 내용이 아닌가요?",

@@ -180,6 +180,7 @@
   "search.popularity.4": "Assez connu",
   "search.popularity.5": "Populaire",
   "edit.modal.submit.title": "Enregistrer cet élément ?",
+  "edit.draft.restored": "Brouillon non enregistré restauré",
   "edit.modal.reset.title": "Annuler vos modifications ?",
   "edit.modal.reset.description": "Cela annulera vos modifications non enregistrées et restaurera le contenu chargé initialement. Cette action est irréversible.",
   "edit.modal.conflict.title": "Est-ce un doublon ?",

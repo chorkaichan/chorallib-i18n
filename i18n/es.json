@@ -180,6 +180,7 @@
   "search.popularity.4": "Bastante conocido",
   "search.popularity.5": "Popular",
   "edit.modal.submit.title": "¿Guardar este elemento?",
+  "edit.draft.restored": "Se restauró tu borrador sin guardar",
   "edit.modal.reset.title": "¿Descartar tus cambios?",
   "edit.modal.reset.description": "Esto descartará tus cambios sin guardar y restaurará el contenido cargado inicialmente. Esta acción no se puede deshacer.",
   "edit.modal.conflict.title": "¿Es un duplicado?",

@@ -180,6 +180,7 @@
   "search.popularity.4": "Well-known",
   "search.popularity.5": "Popular",
   "edit.modal.submit.title": "Save this item?",
+  "edit.draft.restored": "Restored your unsaved draft",
   "edit.modal.reset.title": "Discard your changes?",
   "edit.modal.reset.description": "This discards your unsaved edits and restores the originally loaded content. This cannot be undone.",
   "edit.modal.conflict.title": "Is this a duplicate?",

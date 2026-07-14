@@ -180,6 +180,7 @@
   "search.popularity.4": "较知名",
   "search.popularity.5": "知名",
   "edit.modal.submit.title": "保存此项？",
+  "edit.draft.restored": "已恢复您未保存的草稿",
   "edit.modal.reset.title": "放弃您的修改？",
   "edit.modal.reset.description": "这将放弃您未保存的修改并恢复到最初加载的内容。此操作无法撤销。",
   "edit.modal.conflict.title": "是否重复？",

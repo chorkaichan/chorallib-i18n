@@ -180,6 +180,7 @@
   "search.popularity.4": "معروف نوعاً ما",
   "search.popularity.5": "مشهور",
   "edit.modal.submit.title": "حفظ هذا العنصر؟",
+  "edit.draft.restored": "تمت استعادة مسودتك غير المحفوظة",
   "edit.modal.reset.title": "تجاهل تغييراتك؟",
   "edit.modal.reset.description": "سيؤدي هذا إلى تجاهل تعديلاتك غير المحفوظة واستعادة المحتوى الذي تم تحميله في البداية. لا يمكن التراجع عن هذا الإجراء.",
   "edit.modal.conflict.title": "هل هذا مكرر؟",

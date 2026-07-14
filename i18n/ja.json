@@ -180,6 +180,7 @@
   "search.popularity.4": "やや人気",
   "search.popularity.5": "人気",
   "edit.modal.submit.title": "この項目を保存しますか？",
+  "edit.draft.restored": "下書きを復元しました",
   "edit.modal.reset.title": "変更を破棄しますか？",
   "edit.modal.reset.description": "未保存の変更を破棄し、最初に読み込んだ内容に戻します。この操作は取り消せません。",
   "edit.modal.conflict.title": "内容が重複していませんか？",

@@ -180,6 +180,7 @@
   "search.popularity.4": "Eher bekannt",
   "search.popularity.5": "Bekannt",
   "edit.modal.submit.title": "Diesen Eintrag speichern?",
+  "edit.draft.restored": "Nicht gespeicherter Entwurf wiederhergestellt",
   "edit.modal.reset.title": "Änderungen verwerfen?",
   "edit.modal.reset.description": "Dadurch werden Ihre nicht gespeicherten Änderungen verworfen und der ursprünglich geladene Inhalt wiederhergestellt. Dies kann nicht rückgängig gemacht werden.",
   "edit.modal.conflict.title": "Ist dies ein Duplikat?",

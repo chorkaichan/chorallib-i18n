@@ -180,6 +180,7 @@
   "search.popularity.4": "Abbastanza noto",
   "search.popularity.5": "Popolare",
   "edit.modal.submit.title": "Salvare questa voce?",
+  "edit.draft.restored": "Bozza non salvata ripristinata",
   "edit.modal.reset.title": "Annullare le modifiche?",
   "edit.modal.reset.description": "Questo annullerà le modifiche non salvate e ripristinerà il contenuto caricato inizialmente. Questa azione non può essere annullata.",
   "edit.modal.conflict.title": "È un duplicato?",

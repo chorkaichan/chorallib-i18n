@@ -180,6 +180,7 @@
   "search.popularity.4": "Terkenal",
   "search.popularity.5": "Sangat Popular",
   "edit.modal.submit.title": "Simpan item ini?",
+  "edit.draft.restored": "Draf anda yang belum disimpan telah dipulihkan",
   "edit.modal.reset.title": "Buang perubahan anda?",
   "edit.modal.reset.description": "Ini akan membuang suntingan anda yang belum disimpan dan memulihkan kandungan asal yang dimuatkan. Tindakan ini tidak boleh dibatalkan.",
   "edit.modal.conflict.title": "Adakah ini pendua?",
