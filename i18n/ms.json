@@ -741,6 +741,7 @@
   "settings.passkey.error.cancelled": "Pendaftaran passkey dibatalkan.",
   "auth.login.passkey": "Log masuk dengan Passkey",
   "auth.login.passkey.error": "Pengesahan passkey gagal.",
+  "auth.login.passkey.errorHint": "Untuk mendaftarkan passkey, log masuk dahulu dengan Google atau e-mel dan kata laluan, kemudian tambahkannya dari Tetapan Akaun.",
   "settings.account.delete": "Padam Akaun",
   "settings.account.delete.trigger": "Padam akaun saya",
   "settings.account.delete.title": "Padam akaun anda?",

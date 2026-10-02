@@ -741,6 +741,7 @@
   "settings.passkey.error.cancelled": "Passkey registration was cancelled.",
   "auth.login.passkey": "Sign in with Passkey",
   "auth.login.passkey.error": "Passkey authentication failed.",
+  "auth.login.passkey.errorHint": "To register a passkey, first sign in with Google or your email and password, then add it from Account Settings.",
   "settings.account.delete": "Delete Account",
   "settings.account.delete.trigger": "Delete my account",
   "settings.account.delete.title": "Delete your account?",

@@ -741,6 +741,7 @@
   "settings.passkey.error.cancelled": "Реєстрацію ключа доступу скасовано.",
   "auth.login.passkey": "Увійти за допомогою ключа доступу",
   "auth.login.passkey.error": "Помилка автентифікації за допомогою ключа доступу.",
+  "auth.login.passkey.errorHint": "Щоб зареєструвати ключ доступу, спочатку увійдіть через Google або за допомогою електронної пошти та пароля, а потім додайте його в налаштуваннях облікового запису.",
   "settings.account.delete": "Видалити обліковий запис",
   "settings.account.delete.trigger": "Видалити мій обліковий запис",
   "settings.account.delete.title": "Видалити обліковий запис?",

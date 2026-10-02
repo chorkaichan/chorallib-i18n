@@ -741,6 +741,7 @@
   "settings.passkey.error.cancelled": "패스키 등록이 취소되었습니다.",
   "auth.login.passkey": "패스키로 로그인",
   "auth.login.passkey.error": "패스키 인증에 실패했습니다.",
+  "auth.login.passkey.errorHint": "패스키를 등록하려면 먼저 Google 또는 이메일과 비밀번호로 로그인한 후 계정 설정에서 추가하세요.",
   "settings.account.delete": "계정 삭제",
   "settings.account.delete.trigger": "내 계정 삭제",
   "settings.account.delete.title": "계정을 삭제하시겠습니까?",

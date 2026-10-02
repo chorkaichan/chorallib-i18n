@@ -741,6 +741,7 @@
   "settings.passkey.error.cancelled": "通行密钥注册已取消。",
   "auth.login.passkey": "使用通行密钥登录",
   "auth.login.passkey.error": "通行密钥认证失败。",
+  "auth.login.passkey.errorHint": "要注册通行密钥，请先使用 Google 或邮箱和密码登录，然后在“账号设置”中添加。",
   "settings.account.delete": "删除账号",
   "settings.account.delete.trigger": "删除我的账号",
   "settings.account.delete.title": "删除账号？",

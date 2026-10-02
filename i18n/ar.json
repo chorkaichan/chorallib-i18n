@@ -741,6 +741,7 @@
   "settings.passkey.error.cancelled": "تم إلغاء تسجيل مفتاح المرور.",
   "auth.login.passkey": "تسجيل الدخول بمفتاح المرور",
   "auth.login.passkey.error": "فشلت المصادقة بمفتاح المرور.",
+  "auth.login.passkey.errorHint": "لتسجيل مفتاح مرور، سجّل الدخول أولاً باستخدام Google أو بريدك الإلكتروني وكلمة المرور، ثم أضِفه من إعدادات الحساب.",
   "settings.account.delete": "حذف الحساب",
   "settings.account.delete.trigger": "حذف حسابي",
   "settings.account.delete.title": "هل تريد حذف حسابك؟",

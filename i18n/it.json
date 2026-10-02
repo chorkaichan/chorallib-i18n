@@ -741,6 +741,7 @@
   "settings.passkey.error.cancelled": "La registrazione della passkey è stata annullata.",
   "auth.login.passkey": "Accedi con Passkey",
   "auth.login.passkey.error": "Autenticazione con passkey non riuscita.",
+  "auth.login.passkey.errorHint": "Per registrare una passkey, accedi prima con Google o con email e password, quindi aggiungila da Impostazioni account.",
   "settings.account.delete": "Elimina account",
   "settings.account.delete.trigger": "Elimina il mio account",
   "settings.account.delete.title": "Eliminare l'account?",

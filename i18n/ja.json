@@ -741,6 +741,7 @@
   "settings.passkey.error.cancelled": "パスキーの登録がキャンセルされました。",
   "auth.login.passkey": "パスキーでログイン",
   "auth.login.passkey.error": "パスキー認証に失敗しました。",
+  "auth.login.passkey.errorHint": "パスキーを登録するには、まずGoogleまたはメールアドレスとパスワードでログインし、「アカウント設定」から追加してください。",
   "settings.account.delete": "アカウントの削除",
   "settings.account.delete.trigger": "アカウントを削除する",
   "settings.account.delete.title": "アカウントを削除しますか？",

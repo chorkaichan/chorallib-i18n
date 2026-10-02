@@ -741,6 +741,7 @@
   "settings.passkey.error.cancelled": "Регистрация ключа доступа отменена.",
   "auth.login.passkey": "Войти с помощью ключа доступа",
   "auth.login.passkey.error": "Ошибка аутентификации с помощью ключа доступа.",
+  "auth.login.passkey.errorHint": "Чтобы зарегистрировать ключ доступа, сначала войдите через Google или с помощью электронной почты и пароля, а затем добавьте его в настройках аккаунта.",
   "settings.account.delete": "Удалить аккаунт",
   "settings.account.delete.trigger": "Удалить мой аккаунт",
   "settings.account.delete.title": "Удалить аккаунт?",

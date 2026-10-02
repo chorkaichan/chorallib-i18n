@@ -741,6 +741,7 @@
   "settings.passkey.error.cancelled": "通行金鑰註冊已取消。",
   "auth.login.passkey": "使用通行金鑰登入",
   "auth.login.passkey.error": "通行金鑰驗證失敗。",
+  "auth.login.passkey.errorHint": "若要註冊通行金鑰，請先使用 Google 或電子郵件與密碼登入，再從「帳號設定」新增。",
   "settings.account.delete": "刪除帳號",
   "settings.account.delete.trigger": "刪除我的帳號",
   "settings.account.delete.title": "刪除帳號？",

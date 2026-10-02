@@ -741,6 +741,7 @@
   "settings.passkey.error.cancelled": "L'enregistrement du passkey a été annulé.",
   "auth.login.passkey": "Se connecter avec un Passkey",
   "auth.login.passkey.error": "L'authentification par passkey a échoué.",
+  "auth.login.passkey.errorHint": "Pour enregistrer un passkey, connectez-vous d’abord avec Google ou avec votre e-mail et votre mot de passe, puis ajoutez-le depuis Paramètres du compte.",
   "settings.account.delete": "Supprimer le compte",
   "settings.account.delete.trigger": "Supprimer mon compte",
   "settings.account.delete.title": "Supprimer votre compte ?",
