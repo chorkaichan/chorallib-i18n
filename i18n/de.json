@@ -741,7 +741,7 @@
   "settings.passkey.error.cancelled": "Passkey-Registrierung wurde abgebrochen.",
   "auth.login.passkey": "Mit Passkey anmelden",
   "auth.login.passkey.error": "Passkey-Authentifizierung fehlgeschlagen.",
-  "auth.login.passkey.errorHint": "Um einen Passkey zu registrieren, melden Sie sich zuerst mit Google oder mit E-Mail und Passwort an und fügen Sie ihn dann in den Kontoeinstellungen hinzu.",
+  "auth.login.passkey.errorHint": "Um einen Passkey zu registrieren, melde dich zuerst mit Google oder deiner E-Mail-Adresse an und füge ihn dann in den Kontoeinstellungen hinzu.",
   "settings.account.delete": "Konto löschen",
   "settings.account.delete.trigger": "Mein Konto löschen",
   "settings.account.delete.title": "Konto löschen?",
