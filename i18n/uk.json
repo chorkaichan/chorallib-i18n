@@ -1281,6 +1281,7 @@
   "competition.stage.form.divisions.startDate": "Дата початку категорії",
   "competition.stage.form.divisions.endDate": "Дата завершення категорії",
   "competition.stage.form.divisions.venue": "Місце проведення",
+  "competition.stage.form.divisions.internationalVenue": "Місце проведення (міжнародна назва)",
   "competition.stage.form.divisions": "Категорії",
   "competition.stage.form.divisions.hint": "Додайте категорії цього етапу з датами та місцем проведення. Якщо категорій немає, залиште порожнім. Якщо початкова назва вже міжнародна (наприклад, англійською або латиницею), введіть її без змін.",
   "competition.stage.form.divisions.name": "Назва категорії",

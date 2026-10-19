@@ -1281,6 +1281,7 @@
   "competition.stage.form.divisions.startDate": "組別開始日期",
   "competition.stage.form.divisions.endDate": "組別結束日期",
   "competition.stage.form.divisions.venue": "場地",
+  "competition.stage.form.divisions.internationalVenue": "場地（國際標註）",
   "competition.stage.form.divisions": "組別",
   "competition.stage.form.divisions.hint": "登錄本分區的組別及其日程與場地。沒有組別的比賽請留空。若原名本身就是國際標註（例如英文或拉丁字母名稱），請在國際標註中直接輸入相同的名稱。",
   "competition.stage.form.divisions.name": "組別名稱",

@@ -1281,6 +1281,7 @@
   "competition.stage.form.divisions.startDate": "Tarikh mula kategori",
   "competition.stage.form.divisions.endDate": "Tarikh tamat kategori",
   "competition.stage.form.divisions.venue": "Tempat",
+  "competition.stage.form.divisions.internationalVenue": "Tempat (nama antarabangsa)",
   "competition.stage.form.divisions": "Kategori",
   "competition.stage.form.divisions.hint": "Daftarkan kategori pusingan ini beserta tarikh dan tempatnya. Biarkan kosong jika tiada kategori. Jika nama asal sudah bersifat antarabangsa (contohnya dalam bahasa Inggeris atau huruf Rumi), masukkan nama itu seadanya.",
   "competition.stage.form.divisions.name": "Nama kategori",

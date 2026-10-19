@@ -1281,6 +1281,7 @@
   "competition.stage.form.divisions.startDate": "Tanggal mulai kategori",
   "competition.stage.form.divisions.endDate": "Tanggal selesai kategori",
   "competition.stage.form.divisions.venue": "Tempat",
+  "competition.stage.form.divisions.internationalVenue": "Tempat (nama internasional)",
   "competition.stage.form.divisions": "Kategori",
   "competition.stage.form.divisions.hint": "Daftarkan kategori babak ini beserta tanggal dan tempatnya. Biarkan kosong jika tidak ada kategori. Jika nama aslinya sudah internasional (misalnya dalam bahasa Inggris atau huruf Latin), masukkan apa adanya.",
   "competition.stage.form.divisions.name": "Nama kategori",

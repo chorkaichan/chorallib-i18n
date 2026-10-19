@@ -1281,6 +1281,7 @@
   "competition.stage.form.divisions.startDate": "Date de début de la catégorie",
   "competition.stage.form.divisions.endDate": "Date de fin de la catégorie",
   "competition.stage.form.divisions.venue": "Lieu",
+  "competition.stage.form.divisions.internationalVenue": "Lieu (nom international)",
   "competition.stage.form.divisions": "Catégories",
   "competition.stage.form.divisions.hint": "Enregistrez les catégories de cette étape avec leurs dates et leur lieu. Laissez vide s'il n'y a pas de catégories. Si le nom d'origine est déjà international (par ex. en anglais), saisissez-le tel quel.",
   "competition.stage.form.divisions.name": "Nom de la catégorie",

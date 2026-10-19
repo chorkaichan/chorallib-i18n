@@ -1281,6 +1281,7 @@
   "competition.stage.form.divisions.startDate": "Startdatum der Kategorie",
   "competition.stage.form.divisions.endDate": "Enddatum der Kategorie",
   "competition.stage.form.divisions.venue": "Veranstaltungsort",
+  "competition.stage.form.divisions.internationalVenue": "Veranstaltungsort (internationaler Name)",
   "competition.stage.form.divisions": "Kategorien",
   "competition.stage.form.divisions.hint": "Trage die Kategorien dieser Runde mit Terminen und Veranstaltungsort ein. Leer lassen, wenn es keine Kategorien gibt. Ist der ursprüngliche Name bereits international (z. B. auf Englisch), gib ihn unverändert ein.",
   "competition.stage.form.divisions.name": "Name der Kategorie",

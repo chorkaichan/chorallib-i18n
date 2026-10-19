@@ -1281,6 +1281,7 @@
   "competition.stage.form.divisions.startDate": "تاريخ بدء الفئة",
   "competition.stage.form.divisions.endDate": "تاريخ انتهاء الفئة",
   "competition.stage.form.divisions.venue": "المكان",
+  "competition.stage.form.divisions.internationalVenue": "المكان (الاسم الدولي)",
   "competition.stage.form.divisions": "الفئات",
   "competition.stage.form.divisions.hint": "سجّل فئات هذه المرحلة مع تواريخها ومكانها. اتركها فارغة إذا لم تكن هناك فئات. إذا كان الاسم الأصلي دوليًا بالفعل (مثلًا بالإنجليزية أو بالحروف اللاتينية)، فأدخله كما هو.",
   "competition.stage.form.divisions.name": "اسم الفئة",

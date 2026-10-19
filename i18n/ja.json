@@ -1281,6 +1281,7 @@
   "competition.stage.form.divisions.startDate": "部門の開始日",
   "competition.stage.form.divisions.endDate": "部門の終了日",
   "competition.stage.form.divisions.venue": "会場",
+  "competition.stage.form.divisions.internationalVenue": "会場（国際表記）",
   "competition.stage.form.divisions": "部門",
   "competition.stage.form.divisions.hint": "この大会・支部の部門を、日程・会場とともに登録します。部門のない大会は空のままにします。国際表記は、もともと国際表記の名前（例: 英語やラテン文字の名前）は、そのまま同じものを入力してください。",
   "competition.stage.form.divisions.name": "部門名",

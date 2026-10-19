@@ -1281,6 +1281,7 @@
   "competition.stage.form.divisions.startDate": "组别开始日期",
   "competition.stage.form.divisions.endDate": "组别结束日期",
   "competition.stage.form.divisions.venue": "场地",
+  "competition.stage.form.divisions.internationalVenue": "场地（国际标注）",
   "competition.stage.form.divisions": "组别",
   "competition.stage.form.divisions.hint": "登记本赛区的组别及其日程和场地。没有组别的比赛请留空。如果原名本身就是国际标注（例如英语或拉丁字母名称），请在国际标注中直接输入相同的名称。",
   "competition.stage.form.divisions.name": "组别名称",

@@ -1281,6 +1281,7 @@
   "competition.stage.form.divisions.startDate": "부문 시작일",
   "competition.stage.form.divisions.endDate": "부문 종료일",
   "competition.stage.form.divisions.venue": "장소",
+  "competition.stage.form.divisions.internationalVenue": "장소 (국제 표기)",
   "competition.stage.form.divisions": "부문",
   "competition.stage.form.divisions.hint": "이 대회·지부의 부문을 일정·장소와 함께 등록합니다. 부문이 없는 대회는 비워 두세요. 원래 이름이 국제 표기인 경우(예: 영어나 라틴 문자 이름)에는 국제 표기에 같은 이름을 그대로 입력하세요.",
   "competition.stage.form.divisions.name": "부문명",
