@@ -1328,5 +1328,8 @@
   "competition.entries.title": "Modifier les chœurs",
   "competition.entries.description": "Modifiez tous les chœurs de la catégorie en une fois. Pour une prestation commune, sélectionnez plusieurs chœurs pour une même participation. Classez les pièces dans l'ordre d'exécution ; si une pièce est introuvable, enregistrez-la depuis la fenêtre de recherche. Laissez le classement vide si le concours n'a pas de classement.",
   "competition.entries.error.duplicate": "Le même chœur figure dans plusieurs participations",
-  "competition.entries.error.rows": "Veuillez vérifier les participations (chacune nécessite au moins un chœur)"
+  "competition.entries.error.rows": "Veuillez vérifier les participations (chacune nécessite au moins un chœur)",
+  "artist.detail.competitions": "Concours en tant que chef / accompagnateur",
+  "artist.detail.competitions.viewAll": "Tout voir",
+  "artist.detail.competitions.empty": "Aucune participation à un concours comme chef ou accompagnateur pour le moment."
 }

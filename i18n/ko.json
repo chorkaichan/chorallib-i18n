@@ -1328,5 +1328,8 @@
   "competition.entries.title": "출전 단체 편집",
   "competition.entries.description": "부문 내 모든 출전 단체를 한꺼번에 편집합니다. 합동으로 출전한 경우 하나의 출전 단체에 여러 합창단을 선택하세요. 연주곡은 연주 순서대로 나열하고, 찾을 수 없는 곡은 검색 화면에서 등록할 수 있습니다. 순위가 없는 대회는 순위를 비워 두세요.",
   "competition.entries.error.duplicate": "같은 합창단이 여러 출전 단체에 포함되어 있습니다",
-  "competition.entries.error.rows": "입력 내용을 확인하세요(각 출전 단체에 합창단을 1개 이상 선택하세요)"
+  "competition.entries.error.rows": "입력 내용을 확인하세요(각 출전 단체에 합창단을 1개 이상 선택하세요)",
+  "artist.detail.competitions": "콩쿠르 지휘·반주",
+  "artist.detail.competitions.viewAll": "모두 보기",
+  "artist.detail.competitions.empty": "콩쿠르 지휘·반주 기록이 아직 없습니다."
 }

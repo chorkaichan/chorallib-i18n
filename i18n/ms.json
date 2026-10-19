@@ -1328,5 +1328,8 @@
   "competition.entries.title": "Sunting koir",
   "competition.entries.description": "Sunting semua koir dalam kategori sekali gus. Bagi persembahan gabungan, pilih beberapa koir untuk satu penyertaan. Susun karya mengikut susunan persembahan; jika karya tidak dijumpai, daftarkannya daripada dialog carian. Biarkan kedudukan kosong jika pertandingan tidak mempunyai kedudukan.",
   "competition.entries.error.duplicate": "Koir yang sama terdapat dalam lebih daripada satu penyertaan",
-  "competition.entries.error.rows": "Sila semak penyertaan (setiap penyertaan memerlukan sekurang-kurangnya satu koir)"
+  "competition.entries.error.rows": "Sila semak penyertaan (setiap penyertaan memerlukan sekurang-kurangnya satu koir)",
+  "artist.detail.competitions": "Pertandingan sebagai konduktor / pengiring",
+  "artist.detail.competitions.viewAll": "Lihat semua",
+  "artist.detail.competitions.empty": "Belum ada rekod pertandingan sebagai konduktor atau pengiring."
 }

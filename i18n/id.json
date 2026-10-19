@@ -1328,5 +1328,8 @@
   "competition.entries.title": "Edit paduan suara",
   "competition.entries.description": "Edit semua paduan suara dalam kategori sekaligus. Untuk penampilan gabungan, pilih beberapa paduan suara dalam satu entri. Urutkan karya sesuai urutan penampilan; jika karya tidak ditemukan, daftarkan dari dialog pencarian. Biarkan peringkat kosong jika kompetisi tidak memiliki peringkat.",
   "competition.entries.error.duplicate": "Paduan suara yang sama muncul di lebih dari satu entri",
-  "competition.entries.error.rows": "Silakan periksa entri (setiap entri memerlukan setidaknya satu paduan suara)"
+  "competition.entries.error.rows": "Silakan periksa entri (setiap entri memerlukan setidaknya satu paduan suara)",
+  "artist.detail.competitions": "Kompetisi sebagai konduktor / pengiring",
+  "artist.detail.competitions.viewAll": "Lihat semua",
+  "artist.detail.competitions.empty": "Belum ada catatan kompetisi sebagai konduktor atau pengiring."
 }

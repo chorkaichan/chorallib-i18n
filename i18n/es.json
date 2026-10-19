@@ -1328,5 +1328,8 @@
   "competition.entries.title": "Editar coros",
   "competition.entries.description": "Edita todos los coros de la categoría a la vez. Para una actuación conjunta, selecciona varios coros en una misma entrada. Ordena las obras según se interpretaron; si no encuentras una obra, puedes registrarla desde el cuadro de búsqueda. Deja la clasificación vacía si el concurso no tiene clasificaciones.",
   "competition.entries.error.duplicate": "El mismo coro aparece en más de una entrada",
-  "competition.entries.error.rows": "Revisa las entradas (cada una necesita al menos un coro)"
+  "competition.entries.error.rows": "Revisa las entradas (cada una necesita al menos un coro)",
+  "artist.detail.competitions": "Concursos como director / acompañante",
+  "artist.detail.competitions.viewAll": "Ver todo",
+  "artist.detail.competitions.empty": "Aún no hay registros de concursos como director o acompañante."
 }

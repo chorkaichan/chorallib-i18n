@@ -1328,5 +1328,8 @@
   "competition.entries.title": "编辑参赛团体",
   "competition.entries.description": "一次编辑该组别内的所有参赛团体。联合参赛时，请为一个参赛团体选择多个合唱团。演唱曲目请按演唱顺序排列，找不到的曲目可在搜索窗口中登记。没有名次的比赛请将名次留空。",
   "competition.entries.error.duplicate": "同一合唱团出现在多个参赛团体中",
-  "competition.entries.error.rows": "请检查输入内容（每个参赛团体至少需选择一个合唱团）"
+  "competition.entries.error.rows": "请检查输入内容（每个参赛团体至少需选择一个合唱团）",
+  "artist.detail.competitions": "比赛中的指挥·伴奏",
+  "artist.detail.competitions.viewAll": "查看全部",
+  "artist.detail.competitions.empty": "暂无比赛中的指挥·伴奏记录。"
 }

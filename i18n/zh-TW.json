@@ -1328,5 +1328,8 @@
   "competition.entries.title": "編輯參賽團體",
   "competition.entries.description": "一次編輯該組別內的所有參賽團體。聯合參賽時，請為一個參賽團體選擇多個合唱團。演唱曲目請依演唱順序排列，找不到的曲目可在搜尋視窗中登錄。沒有名次的比賽請將名次留空。",
   "competition.entries.error.duplicate": "同一合唱團出現在多個參賽團體中",
-  "competition.entries.error.rows": "請檢查輸入內容（每個參賽團體至少需選擇一個合唱團）"
+  "competition.entries.error.rows": "請檢查輸入內容（每個參賽團體至少需選擇一個合唱團）",
+  "artist.detail.competitions": "比賽中的指揮・伴奏",
+  "artist.detail.competitions.viewAll": "查看全部",
+  "artist.detail.competitions.empty": "尚無比賽中的指揮・伴奏紀錄。"
 }

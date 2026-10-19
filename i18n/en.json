@@ -1328,5 +1328,8 @@
   "competition.entries.title": "Edit choirs",
   "competition.entries.description": "Edit all choirs of the division at once. For a joint performance, select several choirs for one entry. Order the pieces as performed; if a piece is not found, register it from the search dialog. Leave the rank empty if the competition has no ranks.",
   "competition.entries.error.duplicate": "The same choir appears in more than one entry",
-  "competition.entries.error.rows": "Please check the entries (each needs at least one choir)"
+  "competition.entries.error.rows": "Please check the entries (each needs at least one choir)",
+  "artist.detail.competitions": "Competitions conducted / accompanied",
+  "artist.detail.competitions.viewAll": "View all",
+  "artist.detail.competitions.empty": "No competition records as a conductor or accompanist yet."
 }

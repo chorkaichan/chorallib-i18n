@@ -1328,5 +1328,8 @@
   "competition.entries.title": "Chöre bearbeiten",
   "competition.entries.description": "Bearbeite alle Chöre der Kategorie auf einmal. Bei einem gemeinsamen Auftritt wähle mehrere Chöre für einen Eintrag. Ordne die Stücke in der Aufführungsreihenfolge an; wird ein Stück nicht gefunden, kannst du es im Suchdialog hinzufügen. Lass die Platzierung leer, wenn der Wettbewerb keine Platzierungen hat.",
   "competition.entries.error.duplicate": "Derselbe Chor ist in mehr als einem Eintrag enthalten",
-  "competition.entries.error.rows": "Bitte überprüfe die Einträge (jeder benötigt mindestens einen Chor)"
+  "competition.entries.error.rows": "Bitte überprüfe die Einträge (jeder benötigt mindestens einen Chor)",
+  "artist.detail.competitions": "Wettbewerbe als Dirigent / Begleitung",
+  "artist.detail.competitions.viewAll": "Alle anzeigen",
+  "artist.detail.competitions.empty": "Noch keine Wettbewerbseinträge als Dirigent oder Begleitung."
 }

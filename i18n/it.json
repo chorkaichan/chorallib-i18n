@@ -1328,5 +1328,8 @@
   "competition.entries.title": "Modifica cori",
   "competition.entries.description": "Modifica tutti i cori della categoria in una volta. Per un'esibizione congiunta, seleziona più cori per una stessa partecipazione. Ordina i brani come sono stati eseguiti; se un brano non si trova, registralo dalla finestra di ricerca. Lascia vuota la posizione se il concorso non prevede classifiche.",
   "competition.entries.error.duplicate": "Lo stesso coro compare in più di una partecipazione",
-  "competition.entries.error.rows": "Controlla le partecipazioni (ognuna richiede almeno un coro)"
+  "competition.entries.error.rows": "Controlla le partecipazioni (ognuna richiede almeno un coro)",
+  "artist.detail.competitions": "Concorsi come direttore / accompagnatore",
+  "artist.detail.competitions.viewAll": "Vedi tutto",
+  "artist.detail.competitions.empty": "Ancora nessuna partecipazione a concorsi come direttore o accompagnatore."
 }

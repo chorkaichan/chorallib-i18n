@@ -1328,5 +1328,8 @@
   "competition.entries.title": "出場団体の編集",
   "competition.entries.description": "部門内のすべての出場団体をまとめて編集します。合同で出場した場合は、1 つの出場団体に複数の合唱団を選びます。演奏曲は演奏順に並べ、見つからない曲は検索画面から登録できます。順位のない大会は順位を空欄にします。",
   "competition.entries.error.duplicate": "同じ合唱団が複数の出場団体に含まれています",
-  "competition.entries.error.rows": "入力内容を確認してください（各出場団体に合唱団を 1 つ以上選びます）"
+  "competition.entries.error.rows": "入力内容を確認してください（各出場団体に合唱団を 1 つ以上選びます）",
+  "artist.detail.competitions": "コンクールでの指揮・伴奏",
+  "artist.detail.competitions.viewAll": "すべて見る",
+  "artist.detail.competitions.empty": "コンクールでの指揮・伴奏の記録はまだありません。"
 }

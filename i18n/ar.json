@@ -1328,5 +1328,8 @@
   "competition.entries.title": "تعديل الجوقات",
   "competition.entries.description": "عدّل جميع جوقات الفئة دفعة واحدة. في حالة الأداء المشترك، اختر عدة جوقات لمشاركة واحدة. رتّب المقطوعات حسب ترتيب أدائها، وإذا لم تجد مقطوعة فسجّلها من نافذة البحث. اترك المركز فارغًا إذا لم تكن للمسابقة مراكز.",
   "competition.entries.error.duplicate": "الجوقة نفسها مدرجة في أكثر من مشاركة",
-  "competition.entries.error.rows": "يرجى التحقق من المشاركات (تحتاج كل مشاركة إلى جوقة واحدة على الأقل)"
+  "competition.entries.error.rows": "يرجى التحقق من المشاركات (تحتاج كل مشاركة إلى جوقة واحدة على الأقل)",
+  "artist.detail.competitions": "المسابقات كقائد أو عازف مرافق",
+  "artist.detail.competitions.viewAll": "عرض الكل",
+  "artist.detail.competitions.empty": "لا توجد بعد سجلات مسابقات كقائد أو عازف مرافق."
 }
