@@ -93,6 +93,7 @@
   "top.videoList.title": "Video aggiunti di recente",
   "top.choirList.title": "Cori aggiunti di recente",
   "top.artistList.title": "Artisti aggiunti di recente",
+  "top.competitionList.title": "Concorsi recenti",
   "search.input.placeholder": "Titolo, compositore, autore testi",
   "search.input.expand": "Ricerca avanzata",
   "search.tabs.score": "Partiture",

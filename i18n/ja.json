@@ -93,6 +93,7 @@
   "top.videoList.title": "新着の演奏動画",
   "top.choirList.title": "新着の合唱団",
   "top.artistList.title": "新着のアーティスト",
+  "top.competitionList.title": "直近のコンクール",
   "search.input.placeholder": "曲名、作曲者名、作詞者名",
   "search.input.expand": "詳細検索を開く",
   "search.tabs.score": "楽曲",
