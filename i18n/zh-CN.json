@@ -1340,5 +1340,6 @@
   "competition.entries.error.rows": "请检查输入内容（每个参赛团体至少需选择一个合唱团）",
   "artist.detail.competitions": "比赛中的指挥·伴奏",
   "artist.detail.competitions.viewAll": "查看全部",
-  "artist.detail.competitions.empty": "暂无比赛中的指挥·伴奏记录。"
+  "artist.detail.competitions.empty": "暂无比赛中的指挥·伴奏记录。",
+  "maintenance.backup.writeBlocked": "我们正在备份数据，目前无法保存更改。请几分钟后再试。（浏览功能可照常使用。）"
 }

@@ -1340,5 +1340,6 @@
   "competition.entries.error.rows": "Bitte überprüfe die Einträge (jeder benötigt mindestens einen Chor)",
   "artist.detail.competitions": "Wettbewerbe als Dirigent / Begleitung",
   "artist.detail.competitions.viewAll": "Alle anzeigen",
-  "artist.detail.competitions.empty": "Noch keine Wettbewerbseinträge als Dirigent oder Begleitung."
+  "artist.detail.competitions.empty": "Noch keine Wettbewerbseinträge als Dirigent oder Begleitung.",
+  "maintenance.backup.writeBlocked": "Wir sichern gerade unsere Daten, daher können Änderungen derzeit nicht gespeichert werden. Bitte versuchen Sie es in ein paar Minuten erneut. (Sie können wie gewohnt weiter stöbern.)"
 }

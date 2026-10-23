@@ -1340,5 +1340,6 @@
   "competition.entries.error.rows": "يرجى التحقق من المشاركات (تحتاج كل مشاركة إلى جوقة واحدة على الأقل)",
   "artist.detail.competitions": "المسابقات كقائد أو عازف مرافق",
   "artist.detail.competitions.viewAll": "عرض الكل",
-  "artist.detail.competitions.empty": "لا توجد بعد سجلات مسابقات كقائد أو عازف مرافق."
+  "artist.detail.competitions.empty": "لا توجد بعد سجلات مسابقات كقائد أو عازف مرافق.",
+  "maintenance.backup.writeBlocked": "نقوم حاليًا بإجراء نسخ احتياطي للبيانات، لذا لا يمكن حفظ التغييرات الآن. يُرجى المحاولة مرة أخرى بعد بضع دقائق. (يمكنك متابعة التصفح كالمعتاد.)"
 }

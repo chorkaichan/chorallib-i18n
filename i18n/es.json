@@ -1340,5 +1340,6 @@
   "competition.entries.error.rows": "Revisa las entradas (cada una necesita al menos un coro)",
   "artist.detail.competitions": "Concursos como director / acompañante",
   "artist.detail.competitions.viewAll": "Ver todo",
-  "artist.detail.competitions.empty": "Aún no hay registros de concursos como director o acompañante."
+  "artist.detail.competitions.empty": "Aún no hay registros de concursos como director o acompañante.",
+  "maintenance.backup.writeBlocked": "Estamos realizando una copia de seguridad de los datos, por lo que no se pueden guardar cambios en este momento. Inténtalo de nuevo en unos minutos. (Puedes seguir navegando con normalidad)."
 }

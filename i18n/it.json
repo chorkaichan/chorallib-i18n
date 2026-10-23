@@ -1340,5 +1340,6 @@
   "competition.entries.error.rows": "Controlla le partecipazioni (ognuna richiede almeno un coro)",
   "artist.detail.competitions": "Concorsi come direttore / accompagnatore",
   "artist.detail.competitions.viewAll": "Vedi tutto",
-  "artist.detail.competitions.empty": "Ancora nessuna partecipazione a concorsi come direttore o accompagnatore."
+  "artist.detail.competitions.empty": "Ancora nessuna partecipazione a concorsi come direttore o accompagnatore.",
+  "maintenance.backup.writeBlocked": "Stiamo eseguendo il backup dei dati, quindi al momento non è possibile salvare le modifiche. Riprova tra qualche minuto. (Puoi continuare a navigare normalmente.)"
 }

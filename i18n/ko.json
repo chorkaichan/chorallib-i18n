@@ -1340,5 +1340,6 @@
   "competition.entries.error.rows": "입력 내용을 확인하세요(각 출전 단체에 합창단을 1개 이상 선택하세요)",
   "artist.detail.competitions": "콩쿠르 지휘·반주",
   "artist.detail.competitions.viewAll": "모두 보기",
-  "artist.detail.competitions.empty": "콩쿠르 지휘·반주 기록이 아직 없습니다."
+  "artist.detail.competitions.empty": "콩쿠르 지휘·반주 기록이 아직 없습니다.",
+  "maintenance.backup.writeBlocked": "현재 데이터를 백업하고 있어 변경 사항을 저장할 수 없습니다. 몇 분 후에 다시 시도해 주세요. (열람은 평소처럼 이용하실 수 있습니다.)"
 }

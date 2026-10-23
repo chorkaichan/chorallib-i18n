@@ -1340,5 +1340,6 @@
   "competition.entries.error.rows": "Silakan periksa entri (setiap entri memerlukan setidaknya satu paduan suara)",
   "artist.detail.competitions": "Kompetisi sebagai konduktor / pengiring",
   "artist.detail.competitions.viewAll": "Lihat semua",
-  "artist.detail.competitions.empty": "Belum ada catatan kompetisi sebagai konduktor atau pengiring."
+  "artist.detail.competitions.empty": "Belum ada catatan kompetisi sebagai konduktor atau pengiring.",
+  "maintenance.backup.writeBlocked": "Kami sedang mencadangkan data, sehingga perubahan tidak dapat disimpan saat ini. Silakan coba lagi dalam beberapa menit. (Anda tetap dapat menjelajah seperti biasa.)"
 }

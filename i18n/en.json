@@ -1340,5 +1340,6 @@
   "competition.entries.error.rows": "Please check the entries (each needs at least one choir)",
   "artist.detail.competitions": "Competitions conducted / accompanied",
   "artist.detail.competitions.viewAll": "View all",
-  "artist.detail.competitions.empty": "No competition records as a conductor or accompanist yet."
+  "artist.detail.competitions.empty": "No competition records as a conductor or accompanist yet.",
+  "maintenance.backup.writeBlocked": "We are currently backing up our data, so changes cannot be saved right now. Please try again in a few minutes. (You can keep browsing as usual.)"
 }
