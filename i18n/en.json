@@ -1341,5 +1341,6 @@
   "artist.detail.competitions": "Competitions conducted / accompanied",
   "artist.detail.competitions.viewAll": "View all",
   "artist.detail.competitions.empty": "No competition records as a conductor or accompanist yet.",
-  "maintenance.backup.writeBlocked": "We are currently backing up our data, so changes cannot be saved right now. Please try again in a few minutes. (You can keep browsing as usual.)"
+  "maintenance.backup.writeBlocked": "We are currently backing up our data, so changes cannot be saved right now. Please try again in a few minutes. (You can keep browsing as usual.)",
+  "common.error.unexpected": "An error occurred and your changes could not be saved. Your input has been kept, so please try again in a moment."
 }

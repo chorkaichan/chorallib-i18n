@@ -1341,5 +1341,6 @@
   "artist.detail.competitions": "コンクールでの指揮・伴奏",
   "artist.detail.competitions.viewAll": "すべて見る",
   "artist.detail.competitions.empty": "コンクールでの指揮・伴奏の記録はまだありません。",
-  "maintenance.backup.writeBlocked": "現在データのバックアップ中のため、保存や変更はできません。数分後にもう一度お試しください（閲覧はそのままご利用いただけます）。"
+  "maintenance.backup.writeBlocked": "現在データのバックアップ中のため、保存や変更はできません。数分後にもう一度お試しください（閲覧はそのままご利用いただけます）。",
+  "common.error.unexpected": "エラーが発生したため保存できませんでした。入力内容はそのままなので、しばらくしてからもう一度お試しください。"
 }

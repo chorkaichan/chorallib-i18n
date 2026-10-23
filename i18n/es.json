@@ -1341,5 +1341,6 @@
   "artist.detail.competitions": "Concursos como director / acompañante",
   "artist.detail.competitions.viewAll": "Ver todo",
   "artist.detail.competitions.empty": "Aún no hay registros de concursos como director o acompañante.",
-  "maintenance.backup.writeBlocked": "Estamos realizando una copia de seguridad de los datos, por lo que no se pueden guardar cambios en este momento. Inténtalo de nuevo en unos minutos. (Puedes seguir navegando con normalidad)."
+  "maintenance.backup.writeBlocked": "Estamos realizando una copia de seguridad de los datos, por lo que no se pueden guardar cambios en este momento. Inténtalo de nuevo en unos minutos. (Puedes seguir navegando con normalidad).",
+  "common.error.unexpected": "Se produjo un error y no se pudieron guardar los cambios. Lo que escribiste se ha conservado, así que inténtalo de nuevo en un momento."
 }

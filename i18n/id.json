@@ -1341,5 +1341,6 @@
   "artist.detail.competitions": "Kompetisi sebagai konduktor / pengiring",
   "artist.detail.competitions.viewAll": "Lihat semua",
   "artist.detail.competitions.empty": "Belum ada catatan kompetisi sebagai konduktor atau pengiring.",
-  "maintenance.backup.writeBlocked": "Kami sedang mencadangkan data, sehingga perubahan tidak dapat disimpan saat ini. Silakan coba lagi dalam beberapa menit. (Anda tetap dapat menjelajah seperti biasa.)"
+  "maintenance.backup.writeBlocked": "Kami sedang mencadangkan data, sehingga perubahan tidak dapat disimpan saat ini. Silakan coba lagi dalam beberapa menit. (Anda tetap dapat menjelajah seperti biasa.)",
+  "common.error.unexpected": "Terjadi kesalahan sehingga perubahan tidak dapat disimpan. Isian Anda tetap tersimpan, jadi silakan coba lagi sebentar lagi."
 }

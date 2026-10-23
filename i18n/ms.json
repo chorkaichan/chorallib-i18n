@@ -1341,5 +1341,6 @@
   "artist.detail.competitions": "Pertandingan sebagai konduktor / pengiring",
   "artist.detail.competitions.viewAll": "Lihat semua",
   "artist.detail.competitions.empty": "Belum ada rekod pertandingan sebagai konduktor atau pengiring.",
-  "maintenance.backup.writeBlocked": "Kami sedang membuat sandaran data, jadi perubahan tidak dapat disimpan buat masa ini. Sila cuba lagi dalam beberapa minit. (Anda masih boleh melayari seperti biasa.)"
+  "maintenance.backup.writeBlocked": "Kami sedang membuat sandaran data, jadi perubahan tidak dapat disimpan buat masa ini. Sila cuba lagi dalam beberapa minit. (Anda masih boleh melayari seperti biasa.)",
+  "common.error.unexpected": "Ralat berlaku dan perubahan tidak dapat disimpan. Input anda dikekalkan, jadi sila cuba lagi sebentar lagi."
 }

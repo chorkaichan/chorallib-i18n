@@ -1341,5 +1341,6 @@
   "artist.detail.competitions": "比賽中的指揮・伴奏",
   "artist.detail.competitions.viewAll": "查看全部",
   "artist.detail.competitions.empty": "尚無比賽中的指揮・伴奏紀錄。",
-  "maintenance.backup.writeBlocked": "我們正在備份資料，目前無法儲存變更。請幾分鐘後再試一次。（瀏覽功能可照常使用。）"
+  "maintenance.backup.writeBlocked": "我們正在備份資料，目前無法儲存變更。請幾分鐘後再試一次。（瀏覽功能可照常使用。）",
+  "common.error.unexpected": "發生錯誤，未能儲存。已填寫的內容仍然保留，請稍後再試一次。"
 }

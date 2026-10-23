@@ -1341,5 +1341,6 @@
   "artist.detail.competitions": "Wettbewerbe als Dirigent / Begleitung",
   "artist.detail.competitions.viewAll": "Alle anzeigen",
   "artist.detail.competitions.empty": "Noch keine Wettbewerbseinträge als Dirigent oder Begleitung.",
-  "maintenance.backup.writeBlocked": "Wir sichern gerade unsere Daten, daher können Änderungen derzeit nicht gespeichert werden. Bitte versuchen Sie es in ein paar Minuten erneut. (Sie können wie gewohnt weiter stöbern.)"
+  "maintenance.backup.writeBlocked": "Wir sichern gerade unsere Daten, daher können Änderungen derzeit nicht gespeichert werden. Bitte versuchen Sie es in ein paar Minuten erneut. (Sie können wie gewohnt weiter stöbern.)",
+  "common.error.unexpected": "Es ist ein Fehler aufgetreten und die Änderungen konnten nicht gespeichert werden. Ihre Eingaben bleiben erhalten – bitte versuchen Sie es gleich noch einmal."
 }

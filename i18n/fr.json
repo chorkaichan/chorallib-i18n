@@ -1341,5 +1341,6 @@
   "artist.detail.competitions": "Concours en tant que chef / accompagnateur",
   "artist.detail.competitions.viewAll": "Tout voir",
   "artist.detail.competitions.empty": "Aucune participation à un concours comme chef ou accompagnateur pour le moment.",
-  "maintenance.backup.writeBlocked": "Nous sauvegardons actuellement nos données : les modifications ne peuvent pas être enregistrées pour le moment. Veuillez réessayer dans quelques minutes. (Vous pouvez continuer à naviguer normalement.)"
+  "maintenance.backup.writeBlocked": "Nous sauvegardons actuellement nos données : les modifications ne peuvent pas être enregistrées pour le moment. Veuillez réessayer dans quelques minutes. (Vous pouvez continuer à naviguer normalement.)",
+  "common.error.unexpected": "Une erreur s'est produite et les modifications n'ont pas pu être enregistrées. Votre saisie a été conservée : veuillez réessayer dans un instant."
 }
