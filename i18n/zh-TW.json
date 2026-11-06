@@ -206,6 +206,8 @@
   "edit.competitions.list": "查看比賽列表",
   "edit.competitions.records": "查看已登錄的紀錄",
   "edit.media.saveFirst": "請先儲存，再新增音樂專輯與演出影片。",
+  "edit.media.scores": "作品",
+  "edit.media.error.scores": "請至少新增一首作品。",
   "score.detail.related.title": "您可能也喜歡",
   "score.detail.songs-info": "樂章資訊",
   "score.detail.publishes-info": "出版資訊",

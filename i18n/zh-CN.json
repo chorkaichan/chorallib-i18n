@@ -206,6 +206,8 @@
   "edit.competitions.list": "查看比赛列表",
   "edit.competitions.records": "查看已登记的记录",
   "edit.media.saveFirst": "请先保存，然后再添加音乐专辑和演出视频。",
+  "edit.media.scores": "作品",
+  "edit.media.error.scores": "请至少添加一首作品。",
   "score.detail.related.title": "您可能也喜欢",
   "score.detail.songs-info": "乐章信息",
   "score.detail.publishes-info": "出版信息",

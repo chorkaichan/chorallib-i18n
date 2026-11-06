@@ -206,6 +206,8 @@
   "edit.competitions.list": "コンクール一覧を見る",
   "edit.competitions.records": "登録済みの記録を見る",
   "edit.media.saveFirst": "音楽アルバム・演奏動画を追加するには、まず保存してください。",
+  "edit.media.scores": "楽曲",
+  "edit.media.error.scores": "楽曲を 1 件以上追加してください。",
   "score.detail.related.title": "こちらもいかがですか?",
   "score.detail.songs-info": "楽章情報",
   "score.detail.publishes-info": "出版元情報",

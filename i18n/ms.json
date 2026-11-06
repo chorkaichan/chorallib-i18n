@@ -206,6 +206,8 @@
   "edit.competitions.list": "Lihat pertandingan",
   "edit.competitions.records": "Lihat rekod berdaftar",
   "edit.media.saveFirst": "Simpan dahulu untuk menambah album muzik dan video persembahan.",
+  "edit.media.scores": "Karya",
+  "edit.media.error.scores": "Tambah sekurang-kurangnya satu karya.",
   "score.detail.related.title": "Anda mungkin juga suka",
   "score.detail.songs-info": "Maklumat Pergerakan",
   "score.detail.publishes-info": "Maklumat Penerbitan",

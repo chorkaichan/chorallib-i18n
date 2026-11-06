@@ -206,6 +206,8 @@
   "edit.competitions.list": "Переглянути конкурси",
   "edit.competitions.records": "Переглянути зареєстровані записи",
   "edit.media.saveFirst": "Спочатку збережіть, щоб додати музичні альбоми та відео виступів.",
+  "edit.media.scores": "Твори",
+  "edit.media.error.scores": "Додайте хоча б один твір.",
   "score.detail.related.title": "Вам також може сподобатися",
   "score.detail.songs-info": "Інформація про частини",
   "score.detail.publishes-info": "Інформація про публікацію",

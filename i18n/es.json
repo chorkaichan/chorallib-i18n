@@ -206,6 +206,8 @@
   "edit.competitions.list": "Ver concursos",
   "edit.competitions.records": "Ver registros existentes",
   "edit.media.saveFirst": "Guarde primero para añadir álbumes de música y vídeos de interpretaciones.",
+  "edit.media.scores": "Obras",
+  "edit.media.error.scores": "Añada al menos una obra.",
   "score.detail.related.title": "También te puede gustar",
   "score.detail.songs-info": "Información de los movimientos",
   "score.detail.publishes-info": "Información de publicación",

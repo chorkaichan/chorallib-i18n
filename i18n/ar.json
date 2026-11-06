@@ -206,6 +206,8 @@
   "edit.competitions.list": "عرض المسابقات",
   "edit.competitions.records": "عرض السجلات المسجلة",
   "edit.media.saveFirst": "احفظ أولاً لإضافة الألبومات الموسيقية ومقاطع فيديو الأداء.",
+  "edit.media.scores": "الأعمال",
+  "edit.media.error.scores": "أضف عملًا واحدًا على الأقل.",
   "score.detail.related.title": "قد يعجبك أيضًا",
   "score.detail.songs-info": "معلومات الحركات",
   "score.detail.publishes-info": "معلومات النشر",

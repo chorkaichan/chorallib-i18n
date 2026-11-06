@@ -206,6 +206,8 @@
   "edit.competitions.list": "Wettbewerbe ansehen",
   "edit.competitions.records": "Eingetragene Einträge ansehen",
   "edit.media.saveFirst": "Speichern Sie zuerst, um Musikalben und Aufführungsvideos hinzuzufügen.",
+  "edit.media.scores": "Werke",
+  "edit.media.error.scores": "Fügen Sie mindestens ein Werk hinzu.",
   "score.detail.related.title": "Das könnte Ihnen auch gefallen",
   "score.detail.songs-info": "Satzinformationen",
   "score.detail.publishes-info": "Publikationsinformationen",

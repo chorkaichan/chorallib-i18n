@@ -206,6 +206,8 @@
   "edit.competitions.list": "콩쿠르 목록 보기",
   "edit.competitions.records": "등록된 기록 보기",
   "edit.media.saveFirst": "음악 앨범과 연주 영상을 추가하려면 먼저 저장해 주세요.",
+  "edit.media.scores": "작품",
+  "edit.media.error.scores": "작품을 하나 이상 추가해 주세요.",
   "score.detail.related.title": "이런 곡은 어떠세요?",
   "score.detail.songs-info": "악장 정보",
   "score.detail.publishes-info": "출판 정보",

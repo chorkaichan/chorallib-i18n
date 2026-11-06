@@ -206,6 +206,8 @@
   "edit.competitions.list": "View competitions",
   "edit.competitions.records": "View registered records",
   "edit.media.saveFirst": "Save first to add music albums and performance videos.",
+  "edit.media.scores": "Works",
+  "edit.media.error.scores": "Add at least one work.",
   "score.detail.related.title": "You might also like",
   "score.detail.songs-info": "Movement Information",
   "score.detail.publishes-info": "Publication Information",

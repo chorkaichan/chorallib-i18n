@@ -206,6 +206,8 @@
   "edit.competitions.list": "Смотреть конкурсы",
   "edit.competitions.records": "Смотреть зарегистрированные записи",
   "edit.media.saveFirst": "Сначала сохраните, чтобы добавить музыкальные альбомы и видео выступлений.",
+  "edit.media.scores": "Произведения",
+  "edit.media.error.scores": "Добавьте хотя бы одно произведение.",
   "score.detail.related.title": "Вам также может понравиться",
   "score.detail.songs-info": "Информация о частях",
   "score.detail.publishes-info": "Информация о публикации",
