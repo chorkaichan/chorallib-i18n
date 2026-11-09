@@ -1482,7 +1482,6 @@
   "tickets.purchase.agree.privacy": "Datenschutzerklärung",
   "tickets.purchase.submit": "Weiter zur Zahlung",
   "tickets.purchase.submitFree": "Anmelden",
-  "tickets.purchase.cardOnly": "Bezahlung per Kreditkarte, Apple Pay oder Google Pay.",
   "tickets.purchase.error.invalid": "Bitte prüfe deine Eingaben",
   "tickets.purchase.error.turnstile": "Die Überprüfung ist fehlgeschlagen. Bitte versuche es erneut",
   "tickets.purchase.error.closed": "Für diese Veranstaltung werden derzeit keine Tickets verkauft",

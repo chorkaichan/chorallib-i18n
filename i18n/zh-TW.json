@@ -1482,7 +1482,6 @@
   "tickets.purchase.agree.privacy": "隱私權政策",
   "tickets.purchase.submit": "前往付款",
   "tickets.purchase.submitFree": "報名",
-  "tickets.purchase.cardOnly": "付款方式為信用卡、Apple Pay 或 Google Pay。",
   "tickets.purchase.error.invalid": "請檢查輸入內容",
   "tickets.purchase.error.turnstile": "驗證失敗，請再試一次",
   "tickets.purchase.error.closed": "目前此活動的門票未在販售",

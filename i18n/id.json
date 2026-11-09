@@ -1482,7 +1482,6 @@
   "tickets.purchase.agree.privacy": "Kebijakan Privasi",
   "tickets.purchase.submit": "Lanjut ke pembayaran",
   "tickets.purchase.submitFree": "Daftar",
-  "tickets.purchase.cardOnly": "Pembayaran dengan kartu kredit, Apple Pay, atau Google Pay.",
   "tickets.purchase.error.invalid": "Periksa kembali isian Anda",
   "tickets.purchase.error.turnstile": "Verifikasi gagal. Silakan coba lagi",
   "tickets.purchase.error.closed": "Saat ini tiket acara ini tidak dijual",

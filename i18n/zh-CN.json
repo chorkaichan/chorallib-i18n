@@ -1482,7 +1482,6 @@
   "tickets.purchase.agree.privacy": "隐私政策",
   "tickets.purchase.submit": "前往支付",
   "tickets.purchase.submitFree": "报名",
-  "tickets.purchase.cardOnly": "支付方式为信用卡、Apple Pay 或 Google Pay。",
   "tickets.purchase.error.invalid": "请检查输入内容",
   "tickets.purchase.error.turnstile": "验证失败，请重试",
   "tickets.purchase.error.closed": "目前此活动的门票未在销售",

@@ -1482,7 +1482,6 @@
   "tickets.purchase.agree.privacy": "Политика конфиденциальности",
   "tickets.purchase.submit": "Перейти к оплате",
   "tickets.purchase.submitFree": "Записаться",
-  "tickets.purchase.cardOnly": "Оплата банковской картой, Apple Pay или Google Pay.",
   "tickets.purchase.error.invalid": "Проверьте введённые данные",
   "tickets.purchase.error.turnstile": "Проверка не пройдена. Попробуйте ещё раз",
   "tickets.purchase.error.closed": "Сейчас билеты на это мероприятие не продаются",

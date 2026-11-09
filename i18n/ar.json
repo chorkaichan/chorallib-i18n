@@ -1482,7 +1482,6 @@
   "tickets.purchase.agree.privacy": "سياسة الخصوصية",
   "tickets.purchase.submit": "المتابعة إلى الدفع",
   "tickets.purchase.submitFree": "تسجيل",
-  "tickets.purchase.cardOnly": "الدفع ببطاقة الائتمان أو Apple Pay أو Google Pay.",
   "tickets.purchase.error.invalid": "يرجى التحقق من المدخلات",
   "tickets.purchase.error.turnstile": "فشل التحقق. يرجى المحاولة مرة أخرى",
   "tickets.purchase.error.closed": "لا تُباع تذاكر هذه الفعالية حاليًا",

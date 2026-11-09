@@ -1482,7 +1482,6 @@
   "tickets.purchase.agree.privacy": "개인정보 처리방침",
   "tickets.purchase.submit": "결제하기",
   "tickets.purchase.submitFree": "신청하기",
-  "tickets.purchase.cardOnly": "결제는 신용카드, Apple Pay, Google Pay로 가능합니다.",
   "tickets.purchase.error.invalid": "입력 내용을 확인해 주세요",
   "tickets.purchase.error.turnstile": "확인에 실패했습니다. 다시 시도해 주세요",
   "tickets.purchase.error.closed": "현재 이 이벤트의 티켓은 판매하지 않습니다",

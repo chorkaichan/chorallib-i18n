@@ -1482,7 +1482,6 @@
   "tickets.purchase.agree.privacy": "Informativa sulla privacy",
   "tickets.purchase.submit": "Procedi al pagamento",
   "tickets.purchase.submitFree": "Iscriviti",
-  "tickets.purchase.cardOnly": "Pagamento con carta di credito, Apple Pay o Google Pay.",
   "tickets.purchase.error.invalid": "Controlla i dati inseriti",
   "tickets.purchase.error.turnstile": "Verifica non riuscita. Riprova",
   "tickets.purchase.error.closed": "Al momento i biglietti per questo evento non sono in vendita",

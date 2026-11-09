@@ -1482,7 +1482,6 @@
   "tickets.purchase.agree.privacy": "Політика конфіденційності",
   "tickets.purchase.submit": "Перейти до оплати",
   "tickets.purchase.submitFree": "Записатися",
-  "tickets.purchase.cardOnly": "Оплата банківською карткою, Apple Pay або Google Pay.",
   "tickets.purchase.error.invalid": "Перевірте введені дані",
   "tickets.purchase.error.turnstile": "Перевірка не пройдена. Спробуйте ще раз",
   "tickets.purchase.error.closed": "Зараз квитки на цю подію не продаються",

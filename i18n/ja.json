@@ -1482,7 +1482,6 @@
   "tickets.purchase.agree.privacy": "プライバシーポリシー",
   "tickets.purchase.submit": "お支払いへ進む",
   "tickets.purchase.submitFree": "申し込む",
-  "tickets.purchase.cardOnly": "お支払いはクレジットカード・Apple Pay・Google Pay です。",
   "tickets.purchase.error.invalid": "入力内容を確認してください",
   "tickets.purchase.error.turnstile": "確認に失敗しました。もう一度お試しください",
   "tickets.purchase.error.closed": "現在このイベントのチケットは販売していません",
