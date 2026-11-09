@@ -1611,5 +1611,14 @@
   "tickets.cancel.button": "公演を中止する",
   "tickets.cancel.confirm": "「{title}」を中止しますか？販売を止め、支払済みのチケットはすべて払い戻し、購入者にメールでお知らせします。販売時の手数料は戻らないため、主催者の負担になります。この操作は取り消せません。",
   "tickets.cancel.done": "公演を中止しました。払い戻しを進めています",
-  "tickets.sales.error.paidOut": "売上金の振り込みが済んだイベントは、ここから中止できません"
+  "tickets.sales.error.paidOut": "売上金の振り込みが済んだイベントは、ここから中止できません",
+  "tickets.mine.title": "購入したチケット",
+  "tickets.mine.description": "このアカウントのメールアドレスで購入したチケットです。",
+  "tickets.mine.empty": "購入したチケットはありません。",
+  "tickets.mine.upcoming": "これからの公演",
+  "tickets.mine.past": "過去の公演",
+  "tickets.order.account.title": "このメールアドレスでログイン",
+  "tickets.order.account.description": "購入時のメールアドレスに ChoralLib のログインコードを送ります。ログインすると、購入したチケットをいつでもメニューの「購入したチケット」から確認できます。",
+  "tickets.order.account.login": "ログインコードを送る",
+  "tickets.order.account.linked": "この注文はあなたのアカウントに紐付いています。"
 }

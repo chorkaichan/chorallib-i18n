@@ -1611,5 +1611,14 @@
   "tickets.cancel.button": "Batalkan konsert",
   "tickets.cancel.confirm": "Batalkan \"{title}\"? Jualan akan dihentikan, semua tiket yang telah dibayar akan dibayar balik, dan pembeli akan dimaklumkan melalui e-mel. Yuran jualan tidak dikembalikan dan ditanggung penganjur. Tindakan ini tidak boleh dibatalkan.",
   "tickets.cancel.done": "Konsert telah dibatalkan. Bayaran balik sedang diproses",
-  "tickets.sales.error.paidOut": "Acara yang hasil jualannya telah dibayar keluar tidak boleh dibatalkan dari sini"
+  "tickets.sales.error.paidOut": "Acara yang hasil jualannya telah dibayar keluar tidak boleh dibatalkan dari sini",
+  "tickets.mine.title": "Tiket yang dibeli",
+  "tickets.mine.description": "Tiket yang dibeli dengan alamat e-mel akaun ini.",
+  "tickets.mine.empty": "Anda tidak mempunyai tiket yang dibeli.",
+  "tickets.mine.upcoming": "Persembahan akan datang",
+  "tickets.mine.past": "Persembahan lepas",
+  "tickets.order.account.title": "Log masuk dengan alamat e-mel ini",
+  "tickets.order.account.description": "Kami akan menghantar kod log masuk ChoralLib ke alamat e-mel yang digunakan semasa pembelian. Selepas log masuk, anda sentiasa boleh melihat tiket anda di menu \"Tiket yang dibeli\".",
+  "tickets.order.account.login": "Hantar kod log masuk",
+  "tickets.order.account.linked": "Pesanan ini dipautkan kepada akaun anda."
 }

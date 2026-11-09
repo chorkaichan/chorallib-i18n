@@ -1611,5 +1611,14 @@
   "tickets.cancel.button": "Annulla il concerto",
   "tickets.cancel.confirm": "Annullare «{title}»? La vendita verrà interrotta, tutti i biglietti pagati saranno rimborsati e gli acquirenti riceveranno un'e-mail. La commissione di vendita non viene restituita ed è a carico dell'organizzatore. L'operazione non può essere annullata.",
   "tickets.cancel.done": "Il concerto è stato annullato. I rimborsi sono in corso",
-  "tickets.sales.error.paidOut": "Gli eventi i cui incassi sono stati versati non possono essere annullati da qui"
+  "tickets.sales.error.paidOut": "Gli eventi i cui incassi sono stati versati non possono essere annullati da qui",
+  "tickets.mine.title": "Biglietti acquistati",
+  "tickets.mine.description": "Biglietti acquistati con l'indirizzo e-mail di questo account.",
+  "tickets.mine.empty": "Non hai biglietti acquistati.",
+  "tickets.mine.upcoming": "Prossimi spettacoli",
+  "tickets.mine.past": "Spettacoli passati",
+  "tickets.order.account.title": "Accedi con questo indirizzo e-mail",
+  "tickets.order.account.description": "Invieremo un codice di accesso a ChoralLib all'indirizzo e-mail usato per l'acquisto. Dopo l'accesso, potrai sempre trovare i tuoi biglietti in «Biglietti acquistati» nel menu.",
+  "tickets.order.account.login": "Invia codice di accesso",
+  "tickets.order.account.linked": "Questo ordine è collegato al tuo account."
 }

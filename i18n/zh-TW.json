@@ -1611,5 +1611,14 @@
   "tickets.cancel.button": "取消演出",
   "tickets.cancel.confirm": "要取消「{title}」嗎？將停止販售，所有已付款的票券都會退款，並透過郵件通知購買者。銷售手續費不予退還，由主辦方負擔。此操作無法復原。",
   "tickets.cancel.done": "演出已取消，正在辦理退款",
-  "tickets.sales.error.paidOut": "銷售款項已匯出的活動無法在此取消"
+  "tickets.sales.error.paidOut": "銷售款項已匯出的活動無法在此取消",
+  "tickets.mine.title": "已購票券",
+  "tickets.mine.description": "使用此帳號的電子郵件購買的票券。",
+  "tickets.mine.empty": "沒有已購票券。",
+  "tickets.mine.upcoming": "即將舉行的演出",
+  "tickets.mine.past": "過往演出",
+  "tickets.order.account.title": "使用此電子郵件登入",
+  "tickets.order.account.description": "我們會將 ChoralLib 的登入驗證碼傳送到購票時使用的電子郵件。登入後，您隨時可以在選單的「已購票券」中查看票券。",
+  "tickets.order.account.login": "傳送登入驗證碼",
+  "tickets.order.account.linked": "此訂單已綁定到您的帳號。"
 }

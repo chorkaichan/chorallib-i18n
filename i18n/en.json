@@ -1611,5 +1611,14 @@
   "tickets.cancel.button": "Cancel performance",
   "tickets.cancel.confirm": "Cancel \"{title}\"? Sales will stop, all paid tickets will be refunded, and purchasers will be notified by email. The sales fee is not returned and is borne by the organizer. This cannot be undone.",
   "tickets.cancel.done": "The performance has been canceled. Refunds are in progress",
-  "tickets.sales.error.paidOut": "Events whose proceeds have been paid out cannot be canceled here"
+  "tickets.sales.error.paidOut": "Events whose proceeds have been paid out cannot be canceled here",
+  "tickets.mine.title": "Purchased tickets",
+  "tickets.mine.description": "Tickets purchased with this account's email address.",
+  "tickets.mine.empty": "You have no purchased tickets.",
+  "tickets.mine.upcoming": "Upcoming performances",
+  "tickets.mine.past": "Past performances",
+  "tickets.order.account.title": "Log in with this email address",
+  "tickets.order.account.description": "We will send a ChoralLib login code to the email address used for the purchase. Once logged in, you can always find your tickets under \"Purchased tickets\" in the menu.",
+  "tickets.order.account.login": "Send login code",
+  "tickets.order.account.linked": "This order is linked to your account."
 }

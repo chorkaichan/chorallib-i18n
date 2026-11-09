@@ -1611,5 +1611,14 @@
   "tickets.cancel.button": "取消演出",
   "tickets.cancel.confirm": "要取消“{title}”吗？将停止销售，所有已付款的门票都会退款，并通过邮件通知购买者。销售手续费不予退还，由主办方承担。此操作无法撤销。",
   "tickets.cancel.done": "演出已取消，正在办理退款",
-  "tickets.sales.error.paidOut": "销售款已汇出的活动无法在此取消"
+  "tickets.sales.error.paidOut": "销售款已汇出的活动无法在此取消",
+  "tickets.mine.title": "已购门票",
+  "tickets.mine.description": "使用此账号的邮箱购买的门票。",
+  "tickets.mine.empty": "没有已购门票。",
+  "tickets.mine.upcoming": "即将举行的演出",
+  "tickets.mine.past": "过往演出",
+  "tickets.order.account.title": "使用此邮箱登录",
+  "tickets.order.account.description": "我们会将 ChoralLib 的登录验证码发送到购票时使用的邮箱。登录后，您随时可以在菜单的“已购门票”中查看门票。",
+  "tickets.order.account.login": "发送登录验证码",
+  "tickets.order.account.linked": "此订单已关联到您的账号。"
 }

@@ -1611,5 +1611,14 @@
   "tickets.cancel.button": "Cancelar concierto",
   "tickets.cancel.confirm": "¿Cancelar «{title}»? Se detendrá la venta, se reembolsarán todas las entradas pagadas y se avisará a los compradores por correo. La comisión de venta no se devuelve y corre a cargo del organizador. Esta acción no se puede deshacer.",
   "tickets.cancel.done": "El concierto se ha cancelado. Los reembolsos están en curso",
-  "tickets.sales.error.paidOut": "Los eventos cuyos ingresos ya se han transferido no se pueden cancelar desde aquí"
+  "tickets.sales.error.paidOut": "Los eventos cuyos ingresos ya se han transferido no se pueden cancelar desde aquí",
+  "tickets.mine.title": "Entradas compradas",
+  "tickets.mine.description": "Entradas compradas con el correo electrónico de esta cuenta.",
+  "tickets.mine.empty": "No tienes entradas compradas.",
+  "tickets.mine.upcoming": "Próximas actuaciones",
+  "tickets.mine.past": "Actuaciones pasadas",
+  "tickets.order.account.title": "Iniciar sesión con este correo electrónico",
+  "tickets.order.account.description": "Enviaremos un código de inicio de sesión de ChoralLib al correo electrónico usado en la compra. Una vez que inicies sesión, siempre podrás consultar tus entradas en «Entradas compradas» del menú.",
+  "tickets.order.account.login": "Enviar código de inicio de sesión",
+  "tickets.order.account.linked": "Este pedido está vinculado a tu cuenta."
 }

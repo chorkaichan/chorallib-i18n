@@ -1611,5 +1611,14 @@
   "tickets.cancel.button": "Aufführung absagen",
   "tickets.cancel.confirm": "„{title}“ absagen? Der Verkauf wird gestoppt, alle bezahlten Tickets werden erstattet und die Käufer per E-Mail benachrichtigt. Die Verkaufsgebühr wird nicht erstattet und geht zulasten des Veranstalters. Dies kann nicht rückgängig gemacht werden.",
   "tickets.cancel.done": "Die Aufführung wurde abgesagt. Die Erstattungen laufen",
-  "tickets.sales.error.paidOut": "Veranstaltungen, deren Einnahmen ausgezahlt wurden, können hier nicht abgesagt werden"
+  "tickets.sales.error.paidOut": "Veranstaltungen, deren Einnahmen ausgezahlt wurden, können hier nicht abgesagt werden",
+  "tickets.mine.title": "Gekaufte Tickets",
+  "tickets.mine.description": "Tickets, die mit der E-Mail-Adresse dieses Kontos gekauft wurden.",
+  "tickets.mine.empty": "Du hast keine gekauften Tickets.",
+  "tickets.mine.upcoming": "Kommende Aufführungen",
+  "tickets.mine.past": "Vergangene Aufführungen",
+  "tickets.order.account.title": "Mit dieser E-Mail-Adresse anmelden",
+  "tickets.order.account.description": "Wir senden einen ChoralLib-Anmeldecode an die E-Mail-Adresse, die beim Kauf verwendet wurde. Nach der Anmeldung findest du deine Tickets jederzeit im Menü unter „Gekaufte Tickets“.",
+  "tickets.order.account.login": "Anmeldecode senden",
+  "tickets.order.account.linked": "Diese Bestellung ist mit deinem Konto verknüpft."
 }
