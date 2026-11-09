@@ -1516,5 +1516,21 @@
   "tickets.legal.public.delivery.value": "I biglietti elettronici vengono inviati via email non appena il pagamento è confermato.",
   "tickets.legal.public.cancel": "Annullamento e rimborso",
   "tickets.legal.public.cancel.value": "Di norma non sono accettati annullamenti e rimborsi per motivi del cliente (salvo accordo del venditore; non disponibili per i pagamenti in convenience store).\nSe il concerto viene annullato, il prezzo del biglietto è rimborsato per intero (esclusa la commissione del pagamento in convenience store).",
-  "tickets.legal.public.platformNote": "Questi biglietti sono venduti tramite il sistema di biglietteria di ChoralLib. Il contratto di vendita è concluso tra il venditore e il cliente; ChoralLib non ne è parte."
+  "tickets.legal.public.platformNote": "Questi biglietti sono venduti tramite il sistema di biglietteria di ChoralLib. Il contratto di vendita è concluso tra il venditore e il cliente; ChoralLib non ne è parte.",
+  "tickets.purchase.paymentMethod": "Metodo di pagamento",
+  "tickets.purchase.method.card": "Carta di credito, Apple Pay, Google Pay",
+  "tickets.purchase.method.card.hint": "Il pagamento viene completato all'acquisto e i biglietti elettronici arrivano subito.",
+  "tickets.purchase.method.konbini": "Pagamento in konbini",
+  "tickets.purchase.method.konbini.hint": "Paga in un minimarket entro 3 giorni (FamilyMart, Lawson, Ministop, Seicomart). Si applica una commissione di pagamento in minimarket di {fee}.",
+  "tickets.purchase.method.bank_transfer": "Bonifico bancario",
+  "tickets.purchase.method.bank_transfer.hint": "Effettua il bonifico sul conto indicato entro 3 giorni. Le spese di bonifico sono a carico del cliente.",
+  "tickets.purchase.deferredUnavailable": "A meno di 3 giorni dall'inizio dell'evento, il pagamento in minimarket e il bonifico bancario non sono disponibili.",
+  "tickets.purchase.konbiniFee": "Commissione di pagamento in minimarket",
+  "tickets.purchase.error.paymentMethod": "Il metodo di pagamento scelto non è disponibile. Scegline un altro",
+  "tickets.purchase.error.konbiniLimit": "Il pagamento in minimarket è limitato a 300.000 JPY per pagamento",
+  "tickets.order.awaiting.konbini": "Stiamo aspettando il tuo pagamento in minimarket. Controlla il numero di pagamento con il pulsante qui sotto e paga entro la scadenza. Una volta confermato, i biglietti elettronici compariranno qui e ti avviseremo via email.",
+  "tickets.order.awaiting.bank_transfer": "Stiamo aspettando il tuo bonifico bancario. Controlla le coordinate del conto con il pulsante qui sotto ed effettua il bonifico entro la scadenza. Una volta confermato l'accredito, i biglietti elettronici compariranno qui e ti avviseremo via email.",
+  "tickets.order.dueAt": "Scadenza del pagamento",
+  "tickets.order.amountDue": "Importo da pagare",
+  "tickets.order.viewInstructions": "Vedi come pagare"
 }

@@ -1516,5 +1516,21 @@
   "tickets.legal.public.delivery.value": "Las entradas electrónicas se envían por correo electrónico en cuanto se confirma el pago.",
   "tickets.legal.public.cancel": "Cancelaciones y reembolsos",
   "tickets.legal.public.cancel.value": "Por norma general, no se aceptan cancelaciones ni reembolsos por motivos del cliente (salvo que el vendedor lo acepte; no disponible para pagos en tienda de conveniencia).\nSi se cancela el concierto, se reembolsa el importe íntegro de la entrada (excepto la comisión del pago en tienda de conveniencia).",
-  "tickets.legal.public.platformNote": "Estas entradas se venden mediante el sistema de venta de entradas de ChoralLib. El contrato de compraventa se establece entre el vendedor y el cliente, y ChoralLib no es parte del mismo."
+  "tickets.legal.public.platformNote": "Estas entradas se venden mediante el sistema de venta de entradas de ChoralLib. El contrato de compraventa se establece entre el vendedor y el cliente, y ChoralLib no es parte del mismo.",
+  "tickets.purchase.paymentMethod": "Método de pago",
+  "tickets.purchase.method.card": "Tarjeta de crédito, Apple Pay, Google Pay",
+  "tickets.purchase.method.card.hint": "El pago se completa al comprar y tus entradas electrónicas llegan al instante.",
+  "tickets.purchase.method.konbini": "Pago en tienda de conveniencia",
+  "tickets.purchase.method.konbini.hint": "Paga en una tienda de conveniencia en un plazo de 3 días (FamilyMart, Lawson, Ministop, Seicomart). Se aplica una comisión de pago en tienda de conveniencia de {fee}.",
+  "tickets.purchase.method.bank_transfer": "Transferencia bancaria",
+  "tickets.purchase.method.bank_transfer.hint": "Transfiere a la cuenta que te indicamos en un plazo de 3 días. Las comisiones de la transferencia corren por cuenta del cliente.",
+  "tickets.purchase.deferredUnavailable": "Faltando menos de 3 días para el inicio, no se puede elegir el pago en tienda de conveniencia ni la transferencia bancaria.",
+  "tickets.purchase.konbiniFee": "Comisión de pago en tienda de conveniencia",
+  "tickets.purchase.error.paymentMethod": "El método de pago elegido no está disponible. Elige otro",
+  "tickets.purchase.error.konbiniLimit": "El pago en tienda de conveniencia está limitado a 300.000 JPY por pago",
+  "tickets.order.awaiting.konbini": "Esperamos tu pago en la tienda de conveniencia. Consulta el número de pago con el botón de abajo y paga antes del plazo. Cuando se confirme, tus entradas electrónicas aparecerán aquí y te avisaremos por correo electrónico.",
+  "tickets.order.awaiting.bank_transfer": "Esperamos tu transferencia bancaria. Consulta los datos de la cuenta con el botón de abajo y transfiere antes del plazo. Cuando se confirme el ingreso, tus entradas electrónicas aparecerán aquí y te avisaremos por correo electrónico.",
+  "tickets.order.dueAt": "Plazo de pago",
+  "tickets.order.amountDue": "Importe a pagar",
+  "tickets.order.viewInstructions": "Ver cómo pagar"
 }

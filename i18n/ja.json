@@ -1516,5 +1516,21 @@
   "tickets.legal.public.delivery.value": "お支払いの確認後すぐに、電子チケットをメールでお送りします。",
   "tickets.legal.public.cancel": "キャンセル・払い戻し",
   "tickets.legal.public.cancel.value": "お客様のご都合によるキャンセル・払い戻しは、原則としてお受けできません（販売者が認めた場合を除き、コンビニ決済は不可）。\n公演が中止になった場合は、チケット代金の全額を払い戻します（コンビニ決済手数料を除く）。",
-  "tickets.legal.public.platformNote": "このチケットは ChoralLib のチケット販売の仕組みを使って販売されています。売買契約は販売者とお客様の間に成立し、ChoralLib は売買契約の当事者ではありません。"
+  "tickets.legal.public.platformNote": "このチケットは ChoralLib のチケット販売の仕組みを使って販売されています。売買契約は販売者とお客様の間に成立し、ChoralLib は売買契約の当事者ではありません。",
+  "tickets.purchase.paymentMethod": "支払方法",
+  "tickets.purchase.method.card": "クレジットカード・Apple Pay・Google Pay",
+  "tickets.purchase.method.card.hint": "購入時にお支払いが完了し、すぐに電子チケットが届きます。",
+  "tickets.purchase.method.konbini": "コンビニ決済",
+  "tickets.purchase.method.konbini.hint": "3 日以内にコンビニでお支払いください（ファミリーマート・ローソン・ミニストップ・セイコーマート）。コンビニ決済手数料 {fee}がかかります。",
+  "tickets.purchase.method.bank_transfer": "銀行振込",
+  "tickets.purchase.method.bank_transfer.hint": "3 日以内に、案内する口座へお振り込みください。振込手数料はお客様のご負担です。",
+  "tickets.purchase.deferredUnavailable": "開演の 3 日前を過ぎたため、コンビニ決済・銀行振込は選べません。",
+  "tickets.purchase.konbiniFee": "コンビニ決済手数料",
+  "tickets.purchase.error.paymentMethod": "選んだ支払方法は使えません。別の支払方法を選んでください",
+  "tickets.purchase.error.konbiniLimit": "コンビニ決済で払えるのは 1 回 30 万円までです",
+  "tickets.order.awaiting.konbini": "コンビニでのお支払いをお待ちしています。下のボタンから支払番号を確認し、期限までにお支払いください。お支払いが確認できると電子チケットが表示され、メールでもお知らせします。",
+  "tickets.order.awaiting.bank_transfer": "銀行振込をお待ちしています。下のボタンから振込先を確認し、期限までにお振り込みください。入金が確認できると電子チケットが表示され、メールでもお知らせします。",
+  "tickets.order.dueAt": "お支払い期限",
+  "tickets.order.amountDue": "お支払い金額",
+  "tickets.order.viewInstructions": "お支払い方法を確認する"
 }

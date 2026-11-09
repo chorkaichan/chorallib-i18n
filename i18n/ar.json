@@ -1516,5 +1516,21 @@
   "tickets.legal.public.delivery.value": "تُرسل التذاكر الإلكترونية بالبريد الإلكتروني فور تأكيد الدفع.",
   "tickets.legal.public.cancel": "الإلغاء والاسترداد",
   "tickets.legal.public.cancel.value": "من حيث المبدأ، لا يُقبل الإلغاء ولا الاسترداد لأسباب تخص العميل (إلا إذا وافق البائع؛ وغير متاح للدفع في المتجر الصغير).\nإذا أُلغي العرض، يُسترد ثمن التذكرة كاملًا (باستثناء رسوم الدفع في المتجر الصغير).",
-  "tickets.legal.public.platformNote": "تُباع هذه التذاكر عبر نظام بيع التذاكر في ChoralLib. ينعقد عقد البيع بين البائع والعميل، وChoralLib ليست طرفًا فيه."
+  "tickets.legal.public.platformNote": "تُباع هذه التذاكر عبر نظام بيع التذاكر في ChoralLib. ينعقد عقد البيع بين البائع والعميل، وChoralLib ليست طرفًا فيه.",
+  "tickets.purchase.paymentMethod": "طريقة الدفع",
+  "tickets.purchase.method.card": "بطاقة ائتمان وApple Pay وGoogle Pay",
+  "tickets.purchase.method.card.hint": "يكتمل الدفع عند الشراء، وتصلك التذاكر الإلكترونية فورًا.",
+  "tickets.purchase.method.konbini": "الدفع في المتجر الصغير",
+  "tickets.purchase.method.konbini.hint": "ادفع في أحد المتاجر الصغيرة خلال 3 أيام (FamilyMart وLawson وMinistop وSeicomart). تُطبَّق رسوم دفع في المتجر الصغير قدرها {fee}.",
+  "tickets.purchase.method.bank_transfer": "تحويل مصرفي",
+  "tickets.purchase.method.bank_transfer.hint": "حوّل المبلغ إلى الحساب الذي نحدده لك خلال 3 أيام. رسوم التحويل على العميل.",
+  "tickets.purchase.deferredUnavailable": "بعد أن بقي أقل من 3 أيام على بدء العرض، لا يمكن اختيار الدفع في المتجر الصغير أو التحويل المصرفي.",
+  "tickets.purchase.konbiniFee": "رسوم الدفع في المتجر الصغير",
+  "tickets.purchase.error.paymentMethod": "طريقة الدفع المختارة غير متاحة. اختر طريقة أخرى",
+  "tickets.purchase.error.konbiniLimit": "الدفع في المتجر الصغير محدود بـ 300,000 ين ياباني للدفعة الواحدة",
+  "tickets.order.awaiting.konbini": "ننتظر دفعتك في المتجر الصغير. اطّلع على رقم الدفع من الزر أدناه وادفع قبل انتهاء المهلة. بعد التأكيد ستظهر تذاكرك الإلكترونية هنا وسنُعلمك بالبريد الإلكتروني.",
+  "tickets.order.awaiting.bank_transfer": "ننتظر تحويلك المصرفي. اطّلع على بيانات الحساب من الزر أدناه وحوّل المبلغ قبل انتهاء المهلة. بعد تأكيد وصول المبلغ ستظهر تذاكرك الإلكترونية هنا وسنُعلمك بالبريد الإلكتروني.",
+  "tickets.order.dueAt": "مهلة الدفع",
+  "tickets.order.amountDue": "المبلغ المستحق",
+  "tickets.order.viewInstructions": "عرض تفاصيل الدفع"
 }

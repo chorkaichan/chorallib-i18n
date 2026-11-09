@@ -1516,5 +1516,21 @@
   "tickets.legal.public.delivery.value": "E-Tickets werden per E-Mail gesendet, sobald die Zahlung bestätigt ist.",
   "tickets.legal.public.cancel": "Stornierung und Erstattung",
   "tickets.legal.public.cancel.value": "Stornierungen und Erstattungen aus Gründen des Kunden werden grundsätzlich nicht akzeptiert (außer wenn der Verkäufer zustimmt; bei Zahlung im Convenience Store nicht möglich).\nWird die Veranstaltung abgesagt, wird der volle Ticketpreis erstattet (ohne die Gebühr für die Zahlung im Convenience Store).",
-  "tickets.legal.public.platformNote": "Diese Tickets werden über das Ticketsystem von ChoralLib verkauft. Der Kaufvertrag kommt zwischen Verkäufer und Kunde zustande; ChoralLib ist nicht Vertragspartei."
+  "tickets.legal.public.platformNote": "Diese Tickets werden über das Ticketsystem von ChoralLib verkauft. Der Kaufvertrag kommt zwischen Verkäufer und Kunde zustande; ChoralLib ist nicht Vertragspartei.",
+  "tickets.purchase.paymentMethod": "Zahlungsart",
+  "tickets.purchase.method.card": "Kreditkarte, Apple Pay, Google Pay",
+  "tickets.purchase.method.card.hint": "Die Zahlung erfolgt direkt beim Kauf, und deine E-Tickets kommen sofort an.",
+  "tickets.purchase.method.konbini": "Zahlung im Convenience Store",
+  "tickets.purchase.method.konbini.hint": "Bezahle innerhalb von 3 Tagen in einem Convenience Store (FamilyMart, Lawson, Ministop, Seicomart). Es fällt eine Gebühr für die Zahlung im Convenience Store von {fee} an.",
+  "tickets.purchase.method.bank_transfer": "Banküberweisung",
+  "tickets.purchase.method.bank_transfer.hint": "Überweise innerhalb von 3 Tagen auf das von uns angegebene Konto. Überweisungsgebühren trägt der Käufer.",
+  "tickets.purchase.deferredUnavailable": "Weniger als 3 Tage vor Beginn der Veranstaltung sind Zahlung im Convenience Store und Banküberweisung nicht mehr verfügbar.",
+  "tickets.purchase.konbiniFee": "Gebühr für Zahlung im Convenience Store",
+  "tickets.purchase.error.paymentMethod": "Die gewählte Zahlungsart ist nicht verfügbar. Wähle eine andere",
+  "tickets.purchase.error.konbiniLimit": "Im Convenience Store können pro Zahlung höchstens 300.000 JPY bezahlt werden",
+  "tickets.order.awaiting.konbini": "Wir warten auf deine Zahlung im Convenience Store. Rufe die Zahlungsnummer über die Schaltfläche unten ab und bezahle bis zur Frist. Sobald die Zahlung bestätigt ist, erscheinen hier deine E-Tickets, und wir benachrichtigen dich per E-Mail.",
+  "tickets.order.awaiting.bank_transfer": "Wir warten auf deine Banküberweisung. Rufe die Kontodaten über die Schaltfläche unten ab und überweise bis zur Frist. Sobald der Zahlungseingang bestätigt ist, erscheinen hier deine E-Tickets, und wir benachrichtigen dich per E-Mail.",
+  "tickets.order.dueAt": "Zahlungsfrist",
+  "tickets.order.amountDue": "Zu zahlender Betrag",
+  "tickets.order.viewInstructions": "Zahlungsinformationen ansehen"
 }

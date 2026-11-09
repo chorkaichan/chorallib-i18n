@@ -1516,5 +1516,21 @@
   "tickets.legal.public.delivery.value": "E-tickets are emailed as soon as the payment is confirmed.",
   "tickets.legal.public.cancel": "Cancellation and refunds",
   "tickets.legal.public.cancel.value": "As a rule, cancellations and refunds at the customer's convenience are not accepted (except when the seller agrees; not available for convenience store payments).\nIf the performance is canceled, the full ticket price is refunded (excluding the convenience store payment fee).",
-  "tickets.legal.public.platformNote": "These tickets are sold using ChoralLib's ticketing system. The sales contract is formed between the seller and the customer, and ChoralLib is not a party to it."
+  "tickets.legal.public.platformNote": "These tickets are sold using ChoralLib's ticketing system. The sales contract is formed between the seller and the customer, and ChoralLib is not a party to it.",
+  "tickets.purchase.paymentMethod": "Payment method",
+  "tickets.purchase.method.card": "Credit card, Apple Pay, Google Pay",
+  "tickets.purchase.method.card.hint": "Payment is completed at purchase and your e-tickets arrive right away.",
+  "tickets.purchase.method.konbini": "Convenience store payment",
+  "tickets.purchase.method.konbini.hint": "Pay at a convenience store within 3 days (FamilyMart, Lawson, Ministop, Seicomart). A convenience store payment fee of {fee} applies.",
+  "tickets.purchase.method.bank_transfer": "Bank transfer",
+  "tickets.purchase.method.bank_transfer.hint": "Transfer to the account we provide within 3 days. Transfer fees are borne by the customer.",
+  "tickets.purchase.deferredUnavailable": "Convenience store payment and bank transfer are not available within 3 days of the performance.",
+  "tickets.purchase.konbiniFee": "Convenience store payment fee",
+  "tickets.purchase.error.paymentMethod": "The selected payment method is not available. Choose another one",
+  "tickets.purchase.error.konbiniLimit": "Convenience store payments are limited to JPY 300,000 per payment",
+  "tickets.order.awaiting.konbini": "We are waiting for your convenience store payment. Check your payment number with the button below and pay by the deadline. Once confirmed, your e-tickets will appear here and we will email you.",
+  "tickets.order.awaiting.bank_transfer": "We are waiting for your bank transfer. Check the account details with the button below and transfer by the deadline. Once confirmed, your e-tickets will appear here and we will email you.",
+  "tickets.order.dueAt": "Payment deadline",
+  "tickets.order.amountDue": "Amount due",
+  "tickets.order.viewInstructions": "View payment details"
 }

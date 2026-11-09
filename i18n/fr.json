@@ -1516,5 +1516,21 @@
   "tickets.legal.public.delivery.value": "Les billets électroniques sont envoyés par e-mail dès la confirmation du paiement.",
   "tickets.legal.public.cancel": "Annulation et remboursement",
   "tickets.legal.public.cancel.value": "En principe, les annulations et remboursements à la convenance du client ne sont pas acceptés (sauf accord du vendeur ; impossible pour les paiements en supérette).\nSi le concert est annulé, le prix du billet est intégralement remboursé (hors frais de paiement en supérette).",
-  "tickets.legal.public.platformNote": "Ces billets sont vendus via le système de billetterie de ChoralLib. Le contrat de vente est conclu entre le vendeur et le client ; ChoralLib n'est pas partie à ce contrat."
+  "tickets.legal.public.platformNote": "Ces billets sont vendus via le système de billetterie de ChoralLib. Le contrat de vente est conclu entre le vendeur et le client ; ChoralLib n'est pas partie à ce contrat.",
+  "tickets.purchase.paymentMethod": "Mode de paiement",
+  "tickets.purchase.method.card": "Carte bancaire, Apple Pay, Google Pay",
+  "tickets.purchase.method.card.hint": "Le paiement est effectué à l'achat et vos billets électroniques vous sont envoyés immédiatement.",
+  "tickets.purchase.method.konbini": "Paiement en supérette",
+  "tickets.purchase.method.konbini.hint": "Payez dans une supérette sous 3 jours (FamilyMart, Lawson, Ministop, Seicomart). Des frais de paiement en supérette de {fee} s'appliquent.",
+  "tickets.purchase.method.bank_transfer": "Virement bancaire",
+  "tickets.purchase.method.bank_transfer.hint": "Effectuez un virement sur le compte indiqué sous 3 jours. Les frais de virement sont à la charge du client.",
+  "tickets.purchase.deferredUnavailable": "À moins de 3 jours du concert, le paiement en supérette et le virement bancaire ne sont plus disponibles.",
+  "tickets.purchase.konbiniFee": "Frais de paiement en supérette",
+  "tickets.purchase.error.paymentMethod": "Le mode de paiement choisi n'est pas disponible. Choisissez-en un autre",
+  "tickets.purchase.error.konbiniLimit": "Le paiement en supérette est limité à 300 000 JPY par paiement",
+  "tickets.order.awaiting.konbini": "Nous attendons votre paiement en supérette. Consultez le numéro de paiement avec le bouton ci-dessous et payez avant la date limite. Une fois le paiement confirmé, vos billets électroniques s'afficheront ici et nous vous préviendrons par e-mail.",
+  "tickets.order.awaiting.bank_transfer": "Nous attendons votre virement bancaire. Consultez les coordonnées du compte avec le bouton ci-dessous et effectuez le virement avant la date limite. Une fois la réception confirmée, vos billets électroniques s'afficheront ici et nous vous préviendrons par e-mail.",
+  "tickets.order.dueAt": "Date limite de paiement",
+  "tickets.order.amountDue": "Montant à payer",
+  "tickets.order.viewInstructions": "Voir les informations de paiement"
 }

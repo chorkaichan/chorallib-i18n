@@ -1516,5 +1516,21 @@
   "tickets.legal.public.delivery.value": "確認付款後，立即以電子郵件寄送電子票。",
   "tickets.legal.public.cancel": "取消與退款",
   "tickets.legal.public.cancel.value": "因顧客自身因素的取消和退款原則上不予受理（販售者同意的除外；便利商店付款不可）。\n如演出取消，將全額退還票款（不含便利商店付款手續費）。",
-  "tickets.legal.public.platformNote": "這些門票透過 ChoralLib 的售票功能販售。買賣契約在販售者與顧客之間成立，ChoralLib 不是買賣契約的當事方。"
+  "tickets.legal.public.platformNote": "這些門票透過 ChoralLib 的售票功能販售。買賣契約在販售者與顧客之間成立，ChoralLib 不是買賣契約的當事方。",
+  "tickets.purchase.paymentMethod": "付款方式",
+  "tickets.purchase.method.card": "信用卡・Apple Pay・Google Pay",
+  "tickets.purchase.method.card.hint": "購買時即完成付款，電子票會立即寄送給您。",
+  "tickets.purchase.method.konbini": "超商付款",
+  "tickets.purchase.method.konbini.hint": "請在 3 天內到超商付款（FamilyMart、Lawson、Ministop、Seicomart）。需另付超商付款手續費 {fee}。",
+  "tickets.purchase.method.bank_transfer": "銀行轉帳",
+  "tickets.purchase.method.bank_transfer.hint": "請在 3 天內轉帳至我們提供的帳戶。轉帳手續費由您負擔。",
+  "tickets.purchase.deferredUnavailable": "距開演已不足 3 天，無法選擇超商付款及銀行轉帳。",
+  "tickets.purchase.konbiniFee": "超商付款手續費",
+  "tickets.purchase.error.paymentMethod": "所選付款方式無法使用，請選擇其他付款方式",
+  "tickets.purchase.error.konbiniLimit": "超商付款每筆最高 30 萬日圓",
+  "tickets.order.awaiting.konbini": "正在等待您在超商付款。請點擊下方按鈕查看付款編號，並於期限前付款。確認付款後，電子票會顯示在此處，並以電子郵件通知您。",
+  "tickets.order.awaiting.bank_transfer": "正在等待您的銀行轉帳。請點擊下方按鈕查看收款帳戶，並於期限前轉帳。確認入帳後，電子票會顯示在此處，並以電子郵件通知您。",
+  "tickets.order.dueAt": "付款期限",
+  "tickets.order.amountDue": "應付金額",
+  "tickets.order.viewInstructions": "查看付款方式"
 }

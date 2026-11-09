@@ -1516,5 +1516,21 @@
   "tickets.legal.public.delivery.value": "결제가 확인되는 즉시 전자 티켓을 이메일로 보내 드립니다.",
   "tickets.legal.public.cancel": "취소·환불",
   "tickets.legal.public.cancel.value": "고객 사정에 따른 취소·환불은 원칙적으로 받지 않습니다(판매자가 인정한 경우 제외, 편의점 결제는 불가).\n공연이 취소된 경우 티켓 대금 전액을 환불합니다(편의점 결제 수수료 제외).",
-  "tickets.legal.public.platformNote": "이 티켓은 ChoralLib의 티켓 판매 기능으로 판매됩니다. 매매 계약은 판매자와 고객 사이에 성립하며 ChoralLib은 매매 계약의 당사자가 아닙니다."
+  "tickets.legal.public.platformNote": "이 티켓은 ChoralLib의 티켓 판매 기능으로 판매됩니다. 매매 계약은 판매자와 고객 사이에 성립하며 ChoralLib은 매매 계약의 당사자가 아닙니다.",
+  "tickets.purchase.paymentMethod": "결제 방법",
+  "tickets.purchase.method.card": "신용카드·Apple Pay·Google Pay",
+  "tickets.purchase.method.card.hint": "구매 시 결제가 완료되며 전자 티켓이 바로 발송됩니다.",
+  "tickets.purchase.method.konbini": "편의점 결제",
+  "tickets.purchase.method.konbini.hint": "3일 이내에 편의점에서 결제해 주세요(FamilyMart, Lawson, Ministop, Seicomart). 편의점 결제 수수료 {fee}이(가) 부과됩니다.",
+  "tickets.purchase.method.bank_transfer": "계좌 이체",
+  "tickets.purchase.method.bank_transfer.hint": "3일 이내에 안내해 드리는 계좌로 입금해 주세요. 이체 수수료는 고객님이 부담합니다.",
+  "tickets.purchase.deferredUnavailable": "공연 3일 전이 지나 편의점 결제와 계좌 이체는 선택할 수 없습니다.",
+  "tickets.purchase.konbiniFee": "편의점 결제 수수료",
+  "tickets.purchase.error.paymentMethod": "선택한 결제 방법은 사용할 수 없습니다. 다른 결제 방법을 선택해 주세요",
+  "tickets.purchase.error.konbiniLimit": "편의점 결제는 1회 30만 엔까지 가능합니다",
+  "tickets.order.awaiting.konbini": "편의점 결제를 기다리고 있습니다. 아래 버튼에서 결제 번호를 확인하고 기한까지 결제해 주세요. 결제가 확인되면 전자 티켓이 표시되고 이메일로도 알려 드립니다.",
+  "tickets.order.awaiting.bank_transfer": "계좌 이체를 기다리고 있습니다. 아래 버튼에서 입금 계좌를 확인하고 기한까지 입금해 주세요. 입금이 확인되면 전자 티켓이 표시되고 이메일로도 알려 드립니다.",
+  "tickets.order.dueAt": "결제 기한",
+  "tickets.order.amountDue": "결제 금액",
+  "tickets.order.viewInstructions": "결제 방법 확인하기"
 }

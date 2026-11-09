@@ -1516,5 +1516,21 @@
   "tickets.legal.public.delivery.value": "Tiket elektronik dikirim lewat email segera setelah pembayaran dikonfirmasi.",
   "tickets.legal.public.cancel": "Pembatalan dan pengembalian dana",
   "tickets.legal.public.cancel.value": "Pada dasarnya, pembatalan dan pengembalian dana atas permintaan pelanggan tidak diterima (kecuali penjual menyetujui; tidak tersedia untuk pembayaran di toko swalayan).\nJika konser dibatalkan, harga tiket dikembalikan penuh (tidak termasuk biaya pembayaran toko swalayan).",
-  "tickets.legal.public.platformNote": "Tiket ini dijual menggunakan sistem tiket ChoralLib. Perjanjian jual beli terjadi antara penjual dan pelanggan, dan ChoralLib bukan pihak dalam perjanjian tersebut."
+  "tickets.legal.public.platformNote": "Tiket ini dijual menggunakan sistem tiket ChoralLib. Perjanjian jual beli terjadi antara penjual dan pelanggan, dan ChoralLib bukan pihak dalam perjanjian tersebut.",
+  "tickets.purchase.paymentMethod": "Metode pembayaran",
+  "tickets.purchase.method.card": "Kartu kredit, Apple Pay, Google Pay",
+  "tickets.purchase.method.card.hint": "Pembayaran selesai saat pembelian dan tiket elektronik Anda langsung dikirim.",
+  "tickets.purchase.method.konbini": "Pembayaran di minimarket",
+  "tickets.purchase.method.konbini.hint": "Bayar di minimarket dalam 3 hari (FamilyMart, Lawson, Ministop, Seicomart). Dikenakan biaya pembayaran di minimarket sebesar {fee}.",
+  "tickets.purchase.method.bank_transfer": "Transfer bank",
+  "tickets.purchase.method.bank_transfer.hint": "Transfer ke rekening yang kami berikan dalam 3 hari. Biaya transfer ditanggung pelanggan.",
+  "tickets.purchase.deferredUnavailable": "Kurang dari 3 hari sebelum acara dimulai, pembayaran di minimarket dan transfer bank tidak dapat dipilih.",
+  "tickets.purchase.konbiniFee": "Biaya pembayaran di minimarket",
+  "tickets.purchase.error.paymentMethod": "Metode pembayaran yang dipilih tidak tersedia. Pilih metode lain",
+  "tickets.purchase.error.konbiniLimit": "Pembayaran di minimarket dibatasi hingga 300.000 JPY per pembayaran",
+  "tickets.order.awaiting.konbini": "Kami menunggu pembayaran Anda di minimarket. Lihat nomor pembayaran dengan tombol di bawah dan bayar sebelum batas waktu. Setelah terkonfirmasi, tiket elektronik Anda akan muncul di sini dan kami akan memberi tahu lewat email.",
+  "tickets.order.awaiting.bank_transfer": "Kami menunggu transfer bank Anda. Lihat rincian rekening dengan tombol di bawah dan transfer sebelum batas waktu. Setelah dana masuk terkonfirmasi, tiket elektronik Anda akan muncul di sini dan kami akan memberi tahu lewat email.",
+  "tickets.order.dueAt": "Batas waktu pembayaran",
+  "tickets.order.amountDue": "Jumlah yang harus dibayar",
+  "tickets.order.viewInstructions": "Lihat cara pembayaran"
 }
