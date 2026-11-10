@@ -1717,5 +1717,8 @@
   "tickets.legal.public.extraCost.valueForeign": "Si pagas en una moneda distinta de la moneda de venta, se aplica la comisión de conversión de Stripe (incluida en el tipo de cambio). Los gastos de conexión a internet corren por cuenta del cliente.",
   "tickets.legal.public.payment.valueForeign": "Tarjeta de crédito o monedero digital (pago en el momento de la compra; también se puede pagar en la moneda local).",
   "tickets.legal.public.cancel.valueForeign": "Por norma general, no se aceptan cancelaciones ni reembolsos por motivos del cliente (salvo que el vendedor lo acepte).\nSi se cancela el concierto, se reembolsa el importe íntegro de la entrada.",
-  "tickets.purchase.consentForeign.link": "Sobre la cesión a terceros en el extranjero y el sistema de protección de datos del país del organizador (Política de privacidad, artículo 5-2)"
+  "tickets.purchase.consentForeign.link": "Sobre la cesión a terceros en el extranjero y el sistema de protección de datos del país del organizador (Política de privacidad, artículo 5-2)",
+  "tickets.manage.beta": "Beta",
+  "tickets.manage.betaNote": "La venta de entradas está en fase beta. Las funciones, las pantallas y las comisiones pueden cambiar.",
+  "tickets.types.error.notInBeta": "Esta página no participa en la beta de venta de entradas, por lo que no puedes empezar a vender para este evento"
 }

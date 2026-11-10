@@ -1717,5 +1717,8 @@
   "tickets.legal.public.extraCost.valueForeign": "판매 통화 이외의 통화로 결제하는 경우에는 Stripe의 환전 수수료(환율에 포함)가 듭니다. 인터넷 통신 요금은 고객 부담입니다.",
   "tickets.legal.public.payment.valueForeign": "신용카드·전자 결제(구매 시 결제, 거주 국가의 통화로도 결제 가능)",
   "tickets.legal.public.cancel.valueForeign": "고객 사정에 따른 취소·환불은 원칙적으로 받지 않습니다(판매자가 인정한 경우 제외).\n공연이 취소된 경우 티켓 대금 전액을 환불합니다.",
-  "tickets.purchase.consentForeign.link": "외국에 있는 제3자 제공 및 주최자 국가의 개인정보 보호 제도에 대하여(개인정보처리방침 제5조의2)"
+  "tickets.purchase.consentForeign.link": "외국에 있는 제3자 제공 및 주최자 국가의 개인정보 보호 제도에 대하여(개인정보처리방침 제5조의2)",
+  "tickets.manage.beta": "베타",
+  "tickets.manage.betaNote": "티켓 판매는 베타 버전입니다. 기능·화면·수수료가 바뀔 수 있습니다.",
+  "tickets.types.error.notInBeta": "티켓 판매 베타 대상이 아니므로 이 이벤트에서는 판매를 시작할 수 없습니다"
 }

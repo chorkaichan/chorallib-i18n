@@ -1717,5 +1717,8 @@
   "tickets.legal.public.extraCost.valueForeign": "Jika membayar dengan mata uang selain mata uang penjualan, berlaku biaya konversi Stripe (sudah termasuk dalam kurs). Biaya koneksi internet ditanggung pelanggan.",
   "tickets.legal.public.payment.valueForeign": "Kartu kredit atau dompet digital (dibayar saat pembelian; juga dapat membayar dengan mata uang setempat).",
   "tickets.legal.public.cancel.valueForeign": "Pada dasarnya, pembatalan dan pengembalian dana atas permintaan pelanggan tidak diterima (kecuali penjual menyetujui).\nJika konser dibatalkan, harga tiket dikembalikan penuh.",
-  "tickets.purchase.consentForeign.link": "Tentang pemberian kepada pihak ketiga di luar negeri dan sistem perlindungan data pribadi di negara penyelenggara (Kebijakan Privasi, Pasal 5-2)"
+  "tickets.purchase.consentForeign.link": "Tentang pemberian kepada pihak ketiga di luar negeri dan sistem perlindungan data pribadi di negara penyelenggara (Kebijakan Privasi, Pasal 5-2)",
+  "tickets.manage.beta": "Beta",
+  "tickets.manage.betaNote": "Penjualan tiket masih dalam versi beta. Fitur, tampilan, dan biaya dapat berubah.",
+  "tickets.types.error.notInBeta": "Halaman ini tidak termasuk dalam beta penjualan tiket, jadi Anda tidak dapat mulai menjual untuk acara ini"
 }
