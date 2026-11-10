@@ -1716,5 +1716,6 @@
   "tickets.legal.public.country": "Negara",
   "tickets.legal.public.extraCost.valueForeign": "Jika membayar dalam mata wang selain mata wang jualan, yuran penukaran Stripe dikenakan (sudah termasuk dalam kadar pertukaran). Caj sambungan internet ditanggung oleh pelanggan.",
   "tickets.legal.public.payment.valueForeign": "Kad kredit atau dompet digital (dibayar semasa pembelian; pembayaran dalam mata wang tempatan juga boleh dibuat).",
-  "tickets.legal.public.cancel.valueForeign": "Pada dasarnya, pembatalan dan bayaran balik atas sebab pelanggan tidak diterima (kecuali penjual bersetuju).\nJika konsert dibatalkan, harga tiket dipulangkan sepenuhnya."
+  "tickets.legal.public.cancel.valueForeign": "Pada dasarnya, pembatalan dan bayaran balik atas sebab pelanggan tidak diterima (kecuali penjual bersetuju).\nJika konsert dibatalkan, harga tiket dipulangkan sepenuhnya.",
+  "tickets.purchase.consentForeign.link": "Mengenai pemberian kepada pihak ketiga di luar negara dan sistem perlindungan data peribadi di negara penganjur (Dasar Privasi, Perkara 5-2)"
 }

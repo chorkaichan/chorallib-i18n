@@ -1716,5 +1716,6 @@
   "tickets.legal.public.country": "Paese",
   "tickets.legal.public.extraCost.valueForeign": "Se paghi in una valuta diversa dalla valuta di vendita, si applica la commissione di conversione di Stripe (inclusa nel tasso di cambio). I costi di connessione a internet sono a carico del cliente.",
   "tickets.legal.public.payment.valueForeign": "Carta di credito o portafoglio digitale (pagamento all'acquisto; è possibile pagare anche nella valuta locale).",
-  "tickets.legal.public.cancel.valueForeign": "Di norma non sono accettati annullamenti e rimborsi per motivi del cliente (salvo accordo del venditore).\nSe il concerto viene annullato, il prezzo del biglietto è rimborsato per intero."
+  "tickets.legal.public.cancel.valueForeign": "Di norma non sono accettati annullamenti e rimborsi per motivi del cliente (salvo accordo del venditore).\nSe il concerto viene annullato, il prezzo del biglietto è rimborsato per intero.",
+  "tickets.purchase.consentForeign.link": "Sulla comunicazione a terzi all'estero e sul sistema di protezione dei dati del paese dell'organizzatore (Informativa sulla privacy, articolo 5-2)"
 }

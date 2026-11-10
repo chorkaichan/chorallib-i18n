@@ -1716,5 +1716,6 @@
   "tickets.legal.public.country": "Country",
   "tickets.legal.public.extraCost.valueForeign": "If you pay in a currency other than the sales currency, Stripe's conversion fee (included in the exchange rate). Internet connection charges are borne by the customer.",
   "tickets.legal.public.payment.valueForeign": "Credit card or digital wallet (paid at purchase; you can also pay in your local currency).",
-  "tickets.legal.public.cancel.valueForeign": "As a rule, cancellations and refunds at the customer's convenience are not accepted (unless the seller agrees).\nIf the performance is cancelled, the full ticket price will be refunded."
+  "tickets.legal.public.cancel.valueForeign": "As a rule, cancellations and refunds at the customer's convenience are not accepted (unless the seller agrees).\nIf the performance is cancelled, the full ticket price will be refunded.",
+  "tickets.purchase.consentForeign.link": "About provision to a third party in a foreign country and the organizer's country's privacy system (Privacy Policy, Article 5-2)"
 }

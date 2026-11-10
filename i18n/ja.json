@@ -1716,5 +1716,6 @@
   "tickets.legal.public.country": "所在国",
   "tickets.legal.public.extraCost.valueForeign": "販売の通貨以外で支払う場合は、Stripe の換算手数料（換算レートに含まれます）。インターネットの通信料はお客様のご負担です。",
   "tickets.legal.public.payment.valueForeign": "クレジットカード・電子決済（購入時にお支払い。お住まいの国の通貨でも支払えます）。",
-  "tickets.legal.public.cancel.valueForeign": "お客様のご都合によるキャンセル・払い戻しは、原則としてお受けできません（販売者が認めた場合を除く）。\n公演が中止になった場合は、チケット代金の全額を払い戻します。"
+  "tickets.legal.public.cancel.valueForeign": "お客様のご都合によるキャンセル・払い戻しは、原則としてお受けできません（販売者が認めた場合を除く）。\n公演が中止になった場合は、チケット代金の全額を払い戻します。",
+  "tickets.purchase.consentForeign.link": "外国にある第三者への提供と、主催者の国の個人情報保護の制度について（プライバシーポリシー 第5条の2）"
 }

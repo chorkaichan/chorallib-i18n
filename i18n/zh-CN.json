@@ -1716,5 +1716,6 @@
   "tickets.legal.public.country": "所在国家",
   "tickets.legal.public.extraCost.valueForeign": "以销售货币以外的货币支付时，需承担 Stripe 的换算手续费（包含在汇率中）。上网通信费由顾客自行承担。",
   "tickets.legal.public.payment.valueForeign": "信用卡、电子支付（购买时支付；也可使用您所在国家的货币支付）。",
-  "tickets.legal.public.cancel.valueForeign": "因顾客自身原因的取消和退款原则上不予受理（销售者同意的除外）。\n如演出取消，将全额退还票款。"
+  "tickets.legal.public.cancel.valueForeign": "因顾客自身原因的取消和退款原则上不予受理（销售者同意的除外）。\n如演出取消，将全额退还票款。",
+  "tickets.purchase.consentForeign.link": "关于向境外第三方提供及主办方所在国的个人信息保护制度（隐私政策 第5条之2）"
 }

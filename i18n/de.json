@@ -1716,5 +1716,6 @@
   "tickets.legal.public.country": "Land",
   "tickets.legal.public.extraCost.valueForeign": "Bei Zahlung in einer anderen Währung als der Verkaufswährung fällt die Umrechnungsgebühr von Stripe an (im Wechselkurs enthalten). Internetverbindungskosten trägt der Kunde.",
   "tickets.legal.public.payment.valueForeign": "Kreditkarte oder digitale Geldbörse (Zahlung beim Kauf; Zahlung in der Landeswährung ist ebenfalls möglich).",
-  "tickets.legal.public.cancel.valueForeign": "Stornierungen und Erstattungen aus Gründen des Kunden werden grundsätzlich nicht akzeptiert (außer wenn der Verkäufer zustimmt).\nWird die Veranstaltung abgesagt, wird der volle Ticketpreis erstattet."
+  "tickets.legal.public.cancel.valueForeign": "Stornierungen und Erstattungen aus Gründen des Kunden werden grundsätzlich nicht akzeptiert (außer wenn der Verkäufer zustimmt).\nWird die Veranstaltung abgesagt, wird der volle Ticketpreis erstattet.",
+  "tickets.purchase.consentForeign.link": "Zur Übermittlung an Dritte im Ausland und zum Datenschutzsystem im Land des Veranstalters (Datenschutzerklärung, Artikel 5-2)"
 }
