@@ -1702,5 +1702,22 @@
   "tickets.purchase.missing.quantity": "請選擇票券數量",
   "tickets.purchase.missing.buyer": "請輸入姓名和電子郵件地址",
   "tickets.purchase.missing.agree": "請勾選同意服務條款等",
-  "tickets.purchase.localCurrency": "從海外下單時，可在付款頁面選擇您所在國家的貨幣付款。此時，Stripe 的換算手續費（2～4%）已包含在匯率中。"
+  "tickets.purchase.localCurrency": "從海外下單時，可在付款頁面選擇您所在國家的貨幣付款。此時，Stripe 的換算手續費（2～4%）已包含在匯率中。",
+  "tickets.setup.country": "主辦方所在國家",
+  "tickets.setup.countryHint": "在 Stripe 註冊後，將無法變更國家。銷售貨幣：{currency}·ChoralLib 手續費：{fee}（含付款手續費）",
+  "tickets.setup.countryFixed": "國家：{country}·ChoralLib 手續費：{fee}（含付款手續費）",
+  "tickets.setup.feePerOrder": "每筆訂單 {amount}",
+  "tickets.setup.feePerTicket": "每張 {amount}",
+  "tickets.roster.feeLabel": "手續費（{fee}，含付款手續費）",
+  "tickets.types.priceIn": "價格（{currency}）",
+  "tickets.types.priceHint": "免費票請填 0，付費票請填 {min} 以上。",
+  "tickets.types.error.price": "價格必須為免費（0），或在 {min} 以上、{max} 以下",
+  "tickets.purchase.consentForeign": "我同意向主辦方（{pageName}）提供姓名和電子郵件（選填）。主辦方位於日本境外（{country}），因此屬於向境外第三方提供。",
+  "tickets.purchase.agreeForeign": "我已閱讀並同意服務條款、販售者資訊及隱私權政策",
+  "tickets.legal.titleForeign": "販售者資訊",
+  "tickets.legal.descriptionForeign": "要販售票券，必須公開販售者的資訊，以便購買者確認販售者並與其聯絡。",
+  "tickets.legal.public.country": "所在國家",
+  "tickets.legal.public.extraCost.valueForeign": "以銷售貨幣以外的貨幣付款時，須負擔 Stripe 的換算手續費（包含在匯率中）。上網通訊費由顧客自行負擔。",
+  "tickets.legal.public.payment.valueForeign": "信用卡、電子支付（購買時付款；也可使用您所在國家的貨幣付款）。",
+  "tickets.legal.public.cancel.valueForeign": "因顧客自身因素的取消和退款原則上不予受理（販售者同意的除外）。\n如演出取消，將全額退還票款。"
 }

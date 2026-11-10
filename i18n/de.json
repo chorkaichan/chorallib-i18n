@@ -1702,5 +1702,22 @@
   "tickets.purchase.missing.quantity": "Wähle die Anzahl der Tickets",
   "tickets.purchase.missing.buyer": "Gib deinen Namen und deine E-Mail-Adresse ein",
   "tickets.purchase.missing.agree": "Setze den Haken, um den Nutzungsbedingungen usw. zuzustimmen",
-  "tickets.purchase.localCurrency": "Bei Bestellungen aus dem Ausland können Sie auf der Zahlungsseite in der Währung Ihres Wohnlandes bezahlen. In diesem Fall ist die Umrechnungsgebühr von Stripe (2–4 %) im Wechselkurs enthalten."
+  "tickets.purchase.localCurrency": "Bei Bestellungen aus dem Ausland können Sie auf der Zahlungsseite in der Währung Ihres Wohnlandes bezahlen. In diesem Fall ist die Umrechnungsgebühr von Stripe (2–4 %) im Wechselkurs enthalten.",
+  "tickets.setup.country": "Land des Veranstalters",
+  "tickets.setup.countryHint": "Das Land lässt sich nach der Registrierung bei Stripe nicht mehr ändern. Verkaufswährung: {currency} · ChoralLib-Gebühr: {fee} (inkl. Zahlungsabwicklung)",
+  "tickets.setup.countryFixed": "Land: {country} · ChoralLib-Gebühr: {fee} (inkl. Zahlungsabwicklung)",
+  "tickets.setup.feePerOrder": "{amount} pro Bestellung",
+  "tickets.setup.feePerTicket": "{amount} pro Ticket",
+  "tickets.roster.feeLabel": "Gebühr ({fee}, inkl. Zahlungsabwicklung)",
+  "tickets.types.priceIn": "Preis ({currency})",
+  "tickets.types.priceHint": "Für kostenlose Tickets 0, für kostenpflichtige Tickets mindestens {min} eingeben.",
+  "tickets.types.error.price": "Der Preis muss kostenlos (0) sein oder zwischen {min} und {max} liegen",
+  "tickets.purchase.consentForeign": "Ich stimme zu, meinen Namen und meine E-Mail-Adresse an den Veranstalter ({pageName}) weiterzugeben (optional). Da der Veranstalter außerhalb Japans ({country}) ansässig ist, handelt es sich um eine Weitergabe an einen Dritten im Ausland.",
+  "tickets.purchase.agreeForeign": "Ich habe die Nutzungsbedingungen, die Verkäuferinformationen und die Datenschutzerklärung gelesen und stimme zu",
+  "tickets.legal.titleForeign": "Verkäuferinformationen",
+  "tickets.legal.descriptionForeign": "Um Tickets zu verkaufen, musst du Angaben zum Verkäufer veröffentlichen, damit Käufer den Verkäufer identifizieren und kontaktieren können.",
+  "tickets.legal.public.country": "Land",
+  "tickets.legal.public.extraCost.valueForeign": "Bei Zahlung in einer anderen Währung als der Verkaufswährung fällt die Umrechnungsgebühr von Stripe an (im Wechselkurs enthalten). Internetverbindungskosten trägt der Kunde.",
+  "tickets.legal.public.payment.valueForeign": "Kreditkarte oder digitale Geldbörse (Zahlung beim Kauf; Zahlung in der Landeswährung ist ebenfalls möglich).",
+  "tickets.legal.public.cancel.valueForeign": "Stornierungen und Erstattungen aus Gründen des Kunden werden grundsätzlich nicht akzeptiert (außer wenn der Verkäufer zustimmt).\nWird die Veranstaltung abgesagt, wird der volle Ticketpreis erstattet."
 }

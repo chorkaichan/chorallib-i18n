@@ -1702,5 +1702,22 @@
   "tickets.purchase.missing.quantity": "اختر عدد التذاكر",
   "tickets.purchase.missing.buyer": "أدخل اسمك وعنوان بريدك الإلكتروني",
   "tickets.purchase.missing.agree": "ضع علامة للموافقة على شروط الاستخدام وغيرها",
-  "tickets.purchase.localCurrency": "إذا كنت تطلب من خارج اليابان، يمكنك اختيار الدفع بعملة بلدك في صفحة الدفع. وفي هذه الحالة تُحتسب رسوم التحويل الخاصة بـ Stripe (2–4%) ضمن سعر الصرف."
+  "tickets.purchase.localCurrency": "إذا كنت تطلب من خارج اليابان، يمكنك اختيار الدفع بعملة بلدك في صفحة الدفع. وفي هذه الحالة تُحتسب رسوم التحويل الخاصة بـ Stripe (2–4%) ضمن سعر الصرف.",
+  "tickets.setup.country": "بلد المنظّم",
+  "tickets.setup.countryHint": "لا يمكن تغيير البلد بعد التسجيل في Stripe. عملة البيع: {currency} · رسوم ChoralLib: {fee} (شاملة معالجة الدفع)",
+  "tickets.setup.countryFixed": "البلد: {country} · رسوم ChoralLib: {fee} (شاملة معالجة الدفع)",
+  "tickets.setup.feePerOrder": "{amount} لكل طلب",
+  "tickets.setup.feePerTicket": "{amount} لكل تذكرة",
+  "tickets.roster.feeLabel": "الرسوم ({fee}، شاملة معالجة الدفع)",
+  "tickets.types.priceIn": "السعر ({currency})",
+  "tickets.types.priceHint": "أدخل 0 للتذاكر المجانية، أو {min} على الأقل للتذاكر المدفوعة.",
+  "tickets.types.error.price": "يجب أن يكون السعر مجانيًا (0) أو بين {min} و{max}",
+  "tickets.purchase.consentForeign": "أوافق على مشاركة اسمي وبريدي الإلكتروني مع المنظّم ({pageName}) (اختياري). المنظّم موجود خارج اليابان ({country})، لذا فهذا إفصاح إلى طرف ثالث في دولة أجنبية.",
+  "tickets.purchase.agreeForeign": "قرأت شروط الاستخدام ومعلومات البائع وسياسة الخصوصية وأوافق عليها",
+  "tickets.legal.titleForeign": "معلومات البائع",
+  "tickets.legal.descriptionForeign": "لبيع التذاكر، يجب نشر معلومات البائع ليتمكّن المشترون من التعرّف عليه والتواصل معه.",
+  "tickets.legal.public.country": "البلد",
+  "tickets.legal.public.extraCost.valueForeign": "عند الدفع بعملة غير عملة البيع، تُطبَّق رسوم التحويل الخاصة بـ Stripe (مشمولة في سعر الصرف). تكاليف الاتصال بالإنترنت على عاتق العميل.",
+  "tickets.legal.public.payment.valueForeign": "بطاقة الائتمان أو المحفظة الإلكترونية (الدفع عند الشراء؛ ويمكن الدفع أيضًا بالعملة المحلية).",
+  "tickets.legal.public.cancel.valueForeign": "من حيث المبدأ، لا يُقبل الإلغاء ولا الاسترداد لأسباب تخص العميل (إلا إذا وافق البائع).\nإذا أُلغي العرض، يُسترد ثمن التذكرة كاملًا."
 }

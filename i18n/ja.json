@@ -1702,5 +1702,22 @@
   "tickets.purchase.missing.quantity": "券種の枚数を選んでください",
   "tickets.purchase.missing.buyer": "氏名とメールアドレスを入力してください",
   "tickets.purchase.missing.agree": "利用規約などへの同意にチェックを入れてください",
-  "tickets.purchase.localCurrency": "海外からのお申し込みは、お支払い画面でお住まいの国の通貨を選んで支払えます。その場合、Stripe の換算手数料（2〜4%）が換算レートに含まれます。"
+  "tickets.purchase.localCurrency": "海外からのお申し込みは、お支払い画面でお住まいの国の通貨を選んで支払えます。その場合、Stripe の換算手数料（2〜4%）が換算レートに含まれます。",
+  "tickets.setup.country": "主催者の国",
+  "tickets.setup.countryHint": "国は Stripe への登録のあとは変えられません。販売の通貨：{currency}・ChoralLib の手数料：{fee}（決済手数料込み）",
+  "tickets.setup.countryFixed": "国：{country}・ChoralLib の手数料：{fee}（決済手数料込み）",
+  "tickets.setup.feePerOrder": "1 回の注文ごとに {amount}",
+  "tickets.setup.feePerTicket": "1 枚ごとに {amount}",
+  "tickets.roster.feeLabel": "手数料（{fee}・決済手数料込み）",
+  "tickets.types.priceIn": "価格（{currency}）",
+  "tickets.types.priceHint": "無料は 0、有料は {min} 以上にしてください。",
+  "tickets.types.error.price": "価格は無料（0）か、{min} 以上 {max} 以下にしてください",
+  "tickets.purchase.consentForeign": "氏名とメールアドレスを主催者（{pageName}）に提供することに同意します（任意）。主催者は日本国外（{country}）にあるため、外国にある第三者への提供になります。",
+  "tickets.purchase.agreeForeign": "利用規約・販売者情報・プライバシーポリシーを確認し、同意します",
+  "tickets.legal.titleForeign": "販売者情報",
+  "tickets.legal.descriptionForeign": "チケットを売るには、販売者の情報を公開する必要があります。購入者が販売者を確かめ、連絡できるようにするためです。",
+  "tickets.legal.public.country": "所在国",
+  "tickets.legal.public.extraCost.valueForeign": "販売の通貨以外で支払う場合は、Stripe の換算手数料（換算レートに含まれます）。インターネットの通信料はお客様のご負担です。",
+  "tickets.legal.public.payment.valueForeign": "クレジットカード・電子決済（購入時にお支払い。お住まいの国の通貨でも支払えます）。",
+  "tickets.legal.public.cancel.valueForeign": "お客様のご都合によるキャンセル・払い戻しは、原則としてお受けできません（販売者が認めた場合を除く）。\n公演が中止になった場合は、チケット代金の全額を払い戻します。"
 }

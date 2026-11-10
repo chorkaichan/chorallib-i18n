@@ -1702,5 +1702,22 @@
   "tickets.purchase.missing.quantity": "Pilih jumlah tiket",
   "tickets.purchase.missing.buyer": "Masukkan nama dan alamat email",
   "tickets.purchase.missing.agree": "Centang kotak untuk menyetujui syarat penggunaan dan ketentuan lainnya",
-  "tickets.purchase.localCurrency": "Jika Anda memesan dari luar Jepang, Anda dapat memilih membayar dengan mata uang negara Anda di halaman pembayaran. Dalam hal ini, biaya konversi Stripe (2–4%) sudah termasuk dalam kurs."
+  "tickets.purchase.localCurrency": "Jika Anda memesan dari luar Jepang, Anda dapat memilih membayar dengan mata uang negara Anda di halaman pembayaran. Dalam hal ini, biaya konversi Stripe (2–4%) sudah termasuk dalam kurs.",
+  "tickets.setup.country": "Negara penyelenggara",
+  "tickets.setup.countryHint": "Negara tidak dapat diubah setelah mendaftar di Stripe. Mata uang penjualan: {currency} · Biaya ChoralLib: {fee} (termasuk pemrosesan pembayaran)",
+  "tickets.setup.countryFixed": "Negara: {country} · Biaya ChoralLib: {fee} (termasuk pemrosesan pembayaran)",
+  "tickets.setup.feePerOrder": "{amount} per pesanan",
+  "tickets.setup.feePerTicket": "{amount} per tiket",
+  "tickets.roster.feeLabel": "Biaya ({fee}, termasuk pemrosesan pembayaran)",
+  "tickets.types.priceIn": "Harga ({currency})",
+  "tickets.types.priceHint": "Isi 0 untuk tiket gratis, atau minimal {min} untuk tiket berbayar.",
+  "tickets.types.error.price": "Harga harus gratis (0) atau antara {min} dan {max}",
+  "tickets.purchase.consentForeign": "Saya setuju membagikan nama dan alamat email saya kepada penyelenggara ({pageName}) (opsional). Penyelenggara berada di luar Jepang ({country}), sehingga ini merupakan pemberian kepada pihak ketiga di negara asing.",
+  "tickets.purchase.agreeForeign": "Saya telah membaca dan menyetujui Ketentuan Layanan, informasi penjual, dan Kebijakan Privasi",
+  "tickets.legal.titleForeign": "Informasi penjual",
+  "tickets.legal.descriptionForeign": "Untuk menjual tiket, Anda harus mempublikasikan informasi penjual agar pembeli dapat mengenali dan menghubungi penjual.",
+  "tickets.legal.public.country": "Negara",
+  "tickets.legal.public.extraCost.valueForeign": "Jika membayar dengan mata uang selain mata uang penjualan, berlaku biaya konversi Stripe (sudah termasuk dalam kurs). Biaya koneksi internet ditanggung pelanggan.",
+  "tickets.legal.public.payment.valueForeign": "Kartu kredit atau dompet digital (dibayar saat pembelian; juga dapat membayar dengan mata uang setempat).",
+  "tickets.legal.public.cancel.valueForeign": "Pada dasarnya, pembatalan dan pengembalian dana atas permintaan pelanggan tidak diterima (kecuali penjual menyetujui).\nJika konser dibatalkan, harga tiket dikembalikan penuh."
 }

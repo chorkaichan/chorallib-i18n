@@ -1702,5 +1702,22 @@
   "tickets.purchase.missing.quantity": "Pilih bilangan tiket",
   "tickets.purchase.missing.buyer": "Masukkan nama dan alamat e-mel",
   "tickets.purchase.missing.agree": "Tandakan kotak untuk bersetuju dengan syarat penggunaan dan lain-lain",
-  "tickets.purchase.localCurrency": "Jika anda membuat pesanan dari luar Jepun, anda boleh memilih untuk membayar dalam mata wang negara anda pada halaman pembayaran. Dalam kes ini, yuran penukaran Stripe (2–4%) sudah termasuk dalam kadar pertukaran."
+  "tickets.purchase.localCurrency": "Jika anda membuat pesanan dari luar Jepun, anda boleh memilih untuk membayar dalam mata wang negara anda pada halaman pembayaran. Dalam kes ini, yuran penukaran Stripe (2–4%) sudah termasuk dalam kadar pertukaran.",
+  "tickets.setup.country": "Negara penganjur",
+  "tickets.setup.countryHint": "Negara tidak boleh diubah selepas mendaftar dengan Stripe. Mata wang jualan: {currency} · Yuran ChoralLib: {fee} (termasuk pemprosesan pembayaran)",
+  "tickets.setup.countryFixed": "Negara: {country} · Yuran ChoralLib: {fee} (termasuk pemprosesan pembayaran)",
+  "tickets.setup.feePerOrder": "{amount} bagi setiap pesanan",
+  "tickets.setup.feePerTicket": "{amount} bagi setiap tiket",
+  "tickets.roster.feeLabel": "Yuran ({fee}, termasuk pemprosesan pembayaran)",
+  "tickets.types.priceIn": "Harga ({currency})",
+  "tickets.types.priceHint": "Masukkan 0 untuk tiket percuma, atau sekurang-kurangnya {min} untuk tiket berbayar.",
+  "tickets.types.error.price": "Harga mesti percuma (0) atau antara {min} dengan {max}",
+  "tickets.purchase.consentForeign": "Saya bersetuju untuk berkongsi nama dan alamat e-mel saya dengan penganjur ({pageName}) (pilihan). Penganjur berada di luar Jepun ({country}), jadi ini merupakan pemberian kepada pihak ketiga di negara asing.",
+  "tickets.purchase.agreeForeign": "Saya telah membaca dan bersetuju dengan Terma Perkhidmatan, maklumat penjual dan Dasar Privasi",
+  "tickets.legal.titleForeign": "Maklumat penjual",
+  "tickets.legal.descriptionForeign": "Untuk menjual tiket, anda mesti menerbitkan maklumat penjual supaya pembeli dapat mengenal pasti dan menghubungi penjual.",
+  "tickets.legal.public.country": "Negara",
+  "tickets.legal.public.extraCost.valueForeign": "Jika membayar dalam mata wang selain mata wang jualan, yuran penukaran Stripe dikenakan (sudah termasuk dalam kadar pertukaran). Caj sambungan internet ditanggung oleh pelanggan.",
+  "tickets.legal.public.payment.valueForeign": "Kad kredit atau dompet digital (dibayar semasa pembelian; pembayaran dalam mata wang tempatan juga boleh dibuat).",
+  "tickets.legal.public.cancel.valueForeign": "Pada dasarnya, pembatalan dan bayaran balik atas sebab pelanggan tidak diterima (kecuali penjual bersetuju).\nJika konsert dibatalkan, harga tiket dipulangkan sepenuhnya."
 }

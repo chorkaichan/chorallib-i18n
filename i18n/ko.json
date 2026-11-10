@@ -1702,5 +1702,22 @@
   "tickets.purchase.missing.quantity": "티켓 수량을 선택하세요",
   "tickets.purchase.missing.buyer": "이름과 이메일 주소를 입력하세요",
   "tickets.purchase.missing.agree": "이용약관 등에 동의하는 항목에 체크하세요",
-  "tickets.purchase.localCurrency": "해외에서 신청하시는 경우, 결제 화면에서 거주 국가의 통화를 선택하여 결제할 수 있습니다. 이 경우 Stripe의 환전 수수료(2~4%)가 환율에 포함됩니다."
+  "tickets.purchase.localCurrency": "해외에서 신청하시는 경우, 결제 화면에서 거주 국가의 통화를 선택하여 결제할 수 있습니다. 이 경우 Stripe의 환전 수수료(2~4%)가 환율에 포함됩니다.",
+  "tickets.setup.country": "주최자의 국가",
+  "tickets.setup.countryHint": "국가는 Stripe에 등록한 후에는 변경할 수 없습니다. 판매 통화: {currency}·ChoralLib 수수료: {fee}(결제 수수료 포함)",
+  "tickets.setup.countryFixed": "국가: {country}·ChoralLib 수수료: {fee}(결제 수수료 포함)",
+  "tickets.setup.feePerOrder": "1회 주문당 {amount}",
+  "tickets.setup.feePerTicket": "티켓 1장당 {amount}",
+  "tickets.roster.feeLabel": "수수료({fee}, 결제 수수료 포함)",
+  "tickets.types.priceIn": "가격({currency})",
+  "tickets.types.priceHint": "무료 티켓은 0, 유료 티켓은 {min} 이상으로 입력해 주세요.",
+  "tickets.types.error.price": "가격은 무료(0)이거나 {min} 이상 {max} 이하여야 합니다",
+  "tickets.purchase.consentForeign": "이름과 이메일 주소를 주최자({pageName})에게 제공하는 데 동의합니다(선택). 주최자는 일본 국외({country})에 있으므로 외국에 있는 제3자에게 제공하는 것이 됩니다.",
+  "tickets.purchase.agreeForeign": "이용약관·판매자 정보·개인정보 처리방침을 확인했으며 동의합니다",
+  "tickets.legal.titleForeign": "판매자 정보",
+  "tickets.legal.descriptionForeign": "티켓을 판매하려면 구매자가 판매자를 확인하고 연락할 수 있도록 판매자 정보를 공개해야 합니다.",
+  "tickets.legal.public.country": "소재 국가",
+  "tickets.legal.public.extraCost.valueForeign": "판매 통화 이외의 통화로 결제하는 경우에는 Stripe의 환전 수수료(환율에 포함)가 듭니다. 인터넷 통신 요금은 고객 부담입니다.",
+  "tickets.legal.public.payment.valueForeign": "신용카드·전자 결제(구매 시 결제, 거주 국가의 통화로도 결제 가능)",
+  "tickets.legal.public.cancel.valueForeign": "고객 사정에 따른 취소·환불은 원칙적으로 받지 않습니다(판매자가 인정한 경우 제외).\n공연이 취소된 경우 티켓 대금 전액을 환불합니다."
 }

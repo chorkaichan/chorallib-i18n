@@ -1702,5 +1702,22 @@
   "tickets.purchase.missing.quantity": "Choisissez le nombre de billets",
   "tickets.purchase.missing.buyer": "Saisissez votre nom et votre adresse e-mail",
   "tickets.purchase.missing.agree": "Cochez la case pour accepter les conditions d'utilisation, etc.",
-  "tickets.purchase.localCurrency": "Si vous commandez depuis l'étranger, vous pouvez choisir de payer dans la devise de votre pays sur la page de paiement. Dans ce cas, les frais de conversion de Stripe (2 à 4 %) sont inclus dans le taux de change."
+  "tickets.purchase.localCurrency": "Si vous commandez depuis l'étranger, vous pouvez choisir de payer dans la devise de votre pays sur la page de paiement. Dans ce cas, les frais de conversion de Stripe (2 à 4 %) sont inclus dans le taux de change.",
+  "tickets.setup.country": "Pays de l'organisateur",
+  "tickets.setup.countryHint": "Le pays ne peut plus être modifié après l'inscription auprès de Stripe. Devise de vente : {currency} · Frais ChoralLib : {fee} (traitement du paiement inclus)",
+  "tickets.setup.countryFixed": "Pays : {country} · Frais ChoralLib : {fee} (traitement du paiement inclus)",
+  "tickets.setup.feePerOrder": "{amount} par commande",
+  "tickets.setup.feePerTicket": "{amount} par billet",
+  "tickets.roster.feeLabel": "Frais ({fee}, traitement du paiement inclus)",
+  "tickets.types.priceIn": "Prix ({currency})",
+  "tickets.types.priceHint": "Saisissez 0 pour un billet gratuit, ou au moins {min} pour un billet payant.",
+  "tickets.types.error.price": "Le prix doit être gratuit (0) ou compris entre {min} et {max}",
+  "tickets.purchase.consentForeign": "J'accepte de communiquer mon nom et mon adresse e-mail à l'organisateur ({pageName}) (facultatif). L'organisateur se trouvant en dehors du Japon ({country}), il s'agit d'une communication à un tiers situé à l'étranger.",
+  "tickets.purchase.agreeForeign": "J'ai lu et j'accepte les conditions d'utilisation, les informations sur le vendeur et la politique de confidentialité",
+  "tickets.legal.titleForeign": "Informations sur le vendeur",
+  "tickets.legal.descriptionForeign": "Pour vendre des billets, vous devez publier les informations du vendeur afin que les acheteurs puissent l'identifier et le contacter.",
+  "tickets.legal.public.country": "Pays",
+  "tickets.legal.public.extraCost.valueForeign": "Si vous payez dans une devise autre que la devise de vente, les frais de conversion de Stripe s'appliquent (inclus dans le taux de change). Les frais de connexion internet sont à la charge du client.",
+  "tickets.legal.public.payment.valueForeign": "Carte bancaire ou portefeuille électronique (paiement à l'achat ; paiement possible dans la devise locale).",
+  "tickets.legal.public.cancel.valueForeign": "En principe, les annulations et remboursements à la convenance du client ne sont pas acceptés (sauf accord du vendeur).\nSi le concert est annulé, le prix du billet est intégralement remboursé."
 }

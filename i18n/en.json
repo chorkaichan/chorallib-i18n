@@ -1702,5 +1702,22 @@
   "tickets.purchase.missing.quantity": "Choose how many tickets you want",
   "tickets.purchase.missing.buyer": "Enter your name and email address",
   "tickets.purchase.missing.agree": "Check the box to agree to the terms",
-  "tickets.purchase.localCurrency": "If you're ordering from outside Japan, you can choose to pay in your local currency on the payment page. In that case, Stripe's conversion fee (2–4%) is included in the exchange rate."
+  "tickets.purchase.localCurrency": "If you're ordering from outside Japan, you can choose to pay in your local currency on the payment page. In that case, Stripe's conversion fee (2–4%) is included in the exchange rate.",
+  "tickets.setup.country": "Organizer country",
+  "tickets.setup.countryHint": "You can't change the country after registering with Stripe. Sales currency: {currency} · ChoralLib fee: {fee} (including payment processing)",
+  "tickets.setup.countryFixed": "Country: {country} · ChoralLib fee: {fee} (including payment processing)",
+  "tickets.setup.feePerOrder": "{amount} per order",
+  "tickets.setup.feePerTicket": "{amount} per ticket",
+  "tickets.roster.feeLabel": "Fee ({fee}, including payment processing)",
+  "tickets.types.priceIn": "Price ({currency})",
+  "tickets.types.priceHint": "Use 0 for free tickets, or at least {min} for paid tickets.",
+  "tickets.types.error.price": "The price must be free (0) or between {min} and {max}",
+  "tickets.purchase.consentForeign": "I agree to provide my name and email address to the organizer ({pageName}) (optional). The organizer is located outside Japan ({country}), so this is a provision to a third party in a foreign country.",
+  "tickets.purchase.agreeForeign": "I have read and agree to the Terms of Service, the seller information, and the Privacy Policy",
+  "tickets.legal.titleForeign": "Seller information",
+  "tickets.legal.descriptionForeign": "To sell tickets, you need to publish information about the seller so that buyers can identify and contact the seller.",
+  "tickets.legal.public.country": "Country",
+  "tickets.legal.public.extraCost.valueForeign": "If you pay in a currency other than the sales currency, Stripe's conversion fee (included in the exchange rate). Internet connection charges are borne by the customer.",
+  "tickets.legal.public.payment.valueForeign": "Credit card or digital wallet (paid at purchase; you can also pay in your local currency).",
+  "tickets.legal.public.cancel.valueForeign": "As a rule, cancellations and refunds at the customer's convenience are not accepted (unless the seller agrees).\nIf the performance is cancelled, the full ticket price will be refunded."
 }

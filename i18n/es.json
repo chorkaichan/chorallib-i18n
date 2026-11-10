@@ -1702,5 +1702,22 @@
   "tickets.purchase.missing.quantity": "Elige cuántas entradas quieres",
   "tickets.purchase.missing.buyer": "Introduce tu nombre y tu correo electrónico",
   "tickets.purchase.missing.agree": "Marca la casilla para aceptar los términos de uso y demás condiciones",
-  "tickets.purchase.localCurrency": "Si realizas el pedido desde fuera de Japón, puedes elegir pagar en la moneda de tu país en la pantalla de pago. En ese caso, la comisión de conversión de Stripe (2–4 %) está incluida en el tipo de cambio."
+  "tickets.purchase.localCurrency": "Si realizas el pedido desde fuera de Japón, puedes elegir pagar en la moneda de tu país en la pantalla de pago. En ese caso, la comisión de conversión de Stripe (2–4 %) está incluida en el tipo de cambio.",
+  "tickets.setup.country": "País del organizador",
+  "tickets.setup.countryHint": "El país no se puede cambiar después de registrarse en Stripe. Moneda de venta: {currency} · Comisión de ChoralLib: {fee} (incluye el procesamiento del pago)",
+  "tickets.setup.countryFixed": "País: {country} · Comisión de ChoralLib: {fee} (incluye el procesamiento del pago)",
+  "tickets.setup.feePerOrder": "{amount} por pedido",
+  "tickets.setup.feePerTicket": "{amount} por entrada",
+  "tickets.roster.feeLabel": "Comisión ({fee}, incluye el procesamiento del pago)",
+  "tickets.types.priceIn": "Precio ({currency})",
+  "tickets.types.priceHint": "Usa 0 para entradas gratuitas, o al menos {min} para entradas de pago.",
+  "tickets.types.error.price": "El precio debe ser gratuito (0) o estar entre {min} y {max}",
+  "tickets.purchase.consentForeign": "Acepto compartir mi nombre y correo electrónico con el organizador ({pageName}) (opcional). El organizador se encuentra fuera de Japón ({country}), por lo que se trata de una comunicación a un tercero en otro país.",
+  "tickets.purchase.agreeForeign": "He leído y acepto las Condiciones de uso, los datos del vendedor y la Política de privacidad",
+  "tickets.legal.titleForeign": "Datos del vendedor",
+  "tickets.legal.descriptionForeign": "Para vender entradas, debes publicar los datos del vendedor para que los compradores puedan identificarlo y contactarlo.",
+  "tickets.legal.public.country": "País",
+  "tickets.legal.public.extraCost.valueForeign": "Si pagas en una moneda distinta de la moneda de venta, se aplica la comisión de conversión de Stripe (incluida en el tipo de cambio). Los gastos de conexión a internet corren por cuenta del cliente.",
+  "tickets.legal.public.payment.valueForeign": "Tarjeta de crédito o monedero digital (pago en el momento de la compra; también se puede pagar en la moneda local).",
+  "tickets.legal.public.cancel.valueForeign": "Por norma general, no se aceptan cancelaciones ni reembolsos por motivos del cliente (salvo que el vendedor lo acepte).\nSi se cancela el concierto, se reembolsa el importe íntegro de la entrada."
 }
