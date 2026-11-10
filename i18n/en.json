@@ -1463,7 +1463,6 @@
   "tickets.purchase.closed": "Tickets for this event are not on sale right now.",
   "tickets.purchase.ticketTypes": "Ticket types and quantity",
   "tickets.purchase.quantity": "Quantity of {name}",
-  "tickets.purchase.notOnSale": "Not on sale at this time",
   "tickets.purchase.salesStartsAt": "On sale from {date}",
   "tickets.purchase.salesEnded": "Sales have ended",
   "tickets.purchase.soldOut": "Sold out",

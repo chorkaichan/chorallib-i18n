@@ -1463,7 +1463,6 @@
   "tickets.purchase.closed": "Сейчас билеты на это мероприятие не продаются.",
   "tickets.purchase.ticketTypes": "Типы и количество билетов",
   "tickets.purchase.quantity": "Количество: {name}",
-  "tickets.purchase.notOnSale": "Вне периода продаж",
   "tickets.purchase.salesStartsAt": "В продаже с {date}",
   "tickets.purchase.salesEnded": "Продажа завершена",
   "tickets.purchase.soldOut": "Распродано",

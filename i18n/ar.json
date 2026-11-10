@@ -1463,7 +1463,6 @@
   "tickets.purchase.closed": "لا تُباع تذاكر هذه الفعالية حاليًا.",
   "tickets.purchase.ticketTypes": "أنواع التذاكر والعدد",
   "tickets.purchase.quantity": "عدد {name}",
-  "tickets.purchase.notOnSale": "خارج فترة البيع",
   "tickets.purchase.salesStartsAt": "يبدأ البيع في {date}",
   "tickets.purchase.salesEnded": "انتهى البيع",
   "tickets.purchase.soldOut": "نفدت التذاكر",

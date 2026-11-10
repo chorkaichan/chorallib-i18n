@@ -1463,7 +1463,6 @@
   "tickets.purchase.closed": "Für diese Veranstaltung werden derzeit keine Tickets verkauft.",
   "tickets.purchase.ticketTypes": "Ticketarten und Anzahl",
   "tickets.purchase.quantity": "Anzahl {name}",
-  "tickets.purchase.notOnSale": "Außerhalb des Verkaufszeitraums",
   "tickets.purchase.salesStartsAt": "Verkauf ab {date}",
   "tickets.purchase.salesEnded": "Verkauf beendet",
   "tickets.purchase.soldOut": "Ausverkauft",

@@ -1463,7 +1463,6 @@
   "tickets.purchase.closed": "目前此活動的門票未在販售。",
   "tickets.purchase.ticketTypes": "票種與數量",
   "tickets.purchase.quantity": "{name} 的數量",
-  "tickets.purchase.notOnSale": "不在販售期間內",
   "tickets.purchase.salesStartsAt": "{date}起開賣",
   "tickets.purchase.salesEnded": "已結束販售",
   "tickets.purchase.soldOut": "已售完",

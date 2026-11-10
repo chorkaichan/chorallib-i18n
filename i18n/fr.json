@@ -1463,7 +1463,6 @@
   "tickets.purchase.closed": "Les billets de cet événement ne sont pas en vente actuellement.",
   "tickets.purchase.ticketTypes": "Types de billets et quantité",
   "tickets.purchase.quantity": "Quantité de {name}",
-  "tickets.purchase.notOnSale": "Hors période de vente",
   "tickets.purchase.salesStartsAt": "En vente à partir du {date}",
   "tickets.purchase.salesEnded": "Vente terminée",
   "tickets.purchase.soldOut": "Complet",

@@ -1463,7 +1463,6 @@
   "tickets.purchase.closed": "Зараз квитки на цю подію не продаються.",
   "tickets.purchase.ticketTypes": "Типи та кількість квитків",
   "tickets.purchase.quantity": "Кількість: {name}",
-  "tickets.purchase.notOnSale": "Поза періодом продажу",
   "tickets.purchase.salesStartsAt": "У продажу з {date}",
   "tickets.purchase.salesEnded": "Продаж завершено",
   "tickets.purchase.soldOut": "Розпродано",

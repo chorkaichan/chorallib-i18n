@@ -1463,7 +1463,6 @@
   "tickets.purchase.closed": "Tiket acara ini tidak dijual buat masa ini.",
   "tickets.purchase.ticketTypes": "Jenis dan kuantiti tiket",
   "tickets.purchase.quantity": "Kuantiti {name}",
-  "tickets.purchase.notOnSale": "Di luar tempoh jualan",
   "tickets.purchase.salesStartsAt": "Dijual mulai {date}",
   "tickets.purchase.salesEnded": "Jualan telah tamat",
   "tickets.purchase.soldOut": "Habis dijual",

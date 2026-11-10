@@ -1463,7 +1463,6 @@
   "tickets.purchase.closed": "現在このイベントのチケットは販売していません。",
   "tickets.purchase.ticketTypes": "券種と枚数",
   "tickets.purchase.quantity": "{name} の枚数",
-  "tickets.purchase.notOnSale": "販売期間外です",
   "tickets.purchase.salesStartsAt": "{date}から販売",
   "tickets.purchase.salesEnded": "販売を終了しました",
   "tickets.purchase.soldOut": "売り切れました",
