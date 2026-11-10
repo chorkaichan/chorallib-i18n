@@ -1471,6 +1471,7 @@
   "tickets.purchase.buyerName": "이름",
   "tickets.purchase.buyerEmail": "이메일 주소",
   "tickets.purchase.buyerEmail.hint": "전자 티켓을 이 이메일 주소로 보내 드립니다.",
+  "tickets.purchase.buyerEmail.loggedIn": "로그인한 계정의 이메일 주소로 구매합니다. 전자 티켓을 이 이메일 주소로 보내 드립니다.",
   "tickets.purchase.consent": "이름과 이메일 주소를 주최자({pageName})에게 제공하는 데 동의합니다(선택)",
   "tickets.purchase.consent.risk": "동의하지 않으면 주최자가 회원님의 이름을 확인할 수 없어 입장 시 본인 확인이나 주최자의 개별 연락을 받지 못할 수 있습니다. 공연 변경·취소 안내는 ChoralLib에서 보내 드립니다.",
   "tickets.purchase.agree": "이용약관·특정상거래법에 따른 표기·개인정보 처리방침을 확인했으며 동의합니다",
@@ -1721,11 +1722,14 @@
   "tickets.manage.beta": "베타",
   "tickets.manage.betaNote": "티켓 판매는 베타 버전입니다. 기능·화면·수수료가 바뀔 수 있습니다.",
   "tickets.types.error.notInBeta": "티켓 판매 베타 대상이 아니므로 이 이벤트에서는 판매를 시작할 수 없습니다",
+  "tickets.types.error.needsCountry": "티켓 종류를 추가하기 전에 티켓 판매 페이지에서 국가를 선택하고 판매 대금 수령(Stripe 등록)을 시작해 주세요. 티켓 통화는 국가에 따라 정해집니다",
   "tickets.purchase.follow": "{pageName} 팔로우하기 (선택)",
   "tickets.purchase.follow.loggedIn": "새 이벤트와 공지를 이메일로 받아 보실 수 있습니다. 로그인 중인 계정으로 팔로우합니다.",
   "tickets.purchase.follow.guest": "새 이벤트와 공지를 이메일로 받아 보실 수 있습니다. 팔로우하려면 ChoralLib 계정이 필요합니다. 구매 후 구매 시 입력한 이메일 주소로 로그인하시면 팔로우해 드립니다.",
   "tickets.order.follow.prompt": "{pageName}을(를) 팔로우하면 새 이벤트와 공지를 이메일로 받아 보실 수 있습니다.",
   "tickets.order.follow.following": "{pageName}을(를) 팔로우하고 있습니다.",
   "tickets.order.follow.button": "팔로우",
-  "tickets.order.follow.afterLogin": "구매 시 {pageName} 팔로우를 신청하셨습니다. 로그인하시면 그 계정으로 팔로우합니다."
+  "tickets.order.follow.afterLogin": "구매 시 {pageName} 팔로우를 신청하셨습니다. 로그인하시면 그 계정으로 팔로우합니다.",
+  "tickets.setup.error.country": "국가를 선택해 주세요",
+  "tickets.setup.error.countryChanged": "앞서 선택한 국가로 Stripe 계정을 만들고 있습니다. 같은 국가를 선택하고 다시 시도해 주세요"
 }

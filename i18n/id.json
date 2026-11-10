@@ -1471,6 +1471,7 @@
   "tickets.purchase.buyerName": "Nama lengkap",
   "tickets.purchase.buyerEmail": "Alamat email",
   "tickets.purchase.buyerEmail.hint": "Tiket elektronik Anda akan dikirim ke alamat email ini.",
+  "tickets.purchase.buyerEmail.loggedIn": "Anda membeli dengan alamat email akun yang sedang masuk. Kami akan mengirim tiket elektronik ke alamat ini.",
   "tickets.purchase.consent": "Saya setuju membagikan nama dan alamat email saya kepada penyelenggara ({pageName}) (opsional)",
   "tickets.purchase.consent.risk": "Jika tidak setuju, penyelenggara tidak dapat melihat nama Anda sehingga pemeriksaan identitas saat masuk atau pesan pribadi dari penyelenggara mungkin tidak dapat dilakukan. Pemberitahuan perubahan atau pembatalan tetap datang dari ChoralLib.",
   "tickets.purchase.agree": "Saya telah membaca dan menyetujui Ketentuan Layanan, pemberitahuan berdasarkan Undang-Undang Transaksi Komersial Tertentu, dan Kebijakan Privasi",
@@ -1721,11 +1722,14 @@
   "tickets.manage.beta": "Beta",
   "tickets.manage.betaNote": "Penjualan tiket masih dalam versi beta. Fitur, tampilan, dan biaya dapat berubah.",
   "tickets.types.error.notInBeta": "Halaman ini tidak termasuk dalam beta penjualan tiket, jadi Anda tidak dapat mulai menjual untuk acara ini",
+  "tickets.types.error.needsCountry": "Sebelum menambahkan jenis tiket, pilih negara Anda dan mulai menyiapkan penerimaan dana (Stripe) di halaman penjualan tiket. Mata uang tiket ditentukan oleh negara",
   "tickets.purchase.follow": "Ikuti {pageName} (opsional)",
   "tickets.purchase.follow.loggedIn": "Anda akan menerima email tentang acara baru dan pengumuman. Kami akan mengikuti dengan akun yang sedang Anda gunakan untuk masuk.",
   "tickets.purchase.follow.guest": "Anda akan menerima email tentang acara baru dan pengumuman. Untuk mengikuti, diperlukan akun ChoralLib. Setelah pembelian, masuk dengan alamat email yang Anda gunakan saat membeli, dan kami akan mengikuti untuk Anda.",
   "tickets.order.follow.prompt": "Ikuti {pageName} untuk menerima email tentang acara baru dan pengumuman.",
   "tickets.order.follow.following": "Anda mengikuti {pageName}.",
   "tickets.order.follow.button": "Ikuti",
-  "tickets.order.follow.afterLogin": "Saat membeli, Anda memilih untuk mengikuti {pageName}. Setelah masuk, kami akan mengikuti dengan akun tersebut."
+  "tickets.order.follow.afterLogin": "Saat membeli, Anda memilih untuk mengikuti {pageName}. Setelah masuk, kami akan mengikuti dengan akun tersebut.",
+  "tickets.setup.error.country": "Silakan pilih negara",
+  "tickets.setup.error.countryChanged": "Akun Stripe sedang dibuat untuk negara yang Anda pilih sebelumnya. Pilih negara yang sama dan coba lagi"
 }

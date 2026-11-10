@@ -1471,6 +1471,7 @@
   "tickets.purchase.buyerName": "Full name",
   "tickets.purchase.buyerEmail": "Email address",
   "tickets.purchase.buyerEmail.hint": "Your e-tickets will be sent to this email address.",
+  "tickets.purchase.buyerEmail.loggedIn": "You are buying with the email address of the account you are logged in with. We will send your e-tickets to this address.",
   "tickets.purchase.consent": "I agree to share my name and email address with the organizer ({pageName}) (optional)",
   "tickets.purchase.consent.risk": "If you do not agree, the organizer cannot confirm your name, so identity checks at the entrance or individual messages from the organizer may not be possible. Notices about changes or cancellation will still come from ChoralLib.",
   "tickets.purchase.agree": "I have read and agree to the Terms of Service, the notice under the Act on Specified Commercial Transactions and the Privacy Policy",
@@ -1721,11 +1722,14 @@
   "tickets.manage.beta": "Beta",
   "tickets.manage.betaNote": "Ticket sales is in beta. Features, screens and fees may change.",
   "tickets.types.error.notInBeta": "This page isn't part of the ticket sales beta, so you can't start selling for this event",
+  "tickets.types.error.needsCountry": "Before adding ticket types, choose your country and start setting up payouts (Stripe) on the ticket sales page. The ticket currency depends on the country",
   "tickets.purchase.follow": "Follow {pageName} (optional)",
   "tickets.purchase.follow.loggedIn": "You'll get emails about new events and announcements. We'll follow with the account you're logged in with.",
   "tickets.purchase.follow.guest": "You'll get emails about new events and announcements. Following requires a ChoralLib account: after purchase, log in with the email address you used, and we'll follow for you.",
   "tickets.order.follow.prompt": "Follow {pageName} to get emails about new events and announcements.",
   "tickets.order.follow.following": "You're following {pageName}.",
   "tickets.order.follow.button": "Follow",
-  "tickets.order.follow.afterLogin": "You chose to follow {pageName} when you purchased. When you log in, we'll follow with that account."
+  "tickets.order.follow.afterLogin": "You chose to follow {pageName} when you purchased. When you log in, we'll follow with that account.",
+  "tickets.setup.error.country": "Please choose a country",
+  "tickets.setup.error.countryChanged": "A Stripe account is already being created for the country you chose earlier. Please choose the same country and try again"
 }

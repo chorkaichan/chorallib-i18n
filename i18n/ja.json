@@ -1471,6 +1471,7 @@
   "tickets.purchase.buyerName": "氏名",
   "tickets.purchase.buyerEmail": "メールアドレス",
   "tickets.purchase.buyerEmail.hint": "電子チケットをこのメールアドレスに送ります。",
+  "tickets.purchase.buyerEmail.loggedIn": "ログイン中のアカウントのメールアドレスで購入します。電子チケットをこのメールアドレスに送ります。",
   "tickets.purchase.consent": "氏名とメールアドレスを主催者（{pageName}）に提供することに同意します（任意）",
   "tickets.purchase.consent.risk": "同意しない場合、主催者はあなたの氏名を確認できないため、入場時の本人確認や主催者からの個別の連絡が受けられない場合があります。公演の変更・中止のお知らせは ChoralLib から届きます。",
   "tickets.purchase.agree": "利用規約・特定商取引法に基づく表記・プライバシーポリシーを確認し、同意します",
@@ -1721,11 +1722,14 @@
   "tickets.manage.beta": "β版",
   "tickets.manage.betaNote": "チケット販売は β 版です。機能・画面・手数料は変わることがあります。",
   "tickets.types.error.notInBeta": "チケット販売の β 版の対象ではないため、このイベントでは販売を始められません",
+  "tickets.types.error.needsCountry": "券種を追加する前に、チケット販売のトップで国を選んで、売上金の受け取り（Stripe の登録）を始めてください。券種の通貨は国で決まります",
   "tickets.purchase.follow": "{pageName} をフォローする（任意）",
   "tickets.purchase.follow.loggedIn": "新しいイベントやお知らせがメールで届きます。ログイン中のアカウントでフォローします。",
   "tickets.purchase.follow.guest": "新しいイベントやお知らせがメールで届きます。フォローには ChoralLib のアカウントが必要です。購入後、購入時のメールアドレスでログインするとフォローします。",
   "tickets.order.follow.prompt": "{pageName} をフォローすると、新しいイベントやお知らせがメールで届きます。",
   "tickets.order.follow.following": "{pageName} をフォローしています。",
   "tickets.order.follow.button": "フォローする",
-  "tickets.order.follow.afterLogin": "購入時に {pageName} のフォローを希望されました。ログインすると、そのアカウントでフォローします。"
+  "tickets.order.follow.afterLogin": "購入時に {pageName} のフォローを希望されました。ログインすると、そのアカウントでフォローします。",
+  "tickets.setup.error.country": "国を選んでください",
+  "tickets.setup.error.countryChanged": "先ほど選んだ国で Stripe のアカウントを作り始めています。同じ国を選んで、もう一度お試しください"
 }

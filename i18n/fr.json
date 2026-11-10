@@ -1471,6 +1471,7 @@
   "tickets.purchase.buyerName": "Nom complet",
   "tickets.purchase.buyerEmail": "Adresse e-mail",
   "tickets.purchase.buyerEmail.hint": "Vos billets électroniques seront envoyés à cette adresse e-mail.",
+  "tickets.purchase.buyerEmail.loggedIn": "Vous achetez avec l’adresse e-mail du compte connecté. Nous enverrons vos billets électroniques à cette adresse.",
   "tickets.purchase.consent": "J'accepte de communiquer mon nom et mon adresse e-mail à l'organisateur ({pageName}) (facultatif)",
   "tickets.purchase.consent.risk": "Sans votre accord, l'organisateur ne peut pas voir votre nom : le contrôle d'identité à l'entrée ou les messages individuels de l'organisateur pourraient ne pas être possibles. Les informations sur les modifications ou l'annulation vous parviendront toujours de ChoralLib.",
   "tickets.purchase.agree": "J'ai lu et j'accepte les conditions d'utilisation, les mentions au titre de la loi sur certaines transactions commerciales et la politique de confidentialité",
@@ -1721,11 +1722,14 @@
   "tickets.manage.beta": "Bêta",
   "tickets.manage.betaNote": "La vente de billets est en version bêta. Les fonctionnalités, les écrans et les frais peuvent changer.",
   "tickets.types.error.notInBeta": "Cette page ne fait pas partie de la bêta de vente de billets ; vous ne pouvez donc pas lancer la vente pour cet événement",
+  "tickets.types.error.needsCountry": "Avant d’ajouter des types de billets, choisissez votre pays et commencez la configuration des versements (Stripe) sur la page de vente de billets. La devise des billets dépend du pays",
   "tickets.purchase.follow": "Suivre {pageName} (facultatif)",
   "tickets.purchase.follow.loggedIn": "Vous recevrez par e-mail les nouveaux événements et les annonces. Nous suivrons avec le compte auquel vous êtes connecté.",
   "tickets.purchase.follow.guest": "Vous recevrez par e-mail les nouveaux événements et les annonces. Le suivi nécessite un compte ChoralLib. Après l'achat, connectez-vous avec l'adresse e-mail utilisée lors de l'achat et nous suivrons pour vous.",
   "tickets.order.follow.prompt": "Suivez {pageName} pour recevoir par e-mail les nouveaux événements et les annonces.",
   "tickets.order.follow.following": "Vous suivez {pageName}.",
   "tickets.order.follow.button": "Suivre",
-  "tickets.order.follow.afterLogin": "Lors de l'achat, vous avez choisi de suivre {pageName}. Une fois connecté, nous suivrons avec ce compte."
+  "tickets.order.follow.afterLogin": "Lors de l'achat, vous avez choisi de suivre {pageName}. Une fois connecté, nous suivrons avec ce compte.",
+  "tickets.setup.error.country": "Veuillez choisir un pays",
+  "tickets.setup.error.countryChanged": "Un compte Stripe est déjà en cours de création pour le pays choisi précédemment. Choisissez le même pays et réessayez"
 }

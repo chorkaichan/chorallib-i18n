@@ -1471,6 +1471,7 @@
   "tickets.purchase.buyerName": "姓名",
   "tickets.purchase.buyerEmail": "電子郵件",
   "tickets.purchase.buyerEmail.hint": "電子票將寄送到此電子郵件地址。",
+  "tickets.purchase.buyerEmail.loggedIn": "將使用目前登入帳戶的電子郵件地址購買。電子票券將寄送到此電子郵件地址。",
   "tickets.purchase.consent": "我同意向主辦方（{pageName}）提供姓名和電子郵件（選填）",
   "tickets.purchase.consent.risk": "若不同意，主辦方將無法確認您的姓名，入場時的身分核對或主辦方的個別聯絡可能無法進行。演出變更或取消的通知仍會由 ChoralLib 發送。",
   "tickets.purchase.agree": "我已閱讀並同意服務條款、依據《特定商業交易法》的標示及隱私權政策",
@@ -1721,11 +1722,14 @@
   "tickets.manage.beta": "測試版",
   "tickets.manage.betaNote": "票券販售為測試版。功能、頁面與手續費可能會變更。",
   "tickets.types.error.notInBeta": "此頁面不在票券販售測試版的範圍內，因此無法為此活動開始販售",
+  "tickets.types.error.needsCountry": "新增票種前，請在售票頁面選擇國家並開始設定收款（Stripe 註冊）。票價的幣別由國家決定",
   "tickets.purchase.follow": "追蹤 {pageName}（選填）",
   "tickets.purchase.follow.loggedIn": "新活動和通知將透過電子郵件寄送給您。我們將使用您目前登入的帳號進行追蹤。",
   "tickets.purchase.follow.guest": "新活動和通知將透過電子郵件寄送給您。追蹤需要 ChoralLib 帳號。購買後，請使用購票時的電子郵件登入，我們會為您完成追蹤。",
   "tickets.order.follow.prompt": "追蹤 {pageName} 後，新活動和通知將透過電子郵件寄送給您。",
   "tickets.order.follow.following": "您已追蹤 {pageName}。",
   "tickets.order.follow.button": "追蹤",
-  "tickets.order.follow.afterLogin": "購票時您選擇了追蹤 {pageName}。登入後，我們將使用該帳號進行追蹤。"
+  "tickets.order.follow.afterLogin": "購票時您選擇了追蹤 {pageName}。登入後，我們將使用該帳號進行追蹤。",
+  "tickets.setup.error.country": "請選擇國家",
+  "tickets.setup.error.countryChanged": "已在使用您先前選擇的國家建立 Stripe 帳戶。請選擇相同的國家後再試一次"
 }
