@@ -1720,5 +1720,12 @@
   "tickets.purchase.consentForeign.link": "Tentang pemberian kepada pihak ketiga di luar negeri dan sistem perlindungan data pribadi di negara penyelenggara (Kebijakan Privasi, Pasal 5-2)",
   "tickets.manage.beta": "Beta",
   "tickets.manage.betaNote": "Penjualan tiket masih dalam versi beta. Fitur, tampilan, dan biaya dapat berubah.",
-  "tickets.types.error.notInBeta": "Halaman ini tidak termasuk dalam beta penjualan tiket, jadi Anda tidak dapat mulai menjual untuk acara ini"
+  "tickets.types.error.notInBeta": "Halaman ini tidak termasuk dalam beta penjualan tiket, jadi Anda tidak dapat mulai menjual untuk acara ini",
+  "tickets.purchase.follow": "Ikuti {pageName} (opsional)",
+  "tickets.purchase.follow.loggedIn": "Anda akan menerima email tentang acara baru dan pengumuman. Kami akan mengikuti dengan akun yang sedang Anda gunakan untuk masuk.",
+  "tickets.purchase.follow.guest": "Anda akan menerima email tentang acara baru dan pengumuman. Untuk mengikuti, diperlukan akun ChoralLib. Setelah pembelian, masuk dengan alamat email yang Anda gunakan saat membeli, dan kami akan mengikuti untuk Anda.",
+  "tickets.order.follow.prompt": "Ikuti {pageName} untuk menerima email tentang acara baru dan pengumuman.",
+  "tickets.order.follow.following": "Anda mengikuti {pageName}.",
+  "tickets.order.follow.button": "Ikuti",
+  "tickets.order.follow.afterLogin": "Saat membeli, Anda memilih untuk mengikuti {pageName}. Setelah masuk, kami akan mengikuti dengan akun tersebut."
 }

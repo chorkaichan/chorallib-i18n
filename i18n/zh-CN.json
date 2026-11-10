@@ -1720,5 +1720,12 @@
   "tickets.purchase.consentForeign.link": "关于向境外第三方提供及主办方所在国的个人信息保护制度（隐私政策 第5条之2）",
   "tickets.manage.beta": "测试版",
   "tickets.manage.betaNote": "门票销售为测试版。功能、页面和手续费可能会变更。",
-  "tickets.types.error.notInBeta": "此页面不在门票销售测试版的范围内，因此无法为此活动开始销售"
+  "tickets.types.error.notInBeta": "此页面不在门票销售测试版的范围内，因此无法为此活动开始销售",
+  "tickets.purchase.follow": "关注 {pageName}（可选）",
+  "tickets.purchase.follow.loggedIn": "新活动和通知将通过电子邮件发送给您。我们将使用您当前登录的账号进行关注。",
+  "tickets.purchase.follow.guest": "新活动和通知将通过电子邮件发送给您。关注需要 ChoralLib 账号。购买后，请使用购票时的电子邮箱登录，我们会为您完成关注。",
+  "tickets.order.follow.prompt": "关注 {pageName} 后，新活动和通知将通过电子邮件发送给您。",
+  "tickets.order.follow.following": "您已关注 {pageName}。",
+  "tickets.order.follow.button": "关注",
+  "tickets.order.follow.afterLogin": "购票时您选择了关注 {pageName}。登录后，我们将使用该账号进行关注。"
 }

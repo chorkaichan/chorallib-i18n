@@ -1720,5 +1720,12 @@
   "tickets.purchase.consentForeign.link": "Zur Übermittlung an Dritte im Ausland und zum Datenschutzsystem im Land des Veranstalters (Datenschutzerklärung, Artikel 5-2)",
   "tickets.manage.beta": "Beta",
   "tickets.manage.betaNote": "Der Ticketverkauf befindet sich in der Betaphase. Funktionen, Bildschirme und Gebühren können sich ändern.",
-  "tickets.types.error.notInBeta": "Diese Seite nimmt nicht an der Beta des Ticketverkaufs teil, daher kann der Verkauf für diese Veranstaltung nicht gestartet werden"
+  "tickets.types.error.notInBeta": "Diese Seite nimmt nicht an der Beta des Ticketverkaufs teil, daher kann der Verkauf für diese Veranstaltung nicht gestartet werden",
+  "tickets.purchase.follow": "{pageName} folgen (optional)",
+  "tickets.purchase.follow.loggedIn": "Du erhältst per E-Mail Neuigkeiten zu neuen Veranstaltungen und Ankündigungen. Wir folgen mit dem Konto, mit dem du angemeldet bist.",
+  "tickets.purchase.follow.guest": "Du erhältst per E-Mail Neuigkeiten zu neuen Veranstaltungen und Ankündigungen. Zum Folgen brauchst du ein ChoralLib-Konto. Melde dich nach dem Kauf mit der E-Mail-Adresse an, die du beim Kauf angegeben hast, dann folgen wir für dich.",
+  "tickets.order.follow.prompt": "Folge {pageName}, um per E-Mail Neuigkeiten zu neuen Veranstaltungen und Ankündigungen zu erhalten.",
+  "tickets.order.follow.following": "Du folgst {pageName}.",
+  "tickets.order.follow.button": "Folgen",
+  "tickets.order.follow.afterLogin": "Beim Kauf hast du gewünscht, {pageName} zu folgen. Sobald du dich anmeldest, folgen wir mit diesem Konto."
 }

@@ -1720,5 +1720,12 @@
   "tickets.purchase.consentForeign.link": "外国にある第三者への提供と、主催者の国の個人情報保護の制度について（プライバシーポリシー 第5条の2）",
   "tickets.manage.beta": "β版",
   "tickets.manage.betaNote": "チケット販売は β 版です。機能・画面・手数料は変わることがあります。",
-  "tickets.types.error.notInBeta": "チケット販売の β 版の対象ではないため、このイベントでは販売を始められません"
+  "tickets.types.error.notInBeta": "チケット販売の β 版の対象ではないため、このイベントでは販売を始められません",
+  "tickets.purchase.follow": "{pageName} をフォローする（任意）",
+  "tickets.purchase.follow.loggedIn": "新しいイベントやお知らせがメールで届きます。ログイン中のアカウントでフォローします。",
+  "tickets.purchase.follow.guest": "新しいイベントやお知らせがメールで届きます。フォローには ChoralLib のアカウントが必要です。購入後、購入時のメールアドレスでログインするとフォローします。",
+  "tickets.order.follow.prompt": "{pageName} をフォローすると、新しいイベントやお知らせがメールで届きます。",
+  "tickets.order.follow.following": "{pageName} をフォローしています。",
+  "tickets.order.follow.button": "フォローする",
+  "tickets.order.follow.afterLogin": "購入時に {pageName} のフォローを希望されました。ログインすると、そのアカウントでフォローします。"
 }

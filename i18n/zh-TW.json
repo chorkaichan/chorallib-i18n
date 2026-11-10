@@ -1720,5 +1720,12 @@
   "tickets.purchase.consentForeign.link": "關於向境外第三方提供及主辦方所在國的個人資料保護制度（隱私權政策 第5條之2）",
   "tickets.manage.beta": "測試版",
   "tickets.manage.betaNote": "票券販售為測試版。功能、頁面與手續費可能會變更。",
-  "tickets.types.error.notInBeta": "此頁面不在票券販售測試版的範圍內，因此無法為此活動開始販售"
+  "tickets.types.error.notInBeta": "此頁面不在票券販售測試版的範圍內，因此無法為此活動開始販售",
+  "tickets.purchase.follow": "追蹤 {pageName}（選填）",
+  "tickets.purchase.follow.loggedIn": "新活動和通知將透過電子郵件寄送給您。我們將使用您目前登入的帳號進行追蹤。",
+  "tickets.purchase.follow.guest": "新活動和通知將透過電子郵件寄送給您。追蹤需要 ChoralLib 帳號。購買後，請使用購票時的電子郵件登入，我們會為您完成追蹤。",
+  "tickets.order.follow.prompt": "追蹤 {pageName} 後，新活動和通知將透過電子郵件寄送給您。",
+  "tickets.order.follow.following": "您已追蹤 {pageName}。",
+  "tickets.order.follow.button": "追蹤",
+  "tickets.order.follow.afterLogin": "購票時您選擇了追蹤 {pageName}。登入後，我們將使用該帳號進行追蹤。"
 }
