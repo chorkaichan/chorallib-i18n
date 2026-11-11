@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "Prochaine étape : ajoutez un type de billet pour commencer la vente.",
   "tickets.events.next.setup": "Prochaine étape : terminez la préparation de la vente pour pouvoir la commencer.",
   "tickets.events.next.start": "Prochaine étape : commencez la vente pour publier la page d'achat.",
-  "tickets.events.salesAmount": "Ventes {amount}",
-  "tickets.events.manage": "Gérer",
   "tickets.sales.status.ended": "Terminé",
   "tickets.sales.resume": "Reprendre la vente",
   "tickets.sales.pauseHint": "Pendant la suspension, les billets ne peuvent pas être achetés sur la page d'achat. Vous pouvez reprendre la vente à tout moment.",

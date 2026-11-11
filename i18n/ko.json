@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "다음 단계: 티켓 종류를 추가하면 판매를 시작할 수 있습니다.",
   "tickets.events.next.setup": "다음 단계: 판매 준비를 마치면 판매를 시작할 수 있습니다.",
   "tickets.events.next.start": "다음 단계: 판매를 시작하면 구매 화면이 공개됩니다.",
-  "tickets.events.salesAmount": "매출 {amount}",
-  "tickets.events.manage": "관리하기",
   "tickets.sales.status.ended": "공연 종료",
   "tickets.sales.resume": "판매 재개",
   "tickets.sales.pauseHint": "중지하는 동안에는 구매 화면에서 티켓을 살 수 없습니다. 언제든 다시 시작할 수 있습니다.",

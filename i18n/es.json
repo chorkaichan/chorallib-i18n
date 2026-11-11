@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "Siguiente paso: añade un tipo de entrada para empezar a vender.",
   "tickets.events.next.setup": "Siguiente paso: termina la preparación de la venta para empezar a vender.",
   "tickets.events.next.start": "Siguiente paso: empieza la venta y se publicará la página de compra.",
-  "tickets.events.salesAmount": "Ventas {amount}",
-  "tickets.events.manage": "Gestionar",
   "tickets.sales.status.ended": "Finalizado",
   "tickets.sales.resume": "Reanudar la venta",
   "tickets.sales.pauseHint": "Mientras esté en pausa, no se podrán comprar entradas en la página de compra. Puedes reanudar la venta en cualquier momento.",

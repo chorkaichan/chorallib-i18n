@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "次にやること：券種を追加すると、販売を始められます。",
   "tickets.events.next.setup": "次にやること：販売の準備を済ませると、販売を始められます。",
   "tickets.events.next.start": "次にやること：販売を始めると、購入画面が公開されます。",
-  "tickets.events.salesAmount": "売上 {amount}",
-  "tickets.events.manage": "管理する",
   "tickets.sales.status.ended": "公演終了",
   "tickets.sales.resume": "販売を再開する",
   "tickets.sales.pauseHint": "止めている間は購入画面で買えなくなります。いつでも再開できます。",

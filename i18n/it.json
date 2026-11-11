@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "Prossimo passo: aggiungi un tipo di biglietto per iniziare la vendita.",
   "tickets.events.next.setup": "Prossimo passo: completa la preparazione della vendita per poter iniziare.",
   "tickets.events.next.start": "Prossimo passo: inizia la vendita per pubblicare la pagina di acquisto.",
-  "tickets.events.salesAmount": "Vendite {amount}",
-  "tickets.events.manage": "Gestisci",
   "tickets.sales.status.ended": "Concluso",
   "tickets.sales.resume": "Riprendi la vendita",
   "tickets.sales.pauseHint": "Mentre è sospesa, non è possibile acquistare biglietti dalla pagina di acquisto. Puoi riprendere la vendita in qualsiasi momento.",

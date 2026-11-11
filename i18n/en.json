@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "Next: add a ticket type to start selling.",
   "tickets.events.next.setup": "Next: finish getting ready to sell, then you can start selling.",
   "tickets.events.next.start": "Next: start sales to publish the purchase page.",
-  "tickets.events.salesAmount": "Sales {amount}",
-  "tickets.events.manage": "Manage",
   "tickets.sales.status.ended": "Ended",
   "tickets.sales.resume": "Resume sales",
   "tickets.sales.pauseHint": "While paused, tickets can't be bought on the purchase page. You can resume at any time.",

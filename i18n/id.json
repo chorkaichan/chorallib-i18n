@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "Langkah berikutnya: tambahkan jenis tiket untuk memulai penjualan.",
   "tickets.events.next.setup": "Langkah berikutnya: selesaikan persiapan penjualan agar bisa mulai berjualan.",
   "tickets.events.next.start": "Langkah berikutnya: mulai penjualan agar halaman pembelian dipublikasikan.",
-  "tickets.events.salesAmount": "Penjualan {amount}",
-  "tickets.events.manage": "Kelola",
   "tickets.sales.status.ended": "Selesai",
   "tickets.sales.resume": "Lanjutkan penjualan",
   "tickets.sales.pauseHint": "Selama dijeda, tiket tidak dapat dibeli di halaman pembelian. Penjualan bisa dilanjutkan kapan saja.",

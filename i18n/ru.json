@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "Далее: добавьте тип билета, чтобы начать продажу.",
   "tickets.events.next.setup": "Далее: завершите подготовку к продаже, и можно будет начать продажу.",
   "tickets.events.next.start": "Далее: начните продажу, и страница покупки будет опубликована.",
-  "tickets.events.salesAmount": "Продажи {amount}",
-  "tickets.events.manage": "Управлять",
   "tickets.sales.status.ended": "Завершено",
   "tickets.sales.resume": "Возобновить продажу",
   "tickets.sales.pauseHint": "Пока продажа приостановлена, купить билеты на странице покупки нельзя. Возобновить её можно в любой момент.",

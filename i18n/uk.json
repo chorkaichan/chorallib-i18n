@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "Далі: додайте тип квитка, щоб розпочати продаж.",
   "tickets.events.next.setup": "Далі: завершіть підготовку до продажу, і можна буде розпочати продаж.",
   "tickets.events.next.start": "Далі: розпочніть продаж, і сторінку покупки буде опубліковано.",
-  "tickets.events.salesAmount": "Продажі {amount}",
-  "tickets.events.manage": "Керувати",
   "tickets.sales.status.ended": "Завершено",
   "tickets.sales.resume": "Відновити продаж",
   "tickets.sales.pauseHint": "Поки продаж призупинено, купити квитки на сторінці покупки не можна. Відновити його можна будь-коли.",

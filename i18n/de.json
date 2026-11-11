@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "Als Nächstes: Lege eine Ticketart an, dann kannst du den Verkauf starten.",
   "tickets.events.next.setup": "Als Nächstes: Schließe die Vorbereitung ab, dann kannst du den Verkauf starten.",
   "tickets.events.next.start": "Als Nächstes: Starte den Verkauf, dann wird die Kaufseite veröffentlicht.",
-  "tickets.events.salesAmount": "Umsatz {amount}",
-  "tickets.events.manage": "Verwalten",
   "tickets.sales.status.ended": "Beendet",
   "tickets.sales.resume": "Verkauf fortsetzen",
   "tickets.sales.pauseHint": "Solange der Verkauf pausiert ist, können auf der Kaufseite keine Tickets gekauft werden. Du kannst ihn jederzeit fortsetzen.",

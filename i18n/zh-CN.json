@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "下一步：添加票种后即可开始销售。",
   "tickets.events.next.setup": "下一步：完成销售准备后即可开始销售。",
   "tickets.events.next.start": "下一步：开始销售后，购票页面将会公开。",
-  "tickets.events.salesAmount": "销售额 {amount}",
-  "tickets.events.manage": "管理",
   "tickets.sales.status.ended": "演出结束",
   "tickets.sales.resume": "恢复销售",
   "tickets.sales.pauseHint": "暂停期间，购票页面无法购买门票。你可以随时恢复销售。",

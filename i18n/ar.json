@@ -1635,8 +1635,6 @@
   "tickets.events.next.addType": "الخطوة التالية: أضف نوع تذكرة لتبدأ البيع.",
   "tickets.events.next.setup": "الخطوة التالية: أكمل الاستعداد للبيع لتتمكن من بدء البيع.",
   "tickets.events.next.start": "الخطوة التالية: ابدأ البيع لتُنشر صفحة الشراء.",
-  "tickets.events.salesAmount": "المبيعات {amount}",
-  "tickets.events.manage": "إدارة",
   "tickets.sales.status.ended": "انتهى العرض",
   "tickets.sales.resume": "استئناف البيع",
   "tickets.sales.pauseHint": "أثناء الإيقاف المؤقت لا يمكن شراء التذاكر من صفحة الشراء. يمكنك استئناف البيع في أي وقت.",
