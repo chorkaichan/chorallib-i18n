@@ -1787,5 +1787,7 @@
   "tickets.sales.resumeConfirm.title": "Riprendere la vendita dei biglietti?",
   "tickets.sales.pauseConfirm.title": "Sospendere la vendita dei biglietti?",
   "tickets.sales.startConfirm.now": "I biglietti potranno essere acquistati subito dalla pagina di acquisto.",
-  "tickets.sales.startConfirm.scheduled": "Non sarà possibile acquistare biglietti prima dell'inizio della vendita. La vendita inizia il {date}."
+  "tickets.sales.startConfirm.scheduled": "Non sarà possibile acquistare biglietti prima dell'inizio della vendita. La vendita inizia il {date}.",
+  "page.external.edit.events.deleteLockedTitle": "Impossibile eliminare questo evento",
+  "page.external.edit.events.deleteLocked": "Non è possibile eliminare eventi con biglietti in vendita o con acquirenti i cui incassi non sono ancora stati versati. Per eliminarlo, sospendi la vendita nella pagina di vendita dei biglietti e attendi il versamento, oppure annulla l'evento e rimborsa gli acquirenti."
 }

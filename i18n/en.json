@@ -1787,5 +1787,7 @@
   "tickets.sales.resumeConfirm.title": "Resume selling tickets?",
   "tickets.sales.pauseConfirm.title": "Pause ticket sales?",
   "tickets.sales.startConfirm.now": "Tickets can be bought on the purchase page right away.",
-  "tickets.sales.startConfirm.scheduled": "Tickets can't be bought until the sales start time. Sales begin at {date}."
+  "tickets.sales.startConfirm.scheduled": "Tickets can't be bought until the sales start time. Sales begin at {date}.",
+  "page.external.edit.events.deleteLockedTitle": "This event can't be deleted",
+  "page.external.edit.events.deleteLocked": "Events with tickets on sale, or with buyers whose sales haven't been paid out yet, can't be deleted. To delete it, pause sales on the ticket sales page and wait for the payout, or cancel the event and refund the buyers."
 }

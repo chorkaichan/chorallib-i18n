@@ -1787,5 +1787,7 @@
   "tickets.sales.resumeConfirm.title": "販売を再開しますか？",
   "tickets.sales.pauseConfirm.title": "販売を止めますか？",
   "tickets.sales.startConfirm.now": "購入画面でチケットをすぐに買えるようになります。",
-  "tickets.sales.startConfirm.scheduled": "販売開始日時になるまでは買えません。{date} から販売されます。"
+  "tickets.sales.startConfirm.scheduled": "販売開始日時になるまでは買えません。{date} から販売されます。",
+  "page.external.edit.events.deleteLockedTitle": "このイベントは削除できません",
+  "page.external.edit.events.deleteLocked": "チケットを販売中、または購入者がいて売上金の入金が済んでいないイベントは削除できません。削除するには、チケット販売の画面で販売を止めてから入金を待つか、公演を中止して払い戻してください。"
 }

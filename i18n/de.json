@@ -1787,5 +1787,7 @@
   "tickets.sales.resumeConfirm.title": "Ticketverkauf fortsetzen?",
   "tickets.sales.pauseConfirm.title": "Ticketverkauf pausieren?",
   "tickets.sales.startConfirm.now": "Tickets können sofort auf der Kaufseite gekauft werden.",
-  "tickets.sales.startConfirm.scheduled": "Vor dem Verkaufsbeginn können keine Tickets gekauft werden. Der Verkauf beginnt am {date}."
+  "tickets.sales.startConfirm.scheduled": "Vor dem Verkaufsbeginn können keine Tickets gekauft werden. Der Verkauf beginnt am {date}.",
+  "page.external.edit.events.deleteLockedTitle": "Diese Veranstaltung kann nicht gelöscht werden",
+  "page.external.edit.events.deleteLocked": "Veranstaltungen, deren Tickets im Verkauf sind oder deren Verkaufserlöse noch nicht ausgezahlt wurden, können nicht gelöscht werden. Pausiere zum Löschen den Verkauf auf der Ticketverkaufsseite und warte die Auszahlung ab, oder sage die Veranstaltung ab und erstatte den Käufern das Geld."
 }

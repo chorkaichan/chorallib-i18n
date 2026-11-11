@@ -1787,5 +1787,7 @@
   "tickets.sales.resumeConfirm.title": "要恢復販售嗎？",
   "tickets.sales.pauseConfirm.title": "要暫停販售嗎？",
   "tickets.sales.startConfirm.now": "購票頁面將立即可以購買票券。",
-  "tickets.sales.startConfirm.scheduled": "在販售開始時間之前無法購買。將從 {date} 開始販售。"
+  "tickets.sales.startConfirm.scheduled": "在販售開始時間之前無法購買。將從 {date} 開始販售。",
+  "page.external.edit.events.deleteLockedTitle": "無法刪除此活動",
+  "page.external.edit.events.deleteLocked": "正在售票的活動，或有購票者且銷售款尚未匯出的活動無法刪除。如需刪除，請在售票頁面暫停販售並等待匯款，或取消演出並為購票者退款。"
 }

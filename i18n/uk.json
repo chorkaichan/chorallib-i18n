@@ -1787,5 +1787,7 @@
   "tickets.sales.resumeConfirm.title": "Відновити продаж квитків?",
   "tickets.sales.pauseConfirm.title": "Призупинити продаж квитків?",
   "tickets.sales.startConfirm.now": "Квитки одразу можна буде купити на сторінці покупки.",
-  "tickets.sales.startConfirm.scheduled": "До початку продажу купити квитки не можна. Продаж почнеться {date}."
+  "tickets.sales.startConfirm.scheduled": "До початку продажу купити квитки не можна. Продаж почнеться {date}.",
+  "page.external.edit.events.deleteLockedTitle": "Цю подію не можна видалити",
+  "page.external.edit.events.deleteLocked": "Не можна видалити подію, квитки на яку продаються, або подію з покупцями, виторг за якою ще не виплачено. Щоб видалити її, призупиніть продаж на сторінці продажу квитків і дочекайтеся виплати або скасуйте подію та поверніть гроші покупцям."
 }

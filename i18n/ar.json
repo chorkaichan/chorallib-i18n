@@ -1787,5 +1787,7 @@
   "tickets.sales.resumeConfirm.title": "هل تريد استئناف بيع التذاكر؟",
   "tickets.sales.pauseConfirm.title": "هل تريد إيقاف بيع التذاكر مؤقتًا؟",
   "tickets.sales.startConfirm.now": "سيصبح بالإمكان شراء التذاكر من صفحة الشراء فورًا.",
-  "tickets.sales.startConfirm.scheduled": "لا يمكن شراء التذاكر قبل موعد بدء البيع. يبدأ البيع في {date}."
+  "tickets.sales.startConfirm.scheduled": "لا يمكن شراء التذاكر قبل موعد بدء البيع. يبدأ البيع في {date}.",
+  "page.external.edit.events.deleteLockedTitle": "لا يمكن حذف هذه الفعالية",
+  "page.external.edit.events.deleteLocked": "لا يمكن حذف الفعاليات التي تُباع تذاكرها حاليًا، أو التي لها مشترون ولم تُحوَّل إيراداتها بعد. لحذفها، أوقف البيع مؤقتًا من صفحة بيع التذاكر وانتظر التحويل، أو ألغِ الفعالية وأعِد المبالغ إلى المشترين."
 }

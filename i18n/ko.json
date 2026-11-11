@@ -1787,5 +1787,7 @@
   "tickets.sales.resumeConfirm.title": "판매를 다시 시작할까요?",
   "tickets.sales.pauseConfirm.title": "판매를 중지할까요?",
   "tickets.sales.startConfirm.now": "구매 화면에서 바로 티켓을 살 수 있게 됩니다.",
-  "tickets.sales.startConfirm.scheduled": "판매 시작 일시 전에는 살 수 없습니다. {date}부터 판매됩니다."
+  "tickets.sales.startConfirm.scheduled": "판매 시작 일시 전에는 살 수 없습니다. {date}부터 판매됩니다.",
+  "page.external.edit.events.deleteLockedTitle": "이 이벤트는 삭제할 수 없습니다",
+  "page.external.edit.events.deleteLocked": "티켓을 판매 중이거나, 구매자가 있고 매출금 입금이 끝나지 않은 이벤트는 삭제할 수 없습니다. 삭제하려면 티켓 판매 화면에서 판매를 중지한 뒤 입금을 기다리거나, 공연을 취소하고 환불해 주세요."
 }

@@ -1787,5 +1787,7 @@
   "tickets.sales.resumeConfirm.title": "Sambung semula jualan tiket?",
   "tickets.sales.pauseConfirm.title": "Jeda jualan tiket?",
   "tickets.sales.startConfirm.now": "Tiket boleh dibeli di halaman pembelian dengan serta-merta.",
-  "tickets.sales.startConfirm.scheduled": "Tiket tidak boleh dibeli sebelum masa jualan bermula. Jualan bermula pada {date}."
+  "tickets.sales.startConfirm.scheduled": "Tiket tidak boleh dibeli sebelum masa jualan bermula. Jualan bermula pada {date}.",
+  "page.external.edit.events.deleteLockedTitle": "Acara ini tidak boleh dipadam",
+  "page.external.edit.events.deleteLocked": "Acara yang tiketnya sedang dijual, atau yang mempunyai pembeli dan hasil jualannya belum dibayar, tidak boleh dipadam. Untuk memadamnya, jeda jualan di halaman jualan tiket dan tunggu pembayaran, atau batalkan acara dan pulangkan wang pembeli."
 }

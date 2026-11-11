@@ -1787,5 +1787,7 @@
   "tickets.sales.resumeConfirm.title": "Возобновить продажу билетов?",
   "tickets.sales.pauseConfirm.title": "Приостановить продажу билетов?",
   "tickets.sales.startConfirm.now": "Билеты сразу станут доступны для покупки на странице покупки.",
-  "tickets.sales.startConfirm.scheduled": "До начала продаж купить билеты нельзя. Продажа начнётся {date}."
+  "tickets.sales.startConfirm.scheduled": "До начала продаж купить билеты нельзя. Продажа начнётся {date}.",
+  "page.external.edit.events.deleteLockedTitle": "Это событие нельзя удалить",
+  "page.external.edit.events.deleteLocked": "Нельзя удалить событие, билеты на которое продаются, или событие с покупателями, выручка по которому ещё не выплачена. Чтобы удалить его, приостановите продажу на странице продажи билетов и дождитесь выплаты или отмените событие и верните деньги покупателям."
 }
