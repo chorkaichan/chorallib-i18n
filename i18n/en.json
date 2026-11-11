@@ -1721,7 +1721,6 @@
   "tickets.common.actionFor": "{action}: {name}",
   "tickets.connect.actionRequired.label": "More information needed",
   "tickets.connect.actionRequired.description": "Stripe needs more information from you (such as an identity document). Continue your registration and provide what is requested. You cannot start selling until you do.",
-  "tickets.connect.payoutsDisabled": "Stripe has paused payouts of your sales. Check your bank account and identity details in the Stripe dashboard.",
   "tickets.connect.payoutsVerifying": "You can start selling tickets. Payouts will be available once Stripe finishes its review (no action is needed on your part). If Stripe has sent you an email, such as one asking you to verify your email address, follow its instructions.",
   "tickets.connect.payoutsActionRequired": "Stripe needs more information (such as bank account or identity details) before it can pay out your sales. Use \"Continue registration\" to provide the requested information.",
   "tickets.connect.returned": "You are back from the Stripe registration. This status will change once Stripe finishes its review.",

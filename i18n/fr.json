@@ -1721,7 +1721,6 @@
   "tickets.common.actionFor": "{action}: {name}",
   "tickets.connect.actionRequired.label": "Informations supplémentaires requises",
   "tickets.connect.actionRequired.description": "Stripe a besoin d'informations supplémentaires de votre part (par exemple une pièce d'identité). Poursuivez l'inscription et fournissez les éléments demandés. Vous ne pourrez pas commencer la vente avant de l'avoir fait.",
-  "tickets.connect.payoutsDisabled": "Stripe a suspendu le versement de vos recettes. Vérifiez votre compte bancaire et vos informations d'identité dans le tableau de bord Stripe.",
   "tickets.connect.payoutsVerifying": "Vous pouvez commencer à vendre des billets. Les virements de vos ventes seront disponibles une fois la vérification de Stripe terminée (aucune action n'est nécessaire de votre part). Si Stripe vous a envoyé un e-mail, par exemple pour confirmer votre adresse e-mail, suivez ses instructions.",
   "tickets.connect.payoutsActionRequired": "Stripe a besoin d'informations supplémentaires (compte bancaire, vérification d'identité, etc.) pour vous verser vos ventes. Utilisez « Poursuivre l'inscription » pour fournir les informations demandées.",
   "tickets.connect.returned": "Vous êtes de retour de l'inscription à Stripe. Ce statut changera une fois la vérification de Stripe terminée.",

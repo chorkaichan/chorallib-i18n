@@ -1721,7 +1721,6 @@
   "tickets.common.actionFor": "{action}（{name}）",
   "tickets.connect.actionRequired.label": "需要補充資訊",
   "tickets.connect.actionRequired.description": "Stripe 要求你補充資訊（例如身分證明文件）。請繼續註冊並提交所要求的資訊。提交之前無法開始販售。",
-  "tickets.connect.payoutsDisabled": "Stripe 已暫停匯出你的銷售款項。請在 Stripe 後台確認銀行帳戶和身分驗證資訊。",
   "tickets.connect.payoutsVerifying": "您可以開始販售票券。Stripe 審核完成後即可提領銷售款（您無需進行任何操作）。如果 Stripe 寄給您郵件（例如驗證電子郵件地址），請依照郵件中的說明操作。",
   "tickets.connect.payoutsActionRequired": "Stripe 需要更多資訊（如銀行帳戶或身分驗證）才能支付銷售款給您。請透過「繼續註冊」提交所需資訊。",
   "tickets.connect.returned": "已從 Stripe 註冊頁面返回。Stripe 審核完成後，此處的顯示會更新。",

@@ -1721,7 +1721,6 @@
   "tickets.common.actionFor": "{action}: {name}",
   "tickets.connect.actionRequired.label": "Servono altre informazioni",
   "tickets.connect.actionRequired.description": "Stripe ha bisogno di altre informazioni da te (ad esempio un documento d'identità). Continua la registrazione e fornisci quanto richiesto. Fino ad allora non potrai iniziare la vendita.",
-  "tickets.connect.payoutsDisabled": "Stripe ha sospeso il pagamento dei tuoi incassi. Controlla il conto bancario e i dati di identità nella dashboard di Stripe.",
   "tickets.connect.payoutsVerifying": "Puoi iniziare a vendere i biglietti. I versamenti delle vendite saranno disponibili al termine della verifica di Stripe (non devi fare nulla). Se Stripe ti ha inviato un'e-mail, ad esempio per confermare il tuo indirizzo e-mail, segui le istruzioni.",
   "tickets.connect.payoutsActionRequired": "Stripe ha bisogno di altre informazioni (ad esempio sul conto bancario o sull'identità) per versarti le vendite. Usa «Continua la registrazione» per fornire le informazioni richieste.",
   "tickets.connect.returned": "Sei tornato dalla registrazione su Stripe. Questo stato cambierà quando Stripe avrà terminato la verifica.",

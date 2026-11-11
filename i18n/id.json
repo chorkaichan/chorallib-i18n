@@ -1721,7 +1721,6 @@
   "tickets.common.actionFor": "{action}: {name}",
   "tickets.connect.actionRequired.label": "Informasi tambahan diperlukan",
   "tickets.connect.actionRequired.description": "Stripe meminta informasi tambahan dari Anda (seperti dokumen identitas). Lanjutkan pendaftaran dan berikan informasi yang diminta. Anda tidak dapat memulai penjualan sebelum melakukannya.",
-  "tickets.connect.payoutsDisabled": "Stripe menghentikan pencairan hasil penjualan Anda. Periksa informasi rekening bank dan identitas Anda di dasbor Stripe.",
   "tickets.connect.payoutsVerifying": "Anda sudah dapat mulai menjual tiket. Pencairan hasil penjualan tersedia setelah Stripe selesai meninjau (Anda tidak perlu melakukan apa pun). Jika Stripe mengirimi Anda email, misalnya untuk memverifikasi alamat email, ikuti petunjuknya.",
   "tickets.connect.payoutsActionRequired": "Stripe memerlukan informasi tambahan (seperti rekening bank atau verifikasi identitas) untuk mencairkan hasil penjualan Anda. Gunakan \"Lanjutkan pendaftaran\" untuk memberikan informasi yang diminta.",
   "tickets.connect.returned": "Anda telah kembali dari pendaftaran Stripe. Status ini akan berubah setelah Stripe selesai meninjau.",

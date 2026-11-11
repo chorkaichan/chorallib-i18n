@@ -1721,7 +1721,6 @@
   "tickets.common.actionFor": "{action}: {name}",
   "tickets.connect.actionRequired.label": "Maklumat tambahan diperlukan",
   "tickets.connect.actionRequired.description": "Stripe memerlukan maklumat tambahan daripada anda (seperti dokumen pengenalan diri). Teruskan pendaftaran dan berikan maklumat yang diminta. Anda tidak boleh memulakan jualan sehingga anda berbuat demikian.",
-  "tickets.connect.payoutsDisabled": "Stripe telah menghentikan pembayaran hasil jualan anda. Semak maklumat akaun bank dan identiti anda di papan pemuka Stripe.",
   "tickets.connect.payoutsVerifying": "Anda boleh mula menjual tiket. Pembayaran hasil jualan akan tersedia selepas Stripe selesai menyemak (anda tidak perlu berbuat apa-apa). Jika Stripe menghantar e-mel kepada anda, contohnya untuk mengesahkan alamat e-mel, ikut arahannya.",
   "tickets.connect.payoutsActionRequired": "Stripe memerlukan maklumat tambahan (seperti akaun bank atau pengesahan identiti) untuk membayar hasil jualan anda. Gunakan \"Teruskan pendaftaran\" untuk memberikan maklumat yang diminta.",
   "tickets.connect.returned": "Anda telah kembali daripada pendaftaran Stripe. Status ini akan berubah setelah Stripe selesai membuat semakan.",

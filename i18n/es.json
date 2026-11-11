@@ -1721,7 +1721,6 @@
   "tickets.common.actionFor": "{action}: {name}",
   "tickets.connect.actionRequired.label": "Se necesita más información",
   "tickets.connect.actionRequired.description": "Stripe necesita más información tuya (por ejemplo, un documento de identidad). Continúa el registro y aporta lo que se te pide. Hasta entonces no podrás empezar a vender.",
-  "tickets.connect.payoutsDisabled": "Stripe ha detenido los pagos de tus ingresos. Revisa tu cuenta bancaria y tus datos de identidad en el panel de Stripe.",
   "tickets.connect.payoutsVerifying": "Ya puedes empezar a vender entradas. Los pagos de tus ventas estarán disponibles cuando Stripe termine su revisión (no tienes que hacer nada). Si Stripe te ha enviado un correo, por ejemplo para verificar tu dirección de correo electrónico, sigue sus instrucciones.",
   "tickets.connect.payoutsActionRequired": "Stripe necesita más información (como la cuenta bancaria o la verificación de identidad) para transferirte tus ventas. Usa «Continuar el registro» para enviar la información solicitada.",
   "tickets.connect.returned": "Has vuelto del registro en Stripe. Este estado cambiará cuando Stripe termine su revisión.",

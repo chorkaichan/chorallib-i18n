@@ -1721,7 +1721,6 @@
   "tickets.common.actionFor": "{action}（{name}）",
   "tickets.connect.actionRequired.label": "追加の情報が必要です",
   "tickets.connect.actionRequired.description": "Stripe が追加の情報（本人確認の書類など）を求めています。登録を続けて、求められた情報を出してください。出すまで販売を始められません。",
-  "tickets.connect.payoutsDisabled": "Stripe が売上金の振り込みを止めています。Stripe のダッシュボードで、口座と本人確認の情報を確かめてください。",
   "tickets.connect.payoutsVerifying": "チケットの販売は始められます。売上金の振り込みは、Stripe の確認が終わると使えるようになります（こちらでの対応は不要です）。Stripe からメールアドレスの確認などのメールが届いていたら、案内に沿って対応してください。",
   "tickets.connect.payoutsActionRequired": "売上金を振り込むために、Stripe が追加の情報（口座や本人確認など）を求めています。「登録を続ける」から、求められた情報を出してください。",
   "tickets.connect.returned": "Stripe への登録から戻りました。Stripe の確認が終わると、ここの表示が変わります。",

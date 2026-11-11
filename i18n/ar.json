@@ -1721,7 +1721,6 @@
   "tickets.common.actionFor": "{action}: {name}",
   "tickets.connect.actionRequired.label": "مطلوب مزيد من المعلومات",
   "tickets.connect.actionRequired.description": "تطلب Stripe منك مزيدًا من المعلومات (مثل وثيقة إثبات الهوية). تابع التسجيل وقدّم المعلومات المطلوبة. لا يمكنك بدء البيع حتى تقدّمها.",
-  "tickets.connect.payoutsDisabled": "أوقفت Stripe تحويل عائدات مبيعاتك. تحقّق من بيانات حسابك المصرفي وهويتك في لوحة تحكم Stripe.",
   "tickets.connect.payoutsVerifying": "يمكنك البدء في بيع التذاكر. ستتاح تحويلات المبيعات بعد أن تنتهي Stripe من المراجعة (لا يلزمك أي إجراء). إذا أرسلت إليك Stripe رسالة بريد إلكتروني، مثل طلب تأكيد عنوان بريدك الإلكتروني، فاتبع التعليمات الواردة فيها.",
   "tickets.connect.payoutsActionRequired": "تحتاج Stripe إلى معلومات إضافية (مثل الحساب المصرفي أو التحقق من الهوية) لتحويل مبيعاتك إليك. استخدم «متابعة التسجيل» لتقديم المعلومات المطلوبة.",
   "tickets.connect.returned": "عدت من التسجيل في Stripe. ستتغير هذه الحالة عندما تنتهي Stripe من المراجعة.",

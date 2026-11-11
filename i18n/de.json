@@ -1721,7 +1721,6 @@
   "tickets.common.actionFor": "{action}: {name}",
   "tickets.connect.actionRequired.label": "Weitere Angaben erforderlich",
   "tickets.connect.actionRequired.description": "Stripe benötigt weitere Angaben von dir (zum Beispiel ein Ausweisdokument). Setze die Registrierung fort und reiche die angeforderten Angaben ein. Bis dahin kannst du den Verkauf nicht starten.",
-  "tickets.connect.payoutsDisabled": "Stripe hat die Auszahlung deiner Einnahmen angehalten. Prüfe dein Bankkonto und deine Identitätsangaben im Stripe-Dashboard.",
   "tickets.connect.payoutsVerifying": "Du kannst mit dem Ticketverkauf beginnen. Auszahlungen sind möglich, sobald Stripe die Prüfung abgeschlossen hat (du musst nichts tun). Falls Stripe dir eine E-Mail geschickt hat, etwa zur Bestätigung deiner E-Mail-Adresse, folge den Anweisungen.",
   "tickets.connect.payoutsActionRequired": "Stripe benötigt weitere Angaben (z. B. zum Bankkonto oder zur Identität), um deine Einnahmen auszuzahlen. Gib die angeforderten Angaben über „Registrierung fortsetzen“ an.",
   "tickets.connect.returned": "Du bist von der Registrierung bei Stripe zurück. Diese Anzeige ändert sich, sobald Stripe die Prüfung abgeschlossen hat.",
