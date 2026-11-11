@@ -1782,5 +1782,10 @@
   "tickets.purchase.login.description": "Für den Ticketkauf brauchst du ein ChoralLib-Konto. Mit einem Anmeldecode, der an deine E-Mail-Adresse gesendet wird, kannst du dich sofort registrieren und anmelden. Nach der Anmeldung kehrst du zu dieser Seite zurück.",
   "tickets.purchase.login.button": "Anmelden und weiter",
   "tickets.purchase.error.login": "Für den Kauf musst du angemeldet sein. Bitte melde dich an und versuche es erneut.",
-  "tickets.roster.emailNote": "Die E-Mail-Adressen der Käufer werden nicht angezeigt. Du kannst Käufer über „E-Mail an Käufer“ kontaktieren (Antworten gehen an deine Kontakt-E-Mail-Adresse)."
+  "tickets.roster.emailNote": "Die E-Mail-Adressen der Käufer werden nicht angezeigt. Du kannst Käufer über „E-Mail an Käufer“ kontaktieren (Antworten gehen an deine Kontakt-E-Mail-Adresse).",
+  "tickets.sales.startConfirm.title": "Ticketverkauf starten?",
+  "tickets.sales.resumeConfirm.title": "Ticketverkauf fortsetzen?",
+  "tickets.sales.pauseConfirm.title": "Ticketverkauf pausieren?",
+  "tickets.sales.startConfirm.now": "Tickets können sofort auf der Kaufseite gekauft werden.",
+  "tickets.sales.startConfirm.scheduled": "Vor dem Verkaufsbeginn können keine Tickets gekauft werden. Der Verkauf beginnt am {date}."
 }

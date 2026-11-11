@@ -1782,5 +1782,10 @@
   "tickets.purchase.login.description": "You need a ChoralLib account to buy tickets. You can sign up and log in right away with a login code sent to your email address. After logging in, you will return to this page.",
   "tickets.purchase.login.button": "Log in and continue",
   "tickets.purchase.error.login": "You need to log in to buy tickets. Please log in and try again.",
-  "tickets.roster.emailNote": "Purchasers' email addresses are not shown. You can contact purchasers from \"Email purchasers\" (replies go to your contact email address)."
+  "tickets.roster.emailNote": "Purchasers' email addresses are not shown. You can contact purchasers from \"Email purchasers\" (replies go to your contact email address).",
+  "tickets.sales.startConfirm.title": "Start selling tickets?",
+  "tickets.sales.resumeConfirm.title": "Resume selling tickets?",
+  "tickets.sales.pauseConfirm.title": "Pause ticket sales?",
+  "tickets.sales.startConfirm.now": "Tickets can be bought on the purchase page right away.",
+  "tickets.sales.startConfirm.scheduled": "Tickets can't be bought until the sales start time. Sales begin at {date}."
 }

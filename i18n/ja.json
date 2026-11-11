@@ -1782,5 +1782,10 @@
   "tickets.purchase.login.description": "チケットの購入には ChoralLib のアカウントが必要です。メールアドレスに届くログインコードで、すぐに登録・ログインできます。ログインすると、この画面に戻ります。",
   "tickets.purchase.login.button": "ログインして購入に進む",
   "tickets.purchase.error.login": "購入にはログインが必要です。ログインしてからもう一度お試しください。",
-  "tickets.roster.emailNote": "購入者のメールアドレスは表示しません。購入者への連絡は「購入者へのメール」から送れます（返信はあなたの連絡先メールアドレスに届きます）。"
+  "tickets.roster.emailNote": "購入者のメールアドレスは表示しません。購入者への連絡は「購入者へのメール」から送れます（返信はあなたの連絡先メールアドレスに届きます）。",
+  "tickets.sales.startConfirm.title": "販売を始めますか？",
+  "tickets.sales.resumeConfirm.title": "販売を再開しますか？",
+  "tickets.sales.pauseConfirm.title": "販売を止めますか？",
+  "tickets.sales.startConfirm.now": "購入画面でチケットをすぐに買えるようになります。",
+  "tickets.sales.startConfirm.scheduled": "販売開始日時になるまでは買えません。{date} から販売されます。"
 }

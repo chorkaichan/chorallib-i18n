@@ -1782,5 +1782,10 @@
   "tickets.purchase.login.description": "Per acquistare i biglietti serve un account ChoralLib. Puoi registrarti e accedere subito con un codice di accesso inviato al tuo indirizzo email. Dopo l'accesso tornerai a questa pagina.",
   "tickets.purchase.login.button": "Accedi e continua",
   "tickets.purchase.error.login": "Per acquistare devi effettuare l'accesso. Accedi e riprova.",
-  "tickets.roster.emailNote": "Gli indirizzi email degli acquirenti non vengono mostrati. Puoi contattare gli acquirenti da «Email agli acquirenti» (le risposte arrivano al tuo indirizzo email di contatto)."
+  "tickets.roster.emailNote": "Gli indirizzi email degli acquirenti non vengono mostrati. Puoi contattare gli acquirenti da «Email agli acquirenti» (le risposte arrivano al tuo indirizzo email di contatto).",
+  "tickets.sales.startConfirm.title": "Avviare la vendita dei biglietti?",
+  "tickets.sales.resumeConfirm.title": "Riprendere la vendita dei biglietti?",
+  "tickets.sales.pauseConfirm.title": "Sospendere la vendita dei biglietti?",
+  "tickets.sales.startConfirm.now": "I biglietti potranno essere acquistati subito dalla pagina di acquisto.",
+  "tickets.sales.startConfirm.scheduled": "Non sarà possibile acquistare biglietti prima dell'inizio della vendita. La vendita inizia il {date}."
 }

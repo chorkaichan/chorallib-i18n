@@ -1782,5 +1782,10 @@
   "tickets.purchase.login.description": "Anda memerlukan akun ChoralLib untuk membeli tiket. Anda dapat langsung mendaftar dan masuk dengan kode masuk yang dikirim ke alamat email Anda. Setelah masuk, Anda akan kembali ke halaman ini.",
   "tickets.purchase.login.button": "Masuk dan lanjutkan",
   "tickets.purchase.error.login": "Anda harus masuk untuk membeli tiket. Silakan masuk lalu coba lagi.",
-  "tickets.roster.emailNote": "Alamat email pembeli tidak ditampilkan. Anda dapat menghubungi pembeli melalui \"Email ke pembeli\" (balasan masuk ke alamat email kontak Anda)."
+  "tickets.roster.emailNote": "Alamat email pembeli tidak ditampilkan. Anda dapat menghubungi pembeli melalui \"Email ke pembeli\" (balasan masuk ke alamat email kontak Anda).",
+  "tickets.sales.startConfirm.title": "Mulai menjual tiket?",
+  "tickets.sales.resumeConfirm.title": "Lanjutkan penjualan tiket?",
+  "tickets.sales.pauseConfirm.title": "Jeda penjualan tiket?",
+  "tickets.sales.startConfirm.now": "Tiket dapat langsung dibeli di halaman pembelian.",
+  "tickets.sales.startConfirm.scheduled": "Tiket belum dapat dibeli sebelum waktu mulai penjualan. Penjualan dimulai pada {date}."
 }

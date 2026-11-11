@@ -1782,5 +1782,10 @@
   "tickets.purchase.login.description": "購買票券需要 ChoralLib 帳號。使用寄送到電子郵件的登入碼，即可立即註冊並登入。登入後將回到此頁面。",
   "tickets.purchase.login.button": "登入並繼續購買",
   "tickets.purchase.error.login": "購買需要登入。請登入後再試一次。",
-  "tickets.roster.emailNote": "不顯示購票者的電子郵件地址。可以透過「寄信給購票者」聯絡購票者（回覆會寄到您的聯絡電子郵件）。"
+  "tickets.roster.emailNote": "不顯示購票者的電子郵件地址。可以透過「寄信給購票者」聯絡購票者（回覆會寄到您的聯絡電子郵件）。",
+  "tickets.sales.startConfirm.title": "要開始販售嗎？",
+  "tickets.sales.resumeConfirm.title": "要恢復販售嗎？",
+  "tickets.sales.pauseConfirm.title": "要暫停販售嗎？",
+  "tickets.sales.startConfirm.now": "購票頁面將立即可以購買票券。",
+  "tickets.sales.startConfirm.scheduled": "在販售開始時間之前無法購買。將從 {date} 開始販售。"
 }
