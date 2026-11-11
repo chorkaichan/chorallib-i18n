@@ -1789,5 +1789,11 @@
   "tickets.sales.startConfirm.now": "Tiket boleh dibeli di halaman pembelian dengan serta-merta.",
   "tickets.sales.startConfirm.scheduled": "Tiket tidak boleh dibeli sebelum masa jualan bermula. Jualan bermula pada {date}.",
   "page.external.edit.events.deleteLockedTitle": "Acara ini tidak boleh dipadam",
-  "page.external.edit.events.deleteLocked": "Acara yang tiketnya sedang dijual, atau yang mempunyai pembeli dan hasil jualannya belum dibayar, tidak boleh dipadam. Untuk memadamnya, jeda jualan di halaman jualan tiket dan tunggu pembayaran, atau batalkan acara dan pulangkan wang pembeli."
+  "page.external.edit.events.deleteLocked": "Acara yang tiketnya sedang dijual, atau yang mempunyai pembeli dan hasil jualannya belum dibayar, tidak boleh dipadam. Untuk memadamnya, jeda jualan di halaman jualan tiket dan tunggu pembayaran, atau batalkan acara dan pulangkan wang pembeli.",
+  "page.external.edit.events.ticketReschedule": "Tiket untuk acara ini sedang dijual. Jika anda menukar tarikh dan masa lalu menyimpan, pembeli akan dimaklumkan melalui e-mel secara automatik. Tempoh sah pautan penerimaan akan dilanjutkan mengikut jadual baharu, dan tarikh akhir pindahan bank akan dicepatkan ke masa mula yang baharu.",
+  "page.external.edit.deleteBlocked.title": "Halaman ini tidak boleh dipadam",
+  "page.external.edit.deleteBlocked.tickets": "Halaman ini tidak boleh dipadam kerana terdapat acara yang tiketnya sedang dijual atau hasil jualannya belum dibayar. Di halaman jualan tiket, jeda jualan dan tunggu pembayaran selepas persembahan, atau batalkan acara dan pulangkan wang pembeli, kemudian padam halaman.",
+  "page.external.edit.deleteBlocked.balance": "Halaman ini tidak boleh dipadam kerana baki Stripe anda mengandungi hasil jualan yang belum dibayar ke akaun bank anda. Padamkannya selepas pembayaran.",
+  "page.external.edit.deleteBlocked.negativeBalance": "Halaman ini tidak boleh dipadam kerana baki Stripe anda negatif akibat pembatalan atau bayaran balik. Jumlah negatif akan ditolak daripada jualan anda yang seterusnya. Hubungi kami untuk butiran.",
+  "page.external.edit.deleteBlocked.unknown": "Kami tidak dapat menyemak baki jualan tiket, jadi halaman tidak dipadam. Sila cuba lagi kemudian."
 }

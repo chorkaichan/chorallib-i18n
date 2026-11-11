@@ -1789,5 +1789,11 @@
   "tickets.sales.startConfirm.now": "Las entradas podrán comprarse en la página de compra de inmediato.",
   "tickets.sales.startConfirm.scheduled": "No se podrán comprar entradas hasta la hora de inicio de la venta. La venta empieza el {date}.",
   "page.external.edit.events.deleteLockedTitle": "No se puede eliminar este evento",
-  "page.external.edit.events.deleteLocked": "No se pueden eliminar eventos con entradas a la venta o con compradores cuyas ventas aún no se han pagado. Para eliminarlo, pausa la venta en la página de venta de entradas y espera al pago, o cancela el evento y reembolsa a los compradores."
+  "page.external.edit.events.deleteLocked": "No se pueden eliminar eventos con entradas a la venta o con compradores cuyas ventas aún no se han pagado. Para eliminarlo, pausa la venta en la página de venta de entradas y espera al pago, o cancela el evento y reembolsa a los compradores.",
+  "page.external.edit.events.ticketReschedule": "Se están vendiendo entradas para este evento. Si cambias la fecha y la hora y guardas, los compradores recibirán un aviso por correo automáticamente. La validez de los enlaces de acceso se ampliará en consecuencia y los plazos de transferencia bancaria se adelantarán a la nueva hora de inicio.",
+  "page.external.edit.deleteBlocked.title": "No se puede eliminar esta página",
+  "page.external.edit.deleteBlocked.tickets": "No se puede eliminar esta página porque tiene eventos con entradas a la venta o con ventas aún no pagadas. En la página de venta de entradas, pausa la venta y espera al pago tras la actuación, o cancela el evento y reembolsa a los compradores; después, elimina la página.",
+  "page.external.edit.deleteBlocked.balance": "No se puede eliminar esta página porque tu saldo de Stripe tiene ventas que aún no se han pagado a tu cuenta bancaria. Elimínala después del pago.",
+  "page.external.edit.deleteBlocked.negativeBalance": "No se puede eliminar esta página porque tu saldo de Stripe es negativo por una cancelación o reembolsos. El importe negativo se descontará de tus próximas ventas. Contáctanos para más detalles.",
+  "page.external.edit.deleteBlocked.unknown": "No pudimos comprobar el saldo de la venta de entradas, así que la página no se eliminó. Vuelve a intentarlo más tarde."
 }

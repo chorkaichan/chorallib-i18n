@@ -1789,5 +1789,11 @@
   "tickets.sales.startConfirm.now": "Les billets pourront être achetés immédiatement sur la page d'achat.",
   "tickets.sales.startConfirm.scheduled": "Les billets ne pourront pas être achetés avant le début de la vente. La vente commence le {date}.",
   "page.external.edit.events.deleteLockedTitle": "Impossible de supprimer cet événement",
-  "page.external.edit.events.deleteLocked": "Les événements dont les billets sont en vente, ou dont les recettes n'ont pas encore été versées, ne peuvent pas être supprimés. Pour le supprimer, suspendez la vente sur la page de vente des billets et attendez le versement, ou annulez l'événement et remboursez les acheteurs."
+  "page.external.edit.events.deleteLocked": "Les événements dont les billets sont en vente, ou dont les recettes n'ont pas encore été versées, ne peuvent pas être supprimés. Pour le supprimer, suspendez la vente sur la page de vente des billets et attendez le versement, ou annulez l'événement et remboursez les acheteurs.",
+  "page.external.edit.events.ticketReschedule": "Des billets sont en vente pour cet événement. Si vous modifiez la date et l'heure puis enregistrez, les acheteurs seront prévenus automatiquement par e-mail. La validité des liens d'accueil sera prolongée en conséquence et les délais de virement bancaire seront avancés à la nouvelle heure de début.",
+  "page.external.edit.deleteBlocked.title": "Impossible de supprimer cette page",
+  "page.external.edit.deleteBlocked.tickets": "Impossible de supprimer cette page, car elle comporte des événements dont les billets sont en vente ou dont les recettes n'ont pas encore été versées. Sur la page de vente des billets, suspendez la vente et attendez le versement après la représentation, ou annulez l'événement et remboursez les acheteurs, puis supprimez la page.",
+  "page.external.edit.deleteBlocked.balance": "Impossible de supprimer cette page, car votre solde Stripe contient des recettes qui n'ont pas encore été versées sur votre compte bancaire. Supprimez-la après le versement.",
+  "page.external.edit.deleteBlocked.negativeBalance": "Impossible de supprimer cette page, car votre solde Stripe est négatif à la suite d'une annulation ou de remboursements. Le montant négatif sera déduit de vos prochaines ventes. Contactez-nous pour en savoir plus.",
+  "page.external.edit.deleteBlocked.unknown": "Nous n'avons pas pu vérifier le solde de la vente de billets, la page n'a donc pas été supprimée. Veuillez réessayer plus tard."
 }

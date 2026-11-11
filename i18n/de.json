@@ -1789,5 +1789,11 @@
   "tickets.sales.startConfirm.now": "Tickets können sofort auf der Kaufseite gekauft werden.",
   "tickets.sales.startConfirm.scheduled": "Vor dem Verkaufsbeginn können keine Tickets gekauft werden. Der Verkauf beginnt am {date}.",
   "page.external.edit.events.deleteLockedTitle": "Diese Veranstaltung kann nicht gelöscht werden",
-  "page.external.edit.events.deleteLocked": "Veranstaltungen, deren Tickets im Verkauf sind oder deren Verkaufserlöse noch nicht ausgezahlt wurden, können nicht gelöscht werden. Pausiere zum Löschen den Verkauf auf der Ticketverkaufsseite und warte die Auszahlung ab, oder sage die Veranstaltung ab und erstatte den Käufern das Geld."
+  "page.external.edit.events.deleteLocked": "Veranstaltungen, deren Tickets im Verkauf sind oder deren Verkaufserlöse noch nicht ausgezahlt wurden, können nicht gelöscht werden. Pausiere zum Löschen den Verkauf auf der Ticketverkaufsseite und warte die Auszahlung ab, oder sage die Veranstaltung ab und erstatte den Käufern das Geld.",
+  "page.external.edit.events.ticketReschedule": "Für diese Veranstaltung werden Tickets verkauft. Wenn du Datum und Uhrzeit änderst und speicherst, werden die Käufer automatisch per E-Mail benachrichtigt. Die Gültigkeit der Einlasslinks wird entsprechend verlängert, und Fristen für Banküberweisungen werden auf den neuen Beginn vorgezogen.",
+  "page.external.edit.deleteBlocked.title": "Diese Seite kann nicht gelöscht werden",
+  "page.external.edit.deleteBlocked.tickets": "Diese Seite kann nicht gelöscht werden, weil sie Veranstaltungen mit laufendem Ticketverkauf oder noch nicht ausgezahlten Erlösen hat. Pausiere auf der Ticketverkaufsseite den Verkauf und warte die Auszahlung nach der Aufführung ab, oder sage die Veranstaltung ab und erstatte den Käufern das Geld. Lösche die Seite danach.",
+  "page.external.edit.deleteBlocked.balance": "Diese Seite kann nicht gelöscht werden, weil dein Stripe-Guthaben Erlöse enthält, die noch nicht auf dein Bankkonto ausgezahlt wurden. Lösche sie bitte nach der Auszahlung.",
+  "page.external.edit.deleteBlocked.negativeBalance": "Diese Seite kann nicht gelöscht werden, weil dein Stripe-Guthaben durch eine Absage oder Erstattungen negativ ist. Der negative Betrag wird von deinen nächsten Verkäufen abgezogen. Bitte kontaktiere uns für Details.",
+  "page.external.edit.deleteBlocked.unknown": "Das Guthaben aus dem Ticketverkauf konnte nicht geprüft werden, daher wurde die Seite nicht gelöscht. Bitte versuche es später erneut."
 }

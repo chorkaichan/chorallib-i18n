@@ -1789,5 +1789,11 @@
   "tickets.sales.startConfirm.now": "I biglietti potranno essere acquistati subito dalla pagina di acquisto.",
   "tickets.sales.startConfirm.scheduled": "Non sarà possibile acquistare biglietti prima dell'inizio della vendita. La vendita inizia il {date}.",
   "page.external.edit.events.deleteLockedTitle": "Impossibile eliminare questo evento",
-  "page.external.edit.events.deleteLocked": "Non è possibile eliminare eventi con biglietti in vendita o con acquirenti i cui incassi non sono ancora stati versati. Per eliminarlo, sospendi la vendita nella pagina di vendita dei biglietti e attendi il versamento, oppure annulla l'evento e rimborsa gli acquirenti."
+  "page.external.edit.events.deleteLocked": "Non è possibile eliminare eventi con biglietti in vendita o con acquirenti i cui incassi non sono ancora stati versati. Per eliminarlo, sospendi la vendita nella pagina di vendita dei biglietti e attendi il versamento, oppure annulla l'evento e rimborsa gli acquirenti.",
+  "page.external.edit.events.ticketReschedule": "Per questo evento sono in vendita dei biglietti. Se modifichi data e ora e salvi, gli acquirenti riceveranno automaticamente un avviso via e-mail. La validità dei link per l'accoglienza verrà estesa di conseguenza e le scadenze dei bonifici bancari verranno anticipate al nuovo orario di inizio.",
+  "page.external.edit.deleteBlocked.title": "Impossibile eliminare questa pagina",
+  "page.external.edit.deleteBlocked.tickets": "Impossibile eliminare questa pagina perché contiene eventi con biglietti in vendita o con incassi non ancora versati. Nella pagina di vendita dei biglietti, sospendi la vendita e attendi il versamento dopo lo spettacolo, oppure annulla l'evento e rimborsa gli acquirenti, poi elimina la pagina.",
+  "page.external.edit.deleteBlocked.balance": "Impossibile eliminare questa pagina perché il tuo saldo Stripe contiene incassi non ancora versati sul tuo conto bancario. Eliminala dopo il versamento.",
+  "page.external.edit.deleteBlocked.negativeBalance": "Impossibile eliminare questa pagina perché il tuo saldo Stripe è negativo a causa di un annullamento o di rimborsi. L'importo negativo verrà detratto dalle prossime vendite. Contattaci per maggiori dettagli.",
+  "page.external.edit.deleteBlocked.unknown": "Non è stato possibile verificare il saldo della vendita dei biglietti, quindi la pagina non è stata eliminata. Riprova più tardi."
 }

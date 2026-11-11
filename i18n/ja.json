@@ -1789,5 +1789,11 @@
   "tickets.sales.startConfirm.now": "購入画面でチケットをすぐに買えるようになります。",
   "tickets.sales.startConfirm.scheduled": "販売開始日時になるまでは買えません。{date} から販売されます。",
   "page.external.edit.events.deleteLockedTitle": "このイベントは削除できません",
-  "page.external.edit.events.deleteLocked": "チケットを販売中、または購入者がいて売上金の入金が済んでいないイベントは削除できません。削除するには、チケット販売の画面で販売を止めてから入金を待つか、公演を中止して払い戻してください。"
+  "page.external.edit.events.deleteLocked": "チケットを販売中、または購入者がいて売上金の入金が済んでいないイベントは削除できません。削除するには、チケット販売の画面で販売を止めてから入金を待つか、公演を中止して払い戻してください。",
+  "page.external.edit.events.ticketReschedule": "このイベントはチケットを販売しています。日時を変えて保存すると、購入者にお知らせのメールが自動で届きます。受付用リンクの期限は新しい日時に合わせて延び、銀行振込の支払期限は新しい開始日時までに縮まります。",
+  "page.external.edit.deleteBlocked.title": "このページは削除できません",
+  "page.external.edit.deleteBlocked.tickets": "チケットを販売中、または売上金の入金が済んでいないイベントがあるため、このページは削除できません。チケット販売の画面で販売を止め、公演後の入金を待つか、公演を中止して払い戻してから削除してください。",
+  "page.external.edit.deleteBlocked.balance": "Stripe の残高に、まだ口座へ入金していない売上金があるため、このページは削除できません。入金が済んでから削除してください。",
+  "page.external.edit.deleteBlocked.negativeBalance": "公演の中止や払い戻しで Stripe の残高がマイナスになっているため、このページは削除できません。マイナスの分は次の売上で差し引きます。詳しくはお問い合わせください。",
+  "page.external.edit.deleteBlocked.unknown": "チケット販売の残高を確かめられなかったため、削除できませんでした。時間をおいてもう一度お試しください。"
 }

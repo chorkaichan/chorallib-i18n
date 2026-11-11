@@ -1789,5 +1789,11 @@
   "tickets.sales.startConfirm.now": "Tickets can be bought on the purchase page right away.",
   "tickets.sales.startConfirm.scheduled": "Tickets can't be bought until the sales start time. Sales begin at {date}.",
   "page.external.edit.events.deleteLockedTitle": "This event can't be deleted",
-  "page.external.edit.events.deleteLocked": "Events with tickets on sale, or with buyers whose sales haven't been paid out yet, can't be deleted. To delete it, pause sales on the ticket sales page and wait for the payout, or cancel the event and refund the buyers."
+  "page.external.edit.events.deleteLocked": "Events with tickets on sale, or with buyers whose sales haven't been paid out yet, can't be deleted. To delete it, pause sales on the ticket sales page and wait for the payout, or cancel the event and refund the buyers.",
+  "page.external.edit.events.ticketReschedule": "Tickets are being sold for this event. If you change the date and time and save, buyers will be notified by email automatically. Staff link expiry dates will be extended to match, and bank transfer deadlines will be moved up to the new start time.",
+  "page.external.edit.deleteBlocked.title": "This page can't be deleted",
+  "page.external.edit.deleteBlocked.tickets": "This page can't be deleted because it has events with tickets on sale or with sales that haven't been paid out yet. On the ticket sales page, pause sales and wait for the payout after the performance, or cancel the event and refund buyers, then delete the page.",
+  "page.external.edit.deleteBlocked.balance": "This page can't be deleted because your Stripe balance has sales that haven't been paid out to your bank account yet. Please delete it after the payout.",
+  "page.external.edit.deleteBlocked.negativeBalance": "This page can't be deleted because your Stripe balance is negative due to a cancellation or refunds. The negative amount will be deducted from your next sales. Please contact us for details.",
+  "page.external.edit.deleteBlocked.unknown": "We couldn't check your ticket sales balance, so the page wasn't deleted. Please try again later."
 }

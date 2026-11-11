@@ -1789,5 +1789,11 @@
   "tickets.sales.startConfirm.now": "구매 화면에서 바로 티켓을 살 수 있게 됩니다.",
   "tickets.sales.startConfirm.scheduled": "판매 시작 일시 전에는 살 수 없습니다. {date}부터 판매됩니다.",
   "page.external.edit.events.deleteLockedTitle": "이 이벤트는 삭제할 수 없습니다",
-  "page.external.edit.events.deleteLocked": "티켓을 판매 중이거나, 구매자가 있고 매출금 입금이 끝나지 않은 이벤트는 삭제할 수 없습니다. 삭제하려면 티켓 판매 화면에서 판매를 중지한 뒤 입금을 기다리거나, 공연을 취소하고 환불해 주세요."
+  "page.external.edit.events.deleteLocked": "티켓을 판매 중이거나, 구매자가 있고 매출금 입금이 끝나지 않은 이벤트는 삭제할 수 없습니다. 삭제하려면 티켓 판매 화면에서 판매를 중지한 뒤 입금을 기다리거나, 공연을 취소하고 환불해 주세요.",
+  "page.external.edit.events.ticketReschedule": "이 이벤트는 티켓을 판매하고 있습니다. 일시를 바꿔 저장하면 구매자에게 안내 메일이 자동으로 발송됩니다. 입장 확인 링크의 기한은 새 일시에 맞춰 연장되고, 계좌 이체의 결제 기한은 새 시작 일시까지로 앞당겨집니다.",
+  "page.external.edit.deleteBlocked.title": "이 페이지는 삭제할 수 없습니다",
+  "page.external.edit.deleteBlocked.tickets": "티켓을 판매 중이거나 매출금 입금이 끝나지 않은 이벤트가 있어 이 페이지를 삭제할 수 없습니다. 티켓 판매 화면에서 판매를 중지하고 공연 후 입금을 기다리거나, 공연을 취소하고 환불한 뒤 삭제해 주세요.",
+  "page.external.edit.deleteBlocked.balance": "Stripe 잔액에 아직 계좌로 입금되지 않은 매출금이 있어 이 페이지를 삭제할 수 없습니다. 입금이 끝난 뒤 삭제해 주세요.",
+  "page.external.edit.deleteBlocked.negativeBalance": "공연 취소나 환불로 Stripe 잔액이 마이너스가 되어 이 페이지를 삭제할 수 없습니다. 마이너스 금액은 다음 매출에서 차감됩니다. 자세한 내용은 문의해 주세요.",
+  "page.external.edit.deleteBlocked.unknown": "티켓 판매 잔액을 확인하지 못해 삭제하지 않았습니다. 잠시 후 다시 시도해 주세요."
 }

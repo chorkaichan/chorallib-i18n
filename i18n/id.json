@@ -1789,5 +1789,11 @@
   "tickets.sales.startConfirm.now": "Tiket dapat langsung dibeli di halaman pembelian.",
   "tickets.sales.startConfirm.scheduled": "Tiket belum dapat dibeli sebelum waktu mulai penjualan. Penjualan dimulai pada {date}.",
   "page.external.edit.events.deleteLockedTitle": "Acara ini tidak dapat dihapus",
-  "page.external.edit.events.deleteLocked": "Acara yang tiketnya sedang dijual, atau yang memiliki pembeli dan hasil penjualannya belum dibayarkan, tidak dapat dihapus. Untuk menghapusnya, jeda penjualan di halaman penjualan tiket lalu tunggu pembayarannya, atau batalkan acara dan kembalikan dana pembeli."
+  "page.external.edit.events.deleteLocked": "Acara yang tiketnya sedang dijual, atau yang memiliki pembeli dan hasil penjualannya belum dibayarkan, tidak dapat dihapus. Untuk menghapusnya, jeda penjualan di halaman penjualan tiket lalu tunggu pembayarannya, atau batalkan acara dan kembalikan dana pembeli.",
+  "page.external.edit.events.ticketReschedule": "Tiket untuk acara ini sedang dijual. Jika Anda mengubah tanggal dan waktu lalu menyimpan, pembeli akan otomatis diberi tahu melalui email. Masa berlaku tautan penerimaan akan diperpanjang sesuai jadwal baru, dan batas waktu transfer bank akan dimajukan ke waktu mulai yang baru.",
+  "page.external.edit.deleteBlocked.title": "Halaman ini tidak dapat dihapus",
+  "page.external.edit.deleteBlocked.tickets": "Halaman ini tidak dapat dihapus karena memiliki acara yang tiketnya sedang dijual atau hasil penjualannya belum dibayarkan. Di halaman penjualan tiket, jeda penjualan dan tunggu pembayaran setelah pertunjukan, atau batalkan acara dan kembalikan dana pembeli, lalu hapus halaman.",
+  "page.external.edit.deleteBlocked.balance": "Halaman ini tidak dapat dihapus karena saldo Stripe Anda berisi hasil penjualan yang belum dibayarkan ke rekening bank Anda. Hapus setelah pembayaran selesai.",
+  "page.external.edit.deleteBlocked.negativeBalance": "Halaman ini tidak dapat dihapus karena saldo Stripe Anda negatif akibat pembatalan atau pengembalian dana. Jumlah negatif akan dipotong dari penjualan berikutnya. Hubungi kami untuk detailnya.",
+  "page.external.edit.deleteBlocked.unknown": "Kami tidak dapat memeriksa saldo penjualan tiket, jadi halaman tidak dihapus. Silakan coba lagi nanti."
 }

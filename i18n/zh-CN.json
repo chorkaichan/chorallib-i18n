@@ -1789,5 +1789,11 @@
   "tickets.sales.startConfirm.now": "购票页面将立即可以购买门票。",
   "tickets.sales.startConfirm.scheduled": "在销售开始时间之前无法购买。将从 {date} 开始销售。",
   "page.external.edit.events.deleteLockedTitle": "无法删除此活动",
-  "page.external.edit.events.deleteLocked": "正在售票的活动，或有购票者且销售款尚未汇出的活动无法删除。如需删除，请在售票页面暂停销售并等待汇款，或取消演出并为购票者退款。"
+  "page.external.edit.events.deleteLocked": "正在售票的活动，或有购票者且销售款尚未汇出的活动无法删除。如需删除，请在售票页面暂停销售并等待汇款，或取消演出并为购票者退款。",
+  "page.external.edit.events.ticketReschedule": "此活动正在售票。更改日期和时间并保存后，系统会自动发邮件通知购票者。入场检票链接的有效期会随新日期延长，银行转账的付款期限会提前到新的开始时间。",
+  "page.external.edit.deleteBlocked.title": "无法删除此页面",
+  "page.external.edit.deleteBlocked.tickets": "此页面有正在售票或销售款尚未汇出的活动，因此无法删除。请在售票页面暂停销售并等待演出后的汇款，或取消演出并为购票者退款后再删除。",
+  "page.external.edit.deleteBlocked.balance": "您的 Stripe 余额中还有尚未汇入银行账户的销售款，因此无法删除此页面。请在汇款完成后再删除。",
+  "page.external.edit.deleteBlocked.negativeBalance": "由于演出取消或退款，您的 Stripe 余额为负，因此无法删除此页面。负数部分将从下次的销售款中扣除。详情请联系我们。",
+  "page.external.edit.deleteBlocked.unknown": "无法确认售票余额，因此未删除页面。请稍后重试。"
 }
