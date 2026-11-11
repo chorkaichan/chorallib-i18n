@@ -1666,6 +1666,8 @@
   "tickets.common.delete": "Elimina",
   "tickets.common.close": "Chiudi",
   "tickets.common.back": "Indietro",
+  "tickets.common.backToPortal": "Torna al portale di vendita dei biglietti",
+  "tickets.common.backToPageEdit": "Torna alla modifica della tua pagina ufficiale",
   "tickets.cancel.sectionTitle": "Annullare il concerto",
   "tickets.cancel.sectionDescription": "Annullando il concerto la vendita si ferma, tutti i biglietti pagati vengono rimborsati e gli acquirenti ricevono un'email. Questa azione non può essere annullata.",
   "tickets.cancel.dialogTitle": "Annullare questo concerto?",

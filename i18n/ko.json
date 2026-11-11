@@ -1666,6 +1666,8 @@
   "tickets.common.delete": "삭제",
   "tickets.common.close": "닫기",
   "tickets.common.back": "뒤로",
+  "tickets.common.backToPortal": "티켓 판매 포털로 돌아가기",
+  "tickets.common.backToPageEdit": "공식 페이지 편집으로 돌아가기",
   "tickets.cancel.sectionTitle": "공연 취소",
   "tickets.cancel.sectionDescription": "공연을 취소하면 판매가 중지되고 결제 완료된 티켓이 모두 환불되며, 구매자에게 메일로 안내합니다. 이 작업은 되돌릴 수 없습니다.",
   "tickets.cancel.dialogTitle": "공연을 취소할까요?",

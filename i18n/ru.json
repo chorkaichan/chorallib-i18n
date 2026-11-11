@@ -1666,6 +1666,8 @@
   "tickets.common.delete": "Удалить",
   "tickets.common.close": "Закрыть",
   "tickets.common.back": "Назад",
+  "tickets.common.backToPortal": "Вернуться на портал продажи билетов",
+  "tickets.common.backToPageEdit": "Вернуться к редактированию официальной страницы",
   "tickets.cancel.sectionTitle": "Отмена выступления",
   "tickets.cancel.sectionDescription": "При отмене выступления продажи прекращаются, все оплаченные билеты возвращаются, а покупатели получают уведомление по почте. Это действие нельзя отменить.",
   "tickets.cancel.dialogTitle": "Отменить выступление?",

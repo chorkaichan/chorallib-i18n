@@ -1666,6 +1666,8 @@
   "tickets.common.delete": "刪除",
   "tickets.common.close": "關閉",
   "tickets.common.back": "返回",
+  "tickets.common.backToPortal": "返回票券販售入口",
+  "tickets.common.backToPageEdit": "返回編輯官方頁面",
   "tickets.cancel.sectionTitle": "取消演出",
   "tickets.cancel.sectionDescription": "取消演出後，將停止販售，為所有已付款的票券退款，並以郵件通知購票者。此操作無法復原。",
   "tickets.cancel.dialogTitle": "要取消這場演出嗎？",

@@ -1666,6 +1666,8 @@
   "tickets.common.delete": "حذف",
   "tickets.common.close": "إغلاق",
   "tickets.common.back": "رجوع",
+  "tickets.common.backToPortal": "العودة إلى بوابة بيع التذاكر",
+  "tickets.common.backToPageEdit": "العودة إلى تعديل صفحتك الرسمية",
   "tickets.cancel.sectionTitle": "إلغاء العرض",
   "tickets.cancel.sectionDescription": "عند إلغاء العرض يتوقف البيع وتُسترد قيمة جميع التذاكر المدفوعة ويُبلَّغ المشترون عبر البريد الإلكتروني. لا يمكن التراجع عن هذا الإجراء.",
   "tickets.cancel.dialogTitle": "هل تريد إلغاء العرض؟",

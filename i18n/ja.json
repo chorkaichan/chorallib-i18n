@@ -1666,6 +1666,8 @@
   "tickets.common.delete": "削除",
   "tickets.common.close": "閉じる",
   "tickets.common.back": "戻る",
+  "tickets.common.backToPortal": "チケット販売ポータルに戻る",
+  "tickets.common.backToPageEdit": "公式ページの編集に戻る",
   "tickets.cancel.sectionTitle": "公演の中止",
   "tickets.cancel.sectionDescription": "公演を中止すると、販売を止めて支払済みのチケットをすべて払い戻し、購入者にメールでお知らせします。この操作は取り消せません。",
   "tickets.cancel.dialogTitle": "公演を中止しますか？",

@@ -1666,6 +1666,8 @@
   "tickets.common.delete": "Löschen",
   "tickets.common.close": "Schließen",
   "tickets.common.back": "Zurück",
+  "tickets.common.backToPortal": "Zurück zum Ticketverkaufsportal",
+  "tickets.common.backToPageEdit": "Zurück zur Bearbeitung deiner offiziellen Seite",
   "tickets.cancel.sectionTitle": "Aufführung absagen",
   "tickets.cancel.sectionDescription": "Wenn du die Aufführung absagst, wird der Verkauf gestoppt, alle bezahlten Tickets werden erstattet und die Käufer per E-Mail benachrichtigt. Das lässt sich nicht rückgängig machen.",
   "tickets.cancel.dialogTitle": "Aufführung absagen?",

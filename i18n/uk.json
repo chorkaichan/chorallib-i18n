@@ -1666,6 +1666,8 @@
   "tickets.common.delete": "Видалити",
   "tickets.common.close": "Закрити",
   "tickets.common.back": "Назад",
+  "tickets.common.backToPortal": "Повернутися до порталу продажу квитків",
+  "tickets.common.backToPageEdit": "Повернутися до редагування офіційної сторінки",
   "tickets.cancel.sectionTitle": "Скасування виступу",
   "tickets.cancel.sectionDescription": "Після скасування виступу продаж припиняється, усі оплачені квитки повертаються, а покупці отримують сповіщення електронною поштою. Цю дію неможливо скасувати.",
   "tickets.cancel.dialogTitle": "Скасувати виступ?",

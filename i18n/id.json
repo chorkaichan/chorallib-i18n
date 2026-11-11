@@ -1666,6 +1666,8 @@
   "tickets.common.delete": "Hapus",
   "tickets.common.close": "Tutup",
   "tickets.common.back": "Kembali",
+  "tickets.common.backToPortal": "Kembali ke portal penjualan tiket",
+  "tickets.common.backToPageEdit": "Kembali ke pengeditan halaman resmi",
   "tickets.cancel.sectionTitle": "Pembatalan konser",
   "tickets.cancel.sectionDescription": "Jika konser dibatalkan, penjualan dihentikan, semua tiket yang sudah dibayar dikembalikan dananya, dan pembeli diberi tahu lewat email. Tindakan ini tidak dapat dibatalkan.",
   "tickets.cancel.dialogTitle": "Batalkan konser ini?",

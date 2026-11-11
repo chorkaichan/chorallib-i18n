@@ -1666,6 +1666,8 @@
   "tickets.common.delete": "Padam",
   "tickets.common.close": "Tutup",
   "tickets.common.back": "Kembali",
+  "tickets.common.backToPortal": "Kembali ke portal jualan tiket",
+  "tickets.common.backToPageEdit": "Kembali ke penyuntingan halaman rasmi",
   "tickets.cancel.sectionTitle": "Pembatalan konsert",
   "tickets.cancel.sectionDescription": "Jika konsert dibatalkan, jualan dihentikan, semua tiket yang telah dibayar dibayar balik dan pembeli dimaklumkan melalui e-mel. Tindakan ini tidak boleh dibatalkan.",
   "tickets.cancel.dialogTitle": "Batalkan konsert ini?",

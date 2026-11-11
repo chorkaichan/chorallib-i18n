@@ -1666,6 +1666,8 @@
   "tickets.common.delete": "Delete",
   "tickets.common.close": "Close",
   "tickets.common.back": "Back",
+  "tickets.common.backToPortal": "Back to the ticket sales portal",
+  "tickets.common.backToPageEdit": "Back to editing your official page",
   "tickets.cancel.sectionTitle": "Cancel the performance",
   "tickets.cancel.sectionDescription": "Cancelling stops sales, refunds all paid tickets, and notifies buyers by email. This can't be undone.",
   "tickets.cancel.dialogTitle": "Cancel this performance?",
