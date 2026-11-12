@@ -1816,5 +1816,9 @@
   "tickets.purchase.error.priceChanged": "Der Preis hat sich geändert. Bitte prüfe den neuen Preis und versuche es erneut.",
   "tickets.types.error.tierAfterEventStart": "Die Zeitpunkte der Preisänderungen müssen vor Beginn der Veranstaltung liegen (Tickets werden bis zum Beginn verkauft)",
   "page.external.edit.events.ticketRescheduleTiers": "Diese Veranstaltung hat Ticketarten, deren Preis sich nach Datum ändert (Frühbucher, Abendkasse usw.). Die Zeitpunkte der Preisänderungen verschieben sich nicht mit dem Veranstaltungsdatum. Bitte prüfe sie bei den Ticketarten.",
-  "page.external.edit.events.ticketRescheduleTiers.link": "Ticketarten öffnen"
+  "page.external.edit.events.ticketRescheduleTiers.link": "Ticketarten öffnen",
+  "tickets.purchase.payment": "Zahlung",
+  "tickets.purchase.payment.withBankTransfer": "Kreditkarte, Apple Pay, Google Pay usw. oder Banküberweisung. Banküberweisung ist nur bei Bestellungen bis {date} möglich, {days} Tage vor der Veranstaltung.",
+  "tickets.purchase.payment.bankTransferClosed": "Kreditkarte, Apple Pay, Google Pay usw. Banküberweisung ist nicht mehr möglich, da sie nur bei Bestellungen bis {days} Tage vor der Veranstaltung angenommen wird.",
+  "tickets.types.bankTransferNote": "Käufer in Japan können bis {date}, {days} Tage vor der Veranstaltung, Banküberweisung wählen. Danach zahlen sie per Kreditkarte, Apple Pay, Google Pay usw."
 }

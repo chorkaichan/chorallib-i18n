@@ -1816,5 +1816,9 @@
   "tickets.purchase.error.priceChanged": "价格已变更。请确认新价格后重试。",
   "tickets.types.error.tierAfterEventStart": "价格变更的日期须在演出开始之前（门票销售至演出开始时）",
   "page.external.edit.events.ticketRescheduleTiers": "此活动有按日期调整价格的票种（早鸟、现场等）。价格变更的日期不会随活动日期改变，请在票种中重新确认。",
-  "page.external.edit.events.ticketRescheduleTiers.link": "打开票种"
+  "page.external.edit.events.ticketRescheduleTiers.link": "打开票种",
+  "tickets.purchase.payment": "付款方式",
+  "tickets.purchase.payment.withBankTransfer": "信用卡、Apple Pay、Google Pay 等，或银行转账。银行转账仅限 {date} 之前下单（演出 {days} 天前为止）。",
+  "tickets.purchase.payment.bankTransferClosed": "信用卡、Apple Pay、Google Pay 等。银行转账仅限于演出 {days} 天前下单，现已停止受理。",
+  "tickets.types.bankTransferNote": "日本国内的购买者可在 {date} 之前选择银行转账（演出 {days} 天前为止）。之后需使用信用卡、Apple Pay、Google Pay 等付款。"
 }

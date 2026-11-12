@@ -1816,5 +1816,9 @@
   "tickets.purchase.error.priceChanged": "تغيّر السعر. يُرجى التحقق من السعر الجديد والمحاولة مرة أخرى.",
   "tickets.types.error.tierAfterEventStart": "يجب أن تكون تواريخ تغيير الأسعار قبل بدء العرض (تُباع التذاكر حتى وقت البدء)",
   "page.external.edit.events.ticketRescheduleTiers": "لهذه الفعالية أنواع تذاكر يتغير سعرها حسب التاريخ (الحجز المبكر، يوم الحفل، إلخ). لا تتغير تواريخ تغيير الأسعار مع تاريخ الفعالية، لذا يُرجى مراجعتها في أنواع التذاكر.",
-  "page.external.edit.events.ticketRescheduleTiers.link": "فتح أنواع التذاكر"
+  "page.external.edit.events.ticketRescheduleTiers.link": "فتح أنواع التذاكر",
+  "tickets.purchase.payment": "طريقة الدفع",
+  "tickets.purchase.payment.withBankTransfer": "بطاقة الائتمان وApple Pay وGoogle Pay وغيرها، أو التحويل المصرفي. التحويل المصرفي متاح فقط للطلبات المقدمة حتى {date}، أي قبل الفعالية بـ {days} أيام.",
+  "tickets.purchase.payment.bankTransferClosed": "بطاقة الائتمان وApple Pay وGoogle Pay وغيرها. انتهى قبول التحويل المصرفي، إذ يُقبل فقط للطلبات المقدمة قبل الفعالية بـ {days} أيام على الأقل.",
+  "tickets.types.bankTransferNote": "يمكن للمشترين من داخل اليابان اختيار التحويل المصرفي حتى {date}، أي قبل الفعالية بـ {days} أيام. بعد ذلك يكون الدفع ببطاقة الائتمان وApple Pay وGoogle Pay وغيرها."
 }

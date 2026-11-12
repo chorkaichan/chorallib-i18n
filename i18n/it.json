@@ -1816,5 +1816,9 @@
   "tickets.purchase.error.priceChanged": "Il prezzo è cambiato. Controlla il nuovo prezzo e riprova.",
   "tickets.types.error.tierAfterEventStart": "Le date di cambio prezzo devono essere prima dell'inizio dello spettacolo (i biglietti sono in vendita fino all'orario di inizio)",
   "page.external.edit.events.ticketRescheduleTiers": "Questo evento ha tipi di biglietto il cui prezzo cambia in base alla data (early bird, botteghino, ecc.). Le date di cambio prezzo non si spostano con la data dell'evento: controllale nei tipi di biglietto.",
-  "page.external.edit.events.ticketRescheduleTiers.link": "Apri i tipi di biglietto"
+  "page.external.edit.events.ticketRescheduleTiers.link": "Apri i tipi di biglietto",
+  "tickets.purchase.payment": "Pagamento",
+  "tickets.purchase.payment.withBankTransfer": "Carta di credito, Apple Pay, Google Pay, ecc., oppure bonifico bancario. Il bonifico bancario è disponibile solo per ordini effettuati entro il {date}, {days} giorni prima dell'evento.",
+  "tickets.purchase.payment.bankTransferClosed": "Carta di credito, Apple Pay, Google Pay, ecc. Il bonifico bancario non è più disponibile, perché è accettato solo per ordini effettuati almeno {days} giorni prima dell'evento.",
+  "tickets.types.bankTransferNote": "Gli acquirenti in Giappone possono scegliere il bonifico bancario fino al {date}, {days} giorni prima dell'evento. Dopo, pagano con carta di credito, Apple Pay, Google Pay, ecc."
 }

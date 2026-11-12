@@ -1816,5 +1816,9 @@
   "tickets.purchase.error.priceChanged": "Цена изменилась. Проверьте новую цену и попробуйте ещё раз.",
   "tickets.types.error.tierAfterEventStart": "Даты смены цен должны быть до начала концерта (билеты продаются до времени начала)",
   "page.external.edit.events.ticketRescheduleTiers": "У этого мероприятия есть типы билетов, цена которых меняется по датам (ранняя продажа, в день концерта и т. д.). Даты смены цен не сдвигаются вместе с датой мероприятия, поэтому проверьте их в типах билетов.",
-  "page.external.edit.events.ticketRescheduleTiers.link": "Открыть типы билетов"
+  "page.external.edit.events.ticketRescheduleTiers.link": "Открыть типы билетов",
+  "tickets.purchase.payment": "Оплата",
+  "tickets.purchase.payment.withBankTransfer": "Банковская карта, Apple Pay, Google Pay и др. или банковский перевод. Банковский перевод доступен только для заказов, оформленных до {date}, за {days} дней до мероприятия.",
+  "tickets.purchase.payment.bankTransferClosed": "Банковская карта, Apple Pay, Google Pay и др. Банковский перевод больше не принимается: он доступен только для заказов, оформленных не позднее чем за {days} дней до мероприятия.",
+  "tickets.types.bankTransferNote": "Покупатели из Японии могут выбрать банковский перевод до {date}, за {days} дней до мероприятия. После этого оплата — банковской картой, Apple Pay, Google Pay и др."
 }

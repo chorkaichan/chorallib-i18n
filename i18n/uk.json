@@ -1816,5 +1816,9 @@
   "tickets.purchase.error.priceChanged": "Ціна змінилася. Перевірте нову ціну та спробуйте ще раз.",
   "tickets.types.error.tierAfterEventStart": "Дати зміни цін мають бути до початку концерту (квитки продаються до часу початку)",
   "page.external.edit.events.ticketRescheduleTiers": "У цього заходу є типи квитків, ціна яких змінюється за датами (ранній продаж, у день концерту тощо). Дати зміни цін не зсуваються разом із датою заходу, тож перевірте їх у типах квитків.",
-  "page.external.edit.events.ticketRescheduleTiers.link": "Відкрити типи квитків"
+  "page.external.edit.events.ticketRescheduleTiers.link": "Відкрити типи квитків",
+  "tickets.purchase.payment": "Оплата",
+  "tickets.purchase.payment.withBankTransfer": "Банківська картка, Apple Pay, Google Pay тощо або банківський переказ. Банківський переказ доступний лише для замовлень, оформлених до {date}, за {days} днів до заходу.",
+  "tickets.purchase.payment.bankTransferClosed": "Банківська картка, Apple Pay, Google Pay тощо. Банківський переказ більше не приймається: він доступний лише для замовлень, оформлених не пізніше ніж за {days} днів до заходу.",
+  "tickets.types.bankTransferNote": "Покупці з Японії можуть вибрати банківський переказ до {date}, за {days} днів до заходу. Після цього оплата — банківською карткою, Apple Pay, Google Pay тощо."
 }

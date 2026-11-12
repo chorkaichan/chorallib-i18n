@@ -1816,5 +1816,9 @@
   "tickets.purchase.error.priceChanged": "Harga telah berubah. Sila semak harga baharu dan cuba lagi.",
   "tickets.types.error.tierAfterEventStart": "Tarikh pertukaran harga mesti sebelum persembahan bermula (tiket dijual sehingga masa mula)",
   "page.external.edit.events.ticketRescheduleTiers": "Acara ini mempunyai jenis tiket yang harganya bertukar mengikut tarikh (early bird, di pintu, dll.). Tarikh pertukaran harga tidak berubah mengikut tarikh acara, jadi sila semak semula dalam jenis tiket.",
-  "page.external.edit.events.ticketRescheduleTiers.link": "Buka jenis tiket"
+  "page.external.edit.events.ticketRescheduleTiers.link": "Buka jenis tiket",
+  "tickets.purchase.payment": "Pembayaran",
+  "tickets.purchase.payment.withBankTransfer": "Kad kredit, Apple Pay, Google Pay, dll., atau pindahan bank. Pindahan bank hanya tersedia untuk pesanan yang dibuat sehingga {date}, {days} hari sebelum acara.",
+  "tickets.purchase.payment.bankTransferClosed": "Kad kredit, Apple Pay, Google Pay, dll. Pindahan bank tidak lagi diterima, kerana ia hanya tersedia untuk pesanan yang dibuat sekurang-kurangnya {days} hari sebelum acara.",
+  "tickets.types.bankTransferNote": "Pembeli di Jepun boleh memilih pindahan bank sehingga {date}, {days} hari sebelum acara. Selepas itu, pembayaran dibuat dengan kad kredit, Apple Pay, Google Pay, dll."
 }

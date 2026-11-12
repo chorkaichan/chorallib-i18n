@@ -1816,5 +1816,9 @@
   "tickets.purchase.error.priceChanged": "가격이 변경되었습니다. 새 가격을 확인한 후 다시 진행해 주세요.",
   "tickets.types.error.tierAfterEventStart": "가격이 바뀌는 일시는 공연 시작 전이어야 합니다 (티켓은 공연 시작 시각까지 판매합니다)",
   "page.external.edit.events.ticketRescheduleTiers": "이 이벤트에는 날짜별로 가격이 바뀌는 티켓 종류(얼리버드, 현장 판매 등)가 있습니다. 가격이 바뀌는 일시는 공연 일시에 맞춰 바뀌지 않으므로 티켓 종류에서 다시 확인해 주세요.",
-  "page.external.edit.events.ticketRescheduleTiers.link": "티켓 종류 열기"
+  "page.external.edit.events.ticketRescheduleTiers.link": "티켓 종류 열기",
+  "tickets.purchase.payment": "결제 방법",
+  "tickets.purchase.payment.withBankTransfer": "신용카드·Apple Pay·Google Pay 등 또는 계좌 이체. 계좌 이체는 {date}까지 신청한 경우에만 가능합니다(공연 {days}일 전까지).",
+  "tickets.purchase.payment.bankTransferClosed": "신용카드·Apple Pay·Google Pay 등. 계좌 이체는 공연 {days}일 전까지 신청한 경우에만 가능하므로 접수가 마감되었습니다.",
+  "tickets.types.bankTransferNote": "일본 국내 구매자는 {date}까지 계좌 이체를 선택할 수 있습니다(공연 {days}일 전까지). 그 이후에는 신용카드·Apple Pay·Google Pay 등으로 결제합니다."
 }
