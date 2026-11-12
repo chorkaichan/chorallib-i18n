@@ -1505,7 +1505,7 @@
   "tickets.legal.public.extraCost": "Kos selain harga",
   "tickets.legal.public.extraCost.value": "Jika membayar dalam mata wang selain yen Jepun, yuran penukaran Stripe dikenakan (sudah termasuk dalam kadar pertukaran). Caj pindahan bank dan caj sambungan internet ditanggung oleh pelanggan.",
   "tickets.legal.public.payment": "Kaedah dan masa pembayaran",
-  "tickets.legal.public.payment.value": "Kad kredit, Apple Pay, Google Pay, dll. (dibayar semasa pembelian; dari luar Jepun, pembayaran dalam mata wang tempatan juga boleh dibuat); PayPay (hanya untuk pesanan dari Jepun; dibayar semasa pembelian); pindahan bank (hanya untuk pesanan dari Jepun; dibayar sebelum tarikh akhir yang dipaparkan pada halaman pembelian).",
+  "tickets.legal.public.payment.value": "Kad kredit, Apple Pay, Google Pay, dll. (dibayar semasa pembelian; dari luar Jepun, pembayaran dalam mata wang tempatan juga boleh dibuat); pindahan bank (hanya untuk pesanan dari Jepun yang dibuat sekurang-kurangnya 7 hari sebelum acara; dibayar sebelum tarikh akhir yang dipaparkan pada halaman pembelian).",
   "tickets.legal.public.delivery": "Penghantaran",
   "tickets.legal.public.delivery.value": "Tiket elektronik dihantar melalui e-mel sebaik sahaja pembayaran disahkan.",
   "tickets.legal.public.cancel": "Pembatalan dan bayaran balik",

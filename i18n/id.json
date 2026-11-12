@@ -1505,7 +1505,7 @@
   "tickets.legal.public.extraCost": "Biaya selain harga",
   "tickets.legal.public.extraCost.value": "Jika membayar dengan mata uang selain yen Jepang, berlaku biaya konversi Stripe (sudah termasuk dalam kurs). Biaya transfer bank dan biaya koneksi internet ditanggung pelanggan.",
   "tickets.legal.public.payment": "Metode dan waktu pembayaran",
-  "tickets.legal.public.payment.value": "Kartu kredit, Apple Pay, Google Pay, dll. (dibayar saat pembelian; dari luar Jepang juga dapat membayar dengan mata uang setempat); PayPay (hanya untuk pesanan dari Jepang; dibayar saat pembelian); transfer bank (hanya untuk pesanan dari Jepang; dibayar sebelum batas waktu yang ditampilkan di halaman pembelian).",
+  "tickets.legal.public.payment.value": "Kartu kredit, Apple Pay, Google Pay, dll. (dibayar saat pembelian; dari luar Jepang juga dapat membayar dengan mata uang setempat); transfer bank (hanya untuk pesanan dari Jepang yang dibuat paling lambat 7 hari sebelum acara; dibayar sebelum batas waktu yang ditampilkan di halaman pembelian).",
   "tickets.legal.public.delivery": "Pengiriman",
   "tickets.legal.public.delivery.value": "Tiket elektronik dikirim lewat email segera setelah pembayaran dikonfirmasi.",
   "tickets.legal.public.cancel": "Pembatalan dan pengembalian dana",

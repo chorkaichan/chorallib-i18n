@@ -1505,7 +1505,7 @@
   "tickets.legal.public.extraCost": "Costs other than the price",
   "tickets.legal.public.extraCost.value": "If you pay in a currency other than Japanese yen, Stripe's conversion fee (included in the exchange rate). Bank transfer fees and internet connection charges are borne by the customer.",
   "tickets.legal.public.payment": "Payment method and timing",
-  "tickets.legal.public.payment.value": "Credit card, Apple Pay, Google Pay, etc. (paid at purchase; you can also pay in your local currency from outside Japan); PayPay (orders from Japan only; paid at purchase); bank transfer (orders from Japan only; paid by the deadline shown on the purchase page).",
+  "tickets.legal.public.payment.value": "Credit card, Apple Pay, Google Pay, etc. (paid at purchase; you can also pay in your local currency from outside Japan); bank transfer (orders from Japan placed at least 7 days before the event only; paid by the deadline shown on the purchase page).",
   "tickets.legal.public.delivery": "Delivery",
   "tickets.legal.public.delivery.value": "E-tickets are emailed as soon as the payment is confirmed.",
   "tickets.legal.public.cancel": "Cancellation and refunds",

@@ -1505,7 +1505,7 @@
   "tickets.legal.public.extraCost": "Frais autres que le prix",
   "tickets.legal.public.extraCost.value": "Si vous payez dans une devise autre que le yen japonais, les frais de conversion de Stripe s'appliquent (inclus dans le taux de change). Les frais de virement et les frais de connexion internet sont à la charge du client.",
   "tickets.legal.public.payment": "Mode et moment du paiement",
-  "tickets.legal.public.payment.value": "Carte bancaire, Apple Pay, Google Pay, etc. (paiement à l'achat ; depuis l'étranger, paiement possible dans la devise locale) ; PayPay (commandes depuis le Japon uniquement ; paiement à l'achat) ; virement bancaire (commandes depuis le Japon uniquement ; paiement avant la date limite indiquée sur la page d'achat).",
+  "tickets.legal.public.payment.value": "Carte bancaire, Apple Pay, Google Pay, etc. (paiement à l'achat ; depuis l'étranger, paiement possible dans la devise locale) ; virement bancaire (commandes depuis le Japon passées au moins 7 jours avant l'événement uniquement ; paiement avant la date limite indiquée sur la page d'achat).",
   "tickets.legal.public.delivery": "Livraison",
   "tickets.legal.public.delivery.value": "Les billets électroniques sont envoyés par e-mail dès la confirmation du paiement.",
   "tickets.legal.public.cancel": "Annulation et remboursement",

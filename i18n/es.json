@@ -1505,7 +1505,7 @@
   "tickets.legal.public.extraCost": "Costes además del precio",
   "tickets.legal.public.extraCost.value": "Si pagas en una moneda distinta del yen japonés, se aplica la comisión de conversión de Stripe (incluida en el tipo de cambio). Las comisiones de la transferencia bancaria y los gastos de conexión a internet corren por cuenta del cliente.",
   "tickets.legal.public.payment": "Forma y momento de pago",
-  "tickets.legal.public.payment.value": "Tarjeta de crédito, Apple Pay, Google Pay, etc. (pago en el momento de la compra; desde fuera de Japón también se puede pagar en la moneda local); PayPay (solo para pedidos desde Japón; pago en el momento de la compra); transferencia bancaria (solo para pedidos desde Japón; pago antes del plazo indicado en la página de compra).",
+  "tickets.legal.public.payment.value": "Tarjeta de crédito, Apple Pay, Google Pay, etc. (pago en el momento de la compra; desde fuera de Japón también se puede pagar en la moneda local); transferencia bancaria (solo para pedidos desde Japón realizados al menos 7 días antes del evento; pago antes del plazo indicado en la página de compra).",
   "tickets.legal.public.delivery": "Entrega",
   "tickets.legal.public.delivery.value": "Las entradas electrónicas se envían por correo electrónico en cuanto se confirma el pago.",
   "tickets.legal.public.cancel": "Cancelaciones y reembolsos",

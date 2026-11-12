@@ -1505,7 +1505,7 @@
   "tickets.legal.public.extraCost": "價格以外的費用",
   "tickets.legal.public.extraCost.value": "以日圓以外的貨幣付款時，須負擔 Stripe 的換算手續費（包含在匯率中）。銀行轉帳手續費與上網通訊費由顧客自行負擔。",
   "tickets.legal.public.payment": "付款方式與付款時間",
-  "tickets.legal.public.payment.value": "信用卡、Apple Pay、Google Pay 等（購買時付款；從海外下單也可使用當地貨幣付款）；PayPay（僅限日本國內下單；購買時付款）；銀行轉帳（僅限日本國內下單；在購買頁面顯示的期限前付款）。",
+  "tickets.legal.public.payment.value": "信用卡、Apple Pay、Google Pay 等（購買時付款；從海外下單也可使用當地貨幣付款）；銀行轉帳（僅限日本國內且在演出 7 天前之前下單；在購買頁面顯示的期限前付款）。",
   "tickets.legal.public.delivery": "交付時間",
   "tickets.legal.public.delivery.value": "確認付款後，立即以電子郵件寄送電子票。",
   "tickets.legal.public.cancel": "取消與退款",

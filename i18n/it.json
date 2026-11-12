@@ -1505,7 +1505,7 @@
   "tickets.legal.public.extraCost": "Costi diversi dal prezzo",
   "tickets.legal.public.extraCost.value": "Se paghi in una valuta diversa dallo yen giapponese, si applica la commissione di conversione di Stripe (inclusa nel tasso di cambio). Le spese di bonifico e i costi di connessione a internet sono a carico del cliente.",
   "tickets.legal.public.payment": "Metodo e momento del pagamento",
-  "tickets.legal.public.payment.value": "Carta di credito, Apple Pay, Google Pay, ecc. (pagamento all'acquisto; dall'estero è possibile pagare anche nella valuta locale); PayPay (solo per ordini dal Giappone; pagamento all'acquisto); bonifico bancario (solo per ordini dal Giappone; pagamento entro la scadenza indicata nella pagina di acquisto).",
+  "tickets.legal.public.payment.value": "Carta di credito, Apple Pay, Google Pay, ecc. (pagamento all'acquisto; dall'estero è possibile pagare anche nella valuta locale); bonifico bancario (solo per ordini dal Giappone effettuati almeno 7 giorni prima dell'evento; pagamento entro la scadenza indicata nella pagina di acquisto).",
   "tickets.legal.public.delivery": "Consegna",
   "tickets.legal.public.delivery.value": "I biglietti elettronici vengono inviati via email non appena il pagamento è confermato.",
   "tickets.legal.public.cancel": "Annullamento e rimborso",

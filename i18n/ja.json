@@ -1505,7 +1505,7 @@
   "tickets.legal.public.extraCost": "販売価格以外の費用",
   "tickets.legal.public.extraCost.value": "日本円以外の通貨で支払う場合は、Stripe の換算手数料（換算レートに含まれます）。銀行振込の振込手数料と、インターネットの通信料はお客様のご負担です。",
   "tickets.legal.public.payment": "支払方法・支払時期",
-  "tickets.legal.public.payment.value": "クレジットカード・Apple Pay・Google Pay など（購入時にお支払い。海外からは現地の通貨でも支払えます）、PayPay（日本国内からのお申し込みのみ。購入時にお支払い）、銀行振込（日本国内からのお申し込みのみ。購入画面に表示する期限までにお支払い）。",
+  "tickets.legal.public.payment.value": "クレジットカード・Apple Pay・Google Pay など（購入時にお支払い。海外からは現地の通貨でも支払えます）、銀行振込（日本国内から、開演の 7 日前までのお申し込みのみ。購入画面に表示する期限までにお支払い）。",
   "tickets.legal.public.delivery": "引き渡し時期",
   "tickets.legal.public.delivery.value": "お支払いの確認後すぐに、電子チケットをメールでお送りします。",
   "tickets.legal.public.cancel": "キャンセル・払い戻し",
