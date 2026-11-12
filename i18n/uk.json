@@ -1814,5 +1814,7 @@
   "tickets.types.error.field.priceTiers": "Введіть назву (до 30 символів), ціну й дату початку для кожної ціни",
   "tickets.purchase.nextPrice": "{label}: {price} з {date}",
   "tickets.purchase.error.priceChanged": "Ціна змінилася. Перевірте нову ціну та спробуйте ще раз.",
-  "tickets.types.error.tierAfterEventStart": "Дати зміни цін мають бути до початку концерту (квитки продаються до часу початку)"
+  "tickets.types.error.tierAfterEventStart": "Дати зміни цін мають бути до початку концерту (квитки продаються до часу початку)",
+  "page.external.edit.events.ticketRescheduleTiers": "У цього заходу є типи квитків, ціна яких змінюється за датами (ранній продаж, у день концерту тощо). Дати зміни цін не зсуваються разом із датою заходу, тож перевірте їх у типах квитків.",
+  "page.external.edit.events.ticketRescheduleTiers.link": "Відкрити типи квитків"
 }

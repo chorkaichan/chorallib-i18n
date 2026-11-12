@@ -1814,5 +1814,7 @@
   "tickets.types.error.field.priceTiers": "Masukkan nama (maksimum 30 aksara), harga dan tarikh mula bagi setiap harga",
   "tickets.purchase.nextPrice": "{label}: {price} mulai {date}",
   "tickets.purchase.error.priceChanged": "Harga telah berubah. Sila semak harga baharu dan cuba lagi.",
-  "tickets.types.error.tierAfterEventStart": "Tarikh pertukaran harga mesti sebelum persembahan bermula (tiket dijual sehingga masa mula)"
+  "tickets.types.error.tierAfterEventStart": "Tarikh pertukaran harga mesti sebelum persembahan bermula (tiket dijual sehingga masa mula)",
+  "page.external.edit.events.ticketRescheduleTiers": "Acara ini mempunyai jenis tiket yang harganya bertukar mengikut tarikh (early bird, di pintu, dll.). Tarikh pertukaran harga tidak berubah mengikut tarikh acara, jadi sila semak semula dalam jenis tiket.",
+  "page.external.edit.events.ticketRescheduleTiers.link": "Buka jenis tiket"
 }

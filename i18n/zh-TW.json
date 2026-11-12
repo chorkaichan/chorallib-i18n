@@ -1814,5 +1814,7 @@
   "tickets.types.error.field.priceTiers": "請為每個價格輸入名稱（30 個字元以內）、價格和開始日期",
   "tickets.purchase.nextPrice": "{date}起 {price}（{label}）",
   "tickets.purchase.error.priceChanged": "價格已變更。請確認新價格後再試一次。",
-  "tickets.types.error.tierAfterEventStart": "價格變更的日期須在演出開始之前（門票銷售至演出開始時）"
+  "tickets.types.error.tierAfterEventStart": "價格變更的日期須在演出開始之前（門票銷售至演出開始時）",
+  "page.external.edit.events.ticketRescheduleTiers": "此活動有依日期調整價格的票種（早鳥、現場等）。價格變更的日期不會隨活動日期改變，請在票種中重新確認。",
+  "page.external.edit.events.ticketRescheduleTiers.link": "開啟票種"
 }

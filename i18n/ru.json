@@ -1814,5 +1814,7 @@
   "tickets.types.error.field.priceTiers": "Введите название (до 30 символов), цену и дату начала для каждой цены",
   "tickets.purchase.nextPrice": "{label}: {price} с {date}",
   "tickets.purchase.error.priceChanged": "Цена изменилась. Проверьте новую цену и попробуйте ещё раз.",
-  "tickets.types.error.tierAfterEventStart": "Даты смены цен должны быть до начала концерта (билеты продаются до времени начала)"
+  "tickets.types.error.tierAfterEventStart": "Даты смены цен должны быть до начала концерта (билеты продаются до времени начала)",
+  "page.external.edit.events.ticketRescheduleTiers": "У этого мероприятия есть типы билетов, цена которых меняется по датам (ранняя продажа, в день концерта и т. д.). Даты смены цен не сдвигаются вместе с датой мероприятия, поэтому проверьте их в типах билетов.",
+  "page.external.edit.events.ticketRescheduleTiers.link": "Открыть типы билетов"
 }

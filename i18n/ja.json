@@ -1814,5 +1814,7 @@
   "tickets.types.error.field.priceTiers": "それぞれの価格の名前（30 文字以内）・価格・切り替える日時を入力してください",
   "tickets.purchase.nextPrice": "{date}から {price}（{label}）",
   "tickets.purchase.error.priceChanged": "価格が切り替わりました。新しい価格を確かめて、もう一度お進みください",
-  "tickets.types.error.tierAfterEventStart": "価格を切り替える日時は、公演の開始より前にしてください（チケットは開演まで販売します）"
+  "tickets.types.error.tierAfterEventStart": "価格を切り替える日時は、公演の開始より前にしてください（チケットは開演まで販売します）",
+  "page.external.edit.events.ticketRescheduleTiers": "このイベントには、日時で価格を切り替える券種（早割・当日など）があります。価格を切り替える日時は公演の日時に合わせて変わらないので、チケット販売の券種で見直してください。",
+  "page.external.edit.events.ticketRescheduleTiers.link": "券種を開く"
 }

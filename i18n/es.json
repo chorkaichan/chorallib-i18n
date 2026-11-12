@@ -1814,5 +1814,7 @@
   "tickets.types.error.field.priceTiers": "Introduce un nombre (hasta 30 caracteres), un precio y una fecha de inicio para cada precio",
   "tickets.purchase.nextPrice": "{label}: {price} desde {date}",
   "tickets.purchase.error.priceChanged": "El precio ha cambiado. Comprueba el nuevo precio e inténtalo de nuevo.",
-  "tickets.types.error.tierAfterEventStart": "Las fechas de cambio de precio deben ser anteriores al inicio de la función (las entradas se venden hasta la hora de inicio)"
+  "tickets.types.error.tierAfterEventStart": "Las fechas de cambio de precio deben ser anteriores al inicio de la función (las entradas se venden hasta la hora de inicio)",
+  "page.external.edit.events.ticketRescheduleTiers": "Este evento tiene tipos de entrada cuyo precio cambia según la fecha (anticipada, taquilla, etc.). Las fechas de cambio de precio no se mueven con la fecha del evento, así que revísalas en los tipos de entrada.",
+  "page.external.edit.events.ticketRescheduleTiers.link": "Abrir tipos de entrada"
 }

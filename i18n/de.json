@@ -1814,5 +1814,7 @@
   "tickets.types.error.field.priceTiers": "Gib für jeden Preis einen Namen (bis zu 30 Zeichen), einen Preis und einen Beginn ein",
   "tickets.purchase.nextPrice": "{label}: {price} ab {date}",
   "tickets.purchase.error.priceChanged": "Der Preis hat sich geändert. Bitte prüfe den neuen Preis und versuche es erneut.",
-  "tickets.types.error.tierAfterEventStart": "Die Zeitpunkte der Preisänderungen müssen vor Beginn der Veranstaltung liegen (Tickets werden bis zum Beginn verkauft)"
+  "tickets.types.error.tierAfterEventStart": "Die Zeitpunkte der Preisänderungen müssen vor Beginn der Veranstaltung liegen (Tickets werden bis zum Beginn verkauft)",
+  "page.external.edit.events.ticketRescheduleTiers": "Diese Veranstaltung hat Ticketarten, deren Preis sich nach Datum ändert (Frühbucher, Abendkasse usw.). Die Zeitpunkte der Preisänderungen verschieben sich nicht mit dem Veranstaltungsdatum. Bitte prüfe sie bei den Ticketarten.",
+  "page.external.edit.events.ticketRescheduleTiers.link": "Ticketarten öffnen"
 }

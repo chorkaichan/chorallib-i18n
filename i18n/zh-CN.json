@@ -1814,5 +1814,7 @@
   "tickets.types.error.field.priceTiers": "请为每个价格输入名称（30 个字符以内）、价格和开始日期",
   "tickets.purchase.nextPrice": "{date}起 {price}（{label}）",
   "tickets.purchase.error.priceChanged": "价格已变更。请确认新价格后重试。",
-  "tickets.types.error.tierAfterEventStart": "价格变更的日期须在演出开始之前（门票销售至演出开始时）"
+  "tickets.types.error.tierAfterEventStart": "价格变更的日期须在演出开始之前（门票销售至演出开始时）",
+  "page.external.edit.events.ticketRescheduleTiers": "此活动有按日期调整价格的票种（早鸟、现场等）。价格变更的日期不会随活动日期改变，请在票种中重新确认。",
+  "page.external.edit.events.ticketRescheduleTiers.link": "打开票种"
 }

@@ -1814,5 +1814,7 @@
   "tickets.types.error.field.priceTiers": "Saisissez un nom (30 caractères max.), un prix et une date de début pour chaque prix",
   "tickets.purchase.nextPrice": "{label} : {price} à partir du {date}",
   "tickets.purchase.error.priceChanged": "Le prix a changé. Vérifiez le nouveau prix et réessayez.",
-  "tickets.types.error.tierAfterEventStart": "Les dates de changement de prix doivent être avant le début du concert (les billets sont vendus jusqu'à l'heure de début)"
+  "tickets.types.error.tierAfterEventStart": "Les dates de changement de prix doivent être avant le début du concert (les billets sont vendus jusqu'à l'heure de début)",
+  "page.external.edit.events.ticketRescheduleTiers": "Cet événement a des types de billets dont le prix change selon la date (prévente, sur place, etc.). Les dates de changement de prix ne suivent pas la date de l'événement : vérifiez-les dans les types de billets.",
+  "page.external.edit.events.ticketRescheduleTiers.link": "Ouvrir les types de billets"
 }

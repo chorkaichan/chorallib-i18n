@@ -1814,5 +1814,7 @@
   "tickets.types.error.field.priceTiers": "각 가격의 이름(30자 이내), 가격, 바뀌는 일시를 입력해 주세요",
   "tickets.purchase.nextPrice": "{label}: {date}부터 {price}",
   "tickets.purchase.error.priceChanged": "가격이 변경되었습니다. 새 가격을 확인한 후 다시 진행해 주세요.",
-  "tickets.types.error.tierAfterEventStart": "가격이 바뀌는 일시는 공연 시작 전이어야 합니다 (티켓은 공연 시작 시각까지 판매합니다)"
+  "tickets.types.error.tierAfterEventStart": "가격이 바뀌는 일시는 공연 시작 전이어야 합니다 (티켓은 공연 시작 시각까지 판매합니다)",
+  "page.external.edit.events.ticketRescheduleTiers": "이 이벤트에는 날짜별로 가격이 바뀌는 티켓 종류(얼리버드, 현장 판매 등)가 있습니다. 가격이 바뀌는 일시는 공연 일시에 맞춰 바뀌지 않으므로 티켓 종류에서 다시 확인해 주세요.",
+  "page.external.edit.events.ticketRescheduleTiers.link": "티켓 종류 열기"
 }

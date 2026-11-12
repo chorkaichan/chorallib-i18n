@@ -1814,5 +1814,7 @@
   "tickets.types.error.field.priceTiers": "Enter a name (up to 30 characters), price, and start date for each price",
   "tickets.purchase.nextPrice": "{label}: {price} from {date}",
   "tickets.purchase.error.priceChanged": "The price has changed. Please check the new price and try again.",
-  "tickets.types.error.tierAfterEventStart": "The dates when prices change must be before the performance starts (tickets are sold until the start time)"
+  "tickets.types.error.tierAfterEventStart": "The dates when prices change must be before the performance starts (tickets are sold until the start time)",
+  "page.external.edit.events.ticketRescheduleTiers": "This event has ticket types whose price changes by date (Early Bird, Door, etc.). The dates when prices change won't move with the event date, so please review them in the ticket types.",
+  "page.external.edit.events.ticketRescheduleTiers.link": "Open ticket types"
 }
