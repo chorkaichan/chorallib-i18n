@@ -871,6 +871,7 @@
   "page.external.edit.members.pendingInvitations": "Jemputan Menunggu",
   "page.external.edit.members.cancelInvitation": "Batalkan Jemputan",
   "page.external.edit.members.invitedBy": "Dijemput oleh {name}",
+  "page.external.edit.members.invitationDates": "Dijemput pada {invitedAt} (sah sehingga {expiresAt})",
   "page.external.edit.coverImage": "Imej Muka Depan",
   "page.external.edit.coverImage.change": "Tukar imej",
   "page.external.edit.coverImage.remove": "Buang imej",

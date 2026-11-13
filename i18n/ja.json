@@ -871,6 +871,7 @@
   "page.external.edit.members.pendingInvitations": "保留中の招待",
   "page.external.edit.members.cancelInvitation": "招待を取り消し",
   "page.external.edit.members.invitedBy": "{name} が招待",
+  "page.external.edit.members.invitationDates": "{invitedAt} に招待（{expiresAt} まで有効）",
   "page.external.edit.coverImage": "カバー画像",
   "page.external.edit.coverImage.change": "画像を変更",
   "page.external.edit.coverImage.remove": "画像を削除",

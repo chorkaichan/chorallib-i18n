@@ -871,6 +871,7 @@
   "page.external.edit.members.pendingInvitations": "Inviti in sospeso",
   "page.external.edit.members.cancelInvitation": "Annulla invito",
   "page.external.edit.members.invitedBy": "Invitato da {name}",
+  "page.external.edit.members.invitationDates": "Invito inviato il {invitedAt} (valido fino al {expiresAt})",
   "page.external.edit.coverImage": "Immagine di copertina",
   "page.external.edit.coverImage.change": "Cambia immagine",
   "page.external.edit.coverImage.remove": "Rimuovi immagine",

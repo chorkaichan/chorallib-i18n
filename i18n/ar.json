@@ -871,6 +871,7 @@
   "page.external.edit.members.pendingInvitations": "الدعوات المعلقة",
   "page.external.edit.members.cancelInvitation": "إلغاء الدعوة",
   "page.external.edit.members.invitedBy": "بدعوة من {name}",
+  "page.external.edit.members.invitationDates": "تمت الدعوة في {invitedAt} (صالحة حتى {expiresAt})",
   "page.external.edit.coverImage": "صورة الغلاف",
   "page.external.edit.coverImage.change": "تغيير الصورة",
   "page.external.edit.coverImage.remove": "إزالة الصورة",

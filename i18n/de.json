@@ -871,6 +871,7 @@
   "page.external.edit.members.pendingInvitations": "Ausstehende Einladungen",
   "page.external.edit.members.cancelInvitation": "Einladung zurückziehen",
   "page.external.edit.members.invitedBy": "Eingeladen von {name}",
+  "page.external.edit.members.invitationDates": "Eingeladen am {invitedAt} (gültig bis {expiresAt})",
   "page.external.edit.coverImage": "Titelbild",
   "page.external.edit.coverImage.change": "Bild ändern",
   "page.external.edit.coverImage.remove": "Bild entfernen",

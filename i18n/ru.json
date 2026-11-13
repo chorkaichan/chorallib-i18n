@@ -871,6 +871,7 @@
   "page.external.edit.members.pendingInvitations": "Ожидающие приглашения",
   "page.external.edit.members.cancelInvitation": "Отменить приглашение",
   "page.external.edit.members.invitedBy": "Приглашён: {name}",
+  "page.external.edit.members.invitationDates": "Приглашение отправлено {invitedAt} (действует до {expiresAt})",
   "page.external.edit.coverImage": "Обложка",
   "page.external.edit.coverImage.change": "Изменить изображение",
   "page.external.edit.coverImage.remove": "Удалить изображение",

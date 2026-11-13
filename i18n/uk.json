@@ -871,6 +871,7 @@
   "page.external.edit.members.pendingInvitations": "Очікувані запрошення",
   "page.external.edit.members.cancelInvitation": "Скасувати запрошення",
   "page.external.edit.members.invitedBy": "Запросив: {name}",
+  "page.external.edit.members.invitationDates": "Запрошення надіслано {invitedAt} (дійсне до {expiresAt})",
   "page.external.edit.coverImage": "Обкладинка",
   "page.external.edit.coverImage.change": "Змінити зображення",
   "page.external.edit.coverImage.remove": "Видалити зображення",

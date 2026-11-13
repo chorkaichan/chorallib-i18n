@@ -871,6 +871,7 @@
   "page.external.edit.members.pendingInvitations": "보류 중인 초대",
   "page.external.edit.members.cancelInvitation": "초대 취소",
   "page.external.edit.members.invitedBy": "{name}님이 초대",
+  "page.external.edit.members.invitationDates": "{invitedAt}에 초대함 ({expiresAt}까지 유효)",
   "page.external.edit.coverImage": "커버 이미지",
   "page.external.edit.coverImage.change": "이미지 변경",
   "page.external.edit.coverImage.remove": "이미지 제거",

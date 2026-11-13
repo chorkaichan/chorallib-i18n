@@ -871,6 +871,7 @@
   "page.external.edit.members.pendingInvitations": "待处理的邀请",
   "page.external.edit.members.cancelInvitation": "取消邀请",
   "page.external.edit.members.invitedBy": "由 {name} 邀请",
+  "page.external.edit.members.invitationDates": "{invitedAt} 发出邀请（有效期至 {expiresAt}）",
   "page.external.edit.coverImage": "封面图片",
   "page.external.edit.coverImage.change": "更换图片",
   "page.external.edit.coverImage.remove": "移除图片",
