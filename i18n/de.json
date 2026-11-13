@@ -1179,7 +1179,7 @@
   "invite.alreadyAccepted": "Diese Einladung wurde bereits angenommen",
   "invite.notFound": "Einladung nicht gefunden",
   "invite.invitedEmail": "Eingeladene E-Mail-Adresse",
-  "invite.loginHint": "Wir senden einen Anmeldecode an diese Adresse. Falls du noch kein Konto hast, wird automatisch eines erstellt.",
+  "invite.loginHint": "Wir senden einen Anmeldecode an die E-Mail-Adresse, an die diese Einladung gesendet wurde. Falls du noch kein Konto hast, wird automatisch eines erstellt.",
   "invite.sendCode": "Anmeldecode senden",
   "invite.emailMismatch": "Du bist als {current} angemeldet. Diese Adresse stimmt nicht mit der eingeladenen überein, daher kannst du die Einladung nicht annehmen. Bitte melde dich mit der eingeladenen E-Mail-Adresse erneut an.",
   "invite.switchAccount": "Mit einem anderen Konto anmelden",

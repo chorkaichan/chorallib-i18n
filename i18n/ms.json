@@ -1179,7 +1179,7 @@
   "invite.alreadyAccepted": "Jemputan ini sudah diterima",
   "invite.notFound": "Jemputan tidak ditemui",
   "invite.invitedEmail": "E-mel yang dijemput",
-  "invite.loginHint": "Kami akan menghantar kod log masuk ke alamat ini. Jika anda belum mempunyai akaun, akaun akan dicipta secara automatik.",
+  "invite.loginHint": "Kami akan menghantar kod log masuk ke alamat e-mel yang menerima jemputan ini. Jika anda belum mempunyai akaun, akaun akan dicipta secara automatik.",
   "invite.sendCode": "Hantar kod log masuk",
   "invite.emailMismatch": "Anda log masuk sebagai {current}, yang tidak sepadan dengan alamat yang dijemput, jadi anda tidak boleh menerima jemputan ini. Sila log masuk semula dengan alamat e-mel yang dijemput.",
   "invite.switchAccount": "Log masuk dengan akaun lain",

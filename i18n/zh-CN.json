@@ -1179,7 +1179,7 @@
   "invite.alreadyAccepted": "此邀请已被接受",
   "invite.notFound": "未找到邀请",
   "invite.invitedEmail": "受邀邮箱",
-  "invite.loginHint": "我们将向该邮箱发送登录验证码。如果你还没有账号，将自动为你创建。",
+  "invite.loginHint": "我们将向收到此邀请的邮箱发送登录验证码。如果你还没有账号，将自动为你创建。",
   "invite.sendCode": "发送登录验证码",
   "invite.emailMismatch": "当前登录的账号（{current}）与受邀邮箱不一致，无法接受此邀请。请使用受邀邮箱重新登录。",
   "invite.switchAccount": "使用其他账号登录",

@@ -1179,7 +1179,7 @@
   "invite.alreadyAccepted": "Cette invitation a déjà été acceptée",
   "invite.notFound": "Invitation non trouvée",
   "invite.invitedEmail": "Adresse e-mail invitée",
-  "invite.loginHint": "Nous enverrons un code de connexion à cette adresse. Si vous n'avez pas encore de compte, il sera créé automatiquement.",
+  "invite.loginHint": "Nous enverrons un code de connexion à l'adresse e-mail qui a reçu cette invitation. Si vous n'avez pas encore de compte, il sera créé automatiquement.",
   "invite.sendCode": "Envoyer le code de connexion",
   "invite.emailMismatch": "Vous êtes connecté en tant que {current}, qui ne correspond pas à l'adresse invitée : vous ne pouvez pas accepter cette invitation. Veuillez vous reconnecter avec l'adresse e-mail invitée.",
   "invite.switchAccount": "Se connecter avec un autre compte",

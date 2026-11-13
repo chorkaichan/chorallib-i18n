@@ -1179,7 +1179,7 @@
   "invite.alreadyAccepted": "此邀請已被接受",
   "invite.notFound": "找不到邀請",
   "invite.invitedEmail": "受邀的電子郵件",
-  "invite.loginHint": "我們會將登入驗證碼寄送至此電子郵件。如果你還沒有帳號，將自動為你建立。",
+  "invite.loginHint": "我們會將登入驗證碼寄送至收到此邀請的電子郵件。如果你還沒有帳號，將自動為你建立。",
   "invite.sendCode": "傳送登入驗證碼",
   "invite.emailMismatch": "目前登入的帳號（{current}）與受邀的電子郵件不一致，無法接受此邀請。請使用受邀的電子郵件重新登入。",
   "invite.switchAccount": "使用其他帳號登入",

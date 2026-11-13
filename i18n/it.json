@@ -1179,7 +1179,7 @@
   "invite.alreadyAccepted": "Questo invito è già stato accettato",
   "invite.notFound": "Invito non trovato",
   "invite.invitedEmail": "Email invitata",
-  "invite.loginHint": "Invieremo un codice di accesso a questo indirizzo. Se non hai ancora un account, verrà creato automaticamente.",
+  "invite.loginHint": "Invieremo un codice di accesso all'indirizzo email che ha ricevuto questo invito. Se non hai ancora un account, verrà creato automaticamente.",
   "invite.sendCode": "Invia codice di accesso",
   "invite.emailMismatch": "Hai effettuato l'accesso come {current}, che non corrisponde all'indirizzo invitato, quindi non puoi accettare questo invito. Accedi di nuovo con l'indirizzo email invitato.",
   "invite.switchAccount": "Accedi con un altro account",

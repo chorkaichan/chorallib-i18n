@@ -1179,7 +1179,7 @@
   "invite.alreadyAccepted": "Undangan ini sudah diterima",
   "invite.notFound": "Undangan tidak ditemukan",
   "invite.invitedEmail": "Email yang diundang",
-  "invite.loginHint": "Kami akan mengirimkan kode masuk ke alamat ini. Jika Anda belum memiliki akun, akun akan dibuat secara otomatis.",
+  "invite.loginHint": "Kami akan mengirimkan kode masuk ke alamat email yang menerima undangan ini. Jika Anda belum memiliki akun, akun akan dibuat secara otomatis.",
   "invite.sendCode": "Kirim kode masuk",
   "invite.emailMismatch": "Anda masuk sebagai {current}, yang tidak cocok dengan alamat yang diundang, sehingga Anda tidak dapat menerima undangan ini. Silakan masuk kembali dengan alamat email yang diundang.",
   "invite.switchAccount": "Masuk dengan akun lain",

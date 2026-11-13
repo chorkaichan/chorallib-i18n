@@ -1179,7 +1179,7 @@
   "invite.alreadyAccepted": "この招待は既に承認されています",
   "invite.notFound": "招待が見つかりませんでした",
   "invite.invitedEmail": "招待先",
-  "invite.loginHint": "このメールアドレスにログインコードを送信します。アカウントをお持ちでない場合は、自動で作成されます。",
+  "invite.loginHint": "招待を受け取ったメールアドレスにログインコードを送信します。アカウントをお持ちでない場合は、自動で作成されます。",
   "invite.sendCode": "ログインコードを送信",
   "invite.emailMismatch": "ログイン中のアカウント（{current}）は招待先と異なるため、承認できません。招待先のメールアドレスでログインし直してください。",
   "invite.switchAccount": "別のアカウントでログイン",

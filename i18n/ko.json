@@ -1179,7 +1179,7 @@
   "invite.alreadyAccepted": "이 초대는 이미 수락되었습니다",
   "invite.notFound": "초대를 찾을 수 없습니다",
   "invite.invitedEmail": "초대받은 이메일",
-  "invite.loginHint": "이 주소로 로그인 코드를 보냅니다. 계정이 없으면 자동으로 만들어집니다.",
+  "invite.loginHint": "이 초대를 받은 이메일 주소로 로그인 코드를 보냅니다. 계정이 없으면 자동으로 만들어집니다.",
   "invite.sendCode": "로그인 코드 보내기",
   "invite.emailMismatch": "현재 {current}(으)로 로그인되어 있어 초대받은 주소와 달라 수락할 수 없습니다. 초대받은 이메일 주소로 다시 로그인해 주세요.",
   "invite.switchAccount": "다른 계정으로 로그인",

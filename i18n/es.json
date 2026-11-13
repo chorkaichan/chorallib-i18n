@@ -1179,7 +1179,7 @@
   "invite.alreadyAccepted": "Esta invitación ya ha sido aceptada",
   "invite.notFound": "Invitación no encontrada",
   "invite.invitedEmail": "Correo invitado",
-  "invite.loginHint": "Enviaremos un código de inicio de sesión a esta dirección. Si aún no tienes una cuenta, se creará automáticamente.",
+  "invite.loginHint": "Enviaremos un código de inicio de sesión a la dirección de correo que recibió esta invitación. Si aún no tienes una cuenta, se creará automáticamente.",
   "invite.sendCode": "Enviar código de inicio de sesión",
   "invite.emailMismatch": "Has iniciado sesión como {current}, que no coincide con la dirección invitada, por lo que no puedes aceptar esta invitación. Vuelve a iniciar sesión con la dirección de correo invitada.",
   "invite.switchAccount": "Iniciar sesión con otra cuenta",

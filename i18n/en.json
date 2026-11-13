@@ -1179,7 +1179,7 @@
   "invite.alreadyAccepted": "This invitation has already been accepted",
   "invite.notFound": "Invitation not found",
   "invite.invitedEmail": "Invited email",
-  "invite.loginHint": "We'll send a login code to this address. If you don't have an account yet, one will be created automatically.",
+  "invite.loginHint": "We'll send a login code to the email address that received this invitation. If you don't have an account yet, one will be created automatically.",
   "invite.sendCode": "Send login code",
   "invite.emailMismatch": "You're logged in as {current}, which doesn't match the invited address, so you can't accept this invitation. Please log in again with the invited email address.",
   "invite.switchAccount": "Log in with a different account",
