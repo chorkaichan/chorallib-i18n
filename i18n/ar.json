@@ -1843,6 +1843,7 @@
   "tickets.purchase.payment": "طريقة الدفع",
   "tickets.purchase.payment.withBankTransfer": "بطاقة الائتمان وApple Pay وGoogle Pay وغيرها، أو PayPay، أو التحويل المصرفي. التحويل المصرفي متاح فقط للطلبات المقدمة حتى {date}، أي قبل الفعالية بـ {days} أيام.",
   "tickets.purchase.payment.bankTransferClosed": "بطاقة الائتمان وApple Pay وGoogle Pay وغيرها، أو PayPay. انتهى قبول التحويل المصرفي، إذ يُقبل فقط للطلبات المقدمة قبل الفعالية بـ {days} أيام على الأقل.",
+  "tickets.purchase.payment.shortHold": "ينتهي البيع قريبًا، لذلك تُحجز تذاكرك لمدة {minutes} دقائق فقط بعد بدء الدفع. يُرجى إتمام الدفع خلال {minutes} دقائق. إذا دفعت بعد مرور {minutes} دقائق، فسيُرد المبلغ كاملًا تلقائيًا.",
   "tickets.types.bankTransferNote": "يمكن للمشترين من داخل اليابان اختيار التحويل المصرفي حتى {date}، أي قبل الفعالية بـ {days} أيام. بعد ذلك يكون الدفع ببطاقة الائتمان وApple Pay وGoogle Pay وغيرها.",
   "tickets.tabs.coupons": "القسائم",
   "tickets.purchase.coupon.label": "رمز القسيمة",

@@ -1843,6 +1843,7 @@
   "tickets.purchase.payment": "Pembayaran",
   "tickets.purchase.payment.withBankTransfer": "Kartu kredit, Apple Pay, Google Pay, dll., PayPay, atau transfer bank. Transfer bank hanya tersedia untuk pesanan yang dibuat sampai {date}, {days} hari sebelum acara.",
   "tickets.purchase.payment.bankTransferClosed": "Kartu kredit, Apple Pay, Google Pay, dll., atau PayPay. Transfer bank sudah tidak diterima, karena hanya tersedia untuk pesanan yang dibuat paling lambat {days} hari sebelum acara.",
+  "tickets.purchase.payment.shortHold": "Penjualan segera berakhir, jadi tiket Anda hanya ditahan selama {minutes} menit setelah Anda mulai checkout. Selesaikan pembayaran dalam {minutes} menit. Jika Anda membayar setelah {minutes} menit, seluruh jumlah akan dikembalikan secara otomatis.",
   "tickets.types.bankTransferNote": "Pembeli di Jepang dapat memilih transfer bank sampai {date}, {days} hari sebelum acara. Setelah itu, pembayaran dilakukan dengan kartu kredit, Apple Pay, Google Pay, dll.",
   "tickets.tabs.coupons": "Kupon",
   "tickets.purchase.coupon.label": "Kode kupon",

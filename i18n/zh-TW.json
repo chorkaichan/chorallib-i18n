@@ -1843,6 +1843,7 @@
   "tickets.purchase.payment": "付款方式",
   "tickets.purchase.payment.withBankTransfer": "信用卡、Apple Pay、Google Pay 等、PayPay，或銀行轉帳。銀行轉帳僅限 {date} 之前下單（演出 {days} 天前為止）。",
   "tickets.purchase.payment.bankTransferClosed": "信用卡、Apple Pay、Google Pay 等，或 PayPay。銀行轉帳僅限於演出 {days} 天前下單，現已停止受理。",
+  "tickets.purchase.payment.shortHold": "銷售即將結束，開始結帳後票券僅保留 {minutes} 分鐘。請在 {minutes} 分鐘內完成付款。超過 {minutes} 分鐘後付款者，將自動全額退款。",
   "tickets.types.bankTransferNote": "日本國內的購買者可在 {date} 之前選擇銀行轉帳（演出 {days} 天前為止）。之後需使用信用卡、Apple Pay、Google Pay 等付款。",
   "tickets.tabs.coupons": "優惠券",
   "tickets.purchase.coupon.label": "優惠碼",

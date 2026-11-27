@@ -1843,6 +1843,7 @@
   "tickets.purchase.payment": "Pagamento",
   "tickets.purchase.payment.withBankTransfer": "Carta di credito, Apple Pay, Google Pay, ecc., PayPay oppure bonifico bancario. Il bonifico bancario è disponibile solo per ordini effettuati entro il {date}, {days} giorni prima dell'evento.",
   "tickets.purchase.payment.bankTransferClosed": "Carta di credito, Apple Pay, Google Pay, ecc., oppure PayPay. Il bonifico bancario non è più disponibile, perché è accettato solo per ordini effettuati almeno {days} giorni prima dell'evento.",
+  "tickets.purchase.payment.shortHold": "La vendita termina a breve, quindi i biglietti vengono riservati solo per {minutes} minuti dall'inizio del pagamento. Completa il pagamento entro {minutes} minuti. Se paghi dopo {minutes} minuti, l'intero importo verrà rimborsato automaticamente.",
   "tickets.types.bankTransferNote": "Gli acquirenti in Giappone possono scegliere il bonifico bancario fino al {date}, {days} giorni prima dell'evento. Dopo, pagano con carta di credito, Apple Pay, Google Pay, ecc.",
   "tickets.tabs.coupons": "Coupon",
   "tickets.purchase.coupon.label": "Codice coupon",
