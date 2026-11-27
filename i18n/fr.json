@@ -1843,6 +1843,7 @@
   "tickets.purchase.payment": "Paiement",
   "tickets.purchase.payment.withBankTransfer": "Carte bancaire, Apple Pay, Google Pay, etc., PayPay ou virement bancaire. Le virement bancaire n'est possible que pour les commandes passées jusqu'au {date}, {days} jours avant l'événement.",
   "tickets.purchase.payment.bankTransferClosed": "Carte bancaire, Apple Pay, Google Pay, etc., ou PayPay. Le virement bancaire n'est plus accepté, car il n'est possible que pour les commandes passées au moins {days} jours avant l'événement.",
+  "tickets.purchase.payment.shortHold": "La vente se termine bientôt : vos billets ne sont réservés que pendant {minutes} minutes après le début du paiement. Veuillez finaliser le paiement dans les {minutes} minutes. Si vous payez après {minutes} minutes, le montant total vous sera remboursé automatiquement.",
   "tickets.types.bankTransferNote": "Les acheteurs au Japon peuvent choisir le virement bancaire jusqu'au {date}, {days} jours avant l'événement. Ensuite, ils paient par carte bancaire, Apple Pay, Google Pay, etc.",
   "tickets.tabs.coupons": "Codes promo",
   "tickets.purchase.coupon.label": "Code promo",

@@ -1843,6 +1843,7 @@
   "tickets.purchase.payment": "Payment",
   "tickets.purchase.payment.withBankTransfer": "Credit card, Apple Pay, Google Pay, etc., PayPay, or bank transfer. Bank transfer is available only for orders placed by {date}, {days} days before the event.",
   "tickets.purchase.payment.bankTransferClosed": "Credit card, Apple Pay, Google Pay, etc., or PayPay. Bank transfer is no longer available, as it is accepted only for orders placed at least {days} days before the event.",
+  "tickets.purchase.payment.shortHold": "Sales end soon, so your tickets are held for only {minutes} minutes after you start checkout. Please complete payment within {minutes} minutes. If you pay after {minutes} minutes, the full amount will be refunded automatically.",
   "tickets.types.bankTransferNote": "Buyers in Japan can choose bank transfer until {date}, {days} days before the event. After that, they pay by credit card, Apple Pay, Google Pay, etc.",
   "tickets.tabs.coupons": "Coupons",
   "tickets.purchase.coupon.label": "Coupon code",

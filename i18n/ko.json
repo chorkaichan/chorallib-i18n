@@ -1843,6 +1843,7 @@
   "tickets.purchase.payment": "결제 방법",
   "tickets.purchase.payment.withBankTransfer": "신용카드·Apple Pay·Google Pay 등, PayPay 또는 계좌 이체. 계좌 이체는 {date}까지 신청한 경우에만 가능합니다(공연 {days}일 전까지).",
   "tickets.purchase.payment.bankTransferClosed": "신용카드·Apple Pay·Google Pay 등 또는 PayPay. 계좌 이체는 공연 {days}일 전까지 신청한 경우에만 가능하므로 접수가 마감되었습니다.",
+  "tickets.purchase.payment.shortHold": "판매 종료가 가까워 결제를 시작한 후 {minutes}분 동안만 티켓이 확보됩니다. {minutes}분 안에 결제를 완료해 주세요. {minutes}분이 지난 후에 결제하면 전액이 자동으로 환불됩니다.",
   "tickets.types.bankTransferNote": "일본 국내 구매자는 {date}까지 계좌 이체를 선택할 수 있습니다(공연 {days}일 전까지). 그 이후에는 신용카드·Apple Pay·Google Pay 등으로 결제합니다.",
   "tickets.tabs.coupons": "쿠폰",
   "tickets.purchase.coupon.label": "쿠폰 코드",

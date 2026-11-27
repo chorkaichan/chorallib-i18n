@@ -1843,6 +1843,7 @@
   "tickets.purchase.payment": "お支払い方法",
   "tickets.purchase.payment.withBankTransfer": "クレジットカード・Apple Pay・Google Pay など、PayPay、または銀行振込。銀行振込は {date}までのお申し込みに限ります（開演の {days} 日前まで）。",
   "tickets.purchase.payment.bankTransferClosed": "クレジットカード・Apple Pay・Google Pay など、または PayPay。銀行振込は開演の {days} 日前までのお申し込みに限るため、受付を終了しました。",
+  "tickets.purchase.payment.shortHold": "販売の終了が近いため、チケットの押さえは購入の手続きを始めてから {minutes} 分で外れます。{minutes} 分以内に支払いを済ませてください。{minutes} 分を過ぎてから支払った場合は、全額を自動で返金します。",
   "tickets.types.bankTransferNote": "日本国内からの購入者は、{date}まで銀行振込を選べます（開演の {days} 日前まで）。それより後は、クレジットカード・Apple Pay・Google Pay などでのお支払いになります。",
   "tickets.tabs.coupons": "クーポン",
   "tickets.purchase.coupon.label": "クーポンコード",

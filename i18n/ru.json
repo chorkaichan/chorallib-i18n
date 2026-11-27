@@ -1843,6 +1843,7 @@
   "tickets.purchase.payment": "Оплата",
   "tickets.purchase.payment.withBankTransfer": "Банковская карта, Apple Pay, Google Pay и др., PayPay или банковский перевод. Банковский перевод доступен только для заказов, оформленных до {date}, за {days} дней до мероприятия.",
   "tickets.purchase.payment.bankTransferClosed": "Банковская карта, Apple Pay, Google Pay и др. или PayPay. Банковский перевод больше не принимается: он доступен только для заказов, оформленных не позднее чем за {days} дней до мероприятия.",
+  "tickets.purchase.payment.shortHold": "Продажа скоро завершится, поэтому билеты резервируются только на {minutes} минут после начала оформления. Пожалуйста, завершите оплату в течение {minutes} минут. Если вы оплатите позже, вся сумма будет автоматически возвращена.",
   "tickets.types.bankTransferNote": "Покупатели из Японии могут выбрать банковский перевод до {date}, за {days} дней до мероприятия. После этого оплата — банковской картой, Apple Pay, Google Pay и др.",
   "tickets.tabs.coupons": "Промокоды",
   "tickets.purchase.coupon.label": "Промокод",
